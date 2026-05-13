@@ -1,0 +1,1872 @@
+{
+  "id": "ied_pais",
+  "titulo": "Inversión Extranjera Directa por país",
+  "titulo_corto": "IED por país",
+  "fuente": "BCRD",
+  "fuente_url": "https://www.bancentral.gov.do/",
+  "categoria": "Internacional",
+  "frecuencia": "Anual",
+  "unidad": "Millones de US$",
+  "descripcion": "Flujos históricos de IED por país de origen.",
+  "metodologia": "Archivo histórico anual normalizado a formato long: país de origen, año y valor.",
+  "primera_obs": "1993",
+  "ultima_obs": "2013",
+  "n_observaciones": 21,
+  "n_observaciones_total": 366,
+  "series_disponibles": [
+    "Alemania *",
+    "Australia*",
+    "Brasil*",
+    "Canadá",
+    "Colombia *",
+    "Dinamarca *",
+    "El Salvador*",
+    "España",
+    "Estados Unidos",
+    "Francia",
+    "Gran Caimán",
+    "Holanda",
+    "Islas Vírgenes BR*",
+    "Italia",
+    "México",
+    "Panamá *",
+    "Reino Unido",
+    "Resto",
+    "Suiza",
+    "Total Flujos IED",
+    "Venezuela *"
+  ],
+  "observaciones": [
+    {
+      "fecha": "1993-12-31",
+      "serie": "España",
+      "valor": 68.6
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "España",
+      "valor": 16.2
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "España",
+      "valor": 60.8
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "España",
+      "valor": 61.2
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "España",
+      "valor": 52.4
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "España",
+      "valor": 205.6
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "España",
+      "valor": 457.1
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "España",
+      "valor": 190.1
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "España",
+      "valor": 193.387612
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "España",
+      "valor": 34.992693
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "España",
+      "valor": -13.3
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "España",
+      "valor": 126.6
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "España",
+      "valor": 214.5
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "España",
+      "valor": 307.6
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "España",
+      "valor": 604.6
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "España",
+      "valor": 180.9
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "España",
+      "valor": 150.8
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "España",
+      "valor": 299.3
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "España",
+      "valor": 192.4
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "España",
+      "valor": 120.6
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "España",
+      "valor": 17.716137
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Estados Unidos",
+      "valor": 23.4
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Estados Unidos",
+      "valor": 45.0
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "Estados Unidos",
+      "valor": 64.3
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "Estados Unidos",
+      "valor": 44.9
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "Estados Unidos",
+      "valor": 157.8
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "Estados Unidos",
+      "valor": 180.4
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "Estados Unidos",
+      "valor": 181.2
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Estados Unidos",
+      "valor": 201.6
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Estados Unidos",
+      "valor": 433.460736
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Estados Unidos",
+      "valor": 382.10829
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Estados Unidos",
+      "valor": 461.6
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Estados Unidos",
+      "valor": 176.6
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Estados Unidos",
+      "valor": 457.1
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Estados Unidos",
+      "valor": 662.1
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Estados Unidos",
+      "valor": 535.5
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Estados Unidos",
+      "valor": 359.9
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Estados Unidos",
+      "valor": 455.3
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Estados Unidos",
+      "valor": 893.8
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Estados Unidos",
+      "valor": 459.1
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Estados Unidos",
+      "valor": 579.7
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Estados Unidos",
+      "valor": 289.265703
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Canadá",
+      "valor": 71.2
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Canadá",
+      "valor": 107.0
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "Canadá",
+      "valor": 239.7
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "Canadá",
+      "valor": -23.3
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "Canadá",
+      "valor": 199.0
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "Canadá",
+      "valor": 127.8
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "Canadá",
+      "valor": 94.8
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Canadá",
+      "valor": 133.2
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Canadá",
+      "valor": 10.173837
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Canadá",
+      "valor": 18.37551
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Canadá",
+      "valor": -22.7
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Canadá",
+      "valor": 274.2
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Canadá",
+      "valor": 110.7
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Canadá",
+      "valor": 142.4
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Canadá",
+      "valor": 113.2
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Canadá",
+      "valor": 383.3
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Canadá",
+      "valor": 773.3
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Canadá",
+      "valor": 663.2
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Canadá",
+      "valor": 1067.2
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Canadá",
+      "valor": 850.3
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Canadá",
+      "valor": 156.268302
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Gran Caimán",
+      "valor": 1.1
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Gran Caimán",
+      "valor": 4.7
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "Gran Caimán",
+      "valor": 4.2
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "Gran Caimán",
+      "valor": 1.6
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "Gran Caimán",
+      "valor": 45.6
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "Gran Caimán",
+      "valor": 45.5
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "Gran Caimán",
+      "valor": 179.2
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Gran Caimán",
+      "valor": 37.0
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Gran Caimán",
+      "valor": 0.1
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Gran Caimán",
+      "valor": -13.679594
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Gran Caimán",
+      "valor": -9.1
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Gran Caimán",
+      "valor": -62.8
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Gran Caimán",
+      "valor": -58.7
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Gran Caimán",
+      "valor": -40.8
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Gran Caimán",
+      "valor": 4.4
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Gran Caimán",
+      "valor": 1.0
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Gran Caimán",
+      "valor": -44.4
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Gran Caimán",
+      "valor": 35.3
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Gran Caimán",
+      "valor": 65.5
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Gran Caimán",
+      "valor": 83.9
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Gran Caimán",
+      "valor": 9.343655
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Reino Unido",
+      "valor": 5.4
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Reino Unido",
+      "valor": 7.3
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "Reino Unido",
+      "valor": 5.9
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "Reino Unido",
+      "valor": 5.2
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "Reino Unido",
+      "valor": 41.4
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "Reino Unido",
+      "valor": 22.9
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "Reino Unido",
+      "valor": 75.7
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Reino Unido",
+      "valor": 17.4
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Reino Unido",
+      "valor": 1.95832
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Reino Unido",
+      "valor": -0.162389
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Reino Unido",
+      "valor": -25.2
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Reino Unido",
+      "valor": 21.4
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Reino Unido",
+      "valor": 94.8
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Reino Unido",
+      "valor": 55.4
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Reino Unido",
+      "valor": 60.1
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Reino Unido",
+      "valor": 590.8
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Reino Unido",
+      "valor": -2.9
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Reino Unido",
+      "valor": -6.1
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Reino Unido",
+      "valor": -5.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Reino Unido",
+      "valor": 25.1
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Reino Unido",
+      "valor": 24.20413
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Suiza",
+      "valor": 14.5
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Suiza",
+      "valor": 20.4
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "Suiza",
+      "valor": 14.8
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "Suiza",
+      "valor": 12.9
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "Suiza",
+      "valor": 14.7
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "Suiza",
+      "valor": 7.7
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "Suiza",
+      "valor": 16.5
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Suiza",
+      "valor": 14.0
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Suiza",
+      "valor": 2.015913
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Suiza",
+      "valor": 4.0
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Suiza",
+      "valor": 5.8
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Suiza",
+      "valor": 18.2
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Suiza",
+      "valor": 48.1
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Suiza",
+      "valor": -359.1
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Suiza",
+      "valor": -14.1
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Suiza",
+      "valor": 30.9
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Suiza",
+      "valor": 3.1
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Suiza",
+      "valor": -0.7
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Suiza",
+      "valor": 5.8
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Suiza",
+      "valor": 0.5
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Suiza",
+      "valor": 1.433148
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Holanda",
+      "valor": 0.0
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Holanda",
+      "valor": 0.0
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "Holanda",
+      "valor": 61.5
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Holanda",
+      "valor": 36.0
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Holanda",
+      "valor": 245.193533
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Holanda",
+      "valor": 119.409822
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Holanda",
+      "valor": 25.1
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Holanda",
+      "valor": 4.5
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Holanda",
+      "valor": 41.3
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Holanda",
+      "valor": 41.1
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Holanda",
+      "valor": 53.6
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Holanda",
+      "valor": -72.9
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Holanda",
+      "valor": 96.0
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Holanda",
+      "valor": 62.1
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Holanda",
+      "valor": 62.9
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Holanda",
+      "valor": 8.6
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Holanda",
+      "valor": 82.691054
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Italia",
+      "valor": 4.5
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "Italia",
+      "valor": 0.3
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "Italia",
+      "valor": 33.1
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "Italia",
+      "valor": 13.9
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Italia",
+      "valor": 15.5
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Italia",
+      "valor": 0.735003
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Italia",
+      "valor": 4.962659
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Italia",
+      "valor": 5.1
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Italia",
+      "valor": 39.1
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Italia",
+      "valor": 0.1
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Italia",
+      "valor": 2.8
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Italia",
+      "valor": 32.0
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Italia",
+      "valor": 10.7
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Italia",
+      "valor": 15.8
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Italia",
+      "valor": 7.6
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Italia",
+      "valor": 1.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Italia",
+      "valor": 1.4
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Italia",
+      "valor": -0.761286
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Francia",
+      "valor": 0.0
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Francia",
+      "valor": 0.0
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "Francia",
+      "valor": 34.4
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Francia",
+      "valor": 97.5
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Francia",
+      "valor": 60.6
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Francia",
+      "valor": 109.6
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Francia",
+      "valor": 33.0
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Francia",
+      "valor": 85.3
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Francia",
+      "valor": 80.9
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Francia",
+      "valor": 35.8
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Francia",
+      "valor": 110.2
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Francia",
+      "valor": 87.8
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Francia",
+      "valor": 69.6
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Francia",
+      "valor": 26.3
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Francia",
+      "valor": 23.4
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Francia",
+      "valor": -1.4
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Francia",
+      "valor": 48.10492
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "México",
+      "valor": 0.0
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "México",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "México",
+      "valor": 37.8
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "México",
+      "valor": 6.2
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "México",
+      "valor": 18.8
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "México",
+      "valor": 52.7
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "México",
+      "valor": -1.3
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "México",
+      "valor": 83.5
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "México",
+      "valor": -123.8
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "México",
+      "valor": 1055.2
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "México",
+      "valor": 273.2
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "México",
+      "valor": 369.2
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "México",
+      "valor": 72.9
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "México",
+      "valor": -361.7
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "México",
+      "valor": 5.502319
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Dinamarca *",
+      "valor": 0.0
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Dinamarca *",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Dinamarca *",
+      "valor": 11.5
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Dinamarca *",
+      "valor": 2.4
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Dinamarca *",
+      "valor": 8.1
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Dinamarca *",
+      "valor": 8.3
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Dinamarca *",
+      "valor": 8.6
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Dinamarca *",
+      "valor": 10.6
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Dinamarca *",
+      "valor": 3.6
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Dinamarca *",
+      "valor": 0.515685
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Alemania *",
+      "valor": 0.0
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Alemania *",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Alemania *",
+      "valor": 29.3
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Alemania *",
+      "valor": 3.4
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Alemania *",
+      "valor": 36.3
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Alemania *",
+      "valor": 2.3
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Alemania *",
+      "valor": 4.1
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Alemania *",
+      "valor": 5.1
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Alemania *",
+      "valor": 10.1
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Alemania *",
+      "valor": 4.0
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Alemania *",
+      "valor": 6.6
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Alemania *",
+      "valor": 3.5
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Alemania *",
+      "valor": 4.7
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Alemania *",
+      "valor": 1.8
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Alemania *",
+      "valor": 2.6
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Alemania *",
+      "valor": 1.320101
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Panamá *",
+      "valor": 0.0
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Panamá *",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Panamá *",
+      "valor": 16.8
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Panamá *",
+      "valor": 7.1
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Panamá *",
+      "valor": 8.7
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Panamá *",
+      "valor": 31.4
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Panamá *",
+      "valor": 17.5
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Panamá *",
+      "valor": 15.5
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Panamá *",
+      "valor": 9.9
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Panamá *",
+      "valor": 39.9
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Panamá *",
+      "valor": 33.5
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Panamá *",
+      "valor": 162.4
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Panamá *",
+      "valor": 38.0
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Panamá *",
+      "valor": 65.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Panamá *",
+      "valor": 16.9
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Panamá *",
+      "valor": 0.832896
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 7.2
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 20.2
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 23.5
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 19.5
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 48.7
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": -4.4
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 42.7
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 21.4
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 59.3
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 23.1
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 30.2
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 50.1
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 31.1
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Islas Vírgenes BR*",
+      "valor": 47.234395
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Venezuela *",
+      "valor": 0.0
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Venezuela *",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Venezuela *",
+      "valor": 7.5
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Venezuela *",
+      "valor": 0.1
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Venezuela *",
+      "valor": -5.5
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Venezuela *",
+      "valor": 4.4
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Venezuela *",
+      "valor": 6.2
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Venezuela *",
+      "valor": 16.5
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Venezuela *",
+      "valor": 52.5
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Venezuela *",
+      "valor": 10.9
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Venezuela *",
+      "valor": 31.1
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Venezuela *",
+      "valor": 140.4
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Venezuela *",
+      "valor": 1.7
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Venezuela *",
+      "valor": 55.5
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Venezuela *",
+      "valor": 53.439972
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Colombia *",
+      "valor": 0.0
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Colombia *",
+      "valor": 0.0
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "Colombia *",
+      "valor": 0.8
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Colombia *",
+      "valor": 1.0
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Colombia *",
+      "valor": 22.6
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Colombia *",
+      "valor": 17.7
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Colombia *",
+      "valor": 34.8
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Colombia *",
+      "valor": 10.7
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Colombia *",
+      "valor": 3.3
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Colombia *",
+      "valor": 3.6
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Colombia *",
+      "valor": -0.3
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Colombia *",
+      "valor": 3.7
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Colombia *",
+      "valor": 4.9
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Colombia *",
+      "valor": 46.3
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Colombia *",
+      "valor": 0.3
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Colombia *",
+      "valor": 36.562995
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Brasil*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Brasil*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Brasil*",
+      "valor": 0.02
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Brasil*",
+      "valor": 0.031
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Brasil*",
+      "valor": 1.6
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Brasil*",
+      "valor": 39.6
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Brasil*",
+      "valor": 12.4
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Brasil*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Brasil*",
+      "valor": 59.9
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Brasil*",
+      "valor": 53.5
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Brasil*",
+      "valor": 85.2
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Brasil*",
+      "valor": 15.5
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Brasil*",
+      "valor": 2.1
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Brasil*",
+      "valor": 1029.0
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Brasil*",
+      "valor": 30.61524
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "El Salvador*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "El Salvador*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "El Salvador*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "El Salvador*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "El Salvador*",
+      "valor": 2.3
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "El Salvador*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "El Salvador*",
+      "valor": 1.7
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "El Salvador*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "El Salvador*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "El Salvador*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "El Salvador*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "El Salvador*",
+      "valor": 146.3
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "El Salvador*",
+      "valor": 80.0
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Australia*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Australia*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Australia*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Australia*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Australia*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Australia*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Australia*",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Australia*",
+      "valor": 0.5
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Australia*",
+      "valor": 5.6
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Australia*",
+      "valor": 30.8
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Australia*",
+      "valor": 28.5
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Australia*",
+      "valor": 30.7
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Australia*",
+      "valor": -22.2
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Australia*",
+      "valor": -3.580748
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Resto",
+      "valor": 0.6
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Resto",
+      "valor": 6.2
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "Resto",
+      "valor": 24.6
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "Resto",
+      "valor": -6.0
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "Resto",
+      "valor": -90.6
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "Resto",
+      "valor": 76.8
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "Resto",
+      "valor": 222.7
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Resto",
+      "valor": 157.3
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Resto",
+      "valor": 54.493916
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Resto",
+      "valor": 159.8
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Resto",
+      "valor": 66.9
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Resto",
+      "valor": 24.1
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Resto",
+      "valor": 87.4
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Resto",
+      "valor": 59.8
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Resto",
+      "valor": 105.8
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Resto",
+      "valor": 65.2
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Resto",
+      "valor": 27.5
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Resto",
+      "valor": -724.5
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Resto",
+      "valor": 121.5
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Resto",
+      "valor": 572.3
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Resto",
+      "valor": 1109.791382
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 189.3
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 206.8
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 414.3
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 96.5
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 420.6
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 699.8
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 1337.8
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 952.9
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 1079.138869
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 916.83799
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 613.0
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 909.0
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 1122.7
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 1084.6
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 1667.4
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 2870.0
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 2165.4
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 1896.3
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 2275.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 3142.4
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Total Flujos IED",
+      "valor": 1990.5
+    }
+  ],
+  "csv_download": "data/csv/inversion_extranjera_directa_por_pais_anual.csv"
+}

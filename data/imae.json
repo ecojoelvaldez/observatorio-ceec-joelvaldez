@@ -1,0 +1,1001 @@
+{
+  "id": "imae",
+  "titulo": "Índice Mensual de Actividad Económica",
+  "titulo_corto": "IMAE",
+  "fuente": "BCRD",
+  "fuente_url": "https://www.bancentral.gov.do/",
+  "categoria": "Sector Real",
+  "frecuencia": "Mensual",
+  "unidad": "Índice 2018=100 / %",
+  "descripcion": "Indicador mensual del nivel de actividad económica dominicana.",
+  "metodologia": "CSV mensual corregido. El rango válido termina en marzo 2026; se excluyen artefactos posteriores.",
+  "primera_obs": "2023-01",
+  "ultima_obs": "2026-03",
+  "n_observaciones": 39,
+  "n_observaciones_total": 195,
+  "series_disponibles": [
+    "Tendencia-ciclo",
+    "Variación acumulada (%)",
+    "Variación interanual (%)",
+    "Índice desestacionalizado",
+    "Índice original"
+  ],
+  "observaciones": [
+    {
+      "fecha": "2023-01-31",
+      "serie": "Índice original",
+      "valor": 117.286424
+    },
+    {
+      "fecha": "2023-01-31",
+      "serie": "Variación interanual (%)",
+      "valor": 1.707751
+    },
+    {
+      "fecha": "2023-01-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 1.707751
+    },
+    {
+      "fecha": "2023-01-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 116.702152
+    },
+    {
+      "fecha": "2023-01-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 117.315616
+    },
+    {
+      "fecha": "2023-02-28",
+      "serie": "Índice original",
+      "valor": 120.534865
+    },
+    {
+      "fecha": "2023-02-28",
+      "serie": "Variación interanual (%)",
+      "valor": 1.788268
+    },
+    {
+      "fecha": "2023-02-28",
+      "serie": "Variación acumulada (%)",
+      "valor": 1.748544
+    },
+    {
+      "fecha": "2023-02-28",
+      "serie": "Índice desestacionalizado",
+      "valor": 117.553447
+    },
+    {
+      "fecha": "2023-02-28",
+      "serie": "Tendencia-ciclo",
+      "valor": 117.531155
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Índice original",
+      "valor": 118.059894
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Variación interanual (%)",
+      "valor": 2.60235
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.030205
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 118.216422
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 117.764117
+    },
+    {
+      "fecha": "2023-04-30",
+      "serie": "Índice original",
+      "valor": 111.330331
+    },
+    {
+      "fecha": "2023-04-30",
+      "serie": "Variación interanual (%)",
+      "valor": 0.177008
+    },
+    {
+      "fecha": "2023-04-30",
+      "serie": "Variación acumulada (%)",
+      "valor": 1.582418
+    },
+    {
+      "fecha": "2023-04-30",
+      "serie": "Índice desestacionalizado",
+      "valor": 115.085246
+    },
+    {
+      "fecha": "2023-04-30",
+      "serie": "Tendencia-ciclo",
+      "valor": 117.992649
+    },
+    {
+      "fecha": "2023-05-31",
+      "serie": "Índice original",
+      "valor": 123.049313
+    },
+    {
+      "fecha": "2023-05-31",
+      "serie": "Variación interanual (%)",
+      "valor": 3.461699
+    },
+    {
+      "fecha": "2023-05-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 1.96853
+    },
+    {
+      "fecha": "2023-05-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 118.835479
+    },
+    {
+      "fecha": "2023-05-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 118.230342
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Índice original",
+      "valor": 117.387062
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Variación interanual (%)",
+      "valor": 0.890844
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Variación acumulada (%)",
+      "valor": 1.78817
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Índice desestacionalizado",
+      "valor": 118.353813
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Tendencia-ciclo",
+      "valor": 118.460631
+    },
+    {
+      "fecha": "2023-07-31",
+      "serie": "Índice original",
+      "valor": 115.920101
+    },
+    {
+      "fecha": "2023-07-31",
+      "serie": "Variación interanual (%)",
+      "valor": 4.202135
+    },
+    {
+      "fecha": "2023-07-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.121159
+    },
+    {
+      "fecha": "2023-07-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 118.677768
+    },
+    {
+      "fecha": "2023-07-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 118.654867
+    },
+    {
+      "fecha": "2023-08-31",
+      "serie": "Índice original",
+      "valor": 117.059178
+    },
+    {
+      "fecha": "2023-08-31",
+      "serie": "Variación interanual (%)",
+      "valor": 2.005219
+    },
+    {
+      "fecha": "2023-08-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.106716
+    },
+    {
+      "fecha": "2023-08-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 118.525216
+    },
+    {
+      "fecha": "2023-08-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 118.872964
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Índice original",
+      "valor": 116.744123
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Variación interanual (%)",
+      "valor": 2.741943
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.176465
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Índice desestacionalizado",
+      "valor": 119.915133
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Tendencia-ciclo",
+      "valor": 119.209335
+    },
+    {
+      "fecha": "2023-10-31",
+      "serie": "Índice original",
+      "valor": 116.570744
+    },
+    {
+      "fecha": "2023-10-31",
+      "serie": "Variación interanual (%)",
+      "valor": 2.186166
+    },
+    {
+      "fecha": "2023-10-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.177428
+    },
+    {
+      "fecha": "2023-10-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 119.198684
+    },
+    {
+      "fecha": "2023-10-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 119.680082
+    },
+    {
+      "fecha": "2023-11-30",
+      "serie": "Índice original",
+      "valor": 121.182352
+    },
+    {
+      "fecha": "2023-11-30",
+      "serie": "Variación interanual (%)",
+      "valor": 2.016069
+    },
+    {
+      "fecha": "2023-11-30",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.162308
+    },
+    {
+      "fecha": "2023-11-30",
+      "serie": "Índice desestacionalizado",
+      "valor": 119.798681
+    },
+    {
+      "fecha": "2023-11-30",
+      "serie": "Tendencia-ciclo",
+      "valor": 120.310153
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Índice original",
+      "valor": 125.886493
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Variación interanual (%)",
+      "valor": 2.501862
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.192298
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 121.11714
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 121.083978
+    },
+    {
+      "fecha": "2024-01-31",
+      "serie": "Índice original",
+      "valor": 122.781912
+    },
+    {
+      "fecha": "2024-01-31",
+      "serie": "Variación interanual (%)",
+      "valor": 4.685528
+    },
+    {
+      "fecha": "2024-01-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 4.685528
+    },
+    {
+      "fecha": "2024-01-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 122.44072
+    },
+    {
+      "fecha": "2024-01-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 121.887034
+    },
+    {
+      "fecha": "2024-02-29",
+      "serie": "Índice original",
+      "valor": 129.465838
+    },
+    {
+      "fecha": "2024-02-29",
+      "serie": "Variación interanual (%)",
+      "valor": 7.409453
+    },
+    {
+      "fecha": "2024-02-29",
+      "serie": "Variación acumulada (%)",
+      "valor": 6.066093
+    },
+    {
+      "fecha": "2024-02-29",
+      "serie": "Índice desestacionalizado",
+      "valor": 125.864428
+    },
+    {
+      "fecha": "2024-02-29",
+      "serie": "Tendencia-ciclo",
+      "valor": 122.65029
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Índice original",
+      "valor": 119.644308
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Variación interanual (%)",
+      "valor": 1.342043
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 4.498939
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 119.482011
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 123.330112
+    },
+    {
+      "fecha": "2024-04-30",
+      "serie": "Índice original",
+      "valor": 120.833419
+    },
+    {
+      "fecha": "2024-04-30",
+      "serie": "Variación interanual (%)",
+      "valor": 8.535938
+    },
+    {
+      "fecha": "2024-04-30",
+      "serie": "Variación acumulada (%)",
+      "valor": 5.460902
+    },
+    {
+      "fecha": "2024-04-30",
+      "serie": "Índice desestacionalizado",
+      "valor": 124.43301
+    },
+    {
+      "fecha": "2024-04-30",
+      "serie": "Tendencia-ciclo",
+      "valor": 123.875408
+    },
+    {
+      "fecha": "2024-05-31",
+      "serie": "Índice original",
+      "valor": 128.891712
+    },
+    {
+      "fecha": "2024-05-31",
+      "serie": "Variación interanual (%)",
+      "valor": 4.748014
+    },
+    {
+      "fecha": "2024-05-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 5.312289
+    },
+    {
+      "fecha": "2024-05-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 123.965804
+    },
+    {
+      "fecha": "2024-05-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 124.299974
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Índice original",
+      "valor": 123.438626
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Variación interanual (%)",
+      "valor": 5.155222
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Variación acumulada (%)",
+      "valor": 5.286235
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Índice desestacionalizado",
+      "valor": 124.421244
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Tendencia-ciclo",
+      "valor": 124.655793
+    },
+    {
+      "fecha": "2024-07-31",
+      "serie": "Índice original",
+      "valor": 122.74039
+    },
+    {
+      "fecha": "2024-07-31",
+      "serie": "Variación interanual (%)",
+      "valor": 5.883612
+    },
+    {
+      "fecha": "2024-07-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 5.370318
+    },
+    {
+      "fecha": "2024-07-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 125.238298
+    },
+    {
+      "fecha": "2024-07-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 124.944268
+    },
+    {
+      "fecha": "2024-08-31",
+      "serie": "Índice original",
+      "valor": 123.888272
+    },
+    {
+      "fecha": "2024-08-31",
+      "serie": "Variación interanual (%)",
+      "valor": 5.833882
+    },
+    {
+      "fecha": "2024-08-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 5.428007
+    },
+    {
+      "fecha": "2024-08-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 125.350452
+    },
+    {
+      "fecha": "2024-08-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 125.125981
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Índice original",
+      "valor": 121.10531
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Variación interanual (%)",
+      "valor": 3.73568
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Variación acumulada (%)",
+      "valor": 5.241158
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Índice desestacionalizado",
+      "valor": 124.750536
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Tendencia-ciclo",
+      "valor": 125.219023
+    },
+    {
+      "fecha": "2024-10-31",
+      "serie": "Índice original",
+      "valor": 122.925277
+    },
+    {
+      "fecha": "2024-10-31",
+      "serie": "Variación interanual (%)",
+      "valor": 5.451225
+    },
+    {
+      "fecha": "2024-10-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 5.262017
+    },
+    {
+      "fecha": "2024-10-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 126.017369
+    },
+    {
+      "fecha": "2024-10-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 125.274792
+    },
+    {
+      "fecha": "2024-11-30",
+      "serie": "Índice original",
+      "valor": 125.939929
+    },
+    {
+      "fecha": "2024-11-30",
+      "serie": "Variación interanual (%)",
+      "valor": 3.925966
+    },
+    {
+      "fecha": "2024-11-30",
+      "serie": "Variación acumulada (%)",
+      "valor": 5.137005
+    },
+    {
+      "fecha": "2024-11-30",
+      "serie": "Índice desestacionalizado",
+      "valor": 124.767638
+    },
+    {
+      "fecha": "2024-11-30",
+      "serie": "Tendencia-ciclo",
+      "valor": 125.314357
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Índice original",
+      "valor": 129.749589
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Variación interanual (%)",
+      "valor": 3.068714
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 4.953777
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 125.325694
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 125.414056
+    },
+    {
+      "fecha": "2025-01-31",
+      "serie": "Índice original",
+      "valor": 125.592191
+    },
+    {
+      "fecha": "2025-01-31",
+      "serie": "Variación interanual (%)",
+      "valor": 2.288838
+    },
+    {
+      "fecha": "2025-01-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.288838
+    },
+    {
+      "fecha": "2025-01-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 125.392186
+    },
+    {
+      "fecha": "2025-01-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 125.607349
+    },
+    {
+      "fecha": "2025-02-28",
+      "serie": "Índice original",
+      "valor": 130.343161
+    },
+    {
+      "fecha": "2025-02-28",
+      "serie": "Variación interanual (%)",
+      "valor": 0.677648
+    },
+    {
+      "fecha": "2025-02-28",
+      "serie": "Variación acumulada (%)",
+      "valor": 1.461897
+    },
+    {
+      "fecha": "2025-02-28",
+      "serie": "Índice desestacionalizado",
+      "valor": 126.326424
+    },
+    {
+      "fecha": "2025-02-28",
+      "serie": "Tendencia-ciclo",
+      "valor": 125.864355
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Índice original",
+      "valor": 126.133294
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Variación interanual (%)",
+      "valor": 5.423564
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.736436
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 125.814004
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 126.149858
+    },
+    {
+      "fecha": "2025-04-30",
+      "serie": "Índice original",
+      "valor": 122.862142
+    },
+    {
+      "fecha": "2025-04-30",
+      "serie": "Variación interanual (%)",
+      "valor": 1.678942
+    },
+    {
+      "fecha": "2025-04-30",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.477102
+    },
+    {
+      "fecha": "2025-04-30",
+      "serie": "Índice desestacionalizado",
+      "valor": 126.312069
+    },
+    {
+      "fecha": "2025-04-30",
+      "serie": "Tendencia-ciclo",
+      "valor": 126.41601
+    },
+    {
+      "fecha": "2025-05-31",
+      "serie": "Índice original",
+      "valor": 132.921366
+    },
+    {
+      "fecha": "2025-05-31",
+      "serie": "Variación interanual (%)",
+      "valor": 3.126387
+    },
+    {
+      "fecha": "2025-05-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.61173
+    },
+    {
+      "fecha": "2025-05-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 127.657163
+    },
+    {
+      "fecha": "2025-05-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 126.584787
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Índice original",
+      "valor": 124.777467
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Variación interanual (%)",
+      "valor": 1.084621
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.358723
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Índice desestacionalizado",
+      "valor": 125.82358
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Tendencia-ciclo",
+      "valor": 126.65413
+    },
+    {
+      "fecha": "2025-07-31",
+      "serie": "Índice original",
+      "valor": 126.3318
+    },
+    {
+      "fecha": "2025-07-31",
+      "serie": "Variación interanual (%)",
+      "valor": 2.926021
+    },
+    {
+      "fecha": "2025-07-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.438962
+    },
+    {
+      "fecha": "2025-07-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 128.483131
+    },
+    {
+      "fecha": "2025-07-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 126.710992
+    },
+    {
+      "fecha": "2025-08-31",
+      "serie": "Índice original",
+      "valor": 125.75225
+    },
+    {
+      "fecha": "2025-08-31",
+      "serie": "Variación interanual (%)",
+      "valor": 1.504563
+    },
+    {
+      "fecha": "2025-08-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.32223
+    },
+    {
+      "fecha": "2025-08-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 127.151159
+    },
+    {
+      "fecha": "2025-08-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 126.820033
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Índice original",
+      "valor": 122.45389
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Variación interanual (%)",
+      "valor": 1.11356
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.19069
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Índice desestacionalizado",
+      "valor": 126.418566
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Tendencia-ciclo",
+      "valor": 127.059486
+    },
+    {
+      "fecha": "2025-10-31",
+      "serie": "Índice original",
+      "valor": 123.150417
+    },
+    {
+      "fecha": "2025-10-31",
+      "serie": "Variación interanual (%)",
+      "valor": 0.183152
+    },
+    {
+      "fecha": "2025-10-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 1.990986
+    },
+    {
+      "fecha": "2025-10-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 126.492111
+    },
+    {
+      "fecha": "2025-10-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 127.50064
+    },
+    {
+      "fecha": "2025-11-30",
+      "serie": "Índice original",
+      "valor": 129.915431
+    },
+    {
+      "fecha": "2025-11-30",
+      "serie": "Variación interanual (%)",
+      "valor": 3.156665
+    },
+    {
+      "fecha": "2025-11-30",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.0988
+    },
+    {
+      "fecha": "2025-11-30",
+      "serie": "Índice desestacionalizado",
+      "valor": 128.984644
+    },
+    {
+      "fecha": "2025-11-30",
+      "serie": "Tendencia-ciclo",
+      "valor": 128.184506
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Índice original",
+      "valor": 132.746349
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Variación interanual (%)",
+      "valor": 2.309649
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 2.117143
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 128.562944
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 129.037945
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "Índice original",
+      "valor": 130.003551
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "Variación interanual (%)",
+      "valor": 3.512448
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 3.512448
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 129.832081
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 129.953514
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "Índice original",
+      "valor": 135.371359
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "Variación interanual (%)",
+      "valor": 3.857661
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "Variación acumulada (%)",
+      "valor": 3.688259
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "Índice desestacionalizado",
+      "valor": 131.1147
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "Tendencia-ciclo",
+      "valor": 130.868679
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "Índice original",
+      "valor": 132.50618
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "Variación interanual (%)",
+      "valor": 5.052501
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "Variación acumulada (%)",
+      "valor": 4.138639
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "Índice desestacionalizado",
+      "valor": 132.094267
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "Tendencia-ciclo",
+      "valor": 131.68109
+    }
+  ],
+  "csv_download": "data/csv/imae_mensual.csv"
+}

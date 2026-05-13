@@ -1,0 +1,19 @@
+{
+  "id": "fed_funds",
+  "titulo": "Federal Funds Effective Rate",
+  "titulo_corto": "Fed Funds Rate",
+  "fuente": "Federal Reserve Economic Data (FRED) · St. Louis Fed",
+  "fuente_url": "https://fred.stlouisfed.org/series/DFF",
+  "categoria": "Internacional",
+  "frecuencia": "Diaria",
+  "unidad": "Porcentaje anual",
+  "descripcion": "Tasa efectiva de fondos federales de la Reserva Federal de EE.UU. Es la principal ancla externa de la política monetaria del BCRD: movimientos sostenidos en esta tasa generan presiones sobre el peso dominicano y condicionan el espacio de maniobra de la TPM doméstica.",
+  "primera_obs": "—",
+  "ultima_obs": "Pendiente · requiere API key",
+  "n_observaciones": 0,
+  "series_disponibles": [
+    "Fed Funds Rate"
+  ],
+  "observaciones": [],
+  "_status": "pending_api_key"
+}

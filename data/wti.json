@@ -1,0 +1,19 @@
+{
+  "id": "wti",
+  "titulo": "WTI Crude Oil Spot Price",
+  "titulo_corto": "Petróleo WTI",
+  "fuente": "Federal Reserve Economic Data (FRED) · St. Louis Fed",
+  "fuente_url": "https://fred.stlouisfed.org/series/DCOILWTICO",
+  "categoria": "Internacional",
+  "frecuencia": "Diaria",
+  "unidad": "USD por barril",
+  "descripcion": "Precio spot del crudo West Texas Intermediate. La RD es importadora neta de hidrocarburos; las fluctuaciones del WTI afectan directamente la balanza comercial, los costos energéticos y la inflación importada.",
+  "primera_obs": "—",
+  "ultima_obs": "Pendiente · requiere API key",
+  "n_observaciones": 0,
+  "series_disponibles": [
+    "Petróleo WTI"
+  ],
+  "observaciones": [],
+  "_status": "pending_api_key"
+}

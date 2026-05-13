@@ -1,0 +1,1515 @@
+{
+  "id": "llegada_pasajeros",
+  "titulo": "Llegada de pasajeros por vía aérea",
+  "titulo_corto": "Llegadas aéreas",
+  "fuente": "BCRD/MITUR",
+  "fuente_url": "https://www.bancentral.gov.do/",
+  "categoria": "Sector Real",
+  "frecuencia": "Mensual",
+  "unidad": "Pasajeros",
+  "descripcion": "Turismo por vía aérea: pasajeros por residencia y aeropuerto.",
+  "metodologia": "Serie 2026 procesada en formato long; conserva grupo de residencia y aeropuerto como metadatos.",
+  "primera_obs": "2026-01",
+  "ultima_obs": "2026-03",
+  "n_observaciones": 3,
+  "n_observaciones_total": 189,
+  "series_disponibles": [
+    "NO RESIDENTES · CIBAO",
+    "NO RESIDENTES · DOMINICANOS · CIBAO",
+    "NO RESIDENTES · DOMINICANOS · EL CATEY, SAMANA",
+    "NO RESIDENTES · DOMINICANOS · LA ISABELA",
+    "NO RESIDENTES · DOMINICANOS · LA ROMANA",
+    "NO RESIDENTES · DOMINICANOS · LAS AMERICAS",
+    "NO RESIDENTES · DOMINICANOS · MARÍA MONTEZ",
+    "NO RESIDENTES · DOMINICANOS · PUERTO PLATA",
+    "NO RESIDENTES · DOMINICANOS · PUNTA CANA",
+    "NO RESIDENTES · DOMINICANOS · TOTAL",
+    "NO RESIDENTES · EL CATEY, SAMANA",
+    "NO RESIDENTES · EXTRANJEROS · CIBAO",
+    "NO RESIDENTES · EXTRANJEROS · EL CATEY, SAMANA",
+    "NO RESIDENTES · EXTRANJEROS · LA ISABELA",
+    "NO RESIDENTES · EXTRANJEROS · LA ROMANA",
+    "NO RESIDENTES · EXTRANJEROS · LAS AMERICAS",
+    "NO RESIDENTES · EXTRANJEROS · MARÍA MONTEZ",
+    "NO RESIDENTES · EXTRANJEROS · PUERTO PLATA",
+    "NO RESIDENTES · EXTRANJEROS · PUNTA CANA",
+    "NO RESIDENTES · EXTRANJEROS · TOTAL",
+    "NO RESIDENTES · LA ISABELA",
+    "NO RESIDENTES · LA ROMANA",
+    "NO RESIDENTES · LAS AMERICAS",
+    "NO RESIDENTES · MARÍA MONTEZ",
+    "NO RESIDENTES · PUERTO PLATA",
+    "NO RESIDENTES · PUNTA CANA",
+    "NO RESIDENTES · TOTAL",
+    "RESIDENTES · CIBAO",
+    "RESIDENTES · DOMINICANOS · CIBAO",
+    "RESIDENTES · DOMINICANOS · EL CATEY, SAMANA",
+    "RESIDENTES · DOMINICANOS · LA ISABELA",
+    "RESIDENTES · DOMINICANOS · LA ROMANA",
+    "RESIDENTES · DOMINICANOS · LAS AMERICAS",
+    "RESIDENTES · DOMINICANOS · MARÍA MONTEZ",
+    "RESIDENTES · DOMINICANOS · PUERTO PLATA",
+    "RESIDENTES · DOMINICANOS · PUNTA CANA",
+    "RESIDENTES · DOMINICANOS · TOTAL",
+    "RESIDENTES · EL CATEY, SAMANA",
+    "RESIDENTES · EXTRANJEROS · CIBAO",
+    "RESIDENTES · EXTRANJEROS · EL CATEY, SAMANA",
+    "RESIDENTES · EXTRANJEROS · LA ISABELA",
+    "RESIDENTES · EXTRANJEROS · LA ROMANA",
+    "RESIDENTES · EXTRANJEROS · LAS AMERICAS",
+    "RESIDENTES · EXTRANJEROS · MARÍA MONTEZ",
+    "RESIDENTES · EXTRANJEROS · PUERTO PLATA",
+    "RESIDENTES · EXTRANJEROS · PUNTA CANA",
+    "RESIDENTES · EXTRANJEROS · TOTAL",
+    "RESIDENTES · LA ISABELA",
+    "RESIDENTES · LA ROMANA",
+    "RESIDENTES · LAS AMERICAS",
+    "RESIDENTES · MARÍA MONTEZ",
+    "RESIDENTES · PUERTO PLATA",
+    "RESIDENTES · PUNTA CANA",
+    "RESIDENTES · TOTAL",
+    "TOTAL PASAJEROS · CIBAO",
+    "TOTAL PASAJEROS · EL CATEY, SAMANA",
+    "TOTAL PASAJEROS · LA ISABELA",
+    "TOTAL PASAJEROS · LA ROMANA",
+    "TOTAL PASAJEROS · LAS AMERICAS",
+    "TOTAL PASAJEROS · MARÍA MONTEZ",
+    "TOTAL PASAJEROS · PUERTO PLATA",
+    "TOTAL PASAJEROS · PUNTA CANA",
+    "TOTAL PASAJEROS · TOTAL"
+  ],
+  "observaciones": [
+    {
+      "fecha": "2026-01-31",
+      "serie": "TOTAL PASAJEROS · TOTAL",
+      "valor": 945866.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · DOMINICANOS · PUNTA CANA",
+      "valor": 12776.451728,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · CIBAO",
+      "valor": 76106.270711,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · DOMINICANOS · PUERTO PLATA",
+      "valor": 1534.38178,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · LA ISABELA",
+      "valor": 1446.892426,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · DOMINICANOS · LAS AMERICAS",
+      "valor": 66129.533925,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · EL CATEY, SAMANA",
+      "valor": 10550.237354,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · DOMINICANOS · TOTAL",
+      "valor": 102277.515803,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · TOTAL",
+      "valor": 115958.704759,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · EL CATEY, SAMANA",
+      "valor": 87.762646,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · LAS AMERICAS",
+      "valor": 52442.279164,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · LA ISABELA",
+      "valor": 1035.107574,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · CIBAO",
+      "valor": 21973.729289,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · PUNTA CANA",
+      "valor": 8142.818147,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · MARÍA MONTEZ",
+      "valor": 0.0,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · LA ROMANA",
+      "valor": 535.514271,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · MARÍA MONTEZ",
+      "valor": 2.0,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · LA ROMANA",
+      "valor": 748.077025,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · DOMINICANOS · LA ROMANA",
+      "valor": 372.441561,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · DOMINICANOS · MARÍA MONTEZ",
+      "valor": 0.0,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · EXTRANJEROS · MARÍA MONTEZ",
+      "valor": 0.0,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · EXTRANJEROS · PUNTA CANA",
+      "valor": 2922.260005,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · EXTRANJEROS · CIBAO",
+      "valor": 1259.464601,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · EXTRANJEROS · PUERTO PLATA",
+      "valor": 556.7818,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · EXTRANJEROS · LA ISABELA",
+      "valor": 308.699352,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · EXTRANJEROS · LAS AMERICAS",
+      "valor": 12255.296351,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · EXTRANJEROS · EL CATEY, SAMANA",
+      "valor": 63.728748,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · EXTRANJEROS · TOTAL",
+      "valor": 17741.866321,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · TOTAL",
+      "valor": 825846.617876,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · DOMINICANOS · EL CATEY, SAMANA",
+      "valor": 24.033898,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · LAS AMERICAS",
+      "valor": 151340.169724,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · DOMINICANOS · LA ISABELA",
+      "valor": 726.408222,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · PUERTO PLATA",
+      "valor": 49304.83642,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · DOMINICANOS · CIBAO",
+      "valor": 20714.264688,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · PUNTA CANA",
+      "valor": 523307.288267,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · LA ROMANA",
+      "valor": 13788.922975,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · MARÍA MONTEZ",
+      "valor": 0.0,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · PUERTO PLATA",
+      "valor": 3223.52442,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · EXTRANJEROS · LA ROMANA",
+      "valor": 375.635464,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "TOTAL PASAJEROS · MARÍA MONTEZ",
+      "valor": 2.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · PUNTA CANA",
+      "valor": 515164.47012,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "TOTAL PASAJEROS · LA ROMANA",
+      "valor": 14537.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "TOTAL PASAJEROS · CIBAO",
+      "valor": 98080.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · PUNTA CANA",
+      "valor": 15698.711733,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · PUERTO PLATA",
+      "valor": 46081.312,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · MARÍA MONTEZ",
+      "valor": 2.0,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "TOTAL PASAJEROS · LA ISABELA",
+      "valor": 2482.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · LAS AMERICAS",
+      "valor": 98897.890559,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "TOTAL PASAJEROS · PUNTA CANA",
+      "valor": 539006.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "TOTAL PASAJEROS · EL CATEY, SAMANA",
+      "valor": 10638.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · CIBAO",
+      "valor": 24944.661838,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · TOTAL",
+      "valor": 120019.382124,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · TOTAL",
+      "valor": 709887.913117,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · LA ISABELA",
+      "valor": 385.461422,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · EL CATEY, SAMANA",
+      "valor": 10482.738892,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · CIBAO",
+      "valor": 51161.608873,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · PUERTO PLATA",
+      "valor": 2091.16358,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "TOTAL PASAJEROS · LAS AMERICAS",
+      "valor": 229725.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · EL CATEY, SAMANA",
+      "valor": 67.498462,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · LA ISABELA",
+      "valor": 1061.431004,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · LA ROMANA",
+      "valor": 13253.408703,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "RESIDENTES · LAS AMERICAS",
+      "valor": 78384.830276,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "TOTAL PASAJEROS · PUERTO PLATA",
+      "valor": 51396.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · EXTRANJEROS · EL CATEY, SAMANA",
+      "valor": 24.027551,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · TOTAL",
+      "valor": 824079.703894,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · EXTRANJEROS · CIBAO",
+      "valor": 31772.779216,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · EXTRANJEROS · MARÍA MONTEZ",
+      "valor": 0.0,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · EXTRANJEROS · MARÍA MONTEZ",
+      "valor": 4.0,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · EXTRANJEROS · LA ROMANA",
+      "valor": 11809.101174,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · EXTRANJEROS · LA ISABELA",
+      "valor": 932.958577,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · LAS AMERICAS",
+      "valor": 150677.363002,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · EXTRANJEROS · CIBAO",
+      "valor": 643.580264,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · EXTRANJEROS · LA ISABELA",
+      "valor": 185.577152,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · DOMINICANOS · LA ROMANA",
+      "valor": 366.950356,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · PUERTO PLATA",
+      "valor": 50588.610557,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · DOMINICANOS · MARÍA MONTEZ",
+      "valor": 0.0,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · DOMINICANOS · PUNTA CANA",
+      "valor": 6905.493792,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · DOMINICANOS · CIBAO",
+      "valor": 48641.263978,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · DOMINICANOS · PUERTO PLATA",
+      "valor": 2504.312299,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · EXTRANJEROS · EL CATEY, SAMANA",
+      "valor": 10395.293333,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · DOMINICANOS · LAS AMERICAS",
+      "valor": 46765.371401,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · DOMINICANOS · LA ISABELA",
+      "valor": 319.843579,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · DOMINICANOS · TOTAL",
+      "valor": 105541.914522,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · EL CATEY, SAMANA",
+      "valor": 10433.972449,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · DOMINICANOS · EL CATEY, SAMANA",
+      "valor": 38.679116,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · LA ISABELA",
+      "valor": 1252.802156,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · EXTRANJEROS · TOTAL",
+      "valor": 718537.789372,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · CIBAO",
+      "valor": 80414.043194,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · MARÍA MONTEZ",
+      "valor": 4.0,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · EXTRANJEROS · LAS AMERICAS",
+      "valor": 103911.991601,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · EXTRANJEROS · PUERTO PLATA",
+      "valor": 48084.298258,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · PUNTA CANA",
+      "valor": 518532.861005,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · EXTRANJEROS · PUNTA CANA",
+      "valor": 511627.367213,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NO RESIDENTES · LA ROMANA",
+      "valor": 12176.05153,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · EXTRANJEROS · LA ROMANA",
+      "valor": 421.084199,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · CIBAO",
+      "valor": 7811.956806,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "TOTAL PASAJEROS · MARÍA MONTEZ",
+      "valor": 4.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · DOMINICANOS · LA ROMANA",
+      "valor": 122.864271,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · DOMINICANOS · PUNTA CANA",
+      "valor": 5146.650391,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "TOTAL PASAJEROS · CIBAO",
+      "valor": 88226.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · DOMINICANOS · PUERTO PLATA",
+      "valor": 506.83862,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "TOTAL PASAJEROS · LA ISABELA",
+      "valor": 2148.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · DOMINICANOS · LAS AMERICAS",
+      "valor": 30602.453988,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · DOMINICANOS · MARÍA MONTEZ",
+      "valor": 0.0,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · DOMINICANOS · TOTAL",
+      "valor": 44263.804503,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · EL CATEY, SAMANA",
+      "valor": 31.027551,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · TOTAL",
+      "valor": 54120.296106,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · LA ISABELA",
+      "valor": 895.197844,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · LAS AMERICAS",
+      "valor": 37231.636998,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · MARÍA MONTEZ",
+      "valor": 0.0,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · PUERTO PLATA",
+      "valor": 884.389443,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · LA ROMANA",
+      "valor": 543.94847,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "TOTAL PASAJEROS · EL CATEY, SAMANA",
+      "valor": 10465.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "TOTAL PASAJEROS · LA ROMANA",
+      "valor": 12720.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · PUNTA CANA",
+      "valor": 6722.138995,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · DOMINICANOS · EL CATEY, SAMANA",
+      "valor": 7.0,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · DOMINICANOS · CIBAO",
+      "valor": 7168.376541,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "TOTAL PASAJEROS · LAS AMERICAS",
+      "valor": 187909.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · EXTRANJEROS · TOTAL",
+      "valor": 9856.491603,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "TOTAL PASAJEROS · PUERTO PLATA",
+      "valor": 51473.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · EXTRANJEROS · PUERTO PLATA",
+      "valor": 377.550823,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · EXTRANJEROS · LAS AMERICAS",
+      "valor": 6629.18301,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "TOTAL PASAJEROS · PUNTA CANA",
+      "valor": 525255.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · DOMINICANOS · LA ISABELA",
+      "valor": 709.620691,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "TOTAL PASAJEROS · TOTAL",
+      "valor": 878200.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "RESIDENTES · EXTRANJEROS · PUNTA CANA",
+      "valor": 1575.488604,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · LAS AMERICAS",
+      "valor": 48397.843247,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · CIBAO",
+      "valor": 52541.041681,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "TOTAL PASAJEROS · EL CATEY, SAMANA",
+      "valor": 9722.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · TOTAL",
+      "valor": 72099.700886,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · LA ISABELA",
+      "valor": 403.523797,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "TOTAL PASAJEROS · TOTAL",
+      "valor": 1025818.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · MARÍA MONTEZ",
+      "valor": 0.0,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · LA ISABELA",
+      "valor": 1118.530088,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "TOTAL PASAJEROS · PUNTA CANA",
+      "valor": 621781.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "TOTAL PASAJEROS · LAS AMERICAS",
+      "valor": 221782.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · CIBAO",
+      "valor": 33131.128986,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "TOTAL PASAJEROS · LA ISABELA",
+      "valor": 2701.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · TOTAL",
+      "valor": 831957.560889,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "TOTAL PASAJEROS · CIBAO",
+      "valor": 96652.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · MARÍA MONTEZ",
+      "valor": 2.0,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · LAS AMERICAS",
+      "valor": 116511.011935,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "TOTAL PASAJEROS · PUERTO PLATA",
+      "valor": 59734.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · PUERTO PLATA",
+      "valor": 1181.910663,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · PUERTO PLATA",
+      "valor": 55483.051069,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "TOTAL PASAJEROS · LA ROMANA",
+      "valor": 13444.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · LA ROMANA",
+      "valor": 12320.9432,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · PUNTA CANA",
+      "valor": 603773.698882,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · EL CATEY, SAMANA",
+      "valor": 62.592364,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "TOTAL PASAJEROS · MARÍA MONTEZ",
+      "valor": 2.0,
+      "grupo_residencia_principal": "TOTAL PASAJEROS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · EXTRANJEROS · LA ROMANA",
+      "valor": 601.601014,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · PUNTA CANA",
+      "valor": 9542.394842,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · DOMINICANOS · LA ROMANA",
+      "valor": 174.964766,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · PUERTO PLATA",
+      "valor": 58552.089337,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · DOMINICANOS · MARÍA MONTEZ",
+      "valor": 0.0,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · LAS AMERICAS",
+      "valor": 173384.156753,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · DOMINICANOS · CIBAO",
+      "valor": 9976.981011,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · TOTAL",
+      "valor": 953718.299114,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · DOMINICANOS · LA ISABELA",
+      "valor": 978.198318,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · EXTRANJEROS · EL CATEY, SAMANA",
+      "valor": 35.190074,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · DOMINICANOS · EL CATEY, SAMANA",
+      "valor": 7.020833,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · EXTRANJEROS · LA ISABELA",
+      "valor": 200.747796,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · EXTRANJEROS · TOTAL",
+      "valor": 12055.848398,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · EXTRANJEROS · CIBAO",
+      "valor": 1002.848322,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · EXTRANJEROS · LAS AMERICAS",
+      "valor": 7698.432162,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · EXTRANJEROS · MARÍA MONTEZ",
+      "valor": 0.0,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · EXTRANJEROS · PUERTO PLATA",
+      "valor": 458.478328,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · PUNTA CANA",
+      "valor": 612238.605158,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · DOMINICANOS · PUNTA CANA",
+      "valor": 7483.844139,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · LA ROMANA",
+      "valor": 12667.43422,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · DOMINICANOS · PUERTO PLATA",
+      "valor": 723.432335,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · PUNTA CANA",
+      "valor": 8464.906276,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · LA ROMANA",
+      "valor": 776.56578,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · PUERTO PLATA",
+      "valor": 3069.038268,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "PUERTO PLATA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · MARÍA MONTEZ",
+      "valor": 0.0,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · EXTRANJEROS · PUNTA CANA",
+      "valor": 2058.550702,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "PUNTA CANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · LAS AMERICAS",
+      "valor": 56873.144818,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · CIBAO",
+      "valor": 10979.829333,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · LA ROMANA",
+      "valor": 346.491019,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LA ROMANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · DOMINICANOS · TOTAL",
+      "valor": 121760.738225,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · EL CATEY, SAMANA",
+      "valor": 9679.789093,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · EL CATEY, SAMANA",
+      "valor": 42.210907,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "EL CATEY, SAMANA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · LA ISABELA",
+      "valor": 1522.053886,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · DOMINICANOS · TOTAL",
+      "valor": 60043.852488,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "TOTAL"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · CIBAO",
+      "valor": 85672.170667,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "CIBAO"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · DOMINICANOS · LAS AMERICAS",
+      "valor": 40699.411085,
+      "grupo_residencia_principal": "RESIDENTES",
+      "grupo_residencia_detalle": "DOMINICANOS",
+      "aeropuerto": "LAS AMERICAS"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · MARÍA MONTEZ",
+      "valor": 2.0,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "aeropuerto": "MARÍA MONTEZ"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "RESIDENTES · LA ISABELA",
+      "valor": 1178.946114,
+      "grupo_residencia_principal": "RESIDENTES",
+      "aeropuerto": "LA ISABELA"
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NO RESIDENTES · EXTRANJEROS · EL CATEY, SAMANA",
+      "valor": 9617.196729,
+      "grupo_residencia_principal": "NO RESIDENTES",
+      "grupo_residencia_detalle": "EXTRANJEROS",
+      "aeropuerto": "EL CATEY, SAMANA"
+    }
+  ],
+  "csv_download": "data/csv/llegada_pasajeros_2026_mensual.csv"
+}

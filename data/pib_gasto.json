@@ -1,0 +1,2951 @@
+{
+  "id": "pib_gasto",
+  "titulo": "PIB trimestral por enfoque del gasto",
+  "titulo_corto": "PIB Gasto",
+  "fuente": "BCRD",
+  "fuente_url": "https://www.bancentral.gov.do/",
+  "categoria": "Sector Real",
+  "frecuencia": "Trimestral",
+  "unidad": "Millones de RD$",
+  "descripcion": "PIB trimestral por componentes de demanda.",
+  "metodologia": "Se usa la hoja trimestral no acumulada en RD$ del archivo procesado.",
+  "primera_obs": "2018-03",
+  "ultima_obs": "2025-12",
+  "n_observaciones": 32,
+  "n_observaciones_total": 584,
+  "series_disponibles": [
+    "Consumo Final",
+    "Consumo Privado",
+    "Consumo Público",
+    "Exportaciones",
+    "Formación Bruta de Capital",
+    "Formación Bruta de Capital Fijo",
+    "Importaciones",
+    "PONDERACION POR COMPONENTE (%)",
+    "Producto Interno Bruto",
+    "Variación de Existencias"
+  ],
+  "observaciones": [
+    {
+      "fecha": "2018-03-31",
+      "serie": "Consumo Final",
+      "valor": 785251.49435
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Importaciones",
+      "valor": 27.700368
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Exportaciones",
+      "valor": 25.140564
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Variación de Existencias",
+      "valor": 0.065889
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 23.623599
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Consumo Público",
+      "valor": 9.174757
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Consumo Privado",
+      "valor": 69.695559
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Consumo Final",
+      "valor": 78.870316
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 23.689488
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 995623.616864
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "PONDERACION POR COMPONENTE (%)",
+      "valor": 2018.0
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Consumo Público",
+      "valor": 91346.050701
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 235858.136726
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 235202.134426
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Consumo Privado",
+      "valor": 693905.443648
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Exportaciones",
+      "valor": 250305.388451
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Importaciones",
+      "valor": 275791.402663
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Variación de Existencias",
+      "valor": 656.002301
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Consumo Privado",
+      "valor": 67.82952
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Importaciones",
+      "valor": 28.574289
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Exportaciones",
+      "valor": 24.625745
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Variación de Existencias",
+      "valor": 1.323992
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 25.31956
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Consumo Público",
+      "valor": 9.475473
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Consumo Final",
+      "valor": 77.304993
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 26.643551
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Importaciones",
+      "valor": 299614.612017
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Consumo Privado",
+      "valor": 711223.840182
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Consumo Público",
+      "valor": 99354.707605
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 279369.935946
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Consumo Final",
+      "valor": 810578.547786
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Variación de Existencias",
+      "valor": 13882.662951
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Exportaciones",
+      "valor": 258212.302714
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 265487.272995
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1048546.17443
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Consumo Final",
+      "valor": 78.906754
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Importaciones",
+      "valor": 29.184287
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Exportaciones",
+      "valor": 24.393462
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Variación de Existencias",
+      "valor": 0.125129
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 25.758942
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 25.884071
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Consumo Público",
+      "valor": 9.533456
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Consumo Privado",
+      "valor": 69.373298
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1041742.419545
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Exportaciones",
+      "valor": 254117.041316
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Variación de Existencias",
+      "valor": 1303.520374
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 268341.825279
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 269645.345653
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Consumo Público",
+      "valor": 99314.057892
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Consumo Privado",
+      "valor": 722691.068904
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Consumo Final",
+      "valor": 822005.126796
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Importaciones",
+      "valor": 304025.09422
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Consumo Privado",
+      "valor": 69.134812
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Importaciones",
+      "valor": 27.912616
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Exportaciones",
+      "valor": 22.012202
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Variación de Existencias",
+      "valor": 0.019671
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 24.545211
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Consumo Público",
+      "valor": 12.200719
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Consumo Final",
+      "valor": 81.335531
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 24.564882
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Importaciones",
+      "valor": 313228.780715
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Consumo Privado",
+      "valor": 775814.532482
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Consumo Público",
+      "valor": 136913.58543
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 275661.305855
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Consumo Final",
+      "valor": 912728.117912
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Variación de Existencias",
+      "valor": 220.744255
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Exportaciones",
+      "valor": 247015.734874
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 275440.5616
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 1122176.377925
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Consumo Final",
+      "valor": 78.499587
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Importaciones",
+      "valor": 26.972637
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Exportaciones",
+      "valor": 24.998243
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Variación de Existencias",
+      "valor": -0.774815
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 24.249622
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 23.474807
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Consumo Público",
+      "valor": 9.397745
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Consumo Privado",
+      "valor": 69.101842
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "PONDERACION POR COMPONENTE (%)",
+      "valor": 2019.0
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Importaciones",
+      "valor": 293599.876436
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Exportaciones",
+      "valor": 272108.397184
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Variación de Existencias",
+      "valor": -8433.937344
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 263959.577348
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 255525.640004
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Consumo Público",
+      "valor": 102295.4005
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Consumo Privado",
+      "valor": 752180.518551
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Consumo Final",
+      "valor": 854475.919051
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 1088510.079803
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Consumo Privado",
+      "valor": 68.68258
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Consumo Público",
+      "valor": 10.30407
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 26.5318
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Variación de Existencias",
+      "valor": 1.404718
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Exportaciones",
+      "valor": 23.873236
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Importaciones",
+      "valor": 29.391686
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 25.127082
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Consumo Final",
+      "valor": 78.98665
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Importaciones",
+      "valor": 329307.322863
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Exportaciones",
+      "valor": 267478.072466
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Consumo Final",
+      "valor": 884974.152454
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Consumo Privado",
+      "valor": 769526.340877
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Consumo Público",
+      "valor": 115447.811576
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1120409.779414
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 281526.279751
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Variación de Existencias",
+      "valor": 15738.597606
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 297264.877357
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Consumo Final",
+      "valor": 78.751798
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Exportaciones",
+      "valor": 22.497622
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Variación de Existencias",
+      "valor": 0.29058
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 26.572173
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 26.862753
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Consumo Público",
+      "valor": 9.553632
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Consumo Privado",
+      "valor": 69.198166
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Importaciones",
+      "valor": 28.112173
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1137019.969613
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Exportaciones",
+      "valor": 255802.455841
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Variación de Existencias",
+      "valor": 3303.952404
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 302130.911973
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 305434.864377
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Consumo Público",
+      "valor": 108626.704784
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Consumo Privado",
+      "valor": 786796.968384
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Consumo Final",
+      "valor": 895423.673168
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Importaciones",
+      "valor": 319641.023772
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Consumo Privado",
+      "valor": 67.480931
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Importaciones",
+      "valor": 25.999608
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Exportaciones",
+      "valor": 22.107746
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Variación de Existencias",
+      "valor": 0.069149
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 24.034144
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Consumo Público",
+      "valor": 12.307637
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Consumo Final",
+      "valor": 79.788569
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 24.103293
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Importaciones",
+      "valor": 318962.746633
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Consumo Final",
+      "valor": 978844.797509
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Consumo Privado",
+      "valor": 827854.912553
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Consumo Público",
+      "valor": 150989.884956
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 295698.789221
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 1226798.288928
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Variación de Existencias",
+      "valor": 848.316713
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Exportaciones",
+      "valor": 271217.44883
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 294850.472508
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Consumo Público",
+      "valor": 10.787726
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Importaciones",
+      "valor": 26.863152
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Exportaciones",
+      "valor": 24.177356
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Variación de Existencias",
+      "valor": -0.614719
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 22.738991
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 22.124273
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Consumo Privado",
+      "valor": 69.773797
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Consumo Final",
+      "valor": 80.561524
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "PONDERACION POR COMPONENTE (%)",
+      "valor": 2020.0
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 1112791.856074
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Importaciones",
+      "valor": 298930.970022
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Exportaciones",
+      "valor": 269043.646874
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Variación de Existencias",
+      "valor": -6840.53898
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 253037.641993
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 246197.103013
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Consumo Público",
+      "valor": 120044.941803
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Consumo Privado",
+      "valor": 776437.134406
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Consumo Final",
+      "valor": 896482.076209
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 22.133682
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 23.709739
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Variación de Existencias",
+      "valor": -1.576057
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Consumo Público",
+      "valor": 12.589178
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Importaciones",
+      "valor": 24.144287
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Consumo Privado",
+      "valor": 75.156087
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Exportaciones",
+      "valor": 14.26534
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Consumo Final",
+      "valor": 87.745265
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 975640.508376
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Importaciones",
+      "valor": 235561.442573
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Exportaciones",
+      "valor": 139178.432906
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Variación de Existencias",
+      "valor": -15376.653592
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 231321.819631
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 215945.166039
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Consumo Público",
+      "valor": 122825.124313
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Consumo Privado",
+      "valor": 733253.227691
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Consumo Final",
+      "valor": 856078.352004
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Importaciones",
+      "valor": 25.449845
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Exportaciones",
+      "valor": 18.03694
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Variación de Existencias",
+      "valor": -1.153214
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 26.969003
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 25.815789
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Consumo Público",
+      "valor": 11.184204
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Consumo Privado",
+      "valor": 70.412912
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Consumo Final",
+      "valor": 81.597116
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Consumo Final",
+      "valor": 907382.361935
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Importaciones",
+      "valor": 283009.269921
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Exportaciones",
+      "valor": 200575.73274
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Variación de Existencias",
+      "valor": -12824.060005
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 299902.726463
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 287078.666458
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Consumo Público",
+      "valor": 124371.422438
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Consumo Privado",
+      "valor": 783010.939497
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1112027.491212
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Consumo Privado",
+      "valor": 66.679776
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Consumo Público",
+      "valor": 13.379185
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 28.674879
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Consumo Final",
+      "valor": 80.058962
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Variación de Existencias",
+      "valor": 3.076935
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Exportaciones",
+      "valor": 18.2162
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Importaciones",
+      "valor": 26.95004
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 25.597944
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 1239354.120865
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Exportaciones",
+      "valor": 225763.221824
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Consumo Final",
+      "valor": 992214.04243
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Consumo Privado",
+      "valor": 826398.556446
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Consumo Público",
+      "valor": 165815.485984
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Importaciones",
+      "valor": 334006.432783
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 317249.172793
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Variación de Existencias",
+      "valor": 38134.1166
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 355383.289394
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Importaciones",
+      "valor": 27.308143
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Exportaciones",
+      "valor": 19.592874
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Variación de Existencias",
+      "valor": 3.510392
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 27.346488
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 30.85688
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Consumo Privado",
+      "valor": 67.648256
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Consumo Final",
+      "valor": 76.858388
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Consumo Público",
+      "valor": 9.210132
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "PONDERACION POR COMPONENTE (%)",
+      "valor": 2021.0
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Importaciones",
+      "valor": 345550.699159
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Exportaciones",
+      "valor": 247923.539935
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Variación de Existencias",
+      "valor": 44419.662881
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 346035.90943
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 390455.57231
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Consumo Público",
+      "valor": 116542.800503
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Consumo Privado",
+      "valor": 856004.830077
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Consumo Final",
+      "valor": 972547.630581
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 1265376.043667
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Consumo Privado",
+      "valor": 69.283697
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Consumo Público",
+      "valor": 9.740799
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 30.332456
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Consumo Final",
+      "valor": 79.024496
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Variación de Existencias",
+      "valor": -2.397854
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Exportaciones",
+      "valor": 21.459434
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Importaciones",
+      "valor": 30.816386
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 32.73031
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1321867.805465
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Exportaciones",
+      "valor": 283665.348616
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Consumo Final",
+      "valor": 1044599.368865
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Consumo Privado",
+      "valor": 915838.882015
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Consumo Público",
+      "valor": 128760.48685
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Importaciones",
+      "valor": 407351.885544
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 432651.431461
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Variación de Existencias",
+      "valor": -31696.457934
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 400954.973528
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Consumo Final",
+      "valor": 79.92966
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Exportaciones",
+      "valor": 23.084783
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Variación de Existencias",
+      "valor": 0.337359
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 28.493643
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 28.831002
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Consumo Público",
+      "valor": 10.461971
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Consumo Privado",
+      "valor": 69.46769
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Importaciones",
+      "valor": 31.845446
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1335980.643943
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Exportaciones",
+      "valor": 308408.235479
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Variación de Existencias",
+      "valor": 4507.05702
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 380669.549386
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 385176.606407
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Consumo Público",
+      "valor": 139769.905758
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Consumo Privado",
+      "valor": 928074.886658
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Consumo Final",
+      "valor": 1067844.792416
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Importaciones",
+      "valor": 425448.990358
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Consumo Privado",
+      "valor": 66.374927
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Importaciones",
+      "valor": 31.429602
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Exportaciones",
+      "valor": 21.834528
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Variación de Existencias",
+      "valor": 3.636753
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 27.380621
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 31.017374
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Consumo Público",
+      "valor": 12.202772
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Consumo Final",
+      "valor": 78.5777
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Importaciones",
+      "valor": 472776.521465
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Consumo Final",
+      "valor": 1181996.893209
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Consumo Privado",
+      "valor": 998437.956109
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Consumo Público",
+      "valor": 183558.9371
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 1504239.62589
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 411870.15683
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Variación de Existencias",
+      "valor": 54705.474393
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Exportaciones",
+      "valor": 328443.622923
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 466575.631223
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Consumo Privado",
+      "valor": 67.3626
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Importaciones",
+      "valor": 31.05355
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Exportaciones",
+      "valor": 22.715129
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Variación de Existencias",
+      "valor": 2.308849
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 29.401448
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 31.710297
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Consumo Público",
+      "valor": 9.265524
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Consumo Final",
+      "valor": 76.628124
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "PONDERACION POR COMPONENTE (%)",
+      "valor": 2022.0
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 1519437.265504
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Consumo Privado",
+      "valor": 1023532.454128
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Consumo Público",
+      "valor": 140783.822292
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 481818.062832
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Consumo Final",
+      "valor": 1164316.27642
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Variación de Existencias",
+      "valor": 35081.508796
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Exportaciones",
+      "valor": 345142.138497
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Importaciones",
+      "valor": 471839.212244
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 446736.554035
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Consumo Privado",
+      "valor": 70.412163
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Importaciones",
+      "valor": 34.287787
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Exportaciones",
+      "valor": 22.44283
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Variación de Existencias",
+      "valor": 0.384341
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 31.426411
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 31.810753
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Consumo Público",
+      "valor": 9.622042
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Consumo Final",
+      "valor": 80.034205
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1563207.294538
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Importaciones",
+      "valor": 535989.187445
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Exportaciones",
+      "valor": 350827.952381
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Variación de Existencias",
+      "valor": 6008.050285
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 491259.954117
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 497268.004402
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Consumo Público",
+      "valor": 150412.455631
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Consumo Privado",
+      "valor": 1100688.069568
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Consumo Final",
+      "valor": 1251100.525199
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Importaciones",
+      "valor": 34.104443
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Exportaciones",
+      "valor": 22.652067
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Variación de Existencias",
+      "valor": 0.842296
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 30.491014
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 31.33331
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Consumo Público",
+      "valor": 10.31478
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Consumo Privado",
+      "valor": 69.804286
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Consumo Final",
+      "valor": 80.119065
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Consumo Final",
+      "valor": 1225903.485757
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Importaciones",
+      "valor": 521832.783984
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Exportaciones",
+      "valor": 346599.753194
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Variación de Existencias",
+      "valor": 12887.981058
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 466543.642456
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 479431.623514
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Consumo Público",
+      "valor": 157826.658541
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Consumo Privado",
+      "valor": 1068076.827216
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1530102.078481
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Consumo Público",
+      "valor": 14.389408
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 28.009486
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 28.614773
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Consumo Privado",
+      "valor": 67.270992
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Exportaciones",
+      "valor": 20.411296
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Importaciones",
+      "valor": 30.081182
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Variación de Existencias",
+      "valor": -0.605287
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Consumo Final",
+      "valor": 81.6604
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 1644548.564187
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Importaciones",
+      "valor": 494699.651787
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Exportaciones",
+      "valor": 335673.674637
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Variación de Existencias",
+      "valor": -9954.239781
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 470583.845411
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 460629.605631
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Consumo Público",
+      "valor": 236640.807471
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Consumo Privado",
+      "valor": 1106304.128235
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Consumo Final",
+      "valor": 1342944.935706
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Consumo Público",
+      "valor": 9.266847
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 29.989011
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 29.129212
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Exportaciones",
+      "valor": 22.933492
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Importaciones",
+      "valor": 28.557281
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Consumo Privado",
+      "valor": 66.367931
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Variación de Existencias",
+      "valor": 0.8598
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Consumo Final",
+      "valor": 75.634778
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "PONDERACION POR COMPONENTE (%)",
+      "valor": 2023.0
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 1662460.757108
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Consumo Privado",
+      "valor": 1103340.804419
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Consumo Público",
+      "valor": 154057.698421
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 498555.541282
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Consumo Final",
+      "valor": 1257398.502841
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Variación de Existencias",
+      "valor": 14293.829344
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Exportaciones",
+      "valor": 381260.304861
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Importaciones",
+      "valor": 474753.591876
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 484261.711938
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Consumo Privado",
+      "valor": 69.619528
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Importaciones",
+      "valor": 28.212111
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Exportaciones",
+      "valor": 20.764445
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Variación de Existencias",
+      "valor": -2.832273
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 30.405256
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 27.572983
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Consumo Público",
+      "valor": 10.255155
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Consumo Final",
+      "valor": 79.874683
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1663399.418541
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Importaciones",
+      "valor": 469280.088899
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Exportaciones",
+      "valor": 345395.664626
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Variación de Existencias",
+      "valor": -47112.015576
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 505760.853662
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 458648.838087
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Consumo Público",
+      "valor": 170584.187294
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Consumo Privado",
+      "valor": 1158050.817434
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Consumo Final",
+      "valor": 1328635.004728
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Consumo Público",
+      "valor": 10.571492
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 27.825009
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 29.326173
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Exportaciones",
+      "valor": 21.888845
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Importaciones",
+      "valor": 29.8112
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Consumo Privado",
+      "valor": 69.525854
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Variación de Existencias",
+      "valor": -1.501164
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Consumo Final",
+      "valor": 80.097346
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1657538.632527
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Importaciones",
+      "valor": 494132.158132
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Exportaciones",
+      "valor": 362816.070306
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Variación de Existencias",
+      "valor": -24882.370057
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 486092.640717
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 461210.27066
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Consumo Público",
+      "valor": 175226.566241
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Consumo Privado",
+      "valor": 1152417.883452
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Consumo Final",
+      "valor": 1327644.449693
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Importaciones",
+      "valor": 27.572265
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Exportaciones",
+      "valor": 19.816067
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Variación de Existencias",
+      "valor": -1.200126
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 26.000884
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Consumo Público",
+      "valor": 14.770677
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Consumo Privado",
+      "valor": 66.984637
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Consumo Final",
+      "valor": 81.755314
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 27.20101
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Importaciones",
+      "valor": 491099.123677
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Consumo Final",
+      "valor": 1456172.089443
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Consumo Privado",
+      "valor": 1193086.463979
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Consumo Público",
+      "valor": 263085.625464
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 1781134.487708
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 484486.578422
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Variación de Existencias",
+      "valor": -21375.86327
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Exportaciones",
+      "valor": 352950.806791
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 463110.715152
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Consumo Privado",
+      "valor": 66.777151
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Importaciones",
+      "valor": 26.727473
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Exportaciones",
+      "valor": 23.986392
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Variación de Existencias",
+      "valor": -0.16962
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 26.366648
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 26.197029
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Consumo Público",
+      "valor": 9.766902
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Consumo Final",
+      "valor": 76.544053
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "PONDERACION POR COMPONENTE (%)",
+      "valor": 2024.0
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 1789104.930164
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Consumo Privado",
+      "valor": 1194713.292557
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Consumo Público",
+      "valor": 174740.12898
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 468692.329793
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Consumo Final",
+      "valor": 1369453.421537
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Variación de Existencias",
+      "valor": -3034.676816
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Exportaciones",
+      "valor": 429141.723126
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Importaciones",
+      "valor": 478182.544292
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 471727.006609
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Consumo Privado",
+      "valor": 68.942577
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Importaciones",
+      "valor": 29.185687
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Exportaciones",
+      "valor": 22.551072
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Variación de Existencias",
+      "valor": -0.107805
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 26.865085
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 26.75728
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Consumo Público",
+      "valor": 10.934758
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Consumo Final",
+      "valor": 79.877335
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Importaciones",
+      "valor": 538875.915138
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1846370.479628
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Exportaciones",
+      "valor": 416376.341695
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Variación de Existencias",
+      "valor": -1990.471775
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 496028.995058
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 494038.523283
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Consumo Público",
+      "valor": 201896.13765
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Consumo Privado",
+      "valor": 1272935.392137
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Consumo Final",
+      "valor": 1474831.529787
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Consumo Público",
+      "valor": 10.850943
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 27.74836
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 26.673641
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1825476.900508
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Exportaciones",
+      "valor": 23.186024
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Importaciones",
+      "valor": 30.631329
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Consumo Privado",
+      "valor": 68.846003
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Variación de Existencias",
+      "valor": 1.074719
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Exportaciones",
+      "valor": 423255.507993
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Importaciones",
+      "valor": 559167.84001
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Variación de Existencias",
+      "valor": 19618.740325
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 486921.155901
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 506539.896226
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Consumo Público",
+      "valor": 198081.459915
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Consumo Privado",
+      "valor": 1256767.876383
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Consumo Final",
+      "valor": 1454849.336299
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Consumo Final",
+      "valor": 79.696946
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 27.259627
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Consumo Público",
+      "valor": 14.271482
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Consumo Privado",
+      "valor": 66.453425
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Exportaciones",
+      "valor": 21.458517
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Importaciones",
+      "valor": 29.443051
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Variación de Existencias",
+      "valor": 2.591557
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Consumo Final",
+      "valor": 80.724907
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 24.66807
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Importaciones",
+      "valor": 571765.250976
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Consumo Final",
+      "valor": 1567626.170528
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Consumo Privado",
+      "valor": 1290483.097126
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Consumo Público",
+      "valor": 277143.073402
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 1941936.180717
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 479038.16781
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Variación de Existencias",
+      "valor": 50326.389217
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Exportaciones",
+      "valor": 416710.704139
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 529364.557026
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Consumo Privado",
+      "valor": 67.067189
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Importaciones",
+      "valor": 26.804028
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Exportaciones",
+      "valor": 24.578093
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Variación de Existencias",
+      "valor": 0.091062
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 25.055893
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 25.146955
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Consumo Público",
+      "valor": 10.011792
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Consumo Final",
+      "valor": 77.07898
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 1927869.651839
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Consumo Final",
+      "valor": 1485982.267239
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Importaciones",
+      "valor": 516746.73067
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Exportaciones",
+      "valor": 473833.60515
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Variación de Existencias",
+      "valor": 1755.55543
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 483044.95469
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 484800.510119
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Consumo Público",
+      "valor": 193014.292694
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Consumo Privado",
+      "valor": 1292967.974546
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "PONDERACION POR COMPONENTE (%)",
+      "valor": 2025.0
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Consumo Público",
+      "valor": 10.898162
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 25.347141
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Consumo Privado",
+      "valor": 69.487168
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Exportaciones",
+      "valor": 22.140317
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Importaciones",
+      "valor": 26.72935
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Variación de Existencias",
+      "valor": -1.143438
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Consumo Final",
+      "valor": 80.38533
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 24.203703
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Importaciones",
+      "valor": 522089.760286
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Exportaciones",
+      "valor": 432454.691365
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Variación de Existencias",
+      "valor": -22334.14089
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 495091.817226
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 472757.676335
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Consumo Público",
+      "valor": 212867.827202
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Consumo Privado",
+      "valor": 1357254.806376
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Consumo Final",
+      "valor": 1570122.633578
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1953245.240992
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Consumo Público",
+      "valor": 11.142006
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 25.385299
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Exportaciones",
+      "valor": 24.114479
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Importaciones",
+      "valor": 29.398822
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Consumo Privado",
+      "valor": 68.757037
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Variación de Existencias",
+      "valor": -0.41659
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Consumo Final",
+      "valor": 79.899044
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 25.801889
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Importaciones",
+      "valor": 568741.73746
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Exportaciones",
+      "valor": 466512.262972
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Variación de Existencias",
+      "valor": -8059.234801
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 499156.428865
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Formación Bruta de Capital",
+      "valor": 491097.194064
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Consumo Público",
+      "valor": 215550.273401
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Consumo Privado",
+      "valor": 1330155.239566
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Consumo Final",
+      "valor": 1545705.512967
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Producto Interno Bruto",
+      "valor": 1934573.232543
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Consumo Privado",
+      "valor": 66.179768
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Consumo Público",
+      "valor": 14.403577
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Exportaciones",
+      "valor": 23.737119
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 23.383252
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Variación de Existencias",
+      "valor": 0.745968
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Consumo Final",
+      "valor": 80.583345
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 24.12922
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 2081863.163241
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Formación Bruta de Capital Fijo",
+      "valor": 486807.31192
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Exportaciones",
+      "valor": 494174.326679
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Variación de Existencias",
+      "valor": 15530.032666
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Formación Bruta de Capital",
+      "valor": 502337.344586
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Consumo Público",
+      "valor": 299862.753583
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Consumo Privado",
+      "valor": 1377772.21312
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Consumo Final",
+      "valor": 1677634.966703
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Importaciones",
+      "valor": 28.449683
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Importaciones",
+      "valor": 592283.474727
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Producto Interno Bruto",
+      "valor": 100.0
+    }
+  ],
+  "csv_download": "data/csv/pib_gasto_2018_pib_trim.csv"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "us10y",
+  "titulo": "U.S. 10-Year Treasury Yield",
+  "titulo_corto": "US 10Y Treasury",
+  "fuente": "Federal Reserve Economic Data (FRED) · St. Louis Fed",
+  "fuente_url": "https://fred.stlouisfed.org/series/DGS10",
+  "categoria": "Internacional",
+  "frecuencia": "Diaria",
+  "unidad": "Rendimiento anual (%)",
+  "descripcion": "Rendimiento del bono del Tesoro estadounidense a 10 años. Referencia global para la curva de rendimiento soberano dominicano y para los spreads de los bonos globales emitidos por el gobierno de la RD.",
+  "primera_obs": "—",
+  "ultima_obs": "Pendiente · requiere API key",
+  "n_observaciones": 0,
+  "series_disponibles": [
+    "US 10Y Treasury"
+  ],
+  "observaciones": [],
+  "_status": "pending_api_key"
+}

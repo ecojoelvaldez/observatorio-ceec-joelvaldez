@@ -1,0 +1,19 @@
+{
+  "id": "dxy",
+  "titulo": "U.S. Dollar Index · Broad",
+  "titulo_corto": "Índice Dólar (DXY)",
+  "fuente": "Federal Reserve Economic Data (FRED) · St. Louis Fed",
+  "fuente_url": "https://fred.stlouisfed.org/series/DTWEXBGS",
+  "categoria": "Internacional",
+  "frecuencia": "Diaria",
+  "unidad": "Índice (Jan 2006 = 100)",
+  "descripcion": "Índice ponderado del dólar estadounidense frente a una canasta de monedas de socios comerciales. Mide la fortaleza global del dólar; su trayectoria condiciona el comportamiento del USD/DOP.",
+  "primera_obs": "—",
+  "ultima_obs": "Pendiente · requiere API key",
+  "n_observaciones": 0,
+  "series_disponibles": [
+    "Índice Dólar (DXY)"
+  ],
+  "observaciones": [],
+  "_status": "pending_api_key"
+}

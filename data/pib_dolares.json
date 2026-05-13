@@ -1,0 +1,2097 @@
+{
+  "id": "pib_dolares",
+  "titulo": "PIB en dólares y PIB per cápita",
+  "titulo_corto": "PIB US$ / per cápita",
+  "fuente": "BCRD",
+  "fuente_url": "https://www.bancentral.gov.do/",
+  "categoria": "Sector Real",
+  "frecuencia": "Anual",
+  "unidad": "RD$, US$ e índice",
+  "descripcion": "PIB corriente, PIB per cápita y referencia real encadenada.",
+  "metodologia": "Serie anual procesada desde archivo BCRD; variables conservadas como subseries.",
+  "primera_obs": "1991",
+  "ultima_obs": "2025",
+  "n_observaciones": 35,
+  "n_observaciones_total": 414,
+  "series_disponibles": [
+    "PIB corriente (millones RD$)",
+    "PIB corriente (millones US$)",
+    "PIB per cápita (RD$)",
+    "PIB per cápita (US$)",
+    "PIB real índice encadenado 2018",
+    "Población (miles)"
+  ],
+  "observaciones": [
+    {
+      "fecha": "1991-12-31",
+      "serie": "Población (miles)",
+      "valor": 7241.923
+    },
+    {
+      "fecha": "1991-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 123551.906708
+    },
+    {
+      "fecha": "1991-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 17060.649044
+    },
+    {
+      "fecha": "1991-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 9680.09454
+    },
+    {
+      "fecha": "1991-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 1336.674602
+    },
+    {
+      "fecha": "1991-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 23.742999
+    },
+    {
+      "fecha": "1992-12-31",
+      "serie": "Población (miles)",
+      "valor": 7374.65
+    },
+    {
+      "fecha": "1992-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 145067.281338
+    },
+    {
+      "fecha": "1992-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 19671.073385
+    },
+    {
+      "fecha": "1992-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 11471.010625
+    },
+    {
+      "fecha": "1992-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 1555.46509
+    },
+    {
+      "fecha": "1992-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 26.41111
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Población (miles)",
+      "valor": 7510.637
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 163513.029954
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 21770.860442
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 12987.637526
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 1729.232491
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 28.356736
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Población (miles)",
+      "valor": 7641.639
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 184769.394633
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 24179.288584
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 14368.755333
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 1880.323754
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 29.092248
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "Población (miles)",
+      "valor": 7770.618
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 214122.962653
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 27555.461181
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 16088.744836
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 2070.458854
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 30.750503
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "Población (miles)",
+      "valor": 7897.093
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 235250.330659
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 29789.484644
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 17516.843635
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 2218.138198
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 32.5836
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "Población (miles)",
+      "valor": 8022.922
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 280362.823942
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 34945.226183
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 19822.344159
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 2470.713807
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 35.483394
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "Población (miles)",
+      "valor": 8151.915
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 318648.990755
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 39088.850995
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 21230.370309
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 2604.341472
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 37.86286
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "Población (miles)",
+      "valor": 8275.89
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 350520.116874
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 42354.371176
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 22002.724937
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 2658.653624
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 40.118165
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Población (miles)",
+      "valor": 8397.802
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 393302.9684
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 46834.036859
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 24107.001565
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 2870.632287
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 41.984352
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Población (miles)",
+      "valor": 8512.996
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 427319.066343
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 50196.084474
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 25261.125723
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 2967.360225
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 43.021101
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Población (miles)",
+      "valor": 8627.509
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 477430.189773
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 55338.12712
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 25770.161271
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 2986.975878
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 44.951244
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Población (miles)",
+      "valor": 8745.084
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 628611.039726
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 71881.646846
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 20845.722868
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 2383.707563
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 44.344691
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Población (miles)",
+      "valor": 8857.648
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 935984.734547
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 105669.669256
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 23186.610878
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 2617.693871
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 45.491253
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Población (miles)",
+      "valor": 8968.144
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 1083445.000855
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 120810.39297
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 35911.737265
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 4004.366708
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 49.781892
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Población (miles)",
+      "valor": 9071.458
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 1261399.667615
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 139051.480767
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 38059.102821
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 4195.478039
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 54.347492
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Población (miles)",
+      "valor": 9174.058
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 1458416.518056
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 158971.80049
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 44093.735536
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 4806.350204
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 58.379209
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Población (miles)",
+      "valor": 9279.602
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 1660566.470214
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 178948.027104
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 48187.78133
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 5192.871562
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 60.287093
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Población (miles)",
+      "valor": 9380.152
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 1734699.405331
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 184932.973936
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 48278.101159
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 5146.835697
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 60.892045
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Población (miles)",
+      "valor": 9478.612
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 1981024.295421
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 208999.407869
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 53833.85923
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 5679.508691
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 66.007674
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Población (miles)",
+      "valor": 9580.139
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 2207109.339911
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 230383.853503
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 57997.148461
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 6053.894256
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 68.114614
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Población (miles)",
+      "valor": 9680.963
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 2381301.739133
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 245977.775055
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 60624.274225
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 6262.215259
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 70.005252
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Población (miles)",
+      "valor": 9784.68
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 2614472.58084
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 267200.621874
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 62608.118013
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 6398.586158
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 73.459824
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Población (miles)",
+      "valor": 9883.486
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 2918452.118649
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 295285.703713
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 67091.423979
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 6788.234837
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 78.683719
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Población (miles)",
+      "valor": 9980.243
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 3196734.133416
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 320306.242385
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 71049.299339
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 7118.994932
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 84.18191
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Población (miles)",
+      "valor": 10075.045
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 3480302.452512
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 345437.906482
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 75613.132096
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 7504.991997
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 89.838716
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Población (miles)",
+      "valor": 10169.172
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 3758554.746804
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 369602.82969
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 79103.030926
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 7778.709115
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 93.372847
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Población (miles)",
+      "valor": 10266.149
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 4208088.588763
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 409899.426627
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 84974.234271
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 8277.12848
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 100.0
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Población (miles)",
+      "valor": 10358.32
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 4572738.117759
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 441455.575591
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 89113.185312
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 8603.053904
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 104.89403
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Población (miles)",
+      "valor": 10448.499
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 4439813.976526
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 424923.615969
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 78481.423346
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 7511.262943
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 96.576928
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Población (miles)",
+      "valor": 10535.535
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 5427464.118965
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 515157.903131
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 95122.821338
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 9028.760413
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 110.109701
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Población (miles)",
+      "valor": 10621.938
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 6257295.20271
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 589091.670721
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 113908.092935
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 10723.852176
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 115.877199
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Población (miles)",
+      "valor": 10711.155
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 6764533.295883
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 631540.977223
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 120759.572577
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 11274.187758
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 118.417573
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Población (miles)",
+      "valor": 10795.677
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 7402888.491016
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 685727.119385
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 124597.848593
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 11541.457622
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 124.283715
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Población (miles)",
+      "valor": 10878.267
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 7897551.288615
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 725993.514281
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 127861.375399
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 11753.836838
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 126.91498
+    },
+    {
+      "fecha": "1992-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.832759
+    },
+    {
+      "fecha": "1992-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 17.414037
+    },
+    {
+      "fecha": "1992-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 15.30085
+    },
+    {
+      "fecha": "1992-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 18.501019
+    },
+    {
+      "fecha": "1992-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 16.368269
+    },
+    {
+      "fecha": "1992-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 11.237464
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.843979
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 12.715306
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 10.674492
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 13.221389
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 11.171411
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 7.366695
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.74422
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 12.999799
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 11.062623
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 10.634096
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 8.737475
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 2.593783
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.687845
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 15.886596
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 13.963077
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 11.970344
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 10.111828
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 5.699989
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.627605
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 9.866932
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 8.107371
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 8.876384
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 7.132687
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 5.961193
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.593358
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 19.176378
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 17.307253
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 13.161621
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 11.386829
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 8.899552
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.607806
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 13.655936
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 11.857485
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 7.103227
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 5.408464
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 6.705856
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.520808
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 10.001954
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 8.354096
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 3.637971
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 2.085447
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 5.95651
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.473098
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 12.205534
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 10.576631
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 9.563709
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 7.973158
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 4.651726
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.371716
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 8.648828
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 7.178642
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 4.787506
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 3.369569
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 2.46937
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.345155
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 11.726863
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 10.243912
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 2.015094
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 0.661047
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 4.486504
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.362792
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 31.66554
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 29.895337
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": -19.109071
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": -20.196625
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": -1.349357
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.287169
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 48.897279
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 47.005076
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 11.229584
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 9.816066
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 2.585567
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.247464
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 15.754559
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 14.328353
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 54.881356
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 52.973071
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 9.431789
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.152011
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 16.424892
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 15.098939
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 5.979565
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 4.772573
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 9.171207
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.13102
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 15.618908
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 14.325859
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 15.855951
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 14.560252
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 7.418406
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.150461
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 13.86092
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 12.565893
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 9.284869
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 8.041889
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 3.268087
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.083559
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 4.464316
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 3.344517
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 0.187433
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": -0.88652
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 1.003453
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.049663
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 14.19986
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 13.013598
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 11.507822
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 10.349524
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 8.401145
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.071117
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 11.412533
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 10.231821
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 7.733589
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 6.591865
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 3.191962
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.052427
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 7.892332
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 6.768669
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 4.52975
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 3.441107
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 2.775671
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.07135
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 9.791739
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 8.627953
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 3.272359
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 2.177678
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 4.934733
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Población (miles)",
+      "valor": 1.009803
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 11.626802
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 10.510859
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 7.160902
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 6.089606
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 7.111226
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Población (miles)",
+      "valor": 0.978976
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 9.535261
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 8.473332
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 5.899227
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 4.872549
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 6.987711
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Población (miles)",
+      "valor": 0.949897
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 8.870563
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 7.846136
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 6.423473
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 5.422072
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 6.719741
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Población (miles)",
+      "valor": 0.934259
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 7.995061
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 6.995446
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 4.615467
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 3.647134
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 3.933862
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Población (miles)",
+      "valor": 0.953637
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 11.960285
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 10.902675
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 7.422223
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 6.407482
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 7.097516
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Población (miles)",
+      "valor": 0.897815
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 8.665443
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 7.69851
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 4.870831
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 3.937663
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 4.89403
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Población (miles)",
+      "valor": 0.870595
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": -2.906883
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": -3.744875
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": -11.930627
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": -12.690737
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": -7.929052
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Población (miles)",
+      "valor": 0.833
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 22.245305
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 21.235414
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 21.204251
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 20.20296
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 14.012429
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Población (miles)",
+      "valor": 0.82011
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 15.289481
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 14.351671
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 19.748438
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 18.774358
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 5.237957
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Población (miles)",
+      "valor": 0.839931
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 8.106347
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 7.205891
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 6.014919
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 5.131883
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 2.192298
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Población (miles)",
+      "valor": 0.789103
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 9.436796
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 8.579988
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 3.178445
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 2.370635
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 4.953777
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Población (miles)",
+      "valor": 0.765028
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "PIB corriente (millones RD$)",
+      "valor": 6.682024
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "PIB per cápita (RD$)",
+      "valor": 5.872073
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "PIB corriente (millones US$)",
+      "valor": 2.619248
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "PIB per cápita (US$)",
+      "valor": 1.840142
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "PIB real índice encadenado 2018",
+      "valor": 2.117143
+    }
+  ],
+  "csv_download": "data/csv/pib_dolares_percapita_anual.csv"
+}

@@ -1,0 +1,6386 @@
+{
+  "id": "reservas",
+  "titulo": "Reservas Internacionales",
+  "titulo_corto": "Reservas",
+  "fuente": "BCRD",
+  "fuente_url": "https://www.bancentral.gov.do/",
+  "categoria": "Internacional",
+  "frecuencia": "Mensual",
+  "unidad": "Millones de US$",
+  "descripcion": "Reservas brutas/netas y activos externos. Pulso de liquidez externa.",
+  "metodologia": "Serie mensual normalizada en formato long; cada medida del archivo original se conserva como subserie.",
+  "primera_obs": "1985-01",
+  "ultima_obs": "2026-04",
+  "n_observaciones": 496,
+  "n_observaciones_total": 1272,
+  "series_disponibles": [
+    "ACTIVOS BRUTOS",
+    "BRUTAS",
+    "BRUTAS 1/",
+    "NETAS",
+    "NETAS 2/"
+  ],
+  "observaciones": [
+    {
+      "fecha": "1985-01-31",
+      "serie": "BRUTAS",
+      "valor": 255.0
+    },
+    {
+      "fecha": "1985-01-31",
+      "serie": "NETAS",
+      "valor": -381.1
+    },
+    {
+      "fecha": "1985-02-28",
+      "serie": "BRUTAS",
+      "valor": 273.0
+    },
+    {
+      "fecha": "1985-02-28",
+      "serie": "NETAS",
+      "valor": -358.8
+    },
+    {
+      "fecha": "1985-03-31",
+      "serie": "BRUTAS",
+      "valor": 312.7
+    },
+    {
+      "fecha": "1985-03-31",
+      "serie": "NETAS",
+      "valor": -345.7
+    },
+    {
+      "fecha": "1985-04-30",
+      "serie": "BRUTAS",
+      "valor": 320.3
+    },
+    {
+      "fecha": "1985-04-30",
+      "serie": "NETAS",
+      "valor": -325.7
+    },
+    {
+      "fecha": "1985-05-31",
+      "serie": "BRUTAS",
+      "valor": 232.3
+    },
+    {
+      "fecha": "1985-05-31",
+      "serie": "NETAS",
+      "valor": -356.9
+    },
+    {
+      "fecha": "1985-06-30",
+      "serie": "BRUTAS",
+      "valor": 287.5
+    },
+    {
+      "fecha": "1985-06-30",
+      "serie": "NETAS",
+      "valor": -285.7
+    },
+    {
+      "fecha": "1985-07-31",
+      "serie": "BRUTAS",
+      "valor": 292.7
+    },
+    {
+      "fecha": "1985-07-31",
+      "serie": "NETAS",
+      "valor": -290.1
+    },
+    {
+      "fecha": "1985-08-31",
+      "serie": "BRUTAS",
+      "valor": 278.0
+    },
+    {
+      "fecha": "1985-08-31",
+      "serie": "NETAS",
+      "valor": -309.4
+    },
+    {
+      "fecha": "1985-09-30",
+      "serie": "NETAS",
+      "valor": -310.1
+    },
+    {
+      "fecha": "1985-09-30",
+      "serie": "BRUTAS",
+      "valor": 222.3
+    },
+    {
+      "fecha": "1985-10-31",
+      "serie": "BRUTAS",
+      "valor": 205.7
+    },
+    {
+      "fecha": "1985-10-31",
+      "serie": "NETAS",
+      "valor": -360.3
+    },
+    {
+      "fecha": "1985-11-30",
+      "serie": "BRUTAS",
+      "valor": 229.4
+    },
+    {
+      "fecha": "1985-11-30",
+      "serie": "NETAS",
+      "valor": -348.2
+    },
+    {
+      "fecha": "1985-12-31",
+      "serie": "BRUTAS",
+      "valor": 397.2
+    },
+    {
+      "fecha": "1985-12-31",
+      "serie": "NETAS",
+      "valor": -248.0
+    },
+    {
+      "fecha": "1986-01-31",
+      "serie": "NETAS",
+      "valor": -316.4
+    },
+    {
+      "fecha": "1986-01-31",
+      "serie": "BRUTAS",
+      "valor": 272.2
+    },
+    {
+      "fecha": "1986-02-28",
+      "serie": "NETAS",
+      "valor": -350.6
+    },
+    {
+      "fecha": "1986-02-28",
+      "serie": "BRUTAS",
+      "valor": 264.0
+    },
+    {
+      "fecha": "1986-03-31",
+      "serie": "BRUTAS",
+      "valor": 257.3
+    },
+    {
+      "fecha": "1986-03-31",
+      "serie": "NETAS",
+      "valor": -339.7
+    },
+    {
+      "fecha": "1986-04-30",
+      "serie": "BRUTAS",
+      "valor": 265.7
+    },
+    {
+      "fecha": "1986-04-30",
+      "serie": "NETAS",
+      "valor": -362.5
+    },
+    {
+      "fecha": "1986-05-31",
+      "serie": "BRUTAS",
+      "valor": 203.6
+    },
+    {
+      "fecha": "1986-05-31",
+      "serie": "NETAS",
+      "valor": -354.8
+    },
+    {
+      "fecha": "1986-06-30",
+      "serie": "BRUTAS",
+      "valor": 238.9
+    },
+    {
+      "fecha": "1986-06-30",
+      "serie": "NETAS",
+      "valor": -336.7
+    },
+    {
+      "fecha": "1986-07-31",
+      "serie": "NETAS",
+      "valor": -283.8
+    },
+    {
+      "fecha": "1986-07-31",
+      "serie": "BRUTAS",
+      "valor": 292.1
+    },
+    {
+      "fecha": "1986-08-31",
+      "serie": "BRUTAS",
+      "valor": 299.7
+    },
+    {
+      "fecha": "1986-08-31",
+      "serie": "NETAS",
+      "valor": -274.0
+    },
+    {
+      "fecha": "1986-09-30",
+      "serie": "NETAS",
+      "valor": -218.5
+    },
+    {
+      "fecha": "1986-09-30",
+      "serie": "BRUTAS",
+      "valor": 339.5
+    },
+    {
+      "fecha": "1986-10-31",
+      "serie": "NETAS",
+      "valor": -157.3
+    },
+    {
+      "fecha": "1986-10-31",
+      "serie": "BRUTAS",
+      "valor": 390.1
+    },
+    {
+      "fecha": "1986-11-30",
+      "serie": "BRUTAS",
+      "valor": 403.8
+    },
+    {
+      "fecha": "1986-11-30",
+      "serie": "NETAS",
+      "valor": -150.6
+    },
+    {
+      "fecha": "1986-12-31",
+      "serie": "BRUTAS",
+      "valor": 429.6
+    },
+    {
+      "fecha": "1986-12-31",
+      "serie": "NETAS",
+      "valor": -151.8
+    },
+    {
+      "fecha": "1987-01-31",
+      "serie": "NETAS",
+      "valor": -155.4
+    },
+    {
+      "fecha": "1987-01-31",
+      "serie": "BRUTAS",
+      "valor": 416.0
+    },
+    {
+      "fecha": "1987-02-28",
+      "serie": "BRUTAS",
+      "valor": 429.5
+    },
+    {
+      "fecha": "1987-02-28",
+      "serie": "NETAS",
+      "valor": -135.1
+    },
+    {
+      "fecha": "1987-03-31",
+      "serie": "BRUTAS",
+      "valor": 433.6
+    },
+    {
+      "fecha": "1987-03-31",
+      "serie": "NETAS",
+      "valor": -148.4
+    },
+    {
+      "fecha": "1987-04-30",
+      "serie": "NETAS",
+      "valor": -124.2
+    },
+    {
+      "fecha": "1987-04-30",
+      "serie": "BRUTAS",
+      "valor": 465.8
+    },
+    {
+      "fecha": "1987-05-31",
+      "serie": "BRUTAS",
+      "valor": 406.5
+    },
+    {
+      "fecha": "1987-05-31",
+      "serie": "NETAS",
+      "valor": -129.0
+    },
+    {
+      "fecha": "1987-06-30",
+      "serie": "BRUTAS",
+      "valor": 386.9
+    },
+    {
+      "fecha": "1987-06-30",
+      "serie": "NETAS",
+      "valor": -166.3
+    },
+    {
+      "fecha": "1987-07-31",
+      "serie": "NETAS",
+      "valor": -197.3
+    },
+    {
+      "fecha": "1987-07-31",
+      "serie": "BRUTAS",
+      "valor": 356.4
+    },
+    {
+      "fecha": "1987-08-31",
+      "serie": "BRUTAS",
+      "valor": 334.6
+    },
+    {
+      "fecha": "1987-08-31",
+      "serie": "NETAS",
+      "valor": -244.2
+    },
+    {
+      "fecha": "1987-09-30",
+      "serie": "BRUTAS",
+      "valor": 242.4
+    },
+    {
+      "fecha": "1987-09-30",
+      "serie": "NETAS",
+      "valor": -285.7
+    },
+    {
+      "fecha": "1987-10-31",
+      "serie": "NETAS",
+      "valor": -304.9
+    },
+    {
+      "fecha": "1987-10-31",
+      "serie": "BRUTAS",
+      "valor": 238.7
+    },
+    {
+      "fecha": "1987-11-30",
+      "serie": "NETAS",
+      "valor": -364.8
+    },
+    {
+      "fecha": "1987-11-30",
+      "serie": "BRUTAS",
+      "valor": 190.2
+    },
+    {
+      "fecha": "1987-12-31",
+      "serie": "NETAS",
+      "valor": -357.9
+    },
+    {
+      "fecha": "1987-12-31",
+      "serie": "BRUTAS",
+      "valor": 235.2
+    },
+    {
+      "fecha": "1988-01-31",
+      "serie": "BRUTAS",
+      "valor": 185.3
+    },
+    {
+      "fecha": "1988-01-31",
+      "serie": "NETAS",
+      "valor": -213.3
+    },
+    {
+      "fecha": "1988-02-29",
+      "serie": "BRUTAS",
+      "valor": 188.5
+    },
+    {
+      "fecha": "1988-02-29",
+      "serie": "NETAS",
+      "valor": -218.1
+    },
+    {
+      "fecha": "1988-03-31",
+      "serie": "BRUTAS",
+      "valor": 222.5
+    },
+    {
+      "fecha": "1988-03-31",
+      "serie": "NETAS",
+      "valor": -205.2
+    },
+    {
+      "fecha": "1988-04-30",
+      "serie": "NETAS",
+      "valor": -221.3
+    },
+    {
+      "fecha": "1988-04-30",
+      "serie": "BRUTAS",
+      "valor": 216.9
+    },
+    {
+      "fecha": "1988-05-31",
+      "serie": "BRUTAS",
+      "valor": 197.8
+    },
+    {
+      "fecha": "1988-05-31",
+      "serie": "NETAS",
+      "valor": -199.0
+    },
+    {
+      "fecha": "1988-06-30",
+      "serie": "BRUTAS",
+      "valor": 224.1
+    },
+    {
+      "fecha": "1988-06-30",
+      "serie": "NETAS",
+      "valor": -178.3
+    },
+    {
+      "fecha": "1988-07-31",
+      "serie": "BRUTAS",
+      "valor": 237.0
+    },
+    {
+      "fecha": "1988-07-31",
+      "serie": "NETAS",
+      "valor": -165.5
+    },
+    {
+      "fecha": "1988-08-31",
+      "serie": "NETAS",
+      "valor": -173.9
+    },
+    {
+      "fecha": "1988-08-31",
+      "serie": "BRUTAS",
+      "valor": 241.9
+    },
+    {
+      "fecha": "1988-09-30",
+      "serie": "BRUTAS",
+      "valor": 195.3
+    },
+    {
+      "fecha": "1988-09-30",
+      "serie": "NETAS",
+      "valor": -171.5
+    },
+    {
+      "fecha": "1988-10-31",
+      "serie": "NETAS",
+      "valor": -180.5
+    },
+    {
+      "fecha": "1988-10-31",
+      "serie": "BRUTAS",
+      "valor": 204.1
+    },
+    {
+      "fecha": "1988-11-30",
+      "serie": "BRUTAS",
+      "valor": 211.9
+    },
+    {
+      "fecha": "1988-11-30",
+      "serie": "NETAS",
+      "valor": -181.2
+    },
+    {
+      "fecha": "1988-12-31",
+      "serie": "BRUTAS",
+      "valor": 309.4
+    },
+    {
+      "fecha": "1988-12-31",
+      "serie": "NETAS",
+      "valor": -103.3
+    },
+    {
+      "fecha": "1989-01-31",
+      "serie": "BRUTAS",
+      "valor": 238.7
+    },
+    {
+      "fecha": "1989-01-31",
+      "serie": "NETAS",
+      "valor": -107.3
+    },
+    {
+      "fecha": "1989-02-28",
+      "serie": "BRUTAS",
+      "valor": 238.9
+    },
+    {
+      "fecha": "1989-02-28",
+      "serie": "NETAS",
+      "valor": -120.7
+    },
+    {
+      "fecha": "1989-03-31",
+      "serie": "BRUTAS",
+      "valor": 242.3
+    },
+    {
+      "fecha": "1989-03-31",
+      "serie": "NETAS",
+      "valor": -120.8
+    },
+    {
+      "fecha": "1989-04-30",
+      "serie": "BRUTAS",
+      "valor": 248.9
+    },
+    {
+      "fecha": "1989-04-30",
+      "serie": "NETAS",
+      "valor": -124.1
+    },
+    {
+      "fecha": "1989-05-31",
+      "serie": "BRUTAS",
+      "valor": 211.9
+    },
+    {
+      "fecha": "1989-05-31",
+      "serie": "NETAS",
+      "valor": -103.1
+    },
+    {
+      "fecha": "1989-06-30",
+      "serie": "NETAS",
+      "valor": -117.7
+    },
+    {
+      "fecha": "1989-06-30",
+      "serie": "BRUTAS",
+      "valor": 220.9
+    },
+    {
+      "fecha": "1989-07-31",
+      "serie": "BRUTAS",
+      "valor": 179.0
+    },
+    {
+      "fecha": "1989-07-31",
+      "serie": "NETAS",
+      "valor": -170.8
+    },
+    {
+      "fecha": "1989-08-31",
+      "serie": "BRUTAS",
+      "valor": 177.5
+    },
+    {
+      "fecha": "1989-08-31",
+      "serie": "NETAS",
+      "valor": -190.7
+    },
+    {
+      "fecha": "1989-09-30",
+      "serie": "BRUTAS",
+      "valor": 199.4
+    },
+    {
+      "fecha": "1989-09-30",
+      "serie": "NETAS",
+      "valor": -178.8
+    },
+    {
+      "fecha": "1989-10-31",
+      "serie": "BRUTAS",
+      "valor": 210.8
+    },
+    {
+      "fecha": "1989-10-31",
+      "serie": "NETAS",
+      "valor": -175.8
+    },
+    {
+      "fecha": "1989-11-30",
+      "serie": "NETAS",
+      "valor": -177.5
+    },
+    {
+      "fecha": "1989-11-30",
+      "serie": "BRUTAS",
+      "valor": 203.4
+    },
+    {
+      "fecha": "1989-12-31",
+      "serie": "BRUTAS",
+      "valor": 221.2
+    },
+    {
+      "fecha": "1989-12-31",
+      "serie": "NETAS",
+      "valor": -273.6
+    },
+    {
+      "fecha": "1990-01-31",
+      "serie": "NETAS",
+      "valor": -179.2
+    },
+    {
+      "fecha": "1990-01-31",
+      "serie": "BRUTAS",
+      "valor": 226.0
+    },
+    {
+      "fecha": "1990-02-28",
+      "serie": "NETAS",
+      "valor": -160.5
+    },
+    {
+      "fecha": "1990-02-28",
+      "serie": "BRUTAS",
+      "valor": 238.6
+    },
+    {
+      "fecha": "1990-03-31",
+      "serie": "BRUTAS",
+      "valor": 230.5
+    },
+    {
+      "fecha": "1990-03-31",
+      "serie": "NETAS",
+      "valor": -168.8
+    },
+    {
+      "fecha": "1990-04-30",
+      "serie": "BRUTAS",
+      "valor": 211.2
+    },
+    {
+      "fecha": "1990-04-30",
+      "serie": "NETAS",
+      "valor": -180.3
+    },
+    {
+      "fecha": "1990-05-31",
+      "serie": "BRUTAS",
+      "valor": 190.4
+    },
+    {
+      "fecha": "1990-05-31",
+      "serie": "NETAS",
+      "valor": -197.7
+    },
+    {
+      "fecha": "1990-06-30",
+      "serie": "BRUTAS",
+      "valor": 171.5
+    },
+    {
+      "fecha": "1990-06-30",
+      "serie": "NETAS",
+      "valor": -206.5
+    },
+    {
+      "fecha": "1990-07-31",
+      "serie": "BRUTAS",
+      "valor": 185.6
+    },
+    {
+      "fecha": "1990-07-31",
+      "serie": "NETAS",
+      "valor": -191.5
+    },
+    {
+      "fecha": "1990-08-31",
+      "serie": "NETAS",
+      "valor": -158.4
+    },
+    {
+      "fecha": "1990-08-31",
+      "serie": "BRUTAS",
+      "valor": 219.9
+    },
+    {
+      "fecha": "1990-09-30",
+      "serie": "BRUTAS",
+      "valor": 191.5
+    },
+    {
+      "fecha": "1990-09-30",
+      "serie": "NETAS",
+      "valor": -177.4
+    },
+    {
+      "fecha": "1990-10-31",
+      "serie": "BRUTAS",
+      "valor": 165.2
+    },
+    {
+      "fecha": "1990-10-31",
+      "serie": "NETAS",
+      "valor": -224.9
+    },
+    {
+      "fecha": "1990-11-30",
+      "serie": "BRUTAS",
+      "valor": 177.1
+    },
+    {
+      "fecha": "1990-11-30",
+      "serie": "NETAS",
+      "valor": -189.8
+    },
+    {
+      "fecha": "1990-12-31",
+      "serie": "BRUTAS",
+      "valor": 180.2
+    },
+    {
+      "fecha": "1990-12-31",
+      "serie": "NETAS",
+      "valor": -197.8
+    },
+    {
+      "fecha": "1991-01-31",
+      "serie": "NETAS",
+      "valor": -185.0
+    },
+    {
+      "fecha": "1991-01-31",
+      "serie": "BRUTAS",
+      "valor": 186.0
+    },
+    {
+      "fecha": "1991-02-28",
+      "serie": "NETAS",
+      "valor": -164.5
+    },
+    {
+      "fecha": "1991-02-28",
+      "serie": "BRUTAS",
+      "valor": 209.8
+    },
+    {
+      "fecha": "1991-03-31",
+      "serie": "BRUTAS",
+      "valor": 239.8
+    },
+    {
+      "fecha": "1991-03-31",
+      "serie": "NETAS",
+      "valor": -122.9
+    },
+    {
+      "fecha": "1991-04-30",
+      "serie": "BRUTAS",
+      "valor": 276.4
+    },
+    {
+      "fecha": "1991-04-30",
+      "serie": "NETAS",
+      "valor": -65.9
+    },
+    {
+      "fecha": "1991-05-31",
+      "serie": "BRUTAS",
+      "valor": 289.7
+    },
+    {
+      "fecha": "1991-05-31",
+      "serie": "NETAS",
+      "valor": -16.4
+    },
+    {
+      "fecha": "1991-06-30",
+      "serie": "NETAS",
+      "valor": 40.3
+    },
+    {
+      "fecha": "1991-06-30",
+      "serie": "BRUTAS",
+      "valor": 341.4
+    },
+    {
+      "fecha": "1991-07-31",
+      "serie": "BRUTAS",
+      "valor": 334.8
+    },
+    {
+      "fecha": "1991-07-31",
+      "serie": "NETAS",
+      "valor": 31.3
+    },
+    {
+      "fecha": "1991-08-31",
+      "serie": "BRUTAS",
+      "valor": 362.2
+    },
+    {
+      "fecha": "1991-08-31",
+      "serie": "NETAS",
+      "valor": 105.3
+    },
+    {
+      "fecha": "1991-09-30",
+      "serie": "BRUTAS",
+      "valor": 432.5
+    },
+    {
+      "fecha": "1991-09-30",
+      "serie": "NETAS",
+      "valor": 115.9
+    },
+    {
+      "fecha": "1991-10-31",
+      "serie": "NETAS",
+      "valor": 131.8
+    },
+    {
+      "fecha": "1991-10-31",
+      "serie": "BRUTAS",
+      "valor": 446.1
+    },
+    {
+      "fecha": "1991-11-30",
+      "serie": "NETAS",
+      "valor": 178.6
+    },
+    {
+      "fecha": "1991-11-30",
+      "serie": "BRUTAS",
+      "valor": 482.5
+    },
+    {
+      "fecha": "1991-12-31",
+      "serie": "BRUTAS",
+      "valor": 500.1
+    },
+    {
+      "fecha": "1991-12-31",
+      "serie": "NETAS",
+      "valor": 180.6
+    },
+    {
+      "fecha": "1992-01-31",
+      "serie": "BRUTAS",
+      "valor": 516.0
+    },
+    {
+      "fecha": "1992-01-31",
+      "serie": "NETAS",
+      "valor": 202.9
+    },
+    {
+      "fecha": "1992-02-29",
+      "serie": "BRUTAS",
+      "valor": 523.4
+    },
+    {
+      "fecha": "1992-02-29",
+      "serie": "NETAS",
+      "valor": 233.4
+    },
+    {
+      "fecha": "1992-03-31",
+      "serie": "BRUTAS",
+      "valor": 454.9
+    },
+    {
+      "fecha": "1992-03-31",
+      "serie": "NETAS",
+      "valor": 241.8
+    },
+    {
+      "fecha": "1992-04-30",
+      "serie": "BRUTAS",
+      "valor": 463.6
+    },
+    {
+      "fecha": "1992-04-30",
+      "serie": "NETAS",
+      "valor": 259.9
+    },
+    {
+      "fecha": "1992-05-31",
+      "serie": "NETAS",
+      "valor": 274.4
+    },
+    {
+      "fecha": "1992-05-31",
+      "serie": "BRUTAS",
+      "valor": 489.3
+    },
+    {
+      "fecha": "1992-06-30",
+      "serie": "BRUTAS",
+      "valor": 467.6
+    },
+    {
+      "fecha": "1992-06-30",
+      "serie": "NETAS",
+      "valor": 258.6
+    },
+    {
+      "fecha": "1992-07-31",
+      "serie": "BRUTAS",
+      "valor": 445.0
+    },
+    {
+      "fecha": "1992-07-31",
+      "serie": "NETAS",
+      "valor": 224.9
+    },
+    {
+      "fecha": "1992-08-31",
+      "serie": "BRUTAS",
+      "valor": 459.3
+    },
+    {
+      "fecha": "1992-08-31",
+      "serie": "NETAS",
+      "valor": 240.5
+    },
+    {
+      "fecha": "1992-09-30",
+      "serie": "BRUTAS",
+      "valor": 453.8
+    },
+    {
+      "fecha": "1992-09-30",
+      "serie": "NETAS",
+      "valor": 229.8
+    },
+    {
+      "fecha": "1992-10-31",
+      "serie": "BRUTAS",
+      "valor": 468.3
+    },
+    {
+      "fecha": "1992-10-31",
+      "serie": "NETAS",
+      "valor": 250.5
+    },
+    {
+      "fecha": "1992-11-30",
+      "serie": "NETAS",
+      "valor": 250.9
+    },
+    {
+      "fecha": "1992-11-30",
+      "serie": "BRUTAS",
+      "valor": 466.7
+    },
+    {
+      "fecha": "1992-12-31",
+      "serie": "BRUTAS",
+      "valor": 580.8
+    },
+    {
+      "fecha": "1992-12-31",
+      "serie": "NETAS",
+      "valor": 306.0
+    },
+    {
+      "fecha": "1993-01-31",
+      "serie": "BRUTAS",
+      "valor": 579.5
+    },
+    {
+      "fecha": "1993-01-31",
+      "serie": "NETAS",
+      "valor": 320.5
+    },
+    {
+      "fecha": "1993-02-28",
+      "serie": "BRUTAS",
+      "valor": 589.0
+    },
+    {
+      "fecha": "1993-02-28",
+      "serie": "NETAS",
+      "valor": 332.1
+    },
+    {
+      "fecha": "1993-03-31",
+      "serie": "BRUTAS",
+      "valor": 592.0
+    },
+    {
+      "fecha": "1993-03-31",
+      "serie": "NETAS",
+      "valor": 340.7
+    },
+    {
+      "fecha": "1993-04-30",
+      "serie": "BRUTAS",
+      "valor": 609.4
+    },
+    {
+      "fecha": "1993-04-30",
+      "serie": "NETAS",
+      "valor": 369.6
+    },
+    {
+      "fecha": "1993-05-31",
+      "serie": "BRUTAS",
+      "valor": 619.7
+    },
+    {
+      "fecha": "1993-05-31",
+      "serie": "NETAS",
+      "valor": 376.0
+    },
+    {
+      "fecha": "1993-06-30",
+      "serie": "BRUTAS",
+      "valor": 641.5
+    },
+    {
+      "fecha": "1993-06-30",
+      "serie": "NETAS",
+      "valor": 405.8
+    },
+    {
+      "fecha": "1993-07-31",
+      "serie": "NETAS",
+      "valor": 412.5
+    },
+    {
+      "fecha": "1993-07-31",
+      "serie": "BRUTAS",
+      "valor": 700.7
+    },
+    {
+      "fecha": "1993-08-31",
+      "serie": "BRUTAS",
+      "valor": 714.2
+    },
+    {
+      "fecha": "1993-08-31",
+      "serie": "NETAS",
+      "valor": 423.7
+    },
+    {
+      "fecha": "1993-09-30",
+      "serie": "BRUTAS",
+      "valor": 738.8
+    },
+    {
+      "fecha": "1993-09-30",
+      "serie": "NETAS",
+      "valor": 448.5
+    },
+    {
+      "fecha": "1993-10-31",
+      "serie": "BRUTAS",
+      "valor": 710.4
+    },
+    {
+      "fecha": "1993-10-31",
+      "serie": "NETAS",
+      "valor": 429.2
+    },
+    {
+      "fecha": "1993-11-30",
+      "serie": "BRUTAS",
+      "valor": 643.4
+    },
+    {
+      "fecha": "1993-11-30",
+      "serie": "NETAS",
+      "valor": 361.8
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "BRUTAS",
+      "valor": 736.0
+    },
+    {
+      "fecha": "1993-12-31",
+      "serie": "NETAS",
+      "valor": 437.9
+    },
+    {
+      "fecha": "1994-01-31",
+      "serie": "BRUTAS",
+      "valor": 685.6
+    },
+    {
+      "fecha": "1994-01-31",
+      "serie": "NETAS",
+      "valor": 386.1
+    },
+    {
+      "fecha": "1994-02-28",
+      "serie": "BRUTAS",
+      "valor": 637.4
+    },
+    {
+      "fecha": "1994-02-28",
+      "serie": "NETAS",
+      "valor": 351.2
+    },
+    {
+      "fecha": "1994-03-31",
+      "serie": "NETAS",
+      "valor": 293.0
+    },
+    {
+      "fecha": "1994-03-31",
+      "serie": "BRUTAS",
+      "valor": 574.8
+    },
+    {
+      "fecha": "1994-04-30",
+      "serie": "BRUTAS",
+      "valor": 568.7
+    },
+    {
+      "fecha": "1994-04-30",
+      "serie": "NETAS",
+      "valor": 287.2
+    },
+    {
+      "fecha": "1994-05-31",
+      "serie": "BRUTAS",
+      "valor": 480.2
+    },
+    {
+      "fecha": "1994-05-31",
+      "serie": "NETAS",
+      "valor": 204.0
+    },
+    {
+      "fecha": "1994-06-30",
+      "serie": "BRUTAS",
+      "valor": 429.6
+    },
+    {
+      "fecha": "1994-06-30",
+      "serie": "NETAS",
+      "valor": 164.7
+    },
+    {
+      "fecha": "1994-07-31",
+      "serie": "BRUTAS",
+      "valor": 399.2
+    },
+    {
+      "fecha": "1994-07-31",
+      "serie": "NETAS",
+      "valor": 125.1
+    },
+    {
+      "fecha": "1994-08-31",
+      "serie": "BRUTAS",
+      "valor": 270.6
+    },
+    {
+      "fecha": "1994-08-31",
+      "serie": "NETAS",
+      "valor": -62.4
+    },
+    {
+      "fecha": "1994-09-30",
+      "serie": "BRUTAS",
+      "valor": 316.7
+    },
+    {
+      "fecha": "1994-09-30",
+      "serie": "NETAS",
+      "valor": -46.6
+    },
+    {
+      "fecha": "1994-10-31",
+      "serie": "BRUTAS",
+      "valor": 339.5
+    },
+    {
+      "fecha": "1994-10-31",
+      "serie": "NETAS",
+      "valor": -33.7
+    },
+    {
+      "fecha": "1994-11-30",
+      "serie": "NETAS",
+      "valor": -40.0
+    },
+    {
+      "fecha": "1994-11-30",
+      "serie": "BRUTAS",
+      "valor": 354.4
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "BRUTAS",
+      "valor": 384.6
+    },
+    {
+      "fecha": "1994-12-31",
+      "serie": "NETAS",
+      "valor": -31.8
+    },
+    {
+      "fecha": "1995-01-31",
+      "serie": "BRUTAS",
+      "valor": 407.3
+    },
+    {
+      "fecha": "1995-01-31",
+      "serie": "NETAS",
+      "valor": -10.0
+    },
+    {
+      "fecha": "1995-02-28",
+      "serie": "BRUTAS",
+      "valor": 405.5
+    },
+    {
+      "fecha": "1995-02-28",
+      "serie": "NETAS",
+      "valor": 4.3
+    },
+    {
+      "fecha": "1995-03-31",
+      "serie": "BRUTAS",
+      "valor": 419.8
+    },
+    {
+      "fecha": "1995-03-31",
+      "serie": "NETAS",
+      "valor": 13.4
+    },
+    {
+      "fecha": "1995-04-30",
+      "serie": "BRUTAS",
+      "valor": 435.2
+    },
+    {
+      "fecha": "1995-04-30",
+      "serie": "NETAS",
+      "valor": 25.4
+    },
+    {
+      "fecha": "1995-05-31",
+      "serie": "NETAS",
+      "valor": 55.9
+    },
+    {
+      "fecha": "1995-05-31",
+      "serie": "BRUTAS",
+      "valor": 466.2
+    },
+    {
+      "fecha": "1995-06-30",
+      "serie": "NETAS",
+      "valor": 77.3
+    },
+    {
+      "fecha": "1995-06-30",
+      "serie": "BRUTAS",
+      "valor": 481.2
+    },
+    {
+      "fecha": "1995-07-31",
+      "serie": "NETAS",
+      "valor": 70.4
+    },
+    {
+      "fecha": "1995-07-31",
+      "serie": "BRUTAS",
+      "valor": 473.1
+    },
+    {
+      "fecha": "1995-08-31",
+      "serie": "NETAS",
+      "valor": 51.8
+    },
+    {
+      "fecha": "1995-08-31",
+      "serie": "BRUTAS",
+      "valor": 467.5
+    },
+    {
+      "fecha": "1995-09-30",
+      "serie": "NETAS",
+      "valor": 30.2
+    },
+    {
+      "fecha": "1995-09-30",
+      "serie": "BRUTAS",
+      "valor": 447.7
+    },
+    {
+      "fecha": "1995-10-31",
+      "serie": "BRUTAS",
+      "valor": 458.9
+    },
+    {
+      "fecha": "1995-10-31",
+      "serie": "NETAS",
+      "valor": 32.9
+    },
+    {
+      "fecha": "1995-11-30",
+      "serie": "BRUTAS",
+      "valor": 459.8
+    },
+    {
+      "fecha": "1995-11-30",
+      "serie": "NETAS",
+      "valor": 26.2
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "BRUTAS",
+      "valor": 528.5
+    },
+    {
+      "fecha": "1995-12-31",
+      "serie": "NETAS",
+      "valor": 105.2
+    },
+    {
+      "fecha": "1996-01-31",
+      "serie": "BRUTAS",
+      "valor": 527.6
+    },
+    {
+      "fecha": "1996-01-31",
+      "serie": "NETAS",
+      "valor": 95.1
+    },
+    {
+      "fecha": "1996-02-29",
+      "serie": "BRUTAS",
+      "valor": 532.7
+    },
+    {
+      "fecha": "1996-02-29",
+      "serie": "NETAS",
+      "valor": 108.4
+    },
+    {
+      "fecha": "1996-03-31",
+      "serie": "BRUTAS",
+      "valor": 535.4
+    },
+    {
+      "fecha": "1996-03-31",
+      "serie": "NETAS",
+      "valor": 140.9
+    },
+    {
+      "fecha": "1996-04-30",
+      "serie": "BRUTAS",
+      "valor": 533.2
+    },
+    {
+      "fecha": "1996-04-30",
+      "serie": "NETAS",
+      "valor": 133.0
+    },
+    {
+      "fecha": "1996-05-31",
+      "serie": "NETAS",
+      "valor": 132.4
+    },
+    {
+      "fecha": "1996-05-31",
+      "serie": "BRUTAS",
+      "valor": 535.8
+    },
+    {
+      "fecha": "1996-06-30",
+      "serie": "BRUTAS",
+      "valor": 537.3
+    },
+    {
+      "fecha": "1996-06-30",
+      "serie": "NETAS",
+      "valor": 153.2
+    },
+    {
+      "fecha": "1996-07-31",
+      "serie": "BRUTAS",
+      "valor": 518.4
+    },
+    {
+      "fecha": "1996-07-31",
+      "serie": "NETAS",
+      "valor": 128.9
+    },
+    {
+      "fecha": "1996-08-31",
+      "serie": "BRUTAS",
+      "valor": 512.7
+    },
+    {
+      "fecha": "1996-08-31",
+      "serie": "NETAS",
+      "valor": 122.3
+    },
+    {
+      "fecha": "1996-09-30",
+      "serie": "BRUTAS",
+      "valor": 507.8
+    },
+    {
+      "fecha": "1996-09-30",
+      "serie": "NETAS",
+      "valor": 127.6
+    },
+    {
+      "fecha": "1996-10-31",
+      "serie": "BRUTAS",
+      "valor": 510.4
+    },
+    {
+      "fecha": "1996-10-31",
+      "serie": "NETAS",
+      "valor": 117.8
+    },
+    {
+      "fecha": "1996-11-30",
+      "serie": "BRUTAS",
+      "valor": 507.2
+    },
+    {
+      "fecha": "1996-11-30",
+      "serie": "NETAS",
+      "valor": 110.2
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "NETAS",
+      "valor": 144.6
+    },
+    {
+      "fecha": "1996-12-31",
+      "serie": "BRUTAS",
+      "valor": 512.0
+    },
+    {
+      "fecha": "1997-01-31",
+      "serie": "BRUTAS",
+      "valor": 497.2
+    },
+    {
+      "fecha": "1997-01-31",
+      "serie": "NETAS",
+      "valor": 131.8
+    },
+    {
+      "fecha": "1997-02-28",
+      "serie": "BRUTAS",
+      "valor": 508.3
+    },
+    {
+      "fecha": "1997-02-28",
+      "serie": "NETAS",
+      "valor": 107.6
+    },
+    {
+      "fecha": "1997-03-31",
+      "serie": "BRUTAS",
+      "valor": 510.5
+    },
+    {
+      "fecha": "1997-03-31",
+      "serie": "NETAS",
+      "valor": 121.9
+    },
+    {
+      "fecha": "1997-04-30",
+      "serie": "BRUTAS",
+      "valor": 514.3
+    },
+    {
+      "fecha": "1997-04-30",
+      "serie": "NETAS",
+      "valor": 141.1
+    },
+    {
+      "fecha": "1997-05-31",
+      "serie": "BRUTAS",
+      "valor": 525.4
+    },
+    {
+      "fecha": "1997-05-31",
+      "serie": "NETAS",
+      "valor": 164.8
+    },
+    {
+      "fecha": "1997-06-30",
+      "serie": "BRUTAS",
+      "valor": 526.5
+    },
+    {
+      "fecha": "1997-06-30",
+      "serie": "NETAS",
+      "valor": 180.1
+    },
+    {
+      "fecha": "1997-07-31",
+      "serie": "BRUTAS",
+      "valor": 537.3
+    },
+    {
+      "fecha": "1997-07-31",
+      "serie": "NETAS",
+      "valor": 191.1
+    },
+    {
+      "fecha": "1997-08-31",
+      "serie": "NETAS",
+      "valor": 233.3
+    },
+    {
+      "fecha": "1997-08-31",
+      "serie": "BRUTAS",
+      "valor": 550.8
+    },
+    {
+      "fecha": "1997-09-30",
+      "serie": "BRUTAS",
+      "valor": 534.2
+    },
+    {
+      "fecha": "1997-09-30",
+      "serie": "NETAS",
+      "valor": 223.7
+    },
+    {
+      "fecha": "1997-10-31",
+      "serie": "BRUTAS",
+      "valor": 527.6
+    },
+    {
+      "fecha": "1997-10-31",
+      "serie": "NETAS",
+      "valor": 194.1
+    },
+    {
+      "fecha": "1997-11-30",
+      "serie": "BRUTAS",
+      "valor": 520.8
+    },
+    {
+      "fecha": "1997-11-30",
+      "serie": "NETAS",
+      "valor": 165.0
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "BRUTAS",
+      "valor": 555.5
+    },
+    {
+      "fecha": "1997-12-31",
+      "serie": "NETAS",
+      "valor": 254.4
+    },
+    {
+      "fecha": "1998-01-31",
+      "serie": "NETAS",
+      "valor": 201.3
+    },
+    {
+      "fecha": "1998-01-31",
+      "serie": "BRUTAS",
+      "valor": 520.6
+    },
+    {
+      "fecha": "1998-02-28",
+      "serie": "BRUTAS",
+      "valor": 521.6
+    },
+    {
+      "fecha": "1998-02-28",
+      "serie": "NETAS",
+      "valor": 187.9
+    },
+    {
+      "fecha": "1998-03-31",
+      "serie": "NETAS",
+      "valor": 216.5
+    },
+    {
+      "fecha": "1998-03-31",
+      "serie": "BRUTAS",
+      "valor": 522.1
+    },
+    {
+      "fecha": "1998-04-30",
+      "serie": "BRUTAS",
+      "valor": 520.3
+    },
+    {
+      "fecha": "1998-04-30",
+      "serie": "NETAS",
+      "valor": 173.1
+    },
+    {
+      "fecha": "1998-05-31",
+      "serie": "BRUTAS",
+      "valor": 520.2
+    },
+    {
+      "fecha": "1998-05-31",
+      "serie": "NETAS",
+      "valor": 154.2
+    },
+    {
+      "fecha": "1998-06-30",
+      "serie": "BRUTAS",
+      "valor": 521.5
+    },
+    {
+      "fecha": "1998-06-30",
+      "serie": "NETAS",
+      "valor": 167.9
+    },
+    {
+      "fecha": "1998-07-31",
+      "serie": "NETAS",
+      "valor": 154.4
+    },
+    {
+      "fecha": "1998-07-31",
+      "serie": "BRUTAS",
+      "valor": 526.2
+    },
+    {
+      "fecha": "1998-08-31",
+      "serie": "BRUTAS",
+      "valor": 528.2
+    },
+    {
+      "fecha": "1998-08-31",
+      "serie": "NETAS",
+      "valor": 194.9
+    },
+    {
+      "fecha": "1998-09-30",
+      "serie": "BRUTAS",
+      "valor": 530.3
+    },
+    {
+      "fecha": "1998-09-30",
+      "serie": "NETAS",
+      "valor": 201.6
+    },
+    {
+      "fecha": "1998-10-31",
+      "serie": "BRUTAS",
+      "valor": 555.6
+    },
+    {
+      "fecha": "1998-10-31",
+      "serie": "NETAS",
+      "valor": 252.8
+    },
+    {
+      "fecha": "1998-11-30",
+      "serie": "NETAS",
+      "valor": 310.1
+    },
+    {
+      "fecha": "1998-11-30",
+      "serie": "BRUTAS",
+      "valor": 605.5
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "BRUTAS",
+      "valor": 658.9
+    },
+    {
+      "fecha": "1998-12-31",
+      "serie": "NETAS",
+      "valor": 354.0
+    },
+    {
+      "fecha": "1999-01-31",
+      "serie": "NETAS",
+      "valor": 337.0
+    },
+    {
+      "fecha": "1999-01-31",
+      "serie": "BRUTAS",
+      "valor": 653.6
+    },
+    {
+      "fecha": "1999-02-28",
+      "serie": "BRUTAS",
+      "valor": 624.3
+    },
+    {
+      "fecha": "1999-02-28",
+      "serie": "NETAS",
+      "valor": 293.5
+    },
+    {
+      "fecha": "1999-03-31",
+      "serie": "NETAS",
+      "valor": 333.0
+    },
+    {
+      "fecha": "1999-03-31",
+      "serie": "BRUTAS",
+      "valor": 641.7
+    },
+    {
+      "fecha": "1999-04-30",
+      "serie": "NETAS",
+      "valor": 347.7
+    },
+    {
+      "fecha": "1999-04-30",
+      "serie": "BRUTAS",
+      "valor": 656.9
+    },
+    {
+      "fecha": "1999-05-31",
+      "serie": "NETAS",
+      "valor": 363.9
+    },
+    {
+      "fecha": "1999-05-31",
+      "serie": "BRUTAS",
+      "valor": 659.7
+    },
+    {
+      "fecha": "1999-06-30",
+      "serie": "NETAS",
+      "valor": 391.1
+    },
+    {
+      "fecha": "1999-06-30",
+      "serie": "BRUTAS",
+      "valor": 713.6
+    },
+    {
+      "fecha": "1999-07-31",
+      "serie": "BRUTAS",
+      "valor": 830.0
+    },
+    {
+      "fecha": "1999-07-31",
+      "serie": "NETAS",
+      "valor": 500.5
+    },
+    {
+      "fecha": "1999-08-31",
+      "serie": "BRUTAS",
+      "valor": 836.0
+    },
+    {
+      "fecha": "1999-08-31",
+      "serie": "NETAS",
+      "valor": 523.6
+    },
+    {
+      "fecha": "1999-09-30",
+      "serie": "BRUTAS",
+      "valor": 830.1
+    },
+    {
+      "fecha": "1999-09-30",
+      "serie": "NETAS",
+      "valor": 478.1
+    },
+    {
+      "fecha": "1999-10-31",
+      "serie": "BRUTAS",
+      "valor": 788.0
+    },
+    {
+      "fecha": "1999-10-31",
+      "serie": "NETAS",
+      "valor": 422.0
+    },
+    {
+      "fecha": "1999-11-30",
+      "serie": "BRUTAS",
+      "valor": 805.4
+    },
+    {
+      "fecha": "1999-11-30",
+      "serie": "NETAS",
+      "valor": 409.0
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "NETAS",
+      "valor": 547.0
+    },
+    {
+      "fecha": "1999-12-31",
+      "serie": "BRUTAS",
+      "valor": 881.3
+    },
+    {
+      "fecha": "2000-01-31",
+      "serie": "NETAS",
+      "valor": 443.8
+    },
+    {
+      "fecha": "2000-01-31",
+      "serie": "BRUTAS",
+      "valor": 848.2
+    },
+    {
+      "fecha": "2000-02-29",
+      "serie": "NETAS",
+      "valor": 379.4
+    },
+    {
+      "fecha": "2000-02-29",
+      "serie": "BRUTAS",
+      "valor": 765.4
+    },
+    {
+      "fecha": "2000-03-31",
+      "serie": "NETAS",
+      "valor": 375.0
+    },
+    {
+      "fecha": "2000-03-31",
+      "serie": "BRUTAS",
+      "valor": 769.3
+    },
+    {
+      "fecha": "2000-04-30",
+      "serie": "BRUTAS",
+      "valor": 765.7
+    },
+    {
+      "fecha": "2000-04-30",
+      "serie": "NETAS",
+      "valor": 387.5
+    },
+    {
+      "fecha": "2000-05-31",
+      "serie": "NETAS",
+      "valor": 361.6
+    },
+    {
+      "fecha": "2000-05-31",
+      "serie": "BRUTAS",
+      "valor": 743.7
+    },
+    {
+      "fecha": "2000-06-30",
+      "serie": "BRUTAS",
+      "valor": 681.3
+    },
+    {
+      "fecha": "2000-06-30",
+      "serie": "NETAS",
+      "valor": 287.0
+    },
+    {
+      "fecha": "2000-07-31",
+      "serie": "BRUTAS",
+      "valor": 622.2
+    },
+    {
+      "fecha": "2000-07-31",
+      "serie": "NETAS",
+      "valor": 226.9
+    },
+    {
+      "fecha": "2000-08-31",
+      "serie": "NETAS",
+      "valor": 197.3
+    },
+    {
+      "fecha": "2000-08-31",
+      "serie": "BRUTAS",
+      "valor": 595.2
+    },
+    {
+      "fecha": "2000-09-30",
+      "serie": "BRUTAS",
+      "valor": 615.7
+    },
+    {
+      "fecha": "2000-09-30",
+      "serie": "NETAS",
+      "valor": 217.9
+    },
+    {
+      "fecha": "2000-10-31",
+      "serie": "BRUTAS",
+      "valor": 671.2
+    },
+    {
+      "fecha": "2000-10-31",
+      "serie": "NETAS",
+      "valor": 249.0
+    },
+    {
+      "fecha": "2000-11-30",
+      "serie": "BRUTAS",
+      "valor": 622.7
+    },
+    {
+      "fecha": "2000-11-30",
+      "serie": "NETAS",
+      "valor": 216.7
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "NETAS",
+      "valor": 441.9
+    },
+    {
+      "fecha": "2000-12-31",
+      "serie": "BRUTAS",
+      "valor": 818.2
+    },
+    {
+      "fecha": "2001-01-31",
+      "serie": "BRUTAS",
+      "valor": 711.3
+    },
+    {
+      "fecha": "2001-01-31",
+      "serie": "NETAS",
+      "valor": 332.6
+    },
+    {
+      "fecha": "2001-02-28",
+      "serie": "BRUTAS",
+      "valor": 702.7
+    },
+    {
+      "fecha": "2001-02-28",
+      "serie": "NETAS",
+      "valor": 316.7
+    },
+    {
+      "fecha": "2001-03-31",
+      "serie": "BRUTAS",
+      "valor": 746.0
+    },
+    {
+      "fecha": "2001-03-31",
+      "serie": "NETAS",
+      "valor": 373.0
+    },
+    {
+      "fecha": "2001-04-30",
+      "serie": "NETAS",
+      "valor": 423.1
+    },
+    {
+      "fecha": "2001-04-30",
+      "serie": "BRUTAS",
+      "valor": 801.7
+    },
+    {
+      "fecha": "2001-05-31",
+      "serie": "BRUTAS",
+      "valor": 816.0
+    },
+    {
+      "fecha": "2001-05-31",
+      "serie": "NETAS",
+      "valor": 460.4
+    },
+    {
+      "fecha": "2001-06-30",
+      "serie": "BRUTAS",
+      "valor": 854.6
+    },
+    {
+      "fecha": "2001-06-30",
+      "serie": "NETAS",
+      "valor": 502.7
+    },
+    {
+      "fecha": "2001-07-31",
+      "serie": "NETAS",
+      "valor": 507.5
+    },
+    {
+      "fecha": "2001-07-31",
+      "serie": "BRUTAS",
+      "valor": 875.9
+    },
+    {
+      "fecha": "2001-08-31",
+      "serie": "NETAS",
+      "valor": 528.5
+    },
+    {
+      "fecha": "2001-08-31",
+      "serie": "BRUTAS",
+      "valor": 883.5
+    },
+    {
+      "fecha": "2001-09-30",
+      "serie": "NETAS",
+      "valor": 995.9
+    },
+    {
+      "fecha": "2001-09-30",
+      "serie": "BRUTAS",
+      "valor": 1337.8
+    },
+    {
+      "fecha": "2001-10-31",
+      "serie": "NETAS",
+      "valor": 927.9
+    },
+    {
+      "fecha": "2001-10-31",
+      "serie": "BRUTAS",
+      "valor": 1257.8
+    },
+    {
+      "fecha": "2001-11-30",
+      "serie": "BRUTAS",
+      "valor": 1207.1
+    },
+    {
+      "fecha": "2001-11-30",
+      "serie": "NETAS",
+      "valor": 892.5
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "BRUTAS",
+      "valor": 1340.8
+    },
+    {
+      "fecha": "2001-12-31",
+      "serie": "NETAS",
+      "valor": 962.2
+    },
+    {
+      "fecha": "2002-01-31",
+      "serie": "NETAS",
+      "valor": 885.3
+    },
+    {
+      "fecha": "2002-01-31",
+      "serie": "BRUTAS",
+      "valor": 1266.7
+    },
+    {
+      "fecha": "2002-02-28",
+      "serie": "BRUTAS",
+      "valor": 1110.8
+    },
+    {
+      "fecha": "2002-02-28",
+      "serie": "NETAS",
+      "valor": 753.6
+    },
+    {
+      "fecha": "2002-03-31",
+      "serie": "BRUTAS",
+      "valor": 1101.0
+    },
+    {
+      "fecha": "2002-03-31",
+      "serie": "NETAS",
+      "valor": 752.6
+    },
+    {
+      "fecha": "2002-04-30",
+      "serie": "NETAS",
+      "valor": 750.0
+    },
+    {
+      "fecha": "2002-04-30",
+      "serie": "BRUTAS",
+      "valor": 1124.5
+    },
+    {
+      "fecha": "2002-05-31",
+      "serie": "BRUTAS",
+      "valor": 1109.6
+    },
+    {
+      "fecha": "2002-05-31",
+      "serie": "NETAS",
+      "valor": 733.7
+    },
+    {
+      "fecha": "2002-06-30",
+      "serie": "BRUTAS",
+      "valor": 1097.0
+    },
+    {
+      "fecha": "2002-06-30",
+      "serie": "NETAS",
+      "valor": 705.7
+    },
+    {
+      "fecha": "2002-07-31",
+      "serie": "NETAS",
+      "valor": 648.7
+    },
+    {
+      "fecha": "2002-07-31",
+      "serie": "BRUTAS",
+      "valor": 1070.8
+    },
+    {
+      "fecha": "2002-08-31",
+      "serie": "BRUTAS",
+      "valor": 980.4
+    },
+    {
+      "fecha": "2002-08-31",
+      "serie": "NETAS",
+      "valor": 549.1
+    },
+    {
+      "fecha": "2002-09-30",
+      "serie": "BRUTAS",
+      "valor": 848.5
+    },
+    {
+      "fecha": "2002-09-30",
+      "serie": "NETAS",
+      "valor": 414.0
+    },
+    {
+      "fecha": "2002-10-31",
+      "serie": "BRUTAS",
+      "valor": 786.0
+    },
+    {
+      "fecha": "2002-10-31",
+      "serie": "NETAS",
+      "valor": 347.0
+    },
+    {
+      "fecha": "2002-11-30",
+      "serie": "BRUTAS",
+      "valor": 739.4
+    },
+    {
+      "fecha": "2002-11-30",
+      "serie": "NETAS",
+      "valor": 312.6
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "NETAS",
+      "valor": 376.0
+    },
+    {
+      "fecha": "2002-12-31",
+      "serie": "BRUTAS",
+      "valor": 828.9
+    },
+    {
+      "fecha": "2003-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 784.5
+    },
+    {
+      "fecha": "2003-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 583.3
+    },
+    {
+      "fecha": "2003-01-31",
+      "serie": "NETAS 2/",
+      "valor": 342.5
+    },
+    {
+      "fecha": "2003-02-28",
+      "serie": "NETAS 2/",
+      "valor": 430.3
+    },
+    {
+      "fecha": "2003-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 875.5
+    },
+    {
+      "fecha": "2003-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 674.4
+    },
+    {
+      "fecha": "2003-03-31",
+      "serie": "NETAS 2/",
+      "valor": 384.9
+    },
+    {
+      "fecha": "2003-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 842.6
+    },
+    {
+      "fecha": "2003-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 638.0
+    },
+    {
+      "fecha": "2003-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 803.4
+    },
+    {
+      "fecha": "2003-04-30",
+      "serie": "NETAS 2/",
+      "valor": 348.9
+    },
+    {
+      "fecha": "2003-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 597.7
+    },
+    {
+      "fecha": "2003-05-31",
+      "serie": "NETAS 2/",
+      "valor": 373.4
+    },
+    {
+      "fecha": "2003-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 786.7
+    },
+    {
+      "fecha": "2003-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 578.5
+    },
+    {
+      "fecha": "2003-06-30",
+      "serie": "NETAS 2/",
+      "valor": 310.8
+    },
+    {
+      "fecha": "2003-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 513.8
+    },
+    {
+      "fecha": "2003-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 716.4
+    },
+    {
+      "fecha": "2003-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 380.7
+    },
+    {
+      "fecha": "2003-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 583.1
+    },
+    {
+      "fecha": "2003-07-31",
+      "serie": "NETAS 2/",
+      "valor": 230.2
+    },
+    {
+      "fecha": "2003-08-31",
+      "serie": "NETAS 2/",
+      "valor": 188.6
+    },
+    {
+      "fecha": "2003-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 306.5
+    },
+    {
+      "fecha": "2003-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 508.7
+    },
+    {
+      "fecha": "2003-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 315.2
+    },
+    {
+      "fecha": "2003-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 520.8
+    },
+    {
+      "fecha": "2003-09-30",
+      "serie": "NETAS 2/",
+      "valor": 97.3
+    },
+    {
+      "fecha": "2003-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 281.4
+    },
+    {
+      "fecha": "2003-10-31",
+      "serie": "NETAS 2/",
+      "valor": 112.2
+    },
+    {
+      "fecha": "2003-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 487.4
+    },
+    {
+      "fecha": "2003-11-30",
+      "serie": "NETAS 2/",
+      "valor": 128.0
+    },
+    {
+      "fecha": "2003-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 506.2
+    },
+    {
+      "fecha": "2003-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 299.3
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 279.4
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "NETAS 2/",
+      "valor": 123.6
+    },
+    {
+      "fecha": "2003-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 489.2
+    },
+    {
+      "fecha": "2004-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 489.7
+    },
+    {
+      "fecha": "2004-01-31",
+      "serie": "NETAS 2/",
+      "valor": 114.2
+    },
+    {
+      "fecha": "2004-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 279.8
+    },
+    {
+      "fecha": "2004-02-29",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 578.6
+    },
+    {
+      "fecha": "2004-02-29",
+      "serie": "NETAS 2/",
+      "valor": 143.2
+    },
+    {
+      "fecha": "2004-02-29",
+      "serie": "BRUTAS 1/",
+      "valor": 368.3
+    },
+    {
+      "fecha": "2004-03-31",
+      "serie": "NETAS 2/",
+      "valor": 224.9
+    },
+    {
+      "fecha": "2004-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 662.0
+    },
+    {
+      "fecha": "2004-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 451.1
+    },
+    {
+      "fecha": "2004-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 420.6
+    },
+    {
+      "fecha": "2004-04-30",
+      "serie": "NETAS 2/",
+      "valor": 191.2
+    },
+    {
+      "fecha": "2004-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 630.5
+    },
+    {
+      "fecha": "2004-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 424.1
+    },
+    {
+      "fecha": "2004-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 635.6
+    },
+    {
+      "fecha": "2004-05-31",
+      "serie": "NETAS 2/",
+      "valor": 198.8
+    },
+    {
+      "fecha": "2004-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 479.5
+    },
+    {
+      "fecha": "2004-06-30",
+      "serie": "NETAS 2/",
+      "valor": 252.3
+    },
+    {
+      "fecha": "2004-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 691.4
+    },
+    {
+      "fecha": "2004-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 720.3
+    },
+    {
+      "fecha": "2004-07-31",
+      "serie": "NETAS 2/",
+      "valor": 276.9
+    },
+    {
+      "fecha": "2004-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 508.4
+    },
+    {
+      "fecha": "2004-08-31",
+      "serie": "NETAS 2/",
+      "valor": 352.2
+    },
+    {
+      "fecha": "2004-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 790.1
+    },
+    {
+      "fecha": "2004-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 577.2
+    },
+    {
+      "fecha": "2004-09-30",
+      "serie": "NETAS 2/",
+      "valor": 372.9
+    },
+    {
+      "fecha": "2004-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 800.8
+    },
+    {
+      "fecha": "2004-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 587.0
+    },
+    {
+      "fecha": "2004-10-31",
+      "serie": "NETAS 2/",
+      "valor": 437.7
+    },
+    {
+      "fecha": "2004-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 660.6
+    },
+    {
+      "fecha": "2004-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 876.7
+    },
+    {
+      "fecha": "2004-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 791.0
+    },
+    {
+      "fecha": "2004-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 1010.1
+    },
+    {
+      "fecha": "2004-11-30",
+      "serie": "NETAS 2/",
+      "valor": 567.9
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 824.8
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 1045.4
+    },
+    {
+      "fecha": "2004-12-31",
+      "serie": "NETAS 2/",
+      "valor": 602.2
+    },
+    {
+      "fecha": "2005-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 1201.4
+    },
+    {
+      "fecha": "2005-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 981.4
+    },
+    {
+      "fecha": "2005-01-31",
+      "serie": "NETAS 2/",
+      "valor": 758.6
+    },
+    {
+      "fecha": "2005-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 1242.9
+    },
+    {
+      "fecha": "2005-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 1100.3
+    },
+    {
+      "fecha": "2005-02-28",
+      "serie": "NETAS 2/",
+      "valor": 802.5
+    },
+    {
+      "fecha": "2005-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 1416.4
+    },
+    {
+      "fecha": "2005-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 1272.3
+    },
+    {
+      "fecha": "2005-03-31",
+      "serie": "NETAS 2/",
+      "valor": 975.7
+    },
+    {
+      "fecha": "2005-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 1390.0
+    },
+    {
+      "fecha": "2005-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 1536.1
+    },
+    {
+      "fecha": "2005-04-30",
+      "serie": "NETAS 2/",
+      "valor": 1092.7
+    },
+    {
+      "fecha": "2005-05-31",
+      "serie": "NETAS 2/",
+      "valor": 1127.0
+    },
+    {
+      "fecha": "2005-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 1418.7
+    },
+    {
+      "fecha": "2005-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 1566.6
+    },
+    {
+      "fecha": "2005-06-30",
+      "serie": "NETAS 2/",
+      "valor": 1239.6
+    },
+    {
+      "fecha": "2005-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 1524.8
+    },
+    {
+      "fecha": "2005-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 1674.4
+    },
+    {
+      "fecha": "2005-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 1608.5
+    },
+    {
+      "fecha": "2005-07-31",
+      "serie": "NETAS 2/",
+      "valor": 1325.2
+    },
+    {
+      "fecha": "2005-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 1759.7
+    },
+    {
+      "fecha": "2005-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 1593.4
+    },
+    {
+      "fecha": "2005-08-31",
+      "serie": "NETAS 2/",
+      "valor": 1306.8
+    },
+    {
+      "fecha": "2005-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 1746.4
+    },
+    {
+      "fecha": "2005-09-30",
+      "serie": "NETAS 2/",
+      "valor": 1272.7
+    },
+    {
+      "fecha": "2005-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 1712.3
+    },
+    {
+      "fecha": "2005-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 1557.4
+    },
+    {
+      "fecha": "2005-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 1773.5
+    },
+    {
+      "fecha": "2005-10-31",
+      "serie": "NETAS 2/",
+      "valor": 1356.0
+    },
+    {
+      "fecha": "2005-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 1929.6
+    },
+    {
+      "fecha": "2005-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 1930.3
+    },
+    {
+      "fecha": "2005-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 1772.3
+    },
+    {
+      "fecha": "2005-11-30",
+      "serie": "NETAS 2/",
+      "valor": 1356.3
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "NETAS 2/",
+      "valor": 1519.7
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 1929.3
+    },
+    {
+      "fecha": "2005-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2120.3
+    },
+    {
+      "fecha": "2006-01-31",
+      "serie": "NETAS 2/",
+      "valor": 1476.5
+    },
+    {
+      "fecha": "2006-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 1899.9
+    },
+    {
+      "fecha": "2006-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2094.8
+    },
+    {
+      "fecha": "2006-02-28",
+      "serie": "NETAS 2/",
+      "valor": 1501.8
+    },
+    {
+      "fecha": "2006-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2115.4
+    },
+    {
+      "fecha": "2006-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 1920.1
+    },
+    {
+      "fecha": "2006-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 1927.3
+    },
+    {
+      "fecha": "2006-03-31",
+      "serie": "NETAS 2/",
+      "valor": 1524.2
+    },
+    {
+      "fecha": "2006-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2124.0
+    },
+    {
+      "fecha": "2006-04-30",
+      "serie": "NETAS 2/",
+      "valor": 1571.7
+    },
+    {
+      "fecha": "2006-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 1986.9
+    },
+    {
+      "fecha": "2006-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2184.3
+    },
+    {
+      "fecha": "2006-05-31",
+      "serie": "NETAS 2/",
+      "valor": 1617.4
+    },
+    {
+      "fecha": "2006-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2367.5
+    },
+    {
+      "fecha": "2006-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2165.6
+    },
+    {
+      "fecha": "2006-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2303.4
+    },
+    {
+      "fecha": "2006-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2099.2
+    },
+    {
+      "fecha": "2006-06-30",
+      "serie": "NETAS 2/",
+      "valor": 1579.8
+    },
+    {
+      "fecha": "2006-07-31",
+      "serie": "NETAS 2/",
+      "valor": 1603.2
+    },
+    {
+      "fecha": "2006-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2332.3
+    },
+    {
+      "fecha": "2006-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2126.8
+    },
+    {
+      "fecha": "2006-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2363.9
+    },
+    {
+      "fecha": "2006-08-31",
+      "serie": "NETAS 2/",
+      "valor": 1645.0
+    },
+    {
+      "fecha": "2006-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2163.2
+    },
+    {
+      "fecha": "2006-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2076.2
+    },
+    {
+      "fecha": "2006-09-30",
+      "serie": "NETAS 2/",
+      "valor": 1582.9
+    },
+    {
+      "fecha": "2006-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2275.3
+    },
+    {
+      "fecha": "2006-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2217.1
+    },
+    {
+      "fecha": "2006-10-31",
+      "serie": "NETAS 2/",
+      "valor": 1717.2
+    },
+    {
+      "fecha": "2006-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2420.6
+    },
+    {
+      "fecha": "2006-11-30",
+      "serie": "NETAS 2/",
+      "valor": 1760.9
+    },
+    {
+      "fecha": "2006-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2258.7
+    },
+    {
+      "fecha": "2006-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2467.2
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "NETAS 2/",
+      "valor": 1787.8
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2463.1
+    },
+    {
+      "fecha": "2006-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2250.9
+    },
+    {
+      "fecha": "2007-01-31",
+      "serie": "NETAS 2/",
+      "valor": 1882.4
+    },
+    {
+      "fecha": "2007-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2342.8
+    },
+    {
+      "fecha": "2007-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2551.9
+    },
+    {
+      "fecha": "2007-02-28",
+      "serie": "NETAS 2/",
+      "valor": 1927.4
+    },
+    {
+      "fecha": "2007-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 2439.9
+    },
+    {
+      "fecha": "2007-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2641.3
+    },
+    {
+      "fecha": "2007-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2753.7
+    },
+    {
+      "fecha": "2007-03-31",
+      "serie": "NETAS 2/",
+      "valor": 2046.5
+    },
+    {
+      "fecha": "2007-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2546.9
+    },
+    {
+      "fecha": "2007-04-30",
+      "serie": "NETAS 2/",
+      "valor": 2173.0
+    },
+    {
+      "fecha": "2007-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2677.3
+    },
+    {
+      "fecha": "2007-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2896.4
+    },
+    {
+      "fecha": "2007-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2699.1
+    },
+    {
+      "fecha": "2007-05-31",
+      "serie": "NETAS 2/",
+      "valor": 2217.8
+    },
+    {
+      "fecha": "2007-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2922.4
+    },
+    {
+      "fecha": "2007-06-30",
+      "serie": "NETAS 2/",
+      "valor": 2240.9
+    },
+    {
+      "fecha": "2007-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2705.2
+    },
+    {
+      "fecha": "2007-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 2934.1
+    },
+    {
+      "fecha": "2007-07-31",
+      "serie": "NETAS 2/",
+      "valor": 2366.2
+    },
+    {
+      "fecha": "2007-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3062.3
+    },
+    {
+      "fecha": "2007-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2836.3
+    },
+    {
+      "fecha": "2007-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3014.2
+    },
+    {
+      "fecha": "2007-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2795.9
+    },
+    {
+      "fecha": "2007-08-31",
+      "serie": "NETAS 2/",
+      "valor": 2360.6
+    },
+    {
+      "fecha": "2007-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2922.3
+    },
+    {
+      "fecha": "2007-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3142.0
+    },
+    {
+      "fecha": "2007-09-30",
+      "serie": "NETAS 2/",
+      "valor": 2357.8
+    },
+    {
+      "fecha": "2007-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2917.2
+    },
+    {
+      "fecha": "2007-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3140.3
+    },
+    {
+      "fecha": "2007-10-31",
+      "serie": "NETAS 2/",
+      "valor": 2349.4
+    },
+    {
+      "fecha": "2007-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2851.8
+    },
+    {
+      "fecha": "2007-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3075.7
+    },
+    {
+      "fecha": "2007-11-30",
+      "serie": "NETAS 2/",
+      "valor": 2296.7
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3172.7
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "NETAS 2/",
+      "valor": 2394.9
+    },
+    {
+      "fecha": "2007-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2946.2
+    },
+    {
+      "fecha": "2008-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2987.6
+    },
+    {
+      "fecha": "2008-01-31",
+      "serie": "NETAS 2/",
+      "valor": 2328.4
+    },
+    {
+      "fecha": "2008-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3215.1
+    },
+    {
+      "fecha": "2008-02-29",
+      "serie": "BRUTAS 1/",
+      "valor": 2870.0
+    },
+    {
+      "fecha": "2008-02-29",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3463.7
+    },
+    {
+      "fecha": "2008-02-29",
+      "serie": "NETAS 2/",
+      "valor": 2216.9
+    },
+    {
+      "fecha": "2008-03-31",
+      "serie": "NETAS 2/",
+      "valor": 2245.2
+    },
+    {
+      "fecha": "2008-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2916.8
+    },
+    {
+      "fecha": "2008-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3518.7
+    },
+    {
+      "fecha": "2008-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2830.3
+    },
+    {
+      "fecha": "2008-04-30",
+      "serie": "NETAS 2/",
+      "valor": 2183.9
+    },
+    {
+      "fecha": "2008-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3428.3
+    },
+    {
+      "fecha": "2008-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3411.9
+    },
+    {
+      "fecha": "2008-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2813.8
+    },
+    {
+      "fecha": "2008-05-31",
+      "serie": "NETAS 2/",
+      "valor": 2193.2
+    },
+    {
+      "fecha": "2008-06-30",
+      "serie": "NETAS 2/",
+      "valor": 1975.0
+    },
+    {
+      "fecha": "2008-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3206.1
+    },
+    {
+      "fecha": "2008-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2604.5
+    },
+    {
+      "fecha": "2008-07-31",
+      "serie": "NETAS 2/",
+      "valor": 2078.5
+    },
+    {
+      "fecha": "2008-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3320.7
+    },
+    {
+      "fecha": "2008-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2687.2
+    },
+    {
+      "fecha": "2008-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3291.2
+    },
+    {
+      "fecha": "2008-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2668.3
+    },
+    {
+      "fecha": "2008-08-31",
+      "serie": "NETAS 2/",
+      "valor": 2111.2
+    },
+    {
+      "fecha": "2008-09-30",
+      "serie": "NETAS 2/",
+      "valor": 2099.2
+    },
+    {
+      "fecha": "2008-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2654.0
+    },
+    {
+      "fecha": "2008-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3274.9
+    },
+    {
+      "fecha": "2008-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2513.4
+    },
+    {
+      "fecha": "2008-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3119.9
+    },
+    {
+      "fecha": "2008-10-31",
+      "serie": "NETAS 2/",
+      "valor": 2007.7
+    },
+    {
+      "fecha": "2008-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2465.9
+    },
+    {
+      "fecha": "2008-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3074.3
+    },
+    {
+      "fecha": "2008-11-30",
+      "serie": "NETAS 2/",
+      "valor": 1986.5
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "NETAS 2/",
+      "valor": 2165.4
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2662.1
+    },
+    {
+      "fecha": "2008-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3278.7
+    },
+    {
+      "fecha": "2009-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3156.5
+    },
+    {
+      "fecha": "2009-01-31",
+      "serie": "NETAS 2/",
+      "valor": 2085.4
+    },
+    {
+      "fecha": "2009-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2549.9
+    },
+    {
+      "fecha": "2009-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3128.8
+    },
+    {
+      "fecha": "2009-02-28",
+      "serie": "NETAS 2/",
+      "valor": 2095.6
+    },
+    {
+      "fecha": "2009-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 2525.7
+    },
+    {
+      "fecha": "2009-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3150.8
+    },
+    {
+      "fecha": "2009-03-31",
+      "serie": "NETAS 2/",
+      "valor": 2103.8
+    },
+    {
+      "fecha": "2009-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2542.1
+    },
+    {
+      "fecha": "2009-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3089.3
+    },
+    {
+      "fecha": "2009-04-30",
+      "serie": "NETAS 2/",
+      "valor": 2038.9
+    },
+    {
+      "fecha": "2009-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2479.3
+    },
+    {
+      "fecha": "2009-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2521.3
+    },
+    {
+      "fecha": "2009-05-31",
+      "serie": "NETAS 2/",
+      "valor": 2073.0
+    },
+    {
+      "fecha": "2009-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3143.0
+    },
+    {
+      "fecha": "2009-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2498.0
+    },
+    {
+      "fecha": "2009-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3121.3
+    },
+    {
+      "fecha": "2009-06-30",
+      "serie": "NETAS 2/",
+      "valor": 2047.1
+    },
+    {
+      "fecha": "2009-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2511.7
+    },
+    {
+      "fecha": "2009-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3134.4
+    },
+    {
+      "fecha": "2009-07-31",
+      "serie": "NETAS 2/",
+      "valor": 2059.3
+    },
+    {
+      "fecha": "2009-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2732.0
+    },
+    {
+      "fecha": "2009-08-31",
+      "serie": "NETAS 2/",
+      "valor": 2272.7
+    },
+    {
+      "fecha": "2009-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3358.0
+    },
+    {
+      "fecha": "2009-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3303.3
+    },
+    {
+      "fecha": "2009-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2673.2
+    },
+    {
+      "fecha": "2009-09-30",
+      "serie": "NETAS 2/",
+      "valor": 2210.9
+    },
+    {
+      "fecha": "2009-10-31",
+      "serie": "NETAS 2/",
+      "valor": 2074.6
+    },
+    {
+      "fecha": "2009-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3171.8
+    },
+    {
+      "fecha": "2009-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2539.6
+    },
+    {
+      "fecha": "2009-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3326.9
+    },
+    {
+      "fecha": "2009-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2689.1
+    },
+    {
+      "fecha": "2009-11-30",
+      "serie": "NETAS 2/",
+      "valor": 2222.9
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3927.7
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "NETAS 2/",
+      "valor": 2851.9
+    },
+    {
+      "fecha": "2009-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3307.1
+    },
+    {
+      "fecha": "2010-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3068.516
+    },
+    {
+      "fecha": "2010-01-31",
+      "serie": "NETAS 2/",
+      "valor": 2615.773
+    },
+    {
+      "fecha": "2010-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3686.401
+    },
+    {
+      "fecha": "2010-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 2875.454
+    },
+    {
+      "fecha": "2010-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3489.766
+    },
+    {
+      "fecha": "2010-02-28",
+      "serie": "NETAS 2/",
+      "valor": 2430.114
+    },
+    {
+      "fecha": "2010-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3346.119
+    },
+    {
+      "fecha": "2010-03-31",
+      "serie": "NETAS 2/",
+      "valor": 2295.509
+    },
+    {
+      "fecha": "2010-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2737.816
+    },
+    {
+      "fecha": "2010-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2799.274
+    },
+    {
+      "fecha": "2010-04-30",
+      "serie": "NETAS 2/",
+      "valor": 2294.335
+    },
+    {
+      "fecha": "2010-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3407.559
+    },
+    {
+      "fecha": "2010-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3720.926
+    },
+    {
+      "fecha": "2010-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3120.509
+    },
+    {
+      "fecha": "2010-05-31",
+      "serie": "NETAS 2/",
+      "valor": 2655.506
+    },
+    {
+      "fecha": "2010-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3578.144
+    },
+    {
+      "fecha": "2010-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2978.953
+    },
+    {
+      "fecha": "2010-06-30",
+      "serie": "NETAS 2/",
+      "valor": 2511.316
+    },
+    {
+      "fecha": "2010-07-31",
+      "serie": "NETAS 2/",
+      "valor": 2470.04
+    },
+    {
+      "fecha": "2010-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3541.085
+    },
+    {
+      "fecha": "2010-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2932.445
+    },
+    {
+      "fecha": "2010-08-31",
+      "serie": "NETAS 2/",
+      "valor": 2406.99
+    },
+    {
+      "fecha": "2010-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3446.929
+    },
+    {
+      "fecha": "2010-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2841.83
+    },
+    {
+      "fecha": "2010-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2722.294
+    },
+    {
+      "fecha": "2010-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3337.595
+    },
+    {
+      "fecha": "2010-09-30",
+      "serie": "NETAS 2/",
+      "valor": 2274.279
+    },
+    {
+      "fecha": "2010-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2852.947
+    },
+    {
+      "fecha": "2010-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3472.647
+    },
+    {
+      "fecha": "2010-10-31",
+      "serie": "NETAS 2/",
+      "valor": 2418.177
+    },
+    {
+      "fecha": "2010-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3658.183
+    },
+    {
+      "fecha": "2010-11-30",
+      "serie": "NETAS 2/",
+      "valor": 2656.077
+    },
+    {
+      "fecha": "2010-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 3048.251
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3765.356
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4376.083
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "NETAS 2/",
+      "valor": 3342.695
+    },
+    {
+      "fecha": "2011-01-31",
+      "serie": "NETAS 2/",
+      "valor": 2705.253
+    },
+    {
+      "fecha": "2011-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3751.272
+    },
+    {
+      "fecha": "2011-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3134.889
+    },
+    {
+      "fecha": "2011-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 3040.534
+    },
+    {
+      "fecha": "2011-02-28",
+      "serie": "NETAS 2/",
+      "valor": 2635.019
+    },
+    {
+      "fecha": "2011-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3660.239
+    },
+    {
+      "fecha": "2011-03-31",
+      "serie": "NETAS 2/",
+      "valor": 2594.853
+    },
+    {
+      "fecha": "2011-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3609.585
+    },
+    {
+      "fecha": "2011-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2989.457
+    },
+    {
+      "fecha": "2011-04-30",
+      "serie": "NETAS 2/",
+      "valor": 2568.38
+    },
+    {
+      "fecha": "2011-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3586.188
+    },
+    {
+      "fecha": "2011-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2957.191
+    },
+    {
+      "fecha": "2011-05-31",
+      "serie": "NETAS 2/",
+      "valor": 2599.664
+    },
+    {
+      "fecha": "2011-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3568.146
+    },
+    {
+      "fecha": "2011-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 2953.047
+    },
+    {
+      "fecha": "2011-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 2945.922
+    },
+    {
+      "fecha": "2011-06-30",
+      "serie": "NETAS 2/",
+      "valor": 2606.548
+    },
+    {
+      "fecha": "2011-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3562.043
+    },
+    {
+      "fecha": "2011-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3780.366
+    },
+    {
+      "fecha": "2011-07-31",
+      "serie": "NETAS 2/",
+      "valor": 3239.233
+    },
+    {
+      "fecha": "2011-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4396.971
+    },
+    {
+      "fecha": "2011-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4190.826
+    },
+    {
+      "fecha": "2011-08-31",
+      "serie": "NETAS 2/",
+      "valor": 3032.976
+    },
+    {
+      "fecha": "2011-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3570.437
+    },
+    {
+      "fecha": "2011-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4029.772
+    },
+    {
+      "fecha": "2011-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 3418.978
+    },
+    {
+      "fecha": "2011-09-30",
+      "serie": "NETAS 2/",
+      "valor": 2912.32
+    },
+    {
+      "fecha": "2011-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3787.004
+    },
+    {
+      "fecha": "2011-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3169.779
+    },
+    {
+      "fecha": "2011-10-31",
+      "serie": "NETAS 2/",
+      "valor": 2668.841
+    },
+    {
+      "fecha": "2011-11-30",
+      "serie": "NETAS 2/",
+      "valor": 3038.993
+    },
+    {
+      "fecha": "2011-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4128.537
+    },
+    {
+      "fecha": "2011-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 3517.951
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4703.199
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "NETAS 2/",
+      "valor": 3637.949
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 4098.445
+    },
+    {
+      "fecha": "2012-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4107.17
+    },
+    {
+      "fecha": "2012-01-31",
+      "serie": "NETAS 2/",
+      "valor": 3046.824
+    },
+    {
+      "fecha": "2012-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3497.453
+    },
+    {
+      "fecha": "2012-02-29",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4035.502
+    },
+    {
+      "fecha": "2012-02-29",
+      "serie": "NETAS 2/",
+      "valor": 2980.108
+    },
+    {
+      "fecha": "2012-02-29",
+      "serie": "BRUTAS 1/",
+      "valor": 3423.915
+    },
+    {
+      "fecha": "2012-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4070.0551
+    },
+    {
+      "fecha": "2012-03-31",
+      "serie": "NETAS 2/",
+      "valor": 3030.9822
+    },
+    {
+      "fecha": "2012-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3459.1279
+    },
+    {
+      "fecha": "2012-04-30",
+      "serie": "NETAS 2/",
+      "valor": 3125.4952
+    },
+    {
+      "fecha": "2012-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 3539.7792
+    },
+    {
+      "fecha": "2012-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4151.8218
+    },
+    {
+      "fecha": "2012-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3412.4119
+    },
+    {
+      "fecha": "2012-05-31",
+      "serie": "NETAS 2/",
+      "valor": 3012.3101
+    },
+    {
+      "fecha": "2012-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4016.7754
+    },
+    {
+      "fecha": "2012-06-30",
+      "serie": "NETAS 2/",
+      "valor": 3219.1565
+    },
+    {
+      "fecha": "2012-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 3607.6741
+    },
+    {
+      "fecha": "2012-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4214.5442
+    },
+    {
+      "fecha": "2012-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4106.071
+    },
+    {
+      "fecha": "2012-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3500.0927
+    },
+    {
+      "fecha": "2012-07-31",
+      "serie": "NETAS 2/",
+      "valor": 3127.6723
+    },
+    {
+      "fecha": "2012-08-31",
+      "serie": "NETAS 2/",
+      "valor": 3245.1545
+    },
+    {
+      "fecha": "2012-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4235.1736
+    },
+    {
+      "fecha": "2012-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3625.3367
+    },
+    {
+      "fecha": "2012-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3983.8757
+    },
+    {
+      "fecha": "2012-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 3368.65
+    },
+    {
+      "fecha": "2012-09-30",
+      "serie": "NETAS 2/",
+      "valor": 3002.3964
+    },
+    {
+      "fecha": "2012-10-31",
+      "serie": "NETAS 2/",
+      "valor": 2994.8055
+    },
+    {
+      "fecha": "2012-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3346.72
+    },
+    {
+      "fecha": "2012-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3962.0951
+    },
+    {
+      "fecha": "2012-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4081.979
+    },
+    {
+      "fecha": "2012-11-30",
+      "serie": "NETAS 2/",
+      "valor": 3119.2729
+    },
+    {
+      "fecha": "2012-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 3466.5397
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "NETAS 2/",
+      "valor": 3209.8098
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4172.4164
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3558.5238
+    },
+    {
+      "fecha": "2013-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3969.0348
+    },
+    {
+      "fecha": "2013-01-31",
+      "serie": "NETAS 2/",
+      "valor": 3017.8043
+    },
+    {
+      "fecha": "2013-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3353.2768
+    },
+    {
+      "fecha": "2013-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 3975.7791
+    },
+    {
+      "fecha": "2013-02-28",
+      "serie": "NETAS 2/",
+      "valor": 3035.1696
+    },
+    {
+      "fecha": "2013-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 3364.5075
+    },
+    {
+      "fecha": "2013-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4434.6507
+    },
+    {
+      "fecha": "2013-03-31",
+      "serie": "NETAS 2/",
+      "valor": 3500.4731
+    },
+    {
+      "fecha": "2013-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3826.4397
+    },
+    {
+      "fecha": "2013-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5041.3769
+    },
+    {
+      "fecha": "2013-04-30",
+      "serie": "NETAS 2/",
+      "valor": 4099.6361
+    },
+    {
+      "fecha": "2013-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 4429.3611
+    },
+    {
+      "fecha": "2013-05-31",
+      "serie": "NETAS 2/",
+      "valor": 4067.3935
+    },
+    {
+      "fecha": "2013-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 4391.898
+    },
+    {
+      "fecha": "2013-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5002.4779
+    },
+    {
+      "fecha": "2013-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4779.9148
+    },
+    {
+      "fecha": "2013-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 4167.8012
+    },
+    {
+      "fecha": "2013-06-30",
+      "serie": "NETAS 2/",
+      "valor": 3841.4442
+    },
+    {
+      "fecha": "2013-07-31",
+      "serie": "NETAS 2/",
+      "valor": 3453.8036
+    },
+    {
+      "fecha": "2013-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3772.7323
+    },
+    {
+      "fecha": "2013-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4388.3646
+    },
+    {
+      "fecha": "2013-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3716.7128
+    },
+    {
+      "fecha": "2013-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4334.4133
+    },
+    {
+      "fecha": "2013-08-31",
+      "serie": "NETAS 2/",
+      "valor": 3392.6395
+    },
+    {
+      "fecha": "2013-09-30",
+      "serie": "NETAS 2/",
+      "valor": 3343.7962
+    },
+    {
+      "fecha": "2013-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 3667.377
+    },
+    {
+      "fecha": "2013-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4289.969
+    },
+    {
+      "fecha": "2013-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3962.9249
+    },
+    {
+      "fecha": "2013-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4587.2584
+    },
+    {
+      "fecha": "2013-10-31",
+      "serie": "NETAS 2/",
+      "valor": 3648.2317
+    },
+    {
+      "fecha": "2013-11-30",
+      "serie": "NETAS 2/",
+      "valor": 3542.005
+    },
+    {
+      "fecha": "2013-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4476.8908
+    },
+    {
+      "fecha": "2013-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 3852.7063
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5326.0904
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "NETAS 2/",
+      "valor": 4386.5042
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 4700.6346
+    },
+    {
+      "fecha": "2014-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4690.7325
+    },
+    {
+      "fecha": "2014-01-31",
+      "serie": "NETAS 2/",
+      "valor": 3753.8265
+    },
+    {
+      "fecha": "2014-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 4066.4491
+    },
+    {
+      "fecha": "2014-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4381.881
+    },
+    {
+      "fecha": "2014-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 3754.053
+    },
+    {
+      "fecha": "2014-02-28",
+      "serie": "NETAS 2/",
+      "valor": 3449.5471
+    },
+    {
+      "fecha": "2014-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4516.6037
+    },
+    {
+      "fecha": "2014-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 3887.7974
+    },
+    {
+      "fecha": "2014-03-31",
+      "serie": "NETAS 2/",
+      "valor": 3584.874
+    },
+    {
+      "fecha": "2014-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 5452.7744
+    },
+    {
+      "fecha": "2014-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 6083.328
+    },
+    {
+      "fecha": "2014-04-30",
+      "serie": "NETAS 2/",
+      "valor": 5161.9815
+    },
+    {
+      "fecha": "2014-05-31",
+      "serie": "NETAS 2/",
+      "valor": 4598.0581
+    },
+    {
+      "fecha": "2014-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5514.1213
+    },
+    {
+      "fecha": "2014-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 4884.4868
+    },
+    {
+      "fecha": "2014-06-30",
+      "serie": "NETAS 2/",
+      "valor": 4666.5868
+    },
+    {
+      "fecha": "2014-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 4949.7731
+    },
+    {
+      "fecha": "2014-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5581.7461
+    },
+    {
+      "fecha": "2014-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 4809.026
+    },
+    {
+      "fecha": "2014-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5438.7596
+    },
+    {
+      "fecha": "2014-07-31",
+      "serie": "NETAS 2/",
+      "valor": 4538.0681
+    },
+    {
+      "fecha": "2014-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 4526.5621
+    },
+    {
+      "fecha": "2014-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5154.6742
+    },
+    {
+      "fecha": "2014-08-31",
+      "serie": "NETAS 2/",
+      "valor": 4249.4966
+    },
+    {
+      "fecha": "2014-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 4281.644
+    },
+    {
+      "fecha": "2014-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 4903.0654
+    },
+    {
+      "fecha": "2014-09-30",
+      "serie": "NETAS 2/",
+      "valor": 4023.3483
+    },
+    {
+      "fecha": "2014-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 4437.6694
+    },
+    {
+      "fecha": "2014-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5059.2126
+    },
+    {
+      "fecha": "2014-10-31",
+      "serie": "NETAS 2/",
+      "valor": 4214.4045
+    },
+    {
+      "fecha": "2014-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 4425.9579
+    },
+    {
+      "fecha": "2014-11-30",
+      "serie": "NETAS 2/",
+      "valor": 4208.1045
+    },
+    {
+      "fecha": "2014-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5045.4843
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "NETAS 2/",
+      "valor": 4650.4486
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 4861.7875
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5476.4546
+    },
+    {
+      "fecha": "2015-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5149.6786
+    },
+    {
+      "fecha": "2015-01-31",
+      "serie": "NETAS 2/",
+      "valor": 4369.7523
+    },
+    {
+      "fecha": "2015-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 4542.4647
+    },
+    {
+      "fecha": "2015-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5358.1017
+    },
+    {
+      "fecha": "2015-02-28",
+      "serie": "NETAS 2/",
+      "valor": 4575.726
+    },
+    {
+      "fecha": "2015-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 4748.8555
+    },
+    {
+      "fecha": "2015-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5565.4792
+    },
+    {
+      "fecha": "2015-03-31",
+      "serie": "NETAS 2/",
+      "valor": 4797.7848
+    },
+    {
+      "fecha": "2015-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 4962.6575
+    },
+    {
+      "fecha": "2015-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5369.0783
+    },
+    {
+      "fecha": "2015-04-30",
+      "serie": "NETAS 2/",
+      "valor": 4623.8359
+    },
+    {
+      "fecha": "2015-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 4759.012
+    },
+    {
+      "fecha": "2015-05-31",
+      "serie": "NETAS 2/",
+      "valor": 4925.9654
+    },
+    {
+      "fecha": "2015-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 5057.6438
+    },
+    {
+      "fecha": "2015-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5665.1844
+    },
+    {
+      "fecha": "2015-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 5053.0814
+    },
+    {
+      "fecha": "2015-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5665.1679
+    },
+    {
+      "fecha": "2015-06-30",
+      "serie": "NETAS 2/",
+      "valor": 4923.9753
+    },
+    {
+      "fecha": "2015-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 4841.3522
+    },
+    {
+      "fecha": "2015-07-31",
+      "serie": "NETAS 2/",
+      "valor": 4736.4104
+    },
+    {
+      "fecha": "2015-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5451.9705
+    },
+    {
+      "fecha": "2015-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 4989.7929
+    },
+    {
+      "fecha": "2015-08-31",
+      "serie": "NETAS 2/",
+      "valor": 4884.0039
+    },
+    {
+      "fecha": "2015-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5603.9109
+    },
+    {
+      "fecha": "2015-09-30",
+      "serie": "NETAS 2/",
+      "valor": 4720.2337
+    },
+    {
+      "fecha": "2015-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 4821.9244
+    },
+    {
+      "fecha": "2015-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5436.8348
+    },
+    {
+      "fecha": "2015-10-31",
+      "serie": "NETAS 2/",
+      "valor": 4621.3133
+    },
+    {
+      "fecha": "2015-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5314.1303
+    },
+    {
+      "fecha": "2015-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 4699.3701
+    },
+    {
+      "fecha": "2015-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5560.9282
+    },
+    {
+      "fecha": "2015-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 4950.1873
+    },
+    {
+      "fecha": "2015-11-30",
+      "serie": "NETAS 2/",
+      "valor": 4875.8326
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "NETAS 2/",
+      "valor": 5195.0541
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 5266.0461
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5881.5406
+    },
+    {
+      "fecha": "2016-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 6300.1074
+    },
+    {
+      "fecha": "2016-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 5685.7066
+    },
+    {
+      "fecha": "2016-01-31",
+      "serie": "NETAS 2/",
+      "valor": 5637.9395
+    },
+    {
+      "fecha": "2016-02-29",
+      "serie": "NETAS 2/",
+      "valor": 5065.0063
+    },
+    {
+      "fecha": "2016-02-29",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5995.8489
+    },
+    {
+      "fecha": "2016-02-29",
+      "serie": "BRUTAS 1/",
+      "valor": 5112.9894
+    },
+    {
+      "fecha": "2016-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 5183.4242
+    },
+    {
+      "fecha": "2016-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 6078.1638
+    },
+    {
+      "fecha": "2016-03-31",
+      "serie": "NETAS 2/",
+      "valor": 5134.0699
+    },
+    {
+      "fecha": "2016-04-30",
+      "serie": "NETAS 2/",
+      "valor": 5015.4147
+    },
+    {
+      "fecha": "2016-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5941.0759
+    },
+    {
+      "fecha": "2016-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 5041.483
+    },
+    {
+      "fecha": "2016-05-31",
+      "serie": "NETAS 2/",
+      "valor": 5011.0678
+    },
+    {
+      "fecha": "2016-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5929.663
+    },
+    {
+      "fecha": "2016-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 5034.8837
+    },
+    {
+      "fecha": "2016-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 5325.2553
+    },
+    {
+      "fecha": "2016-06-30",
+      "serie": "NETAS 2/",
+      "valor": 5301.0213
+    },
+    {
+      "fecha": "2016-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 6219.8607
+    },
+    {
+      "fecha": "2016-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 5334.6138
+    },
+    {
+      "fecha": "2016-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 6228.2024
+    },
+    {
+      "fecha": "2016-07-31",
+      "serie": "NETAS 2/",
+      "valor": 5333.6006
+    },
+    {
+      "fecha": "2016-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 5134.389
+    },
+    {
+      "fecha": "2016-08-31",
+      "serie": "NETAS 2/",
+      "valor": 5131.3256
+    },
+    {
+      "fecha": "2016-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 6029.2864
+    },
+    {
+      "fecha": "2016-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 4940.4717
+    },
+    {
+      "fecha": "2016-09-30",
+      "serie": "NETAS 2/",
+      "valor": 4938.558
+    },
+    {
+      "fecha": "2016-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 5836.9597
+    },
+    {
+      "fecha": "2016-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 6341.8887
+    },
+    {
+      "fecha": "2016-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 5452.7094
+    },
+    {
+      "fecha": "2016-10-31",
+      "serie": "NETAS 2/",
+      "valor": 5450.2544
+    },
+    {
+      "fecha": "2016-11-30",
+      "serie": "NETAS 2/",
+      "valor": 5709.3339
+    },
+    {
+      "fecha": "2016-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 5709.386
+    },
+    {
+      "fecha": "2016-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 6591.7898
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 6047.3546
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 6924.2422
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "NETAS 2/",
+      "valor": 6046.7
+    },
+    {
+      "fecha": "2017-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 6708.729
+    },
+    {
+      "fecha": "2017-01-31",
+      "serie": "NETAS 2/",
+      "valor": 6707.0496
+    },
+    {
+      "fecha": "2017-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7593.011
+    },
+    {
+      "fecha": "2017-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 6300.7365
+    },
+    {
+      "fecha": "2017-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7184.6128
+    },
+    {
+      "fecha": "2017-02-28",
+      "serie": "NETAS 2/",
+      "valor": 6299.0953
+    },
+    {
+      "fecha": "2017-03-31",
+      "serie": "NETAS 2/",
+      "valor": 6456.3899
+    },
+    {
+      "fecha": "2017-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 6458.6614
+    },
+    {
+      "fecha": "2017-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7345.0296
+    },
+    {
+      "fecha": "2017-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 6319.4293
+    },
+    {
+      "fecha": "2017-04-30",
+      "serie": "NETAS 2/",
+      "valor": 6316.5241
+    },
+    {
+      "fecha": "2017-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7212.6363
+    },
+    {
+      "fecha": "2017-05-31",
+      "serie": "NETAS 2/",
+      "valor": 6087.2314
+    },
+    {
+      "fecha": "2017-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 6987.2497
+    },
+    {
+      "fecha": "2017-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 6087.368
+    },
+    {
+      "fecha": "2017-06-30",
+      "serie": "NETAS 2/",
+      "valor": 6512.7857
+    },
+    {
+      "fecha": "2017-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7417.8811
+    },
+    {
+      "fecha": "2017-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 6513.6651
+    },
+    {
+      "fecha": "2017-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7162.9594
+    },
+    {
+      "fecha": "2017-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 6250.3936
+    },
+    {
+      "fecha": "2017-07-31",
+      "serie": "NETAS 2/",
+      "valor": 6248.7458
+    },
+    {
+      "fecha": "2017-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 6955.79
+    },
+    {
+      "fecha": "2017-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 6283.3754
+    },
+    {
+      "fecha": "2017-08-31",
+      "serie": "NETAS 2/",
+      "valor": 6279.1282
+    },
+    {
+      "fecha": "2017-09-30",
+      "serie": "NETAS 2/",
+      "valor": 6169.1448
+    },
+    {
+      "fecha": "2017-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 6176.2789
+    },
+    {
+      "fecha": "2017-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 6848.6318
+    },
+    {
+      "fecha": "2017-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 5826.3566
+    },
+    {
+      "fecha": "2017-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 6494.8451
+    },
+    {
+      "fecha": "2017-10-31",
+      "serie": "NETAS 2/",
+      "valor": 5821.829
+    },
+    {
+      "fecha": "2017-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 6344.6898
+    },
+    {
+      "fecha": "2017-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7014.9033
+    },
+    {
+      "fecha": "2017-11-30",
+      "serie": "NETAS 2/",
+      "valor": 6344.5116
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "NETAS 2/",
+      "valor": 6780.4031
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 6780.7716
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7452.1127
+    },
+    {
+      "fecha": "2018-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 6806.4589
+    },
+    {
+      "fecha": "2018-01-31",
+      "serie": "NETAS 2/",
+      "valor": 6803.9782
+    },
+    {
+      "fecha": "2018-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7491.4047
+    },
+    {
+      "fecha": "2018-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 8050.3442
+    },
+    {
+      "fecha": "2018-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 8730.5978
+    },
+    {
+      "fecha": "2018-02-28",
+      "serie": "NETAS 2/",
+      "valor": 8050.1476
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "NETAS 2/",
+      "valor": 7576.7979
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 7577.216
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 8262.3881
+    },
+    {
+      "fecha": "2018-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 7202.8074
+    },
+    {
+      "fecha": "2018-04-30",
+      "serie": "NETAS 2/",
+      "valor": 7202.1804
+    },
+    {
+      "fecha": "2018-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7879.9362
+    },
+    {
+      "fecha": "2018-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7578.8618
+    },
+    {
+      "fecha": "2018-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 6911.4268
+    },
+    {
+      "fecha": "2018-05-31",
+      "serie": "NETAS 2/",
+      "valor": 6911.1901
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "NETAS 2/",
+      "valor": 6597.9586
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7262.5704
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 6598.4296
+    },
+    {
+      "fecha": "2018-07-31",
+      "serie": "NETAS 2/",
+      "valor": 7391.0418
+    },
+    {
+      "fecha": "2018-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 8055.2174
+    },
+    {
+      "fecha": "2018-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 7391.746
+    },
+    {
+      "fecha": "2018-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 8096.8306
+    },
+    {
+      "fecha": "2018-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 7434.83
+    },
+    {
+      "fecha": "2018-08-31",
+      "serie": "NETAS 2/",
+      "valor": 7430.6821
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "NETAS 2/",
+      "valor": 7328.6228
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 7329.0965
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7988.6872
+    },
+    {
+      "fecha": "2018-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 6985.1955
+    },
+    {
+      "fecha": "2018-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7639.258
+    },
+    {
+      "fecha": "2018-10-31",
+      "serie": "NETAS 2/",
+      "valor": 6984.4795
+    },
+    {
+      "fecha": "2018-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 6687.5795
+    },
+    {
+      "fecha": "2018-11-30",
+      "serie": "NETAS 2/",
+      "valor": 6687.3247
+    },
+    {
+      "fecha": "2018-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7342.1299
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "NETAS 2/",
+      "valor": 7627.1079
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 8285.3525
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 7627.6352
+    },
+    {
+      "fecha": "2019-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7710.9033
+    },
+    {
+      "fecha": "2019-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 7049.1665
+    },
+    {
+      "fecha": "2019-01-31",
+      "serie": "NETAS 2/",
+      "valor": 7046.505
+    },
+    {
+      "fecha": "2019-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7795.2125
+    },
+    {
+      "fecha": "2019-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 7134.1318
+    },
+    {
+      "fecha": "2019-02-28",
+      "serie": "NETAS 2/",
+      "valor": 7133.8695
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "NETAS 2/",
+      "valor": 7353.5459
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 8010.7036
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 7354.0893
+    },
+    {
+      "fecha": "2019-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 7276.2166
+    },
+    {
+      "fecha": "2019-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7931.8599
+    },
+    {
+      "fecha": "2019-04-30",
+      "serie": "NETAS 2/",
+      "valor": 7275.4017
+    },
+    {
+      "fecha": "2019-05-31",
+      "serie": "NETAS 2/",
+      "valor": 6980.5136
+    },
+    {
+      "fecha": "2019-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7633.0623
+    },
+    {
+      "fecha": "2019-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 6980.7998
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 9369.5756
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "NETAS 2/",
+      "valor": 8711.5652
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 8712.1199
+    },
+    {
+      "fecha": "2019-07-31",
+      "serie": "NETAS 2/",
+      "valor": 8214.9558
+    },
+    {
+      "fecha": "2019-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 8867.0661
+    },
+    {
+      "fecha": "2019-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 8215.7448
+    },
+    {
+      "fecha": "2019-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 7899.9611
+    },
+    {
+      "fecha": "2019-08-31",
+      "serie": "NETAS 2/",
+      "valor": 7899.7222
+    },
+    {
+      "fecha": "2019-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 8548.3375
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 7590.7938
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "NETAS 2/",
+      "valor": 7587.8028
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 8236.6291
+    },
+    {
+      "fecha": "2019-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 7492.2291
+    },
+    {
+      "fecha": "2019-10-31",
+      "serie": "NETAS 2/",
+      "valor": 7491.5772
+    },
+    {
+      "fecha": "2019-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 8145.1451
+    },
+    {
+      "fecha": "2019-11-30",
+      "serie": "NETAS 2/",
+      "valor": 7145.6166
+    },
+    {
+      "fecha": "2019-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7795.9607
+    },
+    {
+      "fecha": "2019-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 7145.8071
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 9420.5499
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "NETAS 2/",
+      "valor": 8781.4012
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 8781.7846
+    },
+    {
+      "fecha": "2020-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 10408.8961
+    },
+    {
+      "fecha": "2020-01-31",
+      "serie": "NETAS 2/",
+      "valor": 10408.3367
+    },
+    {
+      "fecha": "2020-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 11045.2153
+    },
+    {
+      "fecha": "2020-02-29",
+      "serie": "BRUTAS 1/",
+      "valor": 9863.7272
+    },
+    {
+      "fecha": "2020-02-29",
+      "serie": "NETAS 2/",
+      "valor": 9863.5577
+    },
+    {
+      "fecha": "2020-02-29",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 10498.3787
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 9955.7407
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "NETAS 2/",
+      "valor": 9324.4033
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 9324.6308
+    },
+    {
+      "fecha": "2020-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 8642.489
+    },
+    {
+      "fecha": "2020-04-30",
+      "serie": "NETAS 2/",
+      "valor": 8613.7033
+    },
+    {
+      "fecha": "2020-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 9274.2509
+    },
+    {
+      "fecha": "2020-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 8665.3555
+    },
+    {
+      "fecha": "2020-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 8038.0293
+    },
+    {
+      "fecha": "2020-05-31",
+      "serie": "NETAS 2/",
+      "valor": 8008.894
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "NETAS 2/",
+      "valor": 7142.4895
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7808.09
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 7172.2686
+    },
+    {
+      "fecha": "2020-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7341.7164
+    },
+    {
+      "fecha": "2020-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 6690.4658
+    },
+    {
+      "fecha": "2020-07-31",
+      "serie": "NETAS 2/",
+      "valor": 6689.1783
+    },
+    {
+      "fecha": "2020-08-31",
+      "serie": "NETAS 2/",
+      "valor": 7018.5556
+    },
+    {
+      "fecha": "2020-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 7672.5236
+    },
+    {
+      "fecha": "2020-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 7018.5768
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 10551.994
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 11201.1354
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "NETAS 2/",
+      "valor": 10551.9513
+    },
+    {
+      "fecha": "2020-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 9873.7924
+    },
+    {
+      "fecha": "2020-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 10524.5377
+    },
+    {
+      "fecha": "2020-10-31",
+      "serie": "NETAS 2/",
+      "valor": 9873.7272
+    },
+    {
+      "fecha": "2020-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 10562.7363
+    },
+    {
+      "fecha": "2020-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 9903.8481
+    },
+    {
+      "fecha": "2020-11-30",
+      "serie": "NETAS 2/",
+      "valor": 9903.8184
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 10751.6725
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 11414.1559
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "NETAS 2/",
+      "valor": 10751.6169
+    },
+    {
+      "fecha": "2021-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 12523.0617
+    },
+    {
+      "fecha": "2021-01-31",
+      "serie": "NETAS 2/",
+      "valor": 12522.9919
+    },
+    {
+      "fecha": "2021-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 13186.0444
+    },
+    {
+      "fecha": "2021-02-28",
+      "serie": "NETAS 2/",
+      "valor": 11963.1625
+    },
+    {
+      "fecha": "2021-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 11963.1814
+    },
+    {
+      "fecha": "2021-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 12625.7242
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 12826.3252
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 12174.2123
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "NETAS 2/",
+      "valor": 12174.181
+    },
+    {
+      "fecha": "2021-04-30",
+      "serie": "NETAS 2/",
+      "valor": 12245.922
+    },
+    {
+      "fecha": "2021-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 12906.0641
+    },
+    {
+      "fecha": "2021-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 12245.9672
+    },
+    {
+      "fecha": "2021-05-31",
+      "serie": "NETAS 2/",
+      "valor": 12417.5404
+    },
+    {
+      "fecha": "2021-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 12417.5547
+    },
+    {
+      "fecha": "2021-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 13083.0763
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 13268.4118
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 12611.5891
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "NETAS 2/",
+      "valor": 12611.5637
+    },
+    {
+      "fecha": "2021-07-31",
+      "serie": "NETAS 2/",
+      "valor": 12143.7831
+    },
+    {
+      "fecha": "2021-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 12801.2853
+    },
+    {
+      "fecha": "2021-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 12143.8212
+    },
+    {
+      "fecha": "2021-08-31",
+      "serie": "NETAS 2/",
+      "valor": 13060.2919
+    },
+    {
+      "fecha": "2021-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 13060.3136
+    },
+    {
+      "fecha": "2021-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 13716.4539
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 12932.3632
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 13581.6084
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "NETAS 2/",
+      "valor": 12932.3041
+    },
+    {
+      "fecha": "2021-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 12504.9324
+    },
+    {
+      "fecha": "2021-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 13156.6145
+    },
+    {
+      "fecha": "2021-10-31",
+      "serie": "NETAS 2/",
+      "valor": 12504.833
+    },
+    {
+      "fecha": "2021-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 12843.7254
+    },
+    {
+      "fecha": "2021-11-30",
+      "serie": "NETAS 2/",
+      "valor": 12199.5832
+    },
+    {
+      "fecha": "2021-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 12199.623
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 13034.0033
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 13679.6383
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "NETAS 2/",
+      "valor": 13033.9174
+    },
+    {
+      "fecha": "2022-01-31",
+      "serie": "NETAS 2/",
+      "valor": 12373.9836
+    },
+    {
+      "fecha": "2022-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 13017.377
+    },
+    {
+      "fecha": "2022-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 12374.1402
+    },
+    {
+      "fecha": "2022-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 14849.8842
+    },
+    {
+      "fecha": "2022-02-28",
+      "serie": "NETAS 2/",
+      "valor": 14849.7595
+    },
+    {
+      "fecha": "2022-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15494.0808
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "NETAS 2/",
+      "valor": 14595.9585
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15238.4339
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 14596.2634
+    },
+    {
+      "fecha": "2022-04-30",
+      "serie": "NETAS 2/",
+      "valor": 14410.3482
+    },
+    {
+      "fecha": "2022-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15036.5611
+    },
+    {
+      "fecha": "2022-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 14410.9348
+    },
+    {
+      "fecha": "2022-05-31",
+      "serie": "NETAS 2/",
+      "valor": 14248.9353
+    },
+    {
+      "fecha": "2022-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14876.5663
+    },
+    {
+      "fecha": "2022-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 14249.3547
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 14456.3587
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "NETAS 2/",
+      "valor": 14455.3813
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15075.7095
+    },
+    {
+      "fecha": "2022-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 14172.8293
+    },
+    {
+      "fecha": "2022-07-31",
+      "serie": "NETAS 2/",
+      "valor": 14170.969
+    },
+    {
+      "fecha": "2022-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14791.5431
+    },
+    {
+      "fecha": "2022-08-31",
+      "serie": "NETAS 2/",
+      "valor": 14019.468
+    },
+    {
+      "fecha": "2022-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14628.4852
+    },
+    {
+      "fecha": "2022-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 14020.5657
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14407.756
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 13808.5399
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "NETAS 2/",
+      "valor": 13806.1924
+    },
+    {
+      "fecha": "2022-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14148.7161
+    },
+    {
+      "fecha": "2022-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 13549.2727
+    },
+    {
+      "fecha": "2022-10-31",
+      "serie": "NETAS 2/",
+      "valor": 13545.29
+    },
+    {
+      "fecha": "2022-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 13696.9733
+    },
+    {
+      "fecha": "2022-11-30",
+      "serie": "NETAS 2/",
+      "valor": 13084.4407
+    },
+    {
+      "fecha": "2022-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 13086.3505
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 14440.6137
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "NETAS 2/",
+      "valor": 14436.5335
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15058.3594
+    },
+    {
+      "fecha": "2023-01-31",
+      "serie": "NETAS 2/",
+      "valor": 14597.1337
+    },
+    {
+      "fecha": "2023-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 14605.3024
+    },
+    {
+      "fecha": "2023-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15232.0187
+    },
+    {
+      "fecha": "2023-02-28",
+      "serie": "NETAS 2/",
+      "valor": 15586.9661
+    },
+    {
+      "fecha": "2023-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 16219.2129
+    },
+    {
+      "fecha": "2023-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 15592.0051
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 16659.9132
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "NETAS 2/",
+      "valor": 16016.5607
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 16021.7511
+    },
+    {
+      "fecha": "2023-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 16807.8823
+    },
+    {
+      "fecha": "2023-04-30",
+      "serie": "NETAS 2/",
+      "valor": 16154.8413
+    },
+    {
+      "fecha": "2023-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 16163.4963
+    },
+    {
+      "fecha": "2023-05-31",
+      "serie": "NETAS 2/",
+      "valor": 16184.7045
+    },
+    {
+      "fecha": "2023-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 16189.4518
+    },
+    {
+      "fecha": "2023-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 16825.1451
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "NETAS 2/",
+      "valor": 16196.8859
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 16202.885
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 16832.896
+    },
+    {
+      "fecha": "2023-07-31",
+      "serie": "NETAS 2/",
+      "valor": 15423.915
+    },
+    {
+      "fecha": "2023-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 15434.39
+    },
+    {
+      "fecha": "2023-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 16059.2313
+    },
+    {
+      "fecha": "2023-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 15833.5202
+    },
+    {
+      "fecha": "2023-08-31",
+      "serie": "NETAS 2/",
+      "valor": 15827.3683
+    },
+    {
+      "fecha": "2023-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 16450.3982
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 15857.3714
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "NETAS 2/",
+      "valor": 15851.051
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 16468.2266
+    },
+    {
+      "fecha": "2023-10-31",
+      "serie": "NETAS 2/",
+      "valor": 15329.1794
+    },
+    {
+      "fecha": "2023-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 15339.9847
+    },
+    {
+      "fecha": "2023-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15950.7035
+    },
+    {
+      "fecha": "2023-11-30",
+      "serie": "NETAS 2/",
+      "valor": 15044.498
+    },
+    {
+      "fecha": "2023-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 15050.679
+    },
+    {
+      "fecha": "2023-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15670.8992
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 16086.962
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "NETAS 2/",
+      "valor": 15457.6742
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 15464.305
+    },
+    {
+      "fecha": "2024-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14987.4597
+    },
+    {
+      "fecha": "2024-01-31",
+      "serie": "NETAS 2/",
+      "valor": 14360.2619
+    },
+    {
+      "fecha": "2024-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 14371.2836
+    },
+    {
+      "fecha": "2024-02-29",
+      "serie": "BRUTAS 1/",
+      "valor": 14169.6353
+    },
+    {
+      "fecha": "2024-02-29",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14784.839
+    },
+    {
+      "fecha": "2024-02-29",
+      "serie": "NETAS 2/",
+      "valor": 14163.6293
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "NETAS 2/",
+      "valor": 13807.6631
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 13814.0267
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14429.2275
+    },
+    {
+      "fecha": "2024-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14424.1973
+    },
+    {
+      "fecha": "2024-04-30",
+      "serie": "NETAS 2/",
+      "valor": 13787.7805
+    },
+    {
+      "fecha": "2024-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 13798.4666
+    },
+    {
+      "fecha": "2024-05-31",
+      "serie": "NETAS 2/",
+      "valor": 13931.3131
+    },
+    {
+      "fecha": "2024-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14552.5644
+    },
+    {
+      "fecha": "2024-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 13937.5375
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 13391.1024
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "NETAS 2/",
+      "valor": 13384.882
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14004.225
+    },
+    {
+      "fecha": "2024-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15914.4052
+    },
+    {
+      "fecha": "2024-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 15297.8466
+    },
+    {
+      "fecha": "2024-07-31",
+      "serie": "NETAS 2/",
+      "valor": 15287.1684
+    },
+    {
+      "fecha": "2024-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15493.0346
+    },
+    {
+      "fecha": "2024-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 14870.2014
+    },
+    {
+      "fecha": "2024-08-31",
+      "serie": "NETAS 2/",
+      "valor": 14864.1845
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15105.0088
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 14474.8168
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "NETAS 2/",
+      "valor": 14468.8074
+    },
+    {
+      "fecha": "2024-10-31",
+      "serie": "NETAS 2/",
+      "valor": 13542.0585
+    },
+    {
+      "fecha": "2024-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 13551.8939
+    },
+    {
+      "fecha": "2024-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14171.3096
+    },
+    {
+      "fecha": "2024-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 13090.4058
+    },
+    {
+      "fecha": "2024-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 13703.1088
+    },
+    {
+      "fecha": "2024-11-30",
+      "serie": "NETAS 2/",
+      "valor": 13085.0808
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "NETAS 2/",
+      "valor": 13382.4709
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 13387.6249
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 13993.8613
+    },
+    {
+      "fecha": "2025-01-31",
+      "serie": "NETAS 2/",
+      "valor": 12604.6711
+    },
+    {
+      "fecha": "2025-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 12613.3694
+    },
+    {
+      "fecha": "2025-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 13218.5092
+    },
+    {
+      "fecha": "2025-02-28",
+      "serie": "NETAS 2/",
+      "valor": 14899.8525
+    },
+    {
+      "fecha": "2025-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15513.5519
+    },
+    {
+      "fecha": "2025-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 14904.5552
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15370.2395
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "NETAS 2/",
+      "valor": 14746.3505
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 14751.1294
+    },
+    {
+      "fecha": "2025-04-30",
+      "serie": "NETAS 2/",
+      "valor": 15049.928
+    },
+    {
+      "fecha": "2025-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15744.943
+    },
+    {
+      "fecha": "2025-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 15058.2163
+    },
+    {
+      "fecha": "2025-05-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15305.7566
+    },
+    {
+      "fecha": "2025-05-31",
+      "serie": "NETAS 2/",
+      "valor": 14638.6784
+    },
+    {
+      "fecha": "2025-05-31",
+      "serie": "BRUTAS 1/",
+      "valor": 14643.5969
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "NETAS 2/",
+      "valor": 14788.4374
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15455.0944
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "BRUTAS 1/",
+      "valor": 14793.2782
+    },
+    {
+      "fecha": "2025-07-31",
+      "serie": "NETAS 2/",
+      "valor": 14198.9931
+    },
+    {
+      "fecha": "2025-07-31",
+      "serie": "BRUTAS 1/",
+      "valor": 14208.7223
+    },
+    {
+      "fecha": "2025-07-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14852.8659
+    },
+    {
+      "fecha": "2025-08-31",
+      "serie": "NETAS 2/",
+      "valor": 13882.6747
+    },
+    {
+      "fecha": "2025-08-31",
+      "serie": "BRUTAS 1/",
+      "valor": 13887.5876
+    },
+    {
+      "fecha": "2025-08-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14521.9496
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "BRUTAS 1/",
+      "valor": 13294.8195
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 13935.2466
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "NETAS 2/",
+      "valor": 13290.1395
+    },
+    {
+      "fecha": "2025-10-31",
+      "serie": "NETAS 2/",
+      "valor": 14632.2913
+    },
+    {
+      "fecha": "2025-10-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15266.3544
+    },
+    {
+      "fecha": "2025-10-31",
+      "serie": "BRUTAS 1/",
+      "valor": 14640.228
+    },
+    {
+      "fecha": "2025-11-30",
+      "serie": "BRUTAS 1/",
+      "valor": 14274.0213
+    },
+    {
+      "fecha": "2025-11-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14904.8284
+    },
+    {
+      "fecha": "2025-11-30",
+      "serie": "NETAS 2/",
+      "valor": 14269.4177
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 15332.1958
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "NETAS 2/",
+      "valor": 14686.7169
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "BRUTAS 1/",
+      "valor": 14691.1921
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 14606.3317
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "NETAS 2/",
+      "valor": 13951.8916
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "BRUTAS 1/",
+      "valor": 13959.5707
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "NETAS 2/",
+      "valor": 16176.4806
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 16854.3131
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "BRUTAS 1/",
+      "valor": 16180.746
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 16782.4012
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "NETAS 2/",
+      "valor": 16138.929
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "BRUTAS 1/",
+      "valor": 16143.1336
+    },
+    {
+      "fecha": "2026-04-30",
+      "serie": "BRUTAS 1/",
+      "valor": 15888.9064
+    },
+    {
+      "fecha": "2026-04-30",
+      "serie": "ACTIVOS BRUTOS",
+      "valor": 16546.224
+    },
+    {
+      "fecha": "2026-04-30",
+      "serie": "NETAS 2/",
+      "valor": 15881.5016
+    }
+  ],
+  "csv_download": "data/csv/reservas_internacionales_mensual.csv"
+}

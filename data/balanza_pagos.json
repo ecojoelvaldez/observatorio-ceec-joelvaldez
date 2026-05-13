@@ -1,0 +1,4619 @@
+{
+  "id": "balanza_pagos",
+  "titulo": "Balanza de Pagos",
+  "titulo_corto": "Balanza de Pagos",
+  "fuente": "BCRD",
+  "fuente_url": "https://www.bancentral.gov.do/",
+  "categoria": "Internacional",
+  "frecuencia": "Anual",
+  "unidad": "Millones de US$",
+  "descripcion": "Cuenta corriente, financiera y demás partidas externas.",
+  "metodologia": "Archivo anual normalizado a formato long: concepto, año y valor.",
+  "primera_obs": "2010",
+  "ultima_obs": "2025",
+  "n_observaciones": 16,
+  "n_observaciones_total": 912,
+  "series_disponibles": [
+    "1. Cuenta Corriente",
+    "1.1 Balanza de Bienes y Servicios",
+    "1.1.1 Balanza de Bienes",
+    "1.1.2 Balanza de Servicios",
+    "1.2 Ingreso Primario",
+    "1.3 Ingreso Secundario",
+    "2. Cuenta de Capital 1/",
+    "3. Préstamo / Endeudamiento Neto (3=1+2)",
+    "4. Cuenta Financiera",
+    "5. Saldo",
+    "6. Errores y Omisiones",
+    "7. Financiamiento",
+    "Activos de Reservas",
+    "Crédito",
+    "Deuda Pub. y Priv. Corto Plazo (Neto)",
+    "Deuda Pub. y Priv. Med. y LP (Neto)",
+    "Débito",
+    "Exportaciones",
+    "Fletes",
+    "Importaciones",
+    "Inversión Directa",
+    "Inversión Extranjera Directa",
+    "Inversión de Cartera",
+    "Moneda y Depósitos",
+    "Nacionales",
+    "Otra Inversión",
+    "Otra inversión-pasivos 4/",
+    "Otras Transferencias",
+    "Otros",
+    "Otros 2/",
+    "Remesas Familiares",
+    "Remuneración de Empleados",
+    "Renta de la Inversión",
+    "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+    "Transferecias (Condonación de deudas)",
+    "Uso del crédito y Préstamos del FMI 3/",
+    "Viajes",
+    "Zonas Francas"
+  ],
+  "observaciones": [
+    {
+      "fecha": "2010-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -4023.5
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -4334.6
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -3880.9
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -2567.9
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -2170.2
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -1280.3
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -814.7
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -133.1
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -1321.5
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -1187.9
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -1337.3
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -2685.3
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -6548.9
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -4418.4
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -3705.5
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "1. Cuenta Corriente",
+      "valor": -1487.9
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -5526.9
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -5934.3
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -5395.8
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -3743.2
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -3290.3
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -3096.9
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -2619.4
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -2049.9
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -4062.7
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -4016.8
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -5412.5
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -8089.1
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -11668.9
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -8659.7
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -7519.6
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "1.1 Balanza de Bienes y Servicios",
+      "valor": -5047.6
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -8393.9
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -8939.7
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -8716.3
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -7376.8
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -7374.2
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -7464.7
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -7559.0
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -7599.7
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -9559.2
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -9075.1
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -6803.1
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -11795.6
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -17162.4
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -15863.3
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -15874.2
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "1.1.1 Balanza de Bienes",
+      "valor": -13835.3
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Exportaciones",
+      "valor": 6816.0
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Exportaciones",
+      "valor": 8361.9
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Exportaciones",
+      "valor": 8935.5
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Exportaciones",
+      "valor": 9424.4
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Exportaciones",
+      "valor": 9898.9
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Exportaciones",
+      "valor": 9441.8
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Exportaciones",
+      "valor": 9839.6
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Exportaciones",
+      "valor": 10134.6
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Exportaciones",
+      "valor": 10638.1
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Exportaciones",
+      "valor": 11192.7
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Exportaciones",
+      "valor": 10301.9
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Exportaciones",
+      "valor": 12486.4
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Exportaciones",
+      "valor": 13750.2
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Exportaciones",
+      "valor": 12949.8
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Exportaciones",
+      "valor": 13928.8
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Exportaciones",
+      "valor": 15957.6
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Nacionales",
+      "valor": 2621.6
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Nacionales",
+      "valor": 3594.8
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Nacionales",
+      "valor": 4016.6
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Nacionales",
+      "valor": 4448.0
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Nacionales",
+      "valor": 4637.2
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Nacionales",
+      "valor": 4018.2
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Nacionales",
+      "valor": 4335.7
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Nacionales",
+      "valor": 4425.0
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Nacionales",
+      "valor": 4602.9
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Nacionales",
+      "valor": 4943.2
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Nacionales",
+      "valor": 4407.4
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Nacionales",
+      "valor": 5306.8
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Nacionales",
+      "valor": 5922.9
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Nacionales",
+      "valor": 4990.4
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Nacionales",
+      "valor": 5428.5
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Nacionales",
+      "valor": 7405.4
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Zonas Francas",
+      "valor": 4194.4
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Zonas Francas",
+      "valor": 4767.1
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Zonas Francas",
+      "valor": 4918.9
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Zonas Francas",
+      "valor": 4976.4
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Zonas Francas",
+      "valor": 5261.7
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Zonas Francas",
+      "valor": 5423.6
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Zonas Francas",
+      "valor": 5503.9
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Zonas Francas",
+      "valor": 5709.6
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Zonas Francas",
+      "valor": 6035.2
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Zonas Francas",
+      "valor": 6249.5
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Zonas Francas",
+      "valor": 5894.5
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Zonas Francas",
+      "valor": 7179.6
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Zonas Francas",
+      "valor": 7827.3
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Zonas Francas",
+      "valor": 7959.4
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Zonas Francas",
+      "valor": 8500.3
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Zonas Francas",
+      "valor": 8552.2
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Importaciones",
+      "valor": 15209.9
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Importaciones",
+      "valor": 17301.6
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Importaciones",
+      "valor": 17651.8
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Importaciones",
+      "valor": 16801.2
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Importaciones",
+      "valor": 17273.1
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Importaciones",
+      "valor": 16906.5
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Importaciones",
+      "valor": 17398.6
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Importaciones",
+      "valor": 17734.3
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Importaciones",
+      "valor": 20197.3
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Importaciones",
+      "valor": 20267.8
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Importaciones",
+      "valor": 17105.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Importaciones",
+      "valor": 24282.0
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Importaciones",
+      "valor": 30912.6
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Importaciones",
+      "valor": 28813.1
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Importaciones",
+      "valor": 29803.0
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Importaciones",
+      "valor": 29792.9
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Nacionales",
+      "valor": 12600.9
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Nacionales",
+      "valor": 14362.9
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Nacionales",
+      "valor": 14753.1
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Nacionales",
+      "valor": 13690.4
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Nacionales",
+      "valor": 13849.3
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Nacionales",
+      "valor": 13408.5
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Nacionales",
+      "valor": 13864.5
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Nacionales",
+      "valor": 13987.6
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Nacionales",
+      "valor": 16359.7
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Nacionales",
+      "valor": 16316.2
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Nacionales",
+      "valor": 13484.8
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Nacionales",
+      "valor": 19669.5
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Nacionales",
+      "valor": 25636.9
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Nacionales",
+      "valor": 23939.5
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Nacionales",
+      "valor": 24950.2
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Nacionales",
+      "valor": 25039.4
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Zonas Francas",
+      "valor": 2609.0
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Zonas Francas",
+      "valor": 2938.7
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Zonas Francas",
+      "valor": 2898.7
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Zonas Francas",
+      "valor": 3110.8
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Zonas Francas",
+      "valor": 3423.8
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Zonas Francas",
+      "valor": 3498.0
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Zonas Francas",
+      "valor": 3534.1
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Zonas Francas",
+      "valor": 3746.7
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Zonas Francas",
+      "valor": 3837.6
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Zonas Francas",
+      "valor": 3951.6
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Zonas Francas",
+      "valor": 3620.2
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Zonas Francas",
+      "valor": 4612.5
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Zonas Francas",
+      "valor": 5275.7
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Zonas Francas",
+      "valor": 4873.6
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Zonas Francas",
+      "valor": 4852.8
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Zonas Francas",
+      "valor": 4753.5
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 2867.0
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 3005.4
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 3320.5
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 3633.6
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 4083.9
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 4367.8
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 4939.6
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 5549.8
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 5496.5
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 5058.3
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 1390.6
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 3706.5
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 5493.5
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 7203.6
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 8354.6
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "1.1.2 Balanza de Servicios",
+      "valor": 8787.7
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Crédito",
+      "valor": 5454.5
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Crédito",
+      "valor": 5730.7
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Crédito",
+      "valor": 6030.3
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Crédito",
+      "valor": 6411.9
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Crédito",
+      "valor": 7053.7
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Crédito",
+      "valor": 7541.8
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Crédito",
+      "valor": 8309.2
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Crédito",
+      "valor": 8856.8
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Crédito",
+      "valor": 9413.6
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Crédito",
+      "valor": 9316.5
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Crédito",
+      "valor": 4587.5
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Crédito",
+      "valor": 8114.3
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Crédito",
+      "valor": 11418.6
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Crédito",
+      "valor": 12840.1
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Crédito",
+      "valor": 14691.1
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Crédito",
+      "valor": 14434.8
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Viajes",
+      "valor": 4161.7
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Viajes",
+      "valor": 4385.7
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Viajes",
+      "valor": 4680.1
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Viajes",
+      "valor": 5054.7
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Viajes",
+      "valor": 5629.8
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Viajes",
+      "valor": 6115.9
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Viajes",
+      "valor": 6719.6
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Viajes",
+      "valor": 7184.1
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Viajes",
+      "valor": 7547.7
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Viajes",
+      "valor": 7471.5
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Viajes",
+      "valor": 2674.8
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Viajes",
+      "valor": 5697.1
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Viajes",
+      "valor": 8395.3
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Viajes",
+      "valor": 9751.0
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Viajes",
+      "valor": 10972.4
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Viajes",
+      "valor": 11321.4
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 54.9
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 49.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 55.6
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 64.0
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 68.6
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 79.0
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 74.7
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 58.0
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 54.5
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 55.4
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 31.7
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 43.0
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 50.6
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 57.0
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 55.7
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros",
+      "valor": 69.0
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Otros",
+      "valor": 1237.9
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Otros",
+      "valor": 1296.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Otros",
+      "valor": 1294.6
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Otros",
+      "valor": 1293.2
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Otros",
+      "valor": 1355.3
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Otros",
+      "valor": 1346.9
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Otros",
+      "valor": 1514.9
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Otros",
+      "valor": 1614.7
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Otros",
+      "valor": 1811.4
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Otros",
+      "valor": 1789.6
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Otros",
+      "valor": 1881.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Otros",
+      "valor": 2374.2
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Otros",
+      "valor": 2972.7
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Otros",
+      "valor": 3032.1
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Otros",
+      "valor": 3663.0
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Otros",
+      "valor": 3044.4
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Débito",
+      "valor": 2587.5
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Débito",
+      "valor": 2725.3
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Débito",
+      "valor": 2709.8
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Débito",
+      "valor": 2778.3
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Débito",
+      "valor": 2969.8
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Débito",
+      "valor": 3174.0
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Débito",
+      "valor": 3369.6
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Débito",
+      "valor": 3307.0
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Débito",
+      "valor": 3917.1
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Débito",
+      "valor": 4258.2
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Débito",
+      "valor": 3196.9
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Débito",
+      "valor": 4407.8
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Débito",
+      "valor": 5925.1
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Débito",
+      "valor": 5636.5
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Débito",
+      "valor": 6336.5
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Débito",
+      "valor": 5647.1
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Fletes",
+      "valor": 1035.5
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Fletes",
+      "valor": 1009.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Fletes",
+      "valor": 1064.8
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Fletes",
+      "valor": 1038.3
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Fletes",
+      "valor": 1079.2
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Fletes",
+      "valor": 1155.9
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Fletes",
+      "valor": 1190.7
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Fletes",
+      "valor": 1103.1
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Fletes",
+      "valor": 1132.1
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Fletes",
+      "valor": 1209.0
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Fletes",
+      "valor": 1140.5
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Fletes",
+      "valor": 1745.5
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Fletes",
+      "valor": 2327.0
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Fletes",
+      "valor": 1890.6
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Fletes",
+      "valor": 2077.2
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Fletes",
+      "valor": 2110.9
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Otros",
+      "valor": 1552.0
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Otros",
+      "valor": 1716.3
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Otros",
+      "valor": 1645.0
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Otros",
+      "valor": 1740.0
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Otros",
+      "valor": 1890.6
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Otros",
+      "valor": 2018.1
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Otros",
+      "valor": 2178.9
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Otros",
+      "valor": 2203.9
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Otros",
+      "valor": 2785.0
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Otros",
+      "valor": 3049.2
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Otros",
+      "valor": 2056.4
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Otros",
+      "valor": 2662.3
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Otros",
+      "valor": 3598.1
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Otros",
+      "valor": 3745.9
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Otros",
+      "valor": 4259.3
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Otros",
+      "valor": 3536.2
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -1927.2
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -2254.5
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -2399.6
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -2972.3
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -3247.4
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -2936.4
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -3253.1
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -3793.8
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -3691.7
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -4068.9
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -3825.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -4710.5
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -4311.0
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -5437.6
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -6426.0
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "1.2 Ingreso Primario",
+      "valor": -7741.4
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 62.0
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 97.2
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 66.1
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 75.6
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 84.5
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 75.3
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 79.2
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 76.4
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 128.6
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 76.2
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": -121.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 107.5
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 175.8
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 251.4
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 276.6
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Remuneración de Empleados",
+      "valor": 318.9
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Crédito",
+      "valor": 204.1
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Crédito",
+      "valor": 242.5
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Crédito",
+      "valor": 216.7
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Crédito",
+      "valor": 223.2
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Crédito",
+      "valor": 239.2
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Crédito",
+      "valor": 235.6
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Crédito",
+      "valor": 247.6
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Crédito",
+      "valor": 266.0
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Crédito",
+      "valor": 323.5
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Crédito",
+      "valor": 333.5
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Crédito",
+      "valor": 112.4
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Crédito",
+      "valor": 340.3
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Crédito",
+      "valor": 421.6
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Crédito",
+      "valor": 462.0
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Crédito",
+      "valor": 491.0
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Crédito",
+      "valor": 545.1
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Débito",
+      "valor": 142.1
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Débito",
+      "valor": 145.3
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Débito",
+      "valor": 150.6
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Débito",
+      "valor": 147.6
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Débito",
+      "valor": 154.7
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Débito",
+      "valor": 160.3
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Débito",
+      "valor": 168.4
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Débito",
+      "valor": 189.6
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Débito",
+      "valor": 194.9
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Débito",
+      "valor": 257.3
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Débito",
+      "valor": 233.4
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Débito",
+      "valor": 232.8
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Débito",
+      "valor": 245.8
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Débito",
+      "valor": 210.6
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Débito",
+      "valor": 214.4
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Débito",
+      "valor": 226.2
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -1989.2
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -2351.7
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -2465.7
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -3047.9
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -3331.9
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -3011.7
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -3332.3
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -3870.2
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -3820.3
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -4145.1
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -3704.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -4818.0
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -4486.8
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -5689.0
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -6702.6
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Renta de la Inversión",
+      "valor": -8060.3
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -1659.4
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -1909.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -1925.3
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -2511.2
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -2745.3
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -2336.3
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -2439.5
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -2724.5
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -2761.0
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -2860.7
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -2442.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -3019.5
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -3014.4
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -3983.8
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -4198.1
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Inversión Extranjera Directa",
+      "valor": -5410.3
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Crédito",
+      "valor": 7.9
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Crédito",
+      "valor": 27.2
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Crédito",
+      "valor": 40.9
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Crédito",
+      "valor": 30.9
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Débito",
+      "valor": 1659.4
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Débito",
+      "valor": 1909.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Débito",
+      "valor": 1925.3
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Débito",
+      "valor": 2511.2
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Débito",
+      "valor": 2745.3
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Débito",
+      "valor": 2336.3
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Débito",
+      "valor": 2439.5
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Débito",
+      "valor": 2724.5
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Débito",
+      "valor": 2761.0
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Débito",
+      "valor": 2860.7
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Débito",
+      "valor": 2442.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Débito",
+      "valor": 3019.5
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Débito",
+      "valor": 3022.3
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Débito",
+      "valor": 4011.0
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Débito",
+      "valor": 4239.0
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Débito",
+      "valor": 5441.2
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -300.4
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -384.1
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -477.5
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -458.0
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -495.3
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -637.2
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -781.6
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -975.9
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -1053.8
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -1288.7
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -1406.6
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -1831.7
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -1716.8
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -2006.8
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -2277.5
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -2801.9
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Crédito",
+      "valor": 9.6
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Crédito",
+      "valor": 10.3
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Crédito",
+      "valor": 11.1
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Crédito",
+      "valor": 12.0
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Crédito",
+      "valor": 12.9
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Crédito",
+      "valor": 13.9
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Crédito",
+      "valor": 15.0
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Crédito",
+      "valor": 7.9
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Débito",
+      "valor": 310.0
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Débito",
+      "valor": 394.4
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Débito",
+      "valor": 488.6
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Débito",
+      "valor": 470.0
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Débito",
+      "valor": 508.2
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Débito",
+      "valor": 651.1
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Débito",
+      "valor": 796.6
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Débito",
+      "valor": 983.8
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Débito",
+      "valor": 1053.8
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Débito",
+      "valor": 1288.7
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Débito",
+      "valor": 1406.6
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Débito",
+      "valor": 1831.7
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Débito",
+      "valor": 1716.8
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Débito",
+      "valor": 2006.8
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Débito",
+      "valor": 2277.5
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Débito",
+      "valor": 2801.9
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Otra Inversión",
+      "valor": -29.4
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Otra Inversión",
+      "valor": -58.6
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Otra Inversión",
+      "valor": -62.9
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Otra Inversión",
+      "valor": -78.7
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Otra Inversión",
+      "valor": -91.3
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Otra Inversión",
+      "valor": -38.2
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Otra Inversión",
+      "valor": -111.2
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Otra Inversión",
+      "valor": -169.8
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Otra Inversión",
+      "valor": -126.6
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Otra Inversión",
+      "valor": -161.1
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Otra Inversión",
+      "valor": 16.5
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Otra Inversión",
+      "valor": -7.9
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Otra Inversión",
+      "valor": 35.8
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Otra Inversión",
+      "valor": -377.8
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Otra Inversión",
+      "valor": -868.1
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Otra Inversión",
+      "valor": -467.6
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Crédito",
+      "valor": 272.4
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Crédito",
+      "valor": 323.6
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Crédito",
+      "valor": 282.9
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Crédito",
+      "valor": 319.4
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Crédito",
+      "valor": 300.2
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Crédito",
+      "valor": 296.0
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Crédito",
+      "valor": 216.1
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Crédito",
+      "valor": 185.5
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Crédito",
+      "valor": 174.7
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Crédito",
+      "valor": 167.0
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Crédito",
+      "valor": 264.1
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Crédito",
+      "valor": 198.2
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Crédito",
+      "valor": 290.0
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Crédito",
+      "valor": 257.2
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Crédito",
+      "valor": 255.1
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Crédito",
+      "valor": 265.6
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Débito",
+      "valor": 301.8
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Débito",
+      "valor": 382.2
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Débito",
+      "valor": 345.8
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Débito",
+      "valor": 398.1
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Débito",
+      "valor": 391.5
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Débito",
+      "valor": 334.2
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Débito",
+      "valor": 327.3
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Débito",
+      "valor": 355.3
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Débito",
+      "valor": 301.3
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Débito",
+      "valor": 328.1
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Débito",
+      "valor": 247.6
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Débito",
+      "valor": 206.1
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Débito",
+      "valor": 254.2
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Débito",
+      "valor": 635.0
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Débito",
+      "valor": 1123.2
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Débito",
+      "valor": 733.2
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 121.1
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 165.4
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 128.1
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 41.1
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 208.6
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 679.4
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 641.1
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 619.5
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Crédito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Crédito",
+      "valor": 121.1
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Crédito",
+      "valor": 165.4
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Crédito",
+      "valor": 128.1
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Crédito",
+      "valor": 41.1
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Crédito",
+      "valor": 208.6
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Crédito",
+      "valor": 679.4
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Crédito",
+      "valor": 641.1
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Crédito",
+      "valor": 619.5
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Débito",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 3430.6
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 3854.2
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 3914.5
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 4147.6
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 4367.5
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 4753.0
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 5057.8
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 5710.6
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 6432.9
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 6897.8
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 7900.2
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 10114.3
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 9431.0
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 9678.9
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 10240.1
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "1.3 Ingreso Secundario",
+      "valor": 11301.1
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Crédito",
+      "valor": 4257.3
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Crédito",
+      "valor": 4665.1
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Crédito",
+      "valor": 4732.5
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Crédito",
+      "valor": 4950.4
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Crédito",
+      "valor": 5214.0
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Crédito",
+      "valor": 5621.4
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Crédito",
+      "valor": 5969.0
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Crédito",
+      "valor": 6695.3
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Crédito",
+      "valor": 7343.9
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Crédito",
+      "valor": 7908.7
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Crédito",
+      "valor": 8940.4
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Crédito",
+      "valor": 11316.9
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Crédito",
+      "valor": 10898.0
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Crédito",
+      "valor": 11271.7
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Crédito",
+      "valor": 12002.6
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Crédito",
+      "valor": 13173.5
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 3682.9
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 4008.3
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 4045.4
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 4262.3
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 4571.2
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 4960.6
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 5260.8
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 5911.8
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 6494.2
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 7087.1
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 8219.2
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 10402.5
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 9856.5
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 10157.2
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 10859.0
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 11866.3
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 574.4
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 656.8
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 687.1
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 688.1
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 642.8
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 660.8
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 708.2
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 783.5
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 849.7
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 821.6
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 721.2
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 914.4
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 1041.5
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 1114.5
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 1143.6
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 1307.2
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Débito",
+      "valor": 826.7
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Débito",
+      "valor": 810.9
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Débito",
+      "valor": 818.0
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Débito",
+      "valor": 802.8
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Débito",
+      "valor": 846.5
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Débito",
+      "valor": 868.4
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Débito",
+      "valor": 911.2
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Débito",
+      "valor": 984.7
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Débito",
+      "valor": 911.0
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Débito",
+      "valor": 1010.9
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Débito",
+      "valor": 1040.2
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Débito",
+      "valor": 1202.6
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Débito",
+      "valor": 1467.0
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Débito",
+      "valor": 1592.8
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Débito",
+      "valor": 1762.5
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Débito",
+      "valor": 1872.4
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 391.9
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 412.9
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 400.3
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 383.5
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 420.1
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 424.7
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 448.7
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 461.8
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 427.8
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 483.8
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 603.9
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 639.0
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 708.7
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 850.3
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 958.1
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Remesas Familiares",
+      "valor": 947.6
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 434.8
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 398.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 417.7
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 419.3
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 426.4
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 443.7
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 462.5
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 522.9
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 483.2
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 527.1
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 436.3
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 563.6
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 758.3
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 742.5
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 804.4
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Otras Transferencias",
+      "valor": 924.8
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 2087.1
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "2. Cuenta de Capital 1/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -4023.5
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -4334.6
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -3880.9
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -2567.9
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -2170.2
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": 806.8
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -814.7
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -133.1
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -1321.5
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -1187.9
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -1337.3
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -2685.3
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -6548.9
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -4418.4
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -3705.5
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "3. Préstamo / Endeudamiento Neto (3=1+2)",
+      "valor": -1487.9
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -5059.3
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -4101.5
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -3692.2
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -4273.5
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -3761.7
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -1512.9
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -2454.9
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -2120.7
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -3083.0
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -3138.7
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -3497.8
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -5395.18711
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -7635.5
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -6471.7
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -3615.3
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "4. Cuenta Financiera",
+      "valor": -3658.5
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Inversión Directa",
+      "valor": -2023.7
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Inversión Directa",
+      "valor": -2276.7
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Inversión Directa",
+      "valor": -3142.4
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Inversión Directa",
+      "valor": -1990.5
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Inversión Directa",
+      "valor": -2208.5
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Inversión Directa",
+      "valor": -2204.9
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Inversión Directa",
+      "valor": -2406.7
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Inversión Directa",
+      "valor": -3570.7
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Inversión Directa",
+      "valor": -2535.3
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Inversión Directa",
+      "valor": -3021.0
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Inversión Directa",
+      "valor": -2559.6
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Inversión Directa",
+      "valor": -3196.8
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Inversión Directa",
+      "valor": -4098.8
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Inversión Directa",
+      "valor": -4390.2
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Inversión Directa",
+      "valor": -4523.2
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Inversión Directa",
+      "valor": -5032.8
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -759.5
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -746.6
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -343.7
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -1786.7
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -1482.4
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -3457.7
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -1729.3
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -1756.7
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -2696.1
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -2177.6
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -5620.1
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -2061.0
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -3257.7
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -2412.8
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -2432.0
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Inversión de Cartera",
+      "valor": -3174.9
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": -1007.2
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": -1455.7
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": -1405.8
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": -665.3
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": -53.2
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": 4101.6
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": 692.5
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": 1192.8
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": 153.0
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": 650.1
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": -312.4
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": 112.7
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": -483.6
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": -1232.0
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": -440.0
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Deuda Pub. y Priv. Med. y LP (Neto)",
+      "valor": -367.9
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": -390.8
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": 370.4
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": -97.4
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": -152.9
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": -503.7
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": -206.9
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": -61.7
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": 185.8
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": 235.4
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": -482.6
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": 590.3
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": -186.4
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": -969.5
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": -613.2
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": -304.5
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Deuda Pub. y Priv. Corto Plazo (Neto)",
+      "valor": 583.9
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": -749.0
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": 18.3
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": 1357.7
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": 386.4
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": 361.3
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": -114.3
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": 611.2
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": 1289.4
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": 1293.5
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": 1560.4
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": 4137.9
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": 243.3
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": 949.6
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": 2004.0
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": 3433.2
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Moneda y Depósitos",
+      "valor": 3973.4
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Otros 2/",
+      "valor": -129.1
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Otros 2/",
+      "valor": -11.2
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Otros 2/",
+      "valor": -60.6
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Otros 2/",
+      "valor": -64.5
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Otros 2/",
+      "valor": 124.8
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Otros 2/",
+      "valor": 369.3
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Otros 2/",
+      "valor": 439.1
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Otros 2/",
+      "valor": 538.7
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Otros 2/",
+      "valor": 466.5
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Otros 2/",
+      "valor": 332.0
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Otros 2/",
+      "valor": 266.1
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Otros 2/",
+      "valor": -306.98711
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Otros 2/",
+      "valor": 224.5
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Otros 2/",
+      "valor": 172.5
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Otros 2/",
+      "valor": 651.2
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Otros 2/",
+      "valor": 359.8
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "5. Saldo",
+      "valor": 72.1
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "5. Saldo",
+      "valor": 296.2
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "5. Saldo",
+      "valor": -439.6
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "5. Saldo",
+      "valor": 1333.9
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "5. Saldo",
+      "valor": 650.1
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "5. Saldo",
+      "valor": 770.2
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "5. Saldo",
+      "valor": 891.9
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "5. Saldo",
+      "valor": 727.7
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "5. Saldo",
+      "valor": 833.1
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "5. Saldo",
+      "valor": 1125.3
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "5. Saldo",
+      "valor": 1295.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "5. Saldo",
+      "valor": 2303.2
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "5. Saldo",
+      "valor": 1443.5
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "5. Saldo",
+      "valor": 1210.8
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "5. Saldo",
+      "valor": -1763.2
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "5. Saldo",
+      "valor": 1432.4
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": -963.7
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": 529.3
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": -250.9
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": -371.7
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": -941.4
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": -1549.5
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": -748.3
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": -1259.9
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": -928.4
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": -825.5
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": -865.5
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": -406.68711
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": 356.9
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": -842.5
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": -1673.0
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "6. Errores y Omisiones",
+      "valor": -738.2
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "7. Financiamiento",
+      "valor": 72.1
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "7. Financiamiento",
+      "valor": 296.2
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "7. Financiamiento",
+      "valor": -439.6
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "7. Financiamiento",
+      "valor": 1333.9
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "7. Financiamiento",
+      "valor": 650.1
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "7. Financiamiento",
+      "valor": 770.2
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "7. Financiamiento",
+      "valor": 891.9
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "7. Financiamiento",
+      "valor": 727.7
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "7. Financiamiento",
+      "valor": 833.1
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "7. Financiamiento",
+      "valor": 1125.3
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "7. Financiamiento",
+      "valor": 1295.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "7. Financiamiento",
+      "valor": 2303.2
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "7. Financiamiento",
+      "valor": 1443.5
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "7. Financiamiento",
+      "valor": 1210.8
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "7. Financiamiento",
+      "valor": -1763.2
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "7. Financiamiento",
+      "valor": 1432.4
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 466.4
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 339.4
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Activos de Reservas",
+      "valor": -547.9
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 1139.0
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 195.4
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 406.9
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 779.7
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 730.7
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 847.0
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 1149.5
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 1962.9
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 2303.6
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 1443.9
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 1052.5
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Activos de Reservas",
+      "valor": -2085.9
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Activos de Reservas",
+      "valor": 1264.0
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": 390.8
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": 40.1
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": -110.8
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": -196.9
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": -456.9
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": -365.2
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": -114.3
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": 651.1
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": -158.4
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": -317.0
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Uso del crédito y Préstamos del FMI 3/",
+      "valor": -158.8
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 3.8
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 3.1
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 2.5
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 2.3
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 2.2
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 1.9
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 2.0
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 1.5
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 2.2
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 1.4
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 1.0
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 0.4
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 0.3
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 0.1
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 0.2
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Transferecias (Condonación de deudas)",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": -401.8
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": -0.3
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": 0.0
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": 0.1
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": 1.5
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": 11.7
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": 22.8
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": 15.8
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": -0.0
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": 0.1
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": -0.0
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": -5.9
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Otra inversión-pasivos 4/",
+      "valor": -9.6
+    }
+  ],
+  "csv_download": "data/csv/balanza_pagos_anual.csv"
+}

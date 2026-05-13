@@ -1,0 +1,997 @@
+{
+  "id": "remesas",
+  "titulo": "Remesas Familiares",
+  "titulo_corto": "Remesas",
+  "fuente": "BCRD",
+  "fuente_url": "https://www.bancentral.gov.do/",
+  "categoria": "Internacional",
+  "frecuencia": "Mensual",
+  "unidad": "US$",
+  "descripcion": "Flujos mensuales de remesas: consumo, divisas e ingreso externo.",
+  "metodologia": "Serie mensual extraída y normalizada desde BCRD. 2024-2026 figuran como cifras preliminares sujetas a rectificación.",
+  "primera_obs": "2010-01",
+  "ultima_obs": "2026-03",
+  "n_observaciones": 195,
+  "n_observaciones_total": 195,
+  "series_disponibles": [
+    "Remesas recibidas"
+  ],
+  "observaciones": [
+    {
+      "fecha": "2010-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 280155040.64
+    },
+    {
+      "fecha": "2010-02-28",
+      "serie": "Remesas recibidas",
+      "valor": 304097868.01
+    },
+    {
+      "fecha": "2010-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 339939224.742325
+    },
+    {
+      "fecha": "2010-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 290804738.109999
+    },
+    {
+      "fecha": "2010-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 303781236.310001
+    },
+    {
+      "fecha": "2010-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 280461643.962371
+    },
+    {
+      "fecha": "2010-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 337133292.88
+    },
+    {
+      "fecha": "2010-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 314046412.91
+    },
+    {
+      "fecha": "2010-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 294098116.396484
+    },
+    {
+      "fecha": "2010-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 306398493.56
+    },
+    {
+      "fecha": "2010-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 282056928.19
+    },
+    {
+      "fecha": "2010-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 349959487.373448
+    },
+    {
+      "fecha": "2011-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 299479413.87
+    },
+    {
+      "fecha": "2011-02-28",
+      "serie": "Remesas recibidas",
+      "valor": 322128447.48
+    },
+    {
+      "fecha": "2011-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 366434938.86
+    },
+    {
+      "fecha": "2011-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 351856237.37
+    },
+    {
+      "fecha": "2011-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 346451193.13
+    },
+    {
+      "fecha": "2011-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 339984796.68
+    },
+    {
+      "fecha": "2011-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 369679377.38
+    },
+    {
+      "fecha": "2011-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 345464139.650001
+    },
+    {
+      "fecha": "2011-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 316408208.439999
+    },
+    {
+      "fecha": "2011-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 301942891.33
+    },
+    {
+      "fecha": "2011-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 289377897.25
+    },
+    {
+      "fecha": "2011-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 359182975.58
+    },
+    {
+      "fecha": "2012-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 300039839.76
+    },
+    {
+      "fecha": "2012-02-29",
+      "serie": "Remesas recibidas",
+      "valor": 366658552.94
+    },
+    {
+      "fecha": "2012-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 409431620.63
+    },
+    {
+      "fecha": "2012-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 327994910.22
+    },
+    {
+      "fecha": "2012-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 341065591.389999
+    },
+    {
+      "fecha": "2012-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 345278844.892995
+    },
+    {
+      "fecha": "2012-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 367180358.759999
+    },
+    {
+      "fecha": "2012-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 370319304.55
+    },
+    {
+      "fecha": "2012-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 315846701.764243
+    },
+    {
+      "fecha": "2012-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 263515509.229999
+    },
+    {
+      "fecha": "2012-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 313699778.55
+    },
+    {
+      "fecha": "2012-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 324340571.742251
+    },
+    {
+      "fecha": "2013-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 327746152.319999
+    },
+    {
+      "fecha": "2013-02-28",
+      "serie": "Remesas recibidas",
+      "valor": 366990850.939999
+    },
+    {
+      "fecha": "2013-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 421949291.831538
+    },
+    {
+      "fecha": "2013-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 290738915.369999
+    },
+    {
+      "fecha": "2013-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 314883789.31
+    },
+    {
+      "fecha": "2013-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 328727490.969984
+    },
+    {
+      "fecha": "2013-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 418638789.749998
+    },
+    {
+      "fecha": "2013-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 394026711.149999
+    },
+    {
+      "fecha": "2013-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 262324566.050706
+    },
+    {
+      "fecha": "2013-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 364187035.079998
+    },
+    {
+      "fecha": "2013-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 335469235.43
+    },
+    {
+      "fecha": "2013-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 436610264.311561
+    },
+    {
+      "fecha": "2014-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 323273997.11
+    },
+    {
+      "fecha": "2014-02-28",
+      "serie": "Remesas recibidas",
+      "valor": 388971034.24
+    },
+    {
+      "fecha": "2014-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 459764365.054326
+    },
+    {
+      "fecha": "2014-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 389133287.700001
+    },
+    {
+      "fecha": "2014-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 414930543.79
+    },
+    {
+      "fecha": "2014-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 374680832.445319
+    },
+    {
+      "fecha": "2014-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 418464147.859998
+    },
+    {
+      "fecha": "2014-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 430715640.620001
+    },
+    {
+      "fecha": "2014-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 288498699.210001
+    },
+    {
+      "fecha": "2014-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 380250525.269999
+    },
+    {
+      "fecha": "2014-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 356908314.100001
+    },
+    {
+      "fecha": "2014-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 345729759.469999
+    },
+    {
+      "fecha": "2015-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 338759493.74
+    },
+    {
+      "fecha": "2015-02-28",
+      "serie": "Remesas recibidas",
+      "valor": 399184864.130001
+    },
+    {
+      "fecha": "2015-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 462136462.349912
+    },
+    {
+      "fecha": "2015-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 402542804.249999
+    },
+    {
+      "fecha": "2015-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 439577484.539999
+    },
+    {
+      "fecha": "2015-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 430157969.211207
+    },
+    {
+      "fecha": "2015-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 452074045.679999
+    },
+    {
+      "fecha": "2015-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 446852480.909999
+    },
+    {
+      "fecha": "2015-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 362771798.519931
+    },
+    {
+      "fecha": "2015-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 395678984.67
+    },
+    {
+      "fecha": "2015-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 344124030.730001
+    },
+    {
+      "fecha": "2015-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 486893809.336259
+    },
+    {
+      "fecha": "2016-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 384190402.299999
+    },
+    {
+      "fecha": "2016-02-29",
+      "serie": "Remesas recibidas",
+      "valor": 466006216.019999
+    },
+    {
+      "fecha": "2016-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 439136355.734523
+    },
+    {
+      "fecha": "2016-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 454337108.359999
+    },
+    {
+      "fecha": "2016-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 399579648.05
+    },
+    {
+      "fecha": "2016-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 446862544.563682
+    },
+    {
+      "fecha": "2016-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 477208280.359999
+    },
+    {
+      "fecha": "2016-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 485613039.899997
+    },
+    {
+      "fecha": "2016-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 355070607.748304
+    },
+    {
+      "fecha": "2016-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 433734541.600003
+    },
+    {
+      "fecha": "2016-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 415079221.94
+    },
+    {
+      "fecha": "2016-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 504028585.776686
+    },
+    {
+      "fecha": "2017-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 440926798.009999
+    },
+    {
+      "fecha": "2017-02-28",
+      "serie": "Remesas recibidas",
+      "valor": 454346152.819997
+    },
+    {
+      "fecha": "2017-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 559635999.701353
+    },
+    {
+      "fecha": "2017-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 465148169.849998
+    },
+    {
+      "fecha": "2017-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 514036780.549999
+    },
+    {
+      "fecha": "2017-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 474429497.736014
+    },
+    {
+      "fecha": "2017-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 512560013.739997
+    },
+    {
+      "fecha": "2017-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 525958778.999997
+    },
+    {
+      "fecha": "2017-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 468264423.234106
+    },
+    {
+      "fecha": "2017-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 474028830.789997
+    },
+    {
+      "fecha": "2017-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 458517976.85
+    },
+    {
+      "fecha": "2017-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 563904258.277331
+    },
+    {
+      "fecha": "2018-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 494416133.65
+    },
+    {
+      "fecha": "2018-02-28",
+      "serie": "Remesas recibidas",
+      "valor": 455877883.199998
+    },
+    {
+      "fecha": "2018-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 600616467.741939
+    },
+    {
+      "fecha": "2018-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 537834597.409999
+    },
+    {
+      "fecha": "2018-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 569315292.539997
+    },
+    {
+      "fecha": "2018-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 557747467.622833
+    },
+    {
+      "fecha": "2018-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 583163404.869998
+    },
+    {
+      "fecha": "2018-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 551484711.719996
+    },
+    {
+      "fecha": "2018-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 515978530.365315
+    },
+    {
+      "fecha": "2018-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 525558504.069993
+    },
+    {
+      "fecha": "2018-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 498141286.769995
+    },
+    {
+      "fecha": "2018-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 603929374.285973
+    },
+    {
+      "fecha": "2019-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 537027584.839999
+    },
+    {
+      "fecha": "2019-02-28",
+      "serie": "Remesas recibidas",
+      "valor": 540684107.559998
+    },
+    {
+      "fecha": "2019-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 665489927.626809
+    },
+    {
+      "fecha": "2019-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 585198360.759999
+    },
+    {
+      "fecha": "2019-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 541946170.170001
+    },
+    {
+      "fecha": "2019-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 587007958.965922
+    },
+    {
+      "fecha": "2019-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 640298900.47
+    },
+    {
+      "fecha": "2019-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 628403279.75
+    },
+    {
+      "fecha": "2019-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 566862569.723006
+    },
+    {
+      "fecha": "2019-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 580329553.999997
+    },
+    {
+      "fecha": "2019-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 557117042.189996
+    },
+    {
+      "fecha": "2019-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 656680078.403046
+    },
+    {
+      "fecha": "2020-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 586851782.677634
+    },
+    {
+      "fecha": "2020-02-29",
+      "serie": "Remesas recibidas",
+      "valor": 596216800.557639
+    },
+    {
+      "fecha": "2020-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 520139430.558819
+    },
+    {
+      "fecha": "2020-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 395004254.92
+    },
+    {
+      "fecha": "2020-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 638730418.44
+    },
+    {
+      "fecha": "2020-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 737908001.75
+    },
+    {
+      "fecha": "2020-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 827713827.27
+    },
+    {
+      "fecha": "2020-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 769933855.04586
+    },
+    {
+      "fecha": "2020-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 777350190.964185
+    },
+    {
+      "fecha": "2020-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 789590454.343813
+    },
+    {
+      "fecha": "2020-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 707510212.316853
+    },
+    {
+      "fecha": "2020-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 872313696.868952
+    },
+    {
+      "fecha": "2021-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 792839517.421497
+    },
+    {
+      "fecha": "2021-02-28",
+      "serie": "Remesas recibidas",
+      "valor": 760958880.459999
+    },
+    {
+      "fecha": "2021-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 994889301.160179
+    },
+    {
+      "fecha": "2021-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 910809026.476318
+    },
+    {
+      "fecha": "2021-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 933752196.874341
+    },
+    {
+      "fecha": "2021-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 869822861.820231
+    },
+    {
+      "fecha": "2021-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 896567423.147118
+    },
+    {
+      "fecha": "2021-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 872047887.068242
+    },
+    {
+      "fecha": "2021-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 829623080.532114
+    },
+    {
+      "fecha": "2021-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 813792702.546051
+    },
+    {
+      "fecha": "2021-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 786577300.257221
+    },
+    {
+      "fecha": "2021-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 940789022.516523
+    },
+    {
+      "fecha": "2022-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 759268885.648438
+    },
+    {
+      "fecha": "2022-02-28",
+      "serie": "Remesas recibidas",
+      "valor": 748809460.878049
+    },
+    {
+      "fecha": "2022-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 888125059.31065
+    },
+    {
+      "fecha": "2022-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 809846663.22732
+    },
+    {
+      "fecha": "2022-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 851165269.274722
+    },
+    {
+      "fecha": "2022-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 803840934.809343
+    },
+    {
+      "fecha": "2022-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 808612516.816729
+    },
+    {
+      "fecha": "2022-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 849169104.279998
+    },
+    {
+      "fecha": "2022-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 790595018.153438
+    },
+    {
+      "fecha": "2022-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 815873454.878642
+    },
+    {
+      "fecha": "2022-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 786996491.142537
+    },
+    {
+      "fecha": "2022-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 944194602.619999
+    },
+    {
+      "fecha": "2023-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 802023009.990603
+    },
+    {
+      "fecha": "2023-02-28",
+      "serie": "Remesas recibidas",
+      "valor": 764254045.343055
+    },
+    {
+      "fecha": "2023-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 915070300.869067
+    },
+    {
+      "fecha": "2023-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 811000976.053135
+    },
+    {
+      "fecha": "2023-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 881109994.662634
+    },
+    {
+      "fecha": "2023-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 846411372.263243
+    },
+    {
+      "fecha": "2023-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 889383117.870337
+    },
+    {
+      "fecha": "2023-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 860643861.559019
+    },
+    {
+      "fecha": "2023-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 827206196.26418
+    },
+    {
+      "fecha": "2023-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 827080912.503474
+    },
+    {
+      "fecha": "2023-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 788014871.825211
+    },
+    {
+      "fecha": "2023-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 945038117.898997
+    },
+    {
+      "fecha": "2024-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 902352018.902404
+    },
+    {
+      "fecha": "2024-02-29",
+      "serie": "Remesas recibidas",
+      "valor": 898467401.112385
+    },
+    {
+      "fecha": "2024-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 960161688.276762
+    },
+    {
+      "fecha": "2024-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 893589686.567239
+    },
+    {
+      "fecha": "2024-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 922917568.721322
+    },
+    {
+      "fecha": "2024-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 852252446.717825
+    },
+    {
+      "fecha": "2024-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 908643581.203494
+    },
+    {
+      "fecha": "2024-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 933578350.237889
+    },
+    {
+      "fecha": "2024-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 868603476.488301
+    },
+    {
+      "fecha": "2024-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 897031339.412441
+    },
+    {
+      "fecha": "2024-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 826631332.638492
+    },
+    {
+      "fecha": "2024-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 994753068.626679
+    },
+    {
+      "fecha": "2025-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 935639815.477728
+    },
+    {
+      "fecha": "2025-02-28",
+      "serie": "Remesas recibidas",
+      "valor": 916991996.64
+    },
+    {
+      "fecha": "2025-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 1110255348.91034
+    },
+    {
+      "fecha": "2025-04-30",
+      "serie": "Remesas recibidas",
+      "valor": 954577676.484817
+    },
+    {
+      "fecha": "2025-05-31",
+      "serie": "Remesas recibidas",
+      "valor": 985484585.831206
+    },
+    {
+      "fecha": "2025-06-30",
+      "serie": "Remesas recibidas",
+      "valor": 923787393.106217
+    },
+    {
+      "fecha": "2025-07-31",
+      "serie": "Remesas recibidas",
+      "valor": 1047726952.73752
+    },
+    {
+      "fecha": "2025-08-31",
+      "serie": "Remesas recibidas",
+      "valor": 1046529196.505325
+    },
+    {
+      "fecha": "2025-09-30",
+      "serie": "Remesas recibidas",
+      "valor": 991798720.787689
+    },
+    {
+      "fecha": "2025-10-31",
+      "serie": "Remesas recibidas",
+      "valor": 965620090.355999
+    },
+    {
+      "fecha": "2025-11-30",
+      "serie": "Remesas recibidas",
+      "valor": 889519996.193603
+    },
+    {
+      "fecha": "2025-12-31",
+      "serie": "Remesas recibidas",
+      "valor": 1098383417.85003
+    },
+    {
+      "fecha": "2026-01-31",
+      "serie": "Remesas recibidas",
+      "valor": 982770568.431068
+    },
+    {
+      "fecha": "2026-02-28",
+      "serie": "Remesas recibidas",
+      "valor": 887637782.320438
+    },
+    {
+      "fecha": "2026-03-31",
+      "serie": "Remesas recibidas",
+      "valor": 1149199550.990002
+    }
+  ],
+  "csv_download": "data/csv/remesas_mensual.csv"
+}

@@ -1,0 +1,1273 @@
+﻿fecha,anio,mes,mes_nombre,medida,valor,unidad,fuente_archivo
+1985-01-31,1985,1,Enero,BRUTAS,255.0,millones_usd,reservas_internacionales.xlsx
+1985-02-28,1985,2,Febrero,BRUTAS,273.0,millones_usd,reservas_internacionales.xlsx
+1985-03-31,1985,3,Marzo,BRUTAS,312.7,millones_usd,reservas_internacionales.xlsx
+1985-04-30,1985,4,Abril,BRUTAS,320.3,millones_usd,reservas_internacionales.xlsx
+1985-05-31,1985,5,Mayo,BRUTAS,232.3,millones_usd,reservas_internacionales.xlsx
+1985-06-30,1985,6,Junio,BRUTAS,287.5,millones_usd,reservas_internacionales.xlsx
+1985-07-31,1985,7,Julio,BRUTAS,292.7,millones_usd,reservas_internacionales.xlsx
+1985-08-31,1985,8,Agosto,BRUTAS,278.0,millones_usd,reservas_internacionales.xlsx
+1985-09-30,1985,9,Septiembre,BRUTAS,222.3,millones_usd,reservas_internacionales.xlsx
+1985-10-31,1985,10,Octubre,BRUTAS,205.7,millones_usd,reservas_internacionales.xlsx
+1985-11-30,1985,11,Noviembre,BRUTAS,229.4,millones_usd,reservas_internacionales.xlsx
+1985-12-31,1985,12,Diciembre,BRUTAS,397.2,millones_usd,reservas_internacionales.xlsx
+1985-01-31,1985,1,Enero,NETAS,-381.1,millones_usd,reservas_internacionales.xlsx
+1985-02-28,1985,2,Febrero,NETAS,-358.8,millones_usd,reservas_internacionales.xlsx
+1985-03-31,1985,3,Marzo,NETAS,-345.7,millones_usd,reservas_internacionales.xlsx
+1985-04-30,1985,4,Abril,NETAS,-325.7,millones_usd,reservas_internacionales.xlsx
+1985-05-31,1985,5,Mayo,NETAS,-356.9,millones_usd,reservas_internacionales.xlsx
+1985-06-30,1985,6,Junio,NETAS,-285.7,millones_usd,reservas_internacionales.xlsx
+1985-07-31,1985,7,Julio,NETAS,-290.1,millones_usd,reservas_internacionales.xlsx
+1985-08-31,1985,8,Agosto,NETAS,-309.4,millones_usd,reservas_internacionales.xlsx
+1985-09-30,1985,9,Septiembre,NETAS,-310.1,millones_usd,reservas_internacionales.xlsx
+1985-10-31,1985,10,Octubre,NETAS,-360.3,millones_usd,reservas_internacionales.xlsx
+1985-11-30,1985,11,Noviembre,NETAS,-348.2,millones_usd,reservas_internacionales.xlsx
+1985-12-31,1985,12,Diciembre,NETAS,-248.0,millones_usd,reservas_internacionales.xlsx
+1986-01-31,1986,1,Enero,BRUTAS,272.2,millones_usd,reservas_internacionales.xlsx
+1986-02-28,1986,2,Febrero,BRUTAS,264.0,millones_usd,reservas_internacionales.xlsx
+1986-03-31,1986,3,Marzo,BRUTAS,257.3,millones_usd,reservas_internacionales.xlsx
+1986-04-30,1986,4,Abril,BRUTAS,265.7,millones_usd,reservas_internacionales.xlsx
+1986-05-31,1986,5,Mayo,BRUTAS,203.6,millones_usd,reservas_internacionales.xlsx
+1986-06-30,1986,6,Junio,BRUTAS,238.9,millones_usd,reservas_internacionales.xlsx
+1986-07-31,1986,7,Julio,BRUTAS,292.1,millones_usd,reservas_internacionales.xlsx
+1986-08-31,1986,8,Agosto,BRUTAS,299.7,millones_usd,reservas_internacionales.xlsx
+1986-09-30,1986,9,Septiembre,BRUTAS,339.5,millones_usd,reservas_internacionales.xlsx
+1986-10-31,1986,10,Octubre,BRUTAS,390.1,millones_usd,reservas_internacionales.xlsx
+1986-11-30,1986,11,Noviembre,BRUTAS,403.8,millones_usd,reservas_internacionales.xlsx
+1986-12-31,1986,12,Diciembre,BRUTAS,429.6,millones_usd,reservas_internacionales.xlsx
+1986-01-31,1986,1,Enero,NETAS,-316.4,millones_usd,reservas_internacionales.xlsx
+1986-02-28,1986,2,Febrero,NETAS,-350.6,millones_usd,reservas_internacionales.xlsx
+1986-03-31,1986,3,Marzo,NETAS,-339.7,millones_usd,reservas_internacionales.xlsx
+1986-04-30,1986,4,Abril,NETAS,-362.5,millones_usd,reservas_internacionales.xlsx
+1986-05-31,1986,5,Mayo,NETAS,-354.8,millones_usd,reservas_internacionales.xlsx
+1986-06-30,1986,6,Junio,NETAS,-336.7,millones_usd,reservas_internacionales.xlsx
+1986-07-31,1986,7,Julio,NETAS,-283.8,millones_usd,reservas_internacionales.xlsx
+1986-08-31,1986,8,Agosto,NETAS,-274.0,millones_usd,reservas_internacionales.xlsx
+1986-09-30,1986,9,Septiembre,NETAS,-218.5,millones_usd,reservas_internacionales.xlsx
+1986-10-31,1986,10,Octubre,NETAS,-157.3,millones_usd,reservas_internacionales.xlsx
+1986-11-30,1986,11,Noviembre,NETAS,-150.6,millones_usd,reservas_internacionales.xlsx
+1986-12-31,1986,12,Diciembre,NETAS,-151.8,millones_usd,reservas_internacionales.xlsx
+1987-01-31,1987,1,Enero,BRUTAS,416.0,millones_usd,reservas_internacionales.xlsx
+1987-02-28,1987,2,Febrero,BRUTAS,429.5,millones_usd,reservas_internacionales.xlsx
+1987-03-31,1987,3,Marzo,BRUTAS,433.6,millones_usd,reservas_internacionales.xlsx
+1987-04-30,1987,4,Abril,BRUTAS,465.8,millones_usd,reservas_internacionales.xlsx
+1987-05-31,1987,5,Mayo,BRUTAS,406.5,millones_usd,reservas_internacionales.xlsx
+1987-06-30,1987,6,Junio,BRUTAS,386.9,millones_usd,reservas_internacionales.xlsx
+1987-07-31,1987,7,Julio,BRUTAS,356.4,millones_usd,reservas_internacionales.xlsx
+1987-08-31,1987,8,Agosto,BRUTAS,334.6,millones_usd,reservas_internacionales.xlsx
+1987-09-30,1987,9,Septiembre,BRUTAS,242.4,millones_usd,reservas_internacionales.xlsx
+1987-10-31,1987,10,Octubre,BRUTAS,238.7,millones_usd,reservas_internacionales.xlsx
+1987-11-30,1987,11,Noviembre,BRUTAS,190.2,millones_usd,reservas_internacionales.xlsx
+1987-12-31,1987,12,Diciembre,BRUTAS,235.2,millones_usd,reservas_internacionales.xlsx
+1987-01-31,1987,1,Enero,NETAS,-155.4,millones_usd,reservas_internacionales.xlsx
+1987-02-28,1987,2,Febrero,NETAS,-135.1,millones_usd,reservas_internacionales.xlsx
+1987-03-31,1987,3,Marzo,NETAS,-148.4,millones_usd,reservas_internacionales.xlsx
+1987-04-30,1987,4,Abril,NETAS,-124.2,millones_usd,reservas_internacionales.xlsx
+1987-05-31,1987,5,Mayo,NETAS,-129.0,millones_usd,reservas_internacionales.xlsx
+1987-06-30,1987,6,Junio,NETAS,-166.3,millones_usd,reservas_internacionales.xlsx
+1987-07-31,1987,7,Julio,NETAS,-197.3,millones_usd,reservas_internacionales.xlsx
+1987-08-31,1987,8,Agosto,NETAS,-244.2,millones_usd,reservas_internacionales.xlsx
+1987-09-30,1987,9,Septiembre,NETAS,-285.7,millones_usd,reservas_internacionales.xlsx
+1987-10-31,1987,10,Octubre,NETAS,-304.9,millones_usd,reservas_internacionales.xlsx
+1987-11-30,1987,11,Noviembre,NETAS,-364.8,millones_usd,reservas_internacionales.xlsx
+1987-12-31,1987,12,Diciembre,NETAS,-357.9,millones_usd,reservas_internacionales.xlsx
+1988-01-31,1988,1,Enero,BRUTAS,185.3,millones_usd,reservas_internacionales.xlsx
+1988-02-29,1988,2,Febrero,BRUTAS,188.5,millones_usd,reservas_internacionales.xlsx
+1988-03-31,1988,3,Marzo,BRUTAS,222.5,millones_usd,reservas_internacionales.xlsx
+1988-04-30,1988,4,Abril,BRUTAS,216.9,millones_usd,reservas_internacionales.xlsx
+1988-05-31,1988,5,Mayo,BRUTAS,197.8,millones_usd,reservas_internacionales.xlsx
+1988-06-30,1988,6,Junio,BRUTAS,224.1,millones_usd,reservas_internacionales.xlsx
+1988-07-31,1988,7,Julio,BRUTAS,237.0,millones_usd,reservas_internacionales.xlsx
+1988-08-31,1988,8,Agosto,BRUTAS,241.9,millones_usd,reservas_internacionales.xlsx
+1988-09-30,1988,9,Septiembre,BRUTAS,195.3,millones_usd,reservas_internacionales.xlsx
+1988-10-31,1988,10,Octubre,BRUTAS,204.1,millones_usd,reservas_internacionales.xlsx
+1988-11-30,1988,11,Noviembre,BRUTAS,211.9,millones_usd,reservas_internacionales.xlsx
+1988-12-31,1988,12,Diciembre,BRUTAS,309.4,millones_usd,reservas_internacionales.xlsx
+1988-01-31,1988,1,Enero,NETAS,-213.3,millones_usd,reservas_internacionales.xlsx
+1988-02-29,1988,2,Febrero,NETAS,-218.1,millones_usd,reservas_internacionales.xlsx
+1988-03-31,1988,3,Marzo,NETAS,-205.2,millones_usd,reservas_internacionales.xlsx
+1988-04-30,1988,4,Abril,NETAS,-221.3,millones_usd,reservas_internacionales.xlsx
+1988-05-31,1988,5,Mayo,NETAS,-199.0,millones_usd,reservas_internacionales.xlsx
+1988-06-30,1988,6,Junio,NETAS,-178.3,millones_usd,reservas_internacionales.xlsx
+1988-07-31,1988,7,Julio,NETAS,-165.5,millones_usd,reservas_internacionales.xlsx
+1988-08-31,1988,8,Agosto,NETAS,-173.9,millones_usd,reservas_internacionales.xlsx
+1988-09-30,1988,9,Septiembre,NETAS,-171.5,millones_usd,reservas_internacionales.xlsx
+1988-10-31,1988,10,Octubre,NETAS,-180.5,millones_usd,reservas_internacionales.xlsx
+1988-11-30,1988,11,Noviembre,NETAS,-181.2,millones_usd,reservas_internacionales.xlsx
+1988-12-31,1988,12,Diciembre,NETAS,-103.3,millones_usd,reservas_internacionales.xlsx
+1989-01-31,1989,1,Enero,BRUTAS,238.7,millones_usd,reservas_internacionales.xlsx
+1989-02-28,1989,2,Febrero,BRUTAS,238.9,millones_usd,reservas_internacionales.xlsx
+1989-03-31,1989,3,Marzo,BRUTAS,242.3,millones_usd,reservas_internacionales.xlsx
+1989-04-30,1989,4,Abril,BRUTAS,248.9,millones_usd,reservas_internacionales.xlsx
+1989-05-31,1989,5,Mayo,BRUTAS,211.9,millones_usd,reservas_internacionales.xlsx
+1989-06-30,1989,6,Junio,BRUTAS,220.9,millones_usd,reservas_internacionales.xlsx
+1989-07-31,1989,7,Julio,BRUTAS,179.0,millones_usd,reservas_internacionales.xlsx
+1989-08-31,1989,8,Agosto,BRUTAS,177.5,millones_usd,reservas_internacionales.xlsx
+1989-09-30,1989,9,Septiembre,BRUTAS,199.4,millones_usd,reservas_internacionales.xlsx
+1989-10-31,1989,10,Octubre,BRUTAS,210.8,millones_usd,reservas_internacionales.xlsx
+1989-11-30,1989,11,Noviembre,BRUTAS,203.4,millones_usd,reservas_internacionales.xlsx
+1989-12-31,1989,12,Diciembre,BRUTAS,221.2,millones_usd,reservas_internacionales.xlsx
+1989-01-31,1989,1,Enero,NETAS,-107.3,millones_usd,reservas_internacionales.xlsx
+1989-02-28,1989,2,Febrero,NETAS,-120.7,millones_usd,reservas_internacionales.xlsx
+1989-03-31,1989,3,Marzo,NETAS,-120.8,millones_usd,reservas_internacionales.xlsx
+1989-04-30,1989,4,Abril,NETAS,-124.1,millones_usd,reservas_internacionales.xlsx
+1989-05-31,1989,5,Mayo,NETAS,-103.1,millones_usd,reservas_internacionales.xlsx
+1989-06-30,1989,6,Junio,NETAS,-117.7,millones_usd,reservas_internacionales.xlsx
+1989-07-31,1989,7,Julio,NETAS,-170.8,millones_usd,reservas_internacionales.xlsx
+1989-08-31,1989,8,Agosto,NETAS,-190.7,millones_usd,reservas_internacionales.xlsx
+1989-09-30,1989,9,Septiembre,NETAS,-178.8,millones_usd,reservas_internacionales.xlsx
+1989-10-31,1989,10,Octubre,NETAS,-175.8,millones_usd,reservas_internacionales.xlsx
+1989-11-30,1989,11,Noviembre,NETAS,-177.5,millones_usd,reservas_internacionales.xlsx
+1989-12-31,1989,12,Diciembre,NETAS,-273.6,millones_usd,reservas_internacionales.xlsx
+1990-01-31,1990,1,Enero,BRUTAS,226.0,millones_usd,reservas_internacionales.xlsx
+1990-02-28,1990,2,Febrero,BRUTAS,238.6,millones_usd,reservas_internacionales.xlsx
+1990-03-31,1990,3,Marzo,BRUTAS,230.5,millones_usd,reservas_internacionales.xlsx
+1990-04-30,1990,4,Abril,BRUTAS,211.2,millones_usd,reservas_internacionales.xlsx
+1990-05-31,1990,5,Mayo,BRUTAS,190.4,millones_usd,reservas_internacionales.xlsx
+1990-06-30,1990,6,Junio,BRUTAS,171.5,millones_usd,reservas_internacionales.xlsx
+1990-07-31,1990,7,Julio,BRUTAS,185.6,millones_usd,reservas_internacionales.xlsx
+1990-08-31,1990,8,Agosto,BRUTAS,219.9,millones_usd,reservas_internacionales.xlsx
+1990-09-30,1990,9,Septiembre,BRUTAS,191.5,millones_usd,reservas_internacionales.xlsx
+1990-10-31,1990,10,Octubre,BRUTAS,165.2,millones_usd,reservas_internacionales.xlsx
+1990-11-30,1990,11,Noviembre,BRUTAS,177.1,millones_usd,reservas_internacionales.xlsx
+1990-12-31,1990,12,Diciembre,BRUTAS,180.2,millones_usd,reservas_internacionales.xlsx
+1990-01-31,1990,1,Enero,NETAS,-179.2,millones_usd,reservas_internacionales.xlsx
+1990-02-28,1990,2,Febrero,NETAS,-160.5,millones_usd,reservas_internacionales.xlsx
+1990-03-31,1990,3,Marzo,NETAS,-168.8,millones_usd,reservas_internacionales.xlsx
+1990-04-30,1990,4,Abril,NETAS,-180.3,millones_usd,reservas_internacionales.xlsx
+1990-05-31,1990,5,Mayo,NETAS,-197.7,millones_usd,reservas_internacionales.xlsx
+1990-06-30,1990,6,Junio,NETAS,-206.5,millones_usd,reservas_internacionales.xlsx
+1990-07-31,1990,7,Julio,NETAS,-191.5,millones_usd,reservas_internacionales.xlsx
+1990-08-31,1990,8,Agosto,NETAS,-158.4,millones_usd,reservas_internacionales.xlsx
+1990-09-30,1990,9,Septiembre,NETAS,-177.4,millones_usd,reservas_internacionales.xlsx
+1990-10-31,1990,10,Octubre,NETAS,-224.9,millones_usd,reservas_internacionales.xlsx
+1990-11-30,1990,11,Noviembre,NETAS,-189.8,millones_usd,reservas_internacionales.xlsx
+1990-12-31,1990,12,Diciembre,NETAS,-197.8,millones_usd,reservas_internacionales.xlsx
+1991-01-31,1991,1,Enero,BRUTAS,186.0,millones_usd,reservas_internacionales.xlsx
+1991-02-28,1991,2,Febrero,BRUTAS,209.8,millones_usd,reservas_internacionales.xlsx
+1991-03-31,1991,3,Marzo,BRUTAS,239.8,millones_usd,reservas_internacionales.xlsx
+1991-04-30,1991,4,Abril,BRUTAS,276.4,millones_usd,reservas_internacionales.xlsx
+1991-05-31,1991,5,Mayo,BRUTAS,289.7,millones_usd,reservas_internacionales.xlsx
+1991-06-30,1991,6,Junio,BRUTAS,341.4,millones_usd,reservas_internacionales.xlsx
+1991-07-31,1991,7,Julio,BRUTAS,334.8,millones_usd,reservas_internacionales.xlsx
+1991-08-31,1991,8,Agosto,BRUTAS,362.2,millones_usd,reservas_internacionales.xlsx
+1991-09-30,1991,9,Septiembre,BRUTAS,432.5,millones_usd,reservas_internacionales.xlsx
+1991-10-31,1991,10,Octubre,BRUTAS,446.1,millones_usd,reservas_internacionales.xlsx
+1991-11-30,1991,11,Noviembre,BRUTAS,482.5,millones_usd,reservas_internacionales.xlsx
+1991-12-31,1991,12,Diciembre,BRUTAS,500.1,millones_usd,reservas_internacionales.xlsx
+1991-01-31,1991,1,Enero,NETAS,-185.0,millones_usd,reservas_internacionales.xlsx
+1991-02-28,1991,2,Febrero,NETAS,-164.5,millones_usd,reservas_internacionales.xlsx
+1991-03-31,1991,3,Marzo,NETAS,-122.9,millones_usd,reservas_internacionales.xlsx
+1991-04-30,1991,4,Abril,NETAS,-65.9,millones_usd,reservas_internacionales.xlsx
+1991-05-31,1991,5,Mayo,NETAS,-16.4,millones_usd,reservas_internacionales.xlsx
+1991-06-30,1991,6,Junio,NETAS,40.3,millones_usd,reservas_internacionales.xlsx
+1991-07-31,1991,7,Julio,NETAS,31.3,millones_usd,reservas_internacionales.xlsx
+1991-08-31,1991,8,Agosto,NETAS,105.3,millones_usd,reservas_internacionales.xlsx
+1991-09-30,1991,9,Septiembre,NETAS,115.9,millones_usd,reservas_internacionales.xlsx
+1991-10-31,1991,10,Octubre,NETAS,131.8,millones_usd,reservas_internacionales.xlsx
+1991-11-30,1991,11,Noviembre,NETAS,178.6,millones_usd,reservas_internacionales.xlsx
+1991-12-31,1991,12,Diciembre,NETAS,180.6,millones_usd,reservas_internacionales.xlsx
+1992-01-31,1992,1,Enero,BRUTAS,516.0,millones_usd,reservas_internacionales.xlsx
+1992-02-29,1992,2,Febrero,BRUTAS,523.4,millones_usd,reservas_internacionales.xlsx
+1992-03-31,1992,3,Marzo,BRUTAS,454.9,millones_usd,reservas_internacionales.xlsx
+1992-04-30,1992,4,Abril,BRUTAS,463.6,millones_usd,reservas_internacionales.xlsx
+1992-05-31,1992,5,Mayo,BRUTAS,489.3,millones_usd,reservas_internacionales.xlsx
+1992-06-30,1992,6,Junio,BRUTAS,467.6,millones_usd,reservas_internacionales.xlsx
+1992-07-31,1992,7,Julio,BRUTAS,445.0,millones_usd,reservas_internacionales.xlsx
+1992-08-31,1992,8,Agosto,BRUTAS,459.3,millones_usd,reservas_internacionales.xlsx
+1992-09-30,1992,9,Septiembre,BRUTAS,453.8,millones_usd,reservas_internacionales.xlsx
+1992-10-31,1992,10,Octubre,BRUTAS,468.3,millones_usd,reservas_internacionales.xlsx
+1992-11-30,1992,11,Noviembre,BRUTAS,466.7,millones_usd,reservas_internacionales.xlsx
+1992-12-31,1992,12,Diciembre,BRUTAS,580.8,millones_usd,reservas_internacionales.xlsx
+1992-01-31,1992,1,Enero,NETAS,202.9,millones_usd,reservas_internacionales.xlsx
+1992-02-29,1992,2,Febrero,NETAS,233.4,millones_usd,reservas_internacionales.xlsx
+1992-03-31,1992,3,Marzo,NETAS,241.8,millones_usd,reservas_internacionales.xlsx
+1992-04-30,1992,4,Abril,NETAS,259.9,millones_usd,reservas_internacionales.xlsx
+1992-05-31,1992,5,Mayo,NETAS,274.4,millones_usd,reservas_internacionales.xlsx
+1992-06-30,1992,6,Junio,NETAS,258.6,millones_usd,reservas_internacionales.xlsx
+1992-07-31,1992,7,Julio,NETAS,224.9,millones_usd,reservas_internacionales.xlsx
+1992-08-31,1992,8,Agosto,NETAS,240.5,millones_usd,reservas_internacionales.xlsx
+1992-09-30,1992,9,Septiembre,NETAS,229.8,millones_usd,reservas_internacionales.xlsx
+1992-10-31,1992,10,Octubre,NETAS,250.5,millones_usd,reservas_internacionales.xlsx
+1992-11-30,1992,11,Noviembre,NETAS,250.9,millones_usd,reservas_internacionales.xlsx
+1992-12-31,1992,12,Diciembre,NETAS,306.0,millones_usd,reservas_internacionales.xlsx
+1993-01-31,1993,1,Enero,BRUTAS,579.5,millones_usd,reservas_internacionales.xlsx
+1993-02-28,1993,2,Febrero,BRUTAS,589.0,millones_usd,reservas_internacionales.xlsx
+1993-03-31,1993,3,Marzo,BRUTAS,592.0,millones_usd,reservas_internacionales.xlsx
+1993-04-30,1993,4,Abril,BRUTAS,609.4,millones_usd,reservas_internacionales.xlsx
+1993-05-31,1993,5,Mayo,BRUTAS,619.7,millones_usd,reservas_internacionales.xlsx
+1993-06-30,1993,6,Junio,BRUTAS,641.5,millones_usd,reservas_internacionales.xlsx
+1993-07-31,1993,7,Julio,BRUTAS,700.7,millones_usd,reservas_internacionales.xlsx
+1993-08-31,1993,8,Agosto,BRUTAS,714.2,millones_usd,reservas_internacionales.xlsx
+1993-09-30,1993,9,Septiembre,BRUTAS,738.8,millones_usd,reservas_internacionales.xlsx
+1993-10-31,1993,10,Octubre,BRUTAS,710.4,millones_usd,reservas_internacionales.xlsx
+1993-11-30,1993,11,Noviembre,BRUTAS,643.4,millones_usd,reservas_internacionales.xlsx
+1993-12-31,1993,12,Diciembre,BRUTAS,736.0,millones_usd,reservas_internacionales.xlsx
+1993-01-31,1993,1,Enero,NETAS,320.5,millones_usd,reservas_internacionales.xlsx
+1993-02-28,1993,2,Febrero,NETAS,332.1,millones_usd,reservas_internacionales.xlsx
+1993-03-31,1993,3,Marzo,NETAS,340.7,millones_usd,reservas_internacionales.xlsx
+1993-04-30,1993,4,Abril,NETAS,369.6,millones_usd,reservas_internacionales.xlsx
+1993-05-31,1993,5,Mayo,NETAS,376.0,millones_usd,reservas_internacionales.xlsx
+1993-06-30,1993,6,Junio,NETAS,405.8,millones_usd,reservas_internacionales.xlsx
+1993-07-31,1993,7,Julio,NETAS,412.5,millones_usd,reservas_internacionales.xlsx
+1993-08-31,1993,8,Agosto,NETAS,423.7,millones_usd,reservas_internacionales.xlsx
+1993-09-30,1993,9,Septiembre,NETAS,448.5,millones_usd,reservas_internacionales.xlsx
+1993-10-31,1993,10,Octubre,NETAS,429.2,millones_usd,reservas_internacionales.xlsx
+1993-11-30,1993,11,Noviembre,NETAS,361.8,millones_usd,reservas_internacionales.xlsx
+1993-12-31,1993,12,Diciembre,NETAS,437.9,millones_usd,reservas_internacionales.xlsx
+1994-01-31,1994,1,Enero,BRUTAS,685.6,millones_usd,reservas_internacionales.xlsx
+1994-02-28,1994,2,Febrero,BRUTAS,637.4,millones_usd,reservas_internacionales.xlsx
+1994-03-31,1994,3,Marzo,BRUTAS,574.8,millones_usd,reservas_internacionales.xlsx
+1994-04-30,1994,4,Abril,BRUTAS,568.7,millones_usd,reservas_internacionales.xlsx
+1994-05-31,1994,5,Mayo,BRUTAS,480.2,millones_usd,reservas_internacionales.xlsx
+1994-06-30,1994,6,Junio,BRUTAS,429.6,millones_usd,reservas_internacionales.xlsx
+1994-07-31,1994,7,Julio,BRUTAS,399.2,millones_usd,reservas_internacionales.xlsx
+1994-08-31,1994,8,Agosto,BRUTAS,270.6,millones_usd,reservas_internacionales.xlsx
+1994-09-30,1994,9,Septiembre,BRUTAS,316.7,millones_usd,reservas_internacionales.xlsx
+1994-10-31,1994,10,Octubre,BRUTAS,339.5,millones_usd,reservas_internacionales.xlsx
+1994-11-30,1994,11,Noviembre,BRUTAS,354.4,millones_usd,reservas_internacionales.xlsx
+1994-12-31,1994,12,Diciembre,BRUTAS,384.6,millones_usd,reservas_internacionales.xlsx
+1994-01-31,1994,1,Enero,NETAS,386.1,millones_usd,reservas_internacionales.xlsx
+1994-02-28,1994,2,Febrero,NETAS,351.2,millones_usd,reservas_internacionales.xlsx
+1994-03-31,1994,3,Marzo,NETAS,293.0,millones_usd,reservas_internacionales.xlsx
+1994-04-30,1994,4,Abril,NETAS,287.2,millones_usd,reservas_internacionales.xlsx
+1994-05-31,1994,5,Mayo,NETAS,204.0,millones_usd,reservas_internacionales.xlsx
+1994-06-30,1994,6,Junio,NETAS,164.7,millones_usd,reservas_internacionales.xlsx
+1994-07-31,1994,7,Julio,NETAS,125.1,millones_usd,reservas_internacionales.xlsx
+1994-08-31,1994,8,Agosto,NETAS,-62.4,millones_usd,reservas_internacionales.xlsx
+1994-09-30,1994,9,Septiembre,NETAS,-46.6,millones_usd,reservas_internacionales.xlsx
+1994-10-31,1994,10,Octubre,NETAS,-33.7,millones_usd,reservas_internacionales.xlsx
+1994-11-30,1994,11,Noviembre,NETAS,-40.0,millones_usd,reservas_internacionales.xlsx
+1994-12-31,1994,12,Diciembre,NETAS,-31.8,millones_usd,reservas_internacionales.xlsx
+1995-01-31,1995,1,Enero,BRUTAS,407.3,millones_usd,reservas_internacionales.xlsx
+1995-02-28,1995,2,Febrero,BRUTAS,405.5,millones_usd,reservas_internacionales.xlsx
+1995-03-31,1995,3,Marzo,BRUTAS,419.8,millones_usd,reservas_internacionales.xlsx
+1995-04-30,1995,4,Abril,BRUTAS,435.2,millones_usd,reservas_internacionales.xlsx
+1995-05-31,1995,5,Mayo,BRUTAS,466.2,millones_usd,reservas_internacionales.xlsx
+1995-06-30,1995,6,Junio,BRUTAS,481.2,millones_usd,reservas_internacionales.xlsx
+1995-07-31,1995,7,Julio,BRUTAS,473.1,millones_usd,reservas_internacionales.xlsx
+1995-08-31,1995,8,Agosto,BRUTAS,467.5,millones_usd,reservas_internacionales.xlsx
+1995-09-30,1995,9,Septiembre,BRUTAS,447.7,millones_usd,reservas_internacionales.xlsx
+1995-10-31,1995,10,Octubre,BRUTAS,458.9,millones_usd,reservas_internacionales.xlsx
+1995-11-30,1995,11,Noviembre,BRUTAS,459.8,millones_usd,reservas_internacionales.xlsx
+1995-12-31,1995,12,Diciembre,BRUTAS,528.5,millones_usd,reservas_internacionales.xlsx
+1995-01-31,1995,1,Enero,NETAS,-10.0,millones_usd,reservas_internacionales.xlsx
+1995-02-28,1995,2,Febrero,NETAS,4.3,millones_usd,reservas_internacionales.xlsx
+1995-03-31,1995,3,Marzo,NETAS,13.4,millones_usd,reservas_internacionales.xlsx
+1995-04-30,1995,4,Abril,NETAS,25.4,millones_usd,reservas_internacionales.xlsx
+1995-05-31,1995,5,Mayo,NETAS,55.9,millones_usd,reservas_internacionales.xlsx
+1995-06-30,1995,6,Junio,NETAS,77.3,millones_usd,reservas_internacionales.xlsx
+1995-07-31,1995,7,Julio,NETAS,70.4,millones_usd,reservas_internacionales.xlsx
+1995-08-31,1995,8,Agosto,NETAS,51.8,millones_usd,reservas_internacionales.xlsx
+1995-09-30,1995,9,Septiembre,NETAS,30.2,millones_usd,reservas_internacionales.xlsx
+1995-10-31,1995,10,Octubre,NETAS,32.9,millones_usd,reservas_internacionales.xlsx
+1995-11-30,1995,11,Noviembre,NETAS,26.2,millones_usd,reservas_internacionales.xlsx
+1995-12-31,1995,12,Diciembre,NETAS,105.2,millones_usd,reservas_internacionales.xlsx
+1996-01-31,1996,1,Enero,BRUTAS,527.6,millones_usd,reservas_internacionales.xlsx
+1996-02-29,1996,2,Febrero,BRUTAS,532.7,millones_usd,reservas_internacionales.xlsx
+1996-03-31,1996,3,Marzo,BRUTAS,535.4,millones_usd,reservas_internacionales.xlsx
+1996-04-30,1996,4,Abril,BRUTAS,533.2,millones_usd,reservas_internacionales.xlsx
+1996-05-31,1996,5,Mayo,BRUTAS,535.8,millones_usd,reservas_internacionales.xlsx
+1996-06-30,1996,6,Junio,BRUTAS,537.3,millones_usd,reservas_internacionales.xlsx
+1996-07-31,1996,7,Julio,BRUTAS,518.4,millones_usd,reservas_internacionales.xlsx
+1996-08-31,1996,8,Agosto,BRUTAS,512.7,millones_usd,reservas_internacionales.xlsx
+1996-09-30,1996,9,Septiembre,BRUTAS,507.8,millones_usd,reservas_internacionales.xlsx
+1996-10-31,1996,10,Octubre,BRUTAS,510.4,millones_usd,reservas_internacionales.xlsx
+1996-11-30,1996,11,Noviembre,BRUTAS,507.2,millones_usd,reservas_internacionales.xlsx
+1996-12-31,1996,12,Diciembre,BRUTAS,512.0,millones_usd,reservas_internacionales.xlsx
+1996-01-31,1996,1,Enero,NETAS,95.1,millones_usd,reservas_internacionales.xlsx
+1996-02-29,1996,2,Febrero,NETAS,108.4,millones_usd,reservas_internacionales.xlsx
+1996-03-31,1996,3,Marzo,NETAS,140.9,millones_usd,reservas_internacionales.xlsx
+1996-04-30,1996,4,Abril,NETAS,133.0,millones_usd,reservas_internacionales.xlsx
+1996-05-31,1996,5,Mayo,NETAS,132.4,millones_usd,reservas_internacionales.xlsx
+1996-06-30,1996,6,Junio,NETAS,153.2,millones_usd,reservas_internacionales.xlsx
+1996-07-31,1996,7,Julio,NETAS,128.9,millones_usd,reservas_internacionales.xlsx
+1996-08-31,1996,8,Agosto,NETAS,122.3,millones_usd,reservas_internacionales.xlsx
+1996-09-30,1996,9,Septiembre,NETAS,127.6,millones_usd,reservas_internacionales.xlsx
+1996-10-31,1996,10,Octubre,NETAS,117.8,millones_usd,reservas_internacionales.xlsx
+1996-11-30,1996,11,Noviembre,NETAS,110.2,millones_usd,reservas_internacionales.xlsx
+1996-12-31,1996,12,Diciembre,NETAS,144.6,millones_usd,reservas_internacionales.xlsx
+1997-01-31,1997,1,Enero,BRUTAS,497.2,millones_usd,reservas_internacionales.xlsx
+1997-02-28,1997,2,Febrero,BRUTAS,508.3,millones_usd,reservas_internacionales.xlsx
+1997-03-31,1997,3,Marzo,BRUTAS,510.5,millones_usd,reservas_internacionales.xlsx
+1997-04-30,1997,4,Abril,BRUTAS,514.3,millones_usd,reservas_internacionales.xlsx
+1997-05-31,1997,5,Mayo,BRUTAS,525.4,millones_usd,reservas_internacionales.xlsx
+1997-06-30,1997,6,Junio,BRUTAS,526.5,millones_usd,reservas_internacionales.xlsx
+1997-07-31,1997,7,Julio,BRUTAS,537.3,millones_usd,reservas_internacionales.xlsx
+1997-08-31,1997,8,Agosto,BRUTAS,550.8,millones_usd,reservas_internacionales.xlsx
+1997-09-30,1997,9,Septiembre,BRUTAS,534.2,millones_usd,reservas_internacionales.xlsx
+1997-10-31,1997,10,Octubre,BRUTAS,527.6,millones_usd,reservas_internacionales.xlsx
+1997-11-30,1997,11,Noviembre,BRUTAS,520.8,millones_usd,reservas_internacionales.xlsx
+1997-12-31,1997,12,Diciembre,BRUTAS,555.5,millones_usd,reservas_internacionales.xlsx
+1997-01-31,1997,1,Enero,NETAS,131.8,millones_usd,reservas_internacionales.xlsx
+1997-02-28,1997,2,Febrero,NETAS,107.6,millones_usd,reservas_internacionales.xlsx
+1997-03-31,1997,3,Marzo,NETAS,121.9,millones_usd,reservas_internacionales.xlsx
+1997-04-30,1997,4,Abril,NETAS,141.1,millones_usd,reservas_internacionales.xlsx
+1997-05-31,1997,5,Mayo,NETAS,164.8,millones_usd,reservas_internacionales.xlsx
+1997-06-30,1997,6,Junio,NETAS,180.1,millones_usd,reservas_internacionales.xlsx
+1997-07-31,1997,7,Julio,NETAS,191.1,millones_usd,reservas_internacionales.xlsx
+1997-08-31,1997,8,Agosto,NETAS,233.3,millones_usd,reservas_internacionales.xlsx
+1997-09-30,1997,9,Septiembre,NETAS,223.7,millones_usd,reservas_internacionales.xlsx
+1997-10-31,1997,10,Octubre,NETAS,194.1,millones_usd,reservas_internacionales.xlsx
+1997-11-30,1997,11,Noviembre,NETAS,165.0,millones_usd,reservas_internacionales.xlsx
+1997-12-31,1997,12,Diciembre,NETAS,254.4,millones_usd,reservas_internacionales.xlsx
+1998-01-31,1998,1,Enero,BRUTAS,520.6,millones_usd,reservas_internacionales.xlsx
+1998-02-28,1998,2,Febrero,BRUTAS,521.6,millones_usd,reservas_internacionales.xlsx
+1998-03-31,1998,3,Marzo,BRUTAS,522.1,millones_usd,reservas_internacionales.xlsx
+1998-04-30,1998,4,Abril,BRUTAS,520.3,millones_usd,reservas_internacionales.xlsx
+1998-05-31,1998,5,Mayo,BRUTAS,520.2,millones_usd,reservas_internacionales.xlsx
+1998-06-30,1998,6,Junio,BRUTAS,521.5,millones_usd,reservas_internacionales.xlsx
+1998-07-31,1998,7,Julio,BRUTAS,526.2,millones_usd,reservas_internacionales.xlsx
+1998-08-31,1998,8,Agosto,BRUTAS,528.2,millones_usd,reservas_internacionales.xlsx
+1998-09-30,1998,9,Septiembre,BRUTAS,530.3,millones_usd,reservas_internacionales.xlsx
+1998-10-31,1998,10,Octubre,BRUTAS,555.6,millones_usd,reservas_internacionales.xlsx
+1998-11-30,1998,11,Noviembre,BRUTAS,605.5,millones_usd,reservas_internacionales.xlsx
+1998-12-31,1998,12,Diciembre,BRUTAS,658.9,millones_usd,reservas_internacionales.xlsx
+1998-01-31,1998,1,Enero,NETAS,201.3,millones_usd,reservas_internacionales.xlsx
+1998-02-28,1998,2,Febrero,NETAS,187.9,millones_usd,reservas_internacionales.xlsx
+1998-03-31,1998,3,Marzo,NETAS,216.5,millones_usd,reservas_internacionales.xlsx
+1998-04-30,1998,4,Abril,NETAS,173.1,millones_usd,reservas_internacionales.xlsx
+1998-05-31,1998,5,Mayo,NETAS,154.2,millones_usd,reservas_internacionales.xlsx
+1998-06-30,1998,6,Junio,NETAS,167.9,millones_usd,reservas_internacionales.xlsx
+1998-07-31,1998,7,Julio,NETAS,154.4,millones_usd,reservas_internacionales.xlsx
+1998-08-31,1998,8,Agosto,NETAS,194.9,millones_usd,reservas_internacionales.xlsx
+1998-09-30,1998,9,Septiembre,NETAS,201.6,millones_usd,reservas_internacionales.xlsx
+1998-10-31,1998,10,Octubre,NETAS,252.8,millones_usd,reservas_internacionales.xlsx
+1998-11-30,1998,11,Noviembre,NETAS,310.1,millones_usd,reservas_internacionales.xlsx
+1998-12-31,1998,12,Diciembre,NETAS,354.0,millones_usd,reservas_internacionales.xlsx
+1999-01-31,1999,1,Enero,BRUTAS,653.6,millones_usd,reservas_internacionales.xlsx
+1999-02-28,1999,2,Febrero,BRUTAS,624.3,millones_usd,reservas_internacionales.xlsx
+1999-03-31,1999,3,Marzo,BRUTAS,641.7,millones_usd,reservas_internacionales.xlsx
+1999-04-30,1999,4,Abril,BRUTAS,656.9,millones_usd,reservas_internacionales.xlsx
+1999-05-31,1999,5,Mayo,BRUTAS,659.7,millones_usd,reservas_internacionales.xlsx
+1999-06-30,1999,6,Junio,BRUTAS,713.6,millones_usd,reservas_internacionales.xlsx
+1999-07-31,1999,7,Julio,BRUTAS,830.0,millones_usd,reservas_internacionales.xlsx
+1999-08-31,1999,8,Agosto,BRUTAS,836.0,millones_usd,reservas_internacionales.xlsx
+1999-09-30,1999,9,Septiembre,BRUTAS,830.1,millones_usd,reservas_internacionales.xlsx
+1999-10-31,1999,10,Octubre,BRUTAS,788.0,millones_usd,reservas_internacionales.xlsx
+1999-11-30,1999,11,Noviembre,BRUTAS,805.4,millones_usd,reservas_internacionales.xlsx
+1999-12-31,1999,12,Diciembre,BRUTAS,881.3,millones_usd,reservas_internacionales.xlsx
+1999-01-31,1999,1,Enero,NETAS,337.0,millones_usd,reservas_internacionales.xlsx
+1999-02-28,1999,2,Febrero,NETAS,293.5,millones_usd,reservas_internacionales.xlsx
+1999-03-31,1999,3,Marzo,NETAS,333.0,millones_usd,reservas_internacionales.xlsx
+1999-04-30,1999,4,Abril,NETAS,347.7,millones_usd,reservas_internacionales.xlsx
+1999-05-31,1999,5,Mayo,NETAS,363.9,millones_usd,reservas_internacionales.xlsx
+1999-06-30,1999,6,Junio,NETAS,391.1,millones_usd,reservas_internacionales.xlsx
+1999-07-31,1999,7,Julio,NETAS,500.5,millones_usd,reservas_internacionales.xlsx
+1999-08-31,1999,8,Agosto,NETAS,523.6,millones_usd,reservas_internacionales.xlsx
+1999-09-30,1999,9,Septiembre,NETAS,478.1,millones_usd,reservas_internacionales.xlsx
+1999-10-31,1999,10,Octubre,NETAS,422.0,millones_usd,reservas_internacionales.xlsx
+1999-11-30,1999,11,Noviembre,NETAS,409.0,millones_usd,reservas_internacionales.xlsx
+1999-12-31,1999,12,Diciembre,NETAS,547.0,millones_usd,reservas_internacionales.xlsx
+2000-01-31,2000,1,Enero,BRUTAS,848.2,millones_usd,reservas_internacionales.xlsx
+2000-02-29,2000,2,Febrero,BRUTAS,765.4,millones_usd,reservas_internacionales.xlsx
+2000-03-31,2000,3,Marzo,BRUTAS,769.3,millones_usd,reservas_internacionales.xlsx
+2000-04-30,2000,4,Abril,BRUTAS,765.7,millones_usd,reservas_internacionales.xlsx
+2000-05-31,2000,5,Mayo,BRUTAS,743.7,millones_usd,reservas_internacionales.xlsx
+2000-06-30,2000,6,Junio,BRUTAS,681.3,millones_usd,reservas_internacionales.xlsx
+2000-07-31,2000,7,Julio,BRUTAS,622.2,millones_usd,reservas_internacionales.xlsx
+2000-08-31,2000,8,Agosto,BRUTAS,595.2,millones_usd,reservas_internacionales.xlsx
+2000-09-30,2000,9,Septiembre,BRUTAS,615.7,millones_usd,reservas_internacionales.xlsx
+2000-10-31,2000,10,Octubre,BRUTAS,671.2,millones_usd,reservas_internacionales.xlsx
+2000-11-30,2000,11,Noviembre,BRUTAS,622.7,millones_usd,reservas_internacionales.xlsx
+2000-12-31,2000,12,Diciembre,BRUTAS,818.2,millones_usd,reservas_internacionales.xlsx
+2000-01-31,2000,1,Enero,NETAS,443.8,millones_usd,reservas_internacionales.xlsx
+2000-02-29,2000,2,Febrero,NETAS,379.4,millones_usd,reservas_internacionales.xlsx
+2000-03-31,2000,3,Marzo,NETAS,375.0,millones_usd,reservas_internacionales.xlsx
+2000-04-30,2000,4,Abril,NETAS,387.5,millones_usd,reservas_internacionales.xlsx
+2000-05-31,2000,5,Mayo,NETAS,361.6,millones_usd,reservas_internacionales.xlsx
+2000-06-30,2000,6,Junio,NETAS,287.0,millones_usd,reservas_internacionales.xlsx
+2000-07-31,2000,7,Julio,NETAS,226.9,millones_usd,reservas_internacionales.xlsx
+2000-08-31,2000,8,Agosto,NETAS,197.3,millones_usd,reservas_internacionales.xlsx
+2000-09-30,2000,9,Septiembre,NETAS,217.9,millones_usd,reservas_internacionales.xlsx
+2000-10-31,2000,10,Octubre,NETAS,249.0,millones_usd,reservas_internacionales.xlsx
+2000-11-30,2000,11,Noviembre,NETAS,216.7,millones_usd,reservas_internacionales.xlsx
+2000-12-31,2000,12,Diciembre,NETAS,441.9,millones_usd,reservas_internacionales.xlsx
+2001-01-31,2001,1,Enero,BRUTAS,711.3,millones_usd,reservas_internacionales.xlsx
+2001-02-28,2001,2,Febrero,BRUTAS,702.7,millones_usd,reservas_internacionales.xlsx
+2001-03-31,2001,3,Marzo,BRUTAS,746.0,millones_usd,reservas_internacionales.xlsx
+2001-04-30,2001,4,Abril,BRUTAS,801.7,millones_usd,reservas_internacionales.xlsx
+2001-05-31,2001,5,Mayo,BRUTAS,816.0,millones_usd,reservas_internacionales.xlsx
+2001-06-30,2001,6,Junio,BRUTAS,854.6,millones_usd,reservas_internacionales.xlsx
+2001-07-31,2001,7,Julio,BRUTAS,875.9,millones_usd,reservas_internacionales.xlsx
+2001-08-31,2001,8,Agosto,BRUTAS,883.5,millones_usd,reservas_internacionales.xlsx
+2001-09-30,2001,9,Septiembre,BRUTAS,1337.8,millones_usd,reservas_internacionales.xlsx
+2001-10-31,2001,10,Octubre,BRUTAS,1257.8,millones_usd,reservas_internacionales.xlsx
+2001-11-30,2001,11,Noviembre,BRUTAS,1207.1,millones_usd,reservas_internacionales.xlsx
+2001-12-31,2001,12,Diciembre,BRUTAS,1340.8,millones_usd,reservas_internacionales.xlsx
+2001-01-31,2001,1,Enero,NETAS,332.6,millones_usd,reservas_internacionales.xlsx
+2001-02-28,2001,2,Febrero,NETAS,316.7,millones_usd,reservas_internacionales.xlsx
+2001-03-31,2001,3,Marzo,NETAS,373.0,millones_usd,reservas_internacionales.xlsx
+2001-04-30,2001,4,Abril,NETAS,423.1,millones_usd,reservas_internacionales.xlsx
+2001-05-31,2001,5,Mayo,NETAS,460.4,millones_usd,reservas_internacionales.xlsx
+2001-06-30,2001,6,Junio,NETAS,502.7,millones_usd,reservas_internacionales.xlsx
+2001-07-31,2001,7,Julio,NETAS,507.5,millones_usd,reservas_internacionales.xlsx
+2001-08-31,2001,8,Agosto,NETAS,528.5,millones_usd,reservas_internacionales.xlsx
+2001-09-30,2001,9,Septiembre,NETAS,995.9,millones_usd,reservas_internacionales.xlsx
+2001-10-31,2001,10,Octubre,NETAS,927.9,millones_usd,reservas_internacionales.xlsx
+2001-11-30,2001,11,Noviembre,NETAS,892.5,millones_usd,reservas_internacionales.xlsx
+2001-12-31,2001,12,Diciembre,NETAS,962.2,millones_usd,reservas_internacionales.xlsx
+2002-01-31,2002,1,Enero,BRUTAS,1266.7,millones_usd,reservas_internacionales.xlsx
+2002-02-28,2002,2,Febrero,BRUTAS,1110.8,millones_usd,reservas_internacionales.xlsx
+2002-03-31,2002,3,Marzo,BRUTAS,1101.0,millones_usd,reservas_internacionales.xlsx
+2002-04-30,2002,4,Abril,BRUTAS,1124.5,millones_usd,reservas_internacionales.xlsx
+2002-05-31,2002,5,Mayo,BRUTAS,1109.6,millones_usd,reservas_internacionales.xlsx
+2002-06-30,2002,6,Junio,BRUTAS,1097.0,millones_usd,reservas_internacionales.xlsx
+2002-07-31,2002,7,Julio,BRUTAS,1070.8,millones_usd,reservas_internacionales.xlsx
+2002-08-31,2002,8,Agosto,BRUTAS,980.4,millones_usd,reservas_internacionales.xlsx
+2002-09-30,2002,9,Septiembre,BRUTAS,848.5,millones_usd,reservas_internacionales.xlsx
+2002-10-31,2002,10,Octubre,BRUTAS,786.0,millones_usd,reservas_internacionales.xlsx
+2002-11-30,2002,11,Noviembre,BRUTAS,739.4,millones_usd,reservas_internacionales.xlsx
+2002-12-31,2002,12,Diciembre,BRUTAS,828.9,millones_usd,reservas_internacionales.xlsx
+2002-01-31,2002,1,Enero,NETAS,885.3,millones_usd,reservas_internacionales.xlsx
+2002-02-28,2002,2,Febrero,NETAS,753.6,millones_usd,reservas_internacionales.xlsx
+2002-03-31,2002,3,Marzo,NETAS,752.6,millones_usd,reservas_internacionales.xlsx
+2002-04-30,2002,4,Abril,NETAS,750.0,millones_usd,reservas_internacionales.xlsx
+2002-05-31,2002,5,Mayo,NETAS,733.7,millones_usd,reservas_internacionales.xlsx
+2002-06-30,2002,6,Junio,NETAS,705.7,millones_usd,reservas_internacionales.xlsx
+2002-07-31,2002,7,Julio,NETAS,648.7,millones_usd,reservas_internacionales.xlsx
+2002-08-31,2002,8,Agosto,NETAS,549.1,millones_usd,reservas_internacionales.xlsx
+2002-09-30,2002,9,Septiembre,NETAS,414.0,millones_usd,reservas_internacionales.xlsx
+2002-10-31,2002,10,Octubre,NETAS,347.0,millones_usd,reservas_internacionales.xlsx
+2002-11-30,2002,11,Noviembre,NETAS,312.6,millones_usd,reservas_internacionales.xlsx
+2002-12-31,2002,12,Diciembre,NETAS,376.0,millones_usd,reservas_internacionales.xlsx
+2003-01-31,2003,1,Enero,ACTIVOS BRUTOS,784.5,millones_usd,reservas_internacionales.xlsx
+2003-02-28,2003,2,Febrero,ACTIVOS BRUTOS,875.5,millones_usd,reservas_internacionales.xlsx
+2003-03-31,2003,3,Marzo,ACTIVOS BRUTOS,842.6,millones_usd,reservas_internacionales.xlsx
+2003-04-30,2003,4,Abril,ACTIVOS BRUTOS,803.4,millones_usd,reservas_internacionales.xlsx
+2003-05-31,2003,5,Mayo,ACTIVOS BRUTOS,786.7,millones_usd,reservas_internacionales.xlsx
+2003-06-30,2003,6,Junio,ACTIVOS BRUTOS,716.4,millones_usd,reservas_internacionales.xlsx
+2003-07-31,2003,7,Julio,ACTIVOS BRUTOS,583.1,millones_usd,reservas_internacionales.xlsx
+2003-08-31,2003,8,Agosto,ACTIVOS BRUTOS,508.7,millones_usd,reservas_internacionales.xlsx
+2003-09-30,2003,9,Septiembre,ACTIVOS BRUTOS,520.8,millones_usd,reservas_internacionales.xlsx
+2003-10-31,2003,10,Octubre,ACTIVOS BRUTOS,487.4,millones_usd,reservas_internacionales.xlsx
+2003-11-30,2003,11,Noviembre,ACTIVOS BRUTOS,506.2,millones_usd,reservas_internacionales.xlsx
+2003-12-31,2003,12,Diciembre,ACTIVOS BRUTOS,489.2,millones_usd,reservas_internacionales.xlsx
+2003-01-31,2003,1,Enero,BRUTAS 1/,583.3,millones_usd,reservas_internacionales.xlsx
+2003-02-28,2003,2,Febrero,BRUTAS 1/,674.4,millones_usd,reservas_internacionales.xlsx
+2003-03-31,2003,3,Marzo,BRUTAS 1/,638.0,millones_usd,reservas_internacionales.xlsx
+2003-04-30,2003,4,Abril,BRUTAS 1/,597.7,millones_usd,reservas_internacionales.xlsx
+2003-05-31,2003,5,Mayo,BRUTAS 1/,578.5,millones_usd,reservas_internacionales.xlsx
+2003-06-30,2003,6,Junio,BRUTAS 1/,513.8,millones_usd,reservas_internacionales.xlsx
+2003-07-31,2003,7,Julio,BRUTAS 1/,380.7,millones_usd,reservas_internacionales.xlsx
+2003-08-31,2003,8,Agosto,BRUTAS 1/,306.5,millones_usd,reservas_internacionales.xlsx
+2003-09-30,2003,9,Septiembre,BRUTAS 1/,315.2,millones_usd,reservas_internacionales.xlsx
+2003-10-31,2003,10,Octubre,BRUTAS 1/,281.4,millones_usd,reservas_internacionales.xlsx
+2003-11-30,2003,11,Noviembre,BRUTAS 1/,299.3,millones_usd,reservas_internacionales.xlsx
+2003-12-31,2003,12,Diciembre,BRUTAS 1/,279.4,millones_usd,reservas_internacionales.xlsx
+2003-01-31,2003,1,Enero,NETAS 2/,342.5,millones_usd,reservas_internacionales.xlsx
+2003-02-28,2003,2,Febrero,NETAS 2/,430.3,millones_usd,reservas_internacionales.xlsx
+2003-03-31,2003,3,Marzo,NETAS 2/,384.9,millones_usd,reservas_internacionales.xlsx
+2003-04-30,2003,4,Abril,NETAS 2/,348.9,millones_usd,reservas_internacionales.xlsx
+2003-05-31,2003,5,Mayo,NETAS 2/,373.4,millones_usd,reservas_internacionales.xlsx
+2003-06-30,2003,6,Junio,NETAS 2/,310.8,millones_usd,reservas_internacionales.xlsx
+2003-07-31,2003,7,Julio,NETAS 2/,230.2,millones_usd,reservas_internacionales.xlsx
+2003-08-31,2003,8,Agosto,NETAS 2/,188.6,millones_usd,reservas_internacionales.xlsx
+2003-09-30,2003,9,Septiembre,NETAS 2/,97.3,millones_usd,reservas_internacionales.xlsx
+2003-10-31,2003,10,Octubre,NETAS 2/,112.2,millones_usd,reservas_internacionales.xlsx
+2003-11-30,2003,11,Noviembre,NETAS 2/,128.0,millones_usd,reservas_internacionales.xlsx
+2003-12-31,2003,12,Diciembre,NETAS 2/,123.6,millones_usd,reservas_internacionales.xlsx
+2004-01-31,2004,1,Enero,ACTIVOS BRUTOS,489.7,millones_usd,reservas_internacionales.xlsx
+2004-02-29,2004,2,Febrero,ACTIVOS BRUTOS,578.6,millones_usd,reservas_internacionales.xlsx
+2004-03-31,2004,3,Marzo,ACTIVOS BRUTOS,662.0,millones_usd,reservas_internacionales.xlsx
+2004-04-30,2004,4,Abril,ACTIVOS BRUTOS,630.5,millones_usd,reservas_internacionales.xlsx
+2004-05-31,2004,5,Mayo,ACTIVOS BRUTOS,635.6,millones_usd,reservas_internacionales.xlsx
+2004-06-30,2004,6,Junio,ACTIVOS BRUTOS,691.4,millones_usd,reservas_internacionales.xlsx
+2004-07-31,2004,7,Julio,ACTIVOS BRUTOS,720.3,millones_usd,reservas_internacionales.xlsx
+2004-08-31,2004,8,Agosto,ACTIVOS BRUTOS,790.1,millones_usd,reservas_internacionales.xlsx
+2004-09-30,2004,9,Septiembre,ACTIVOS BRUTOS,800.8,millones_usd,reservas_internacionales.xlsx
+2004-10-31,2004,10,Octubre,ACTIVOS BRUTOS,876.7,millones_usd,reservas_internacionales.xlsx
+2004-11-30,2004,11,Noviembre,ACTIVOS BRUTOS,1010.1,millones_usd,reservas_internacionales.xlsx
+2004-12-31,2004,12,Diciembre,ACTIVOS BRUTOS,1045.4,millones_usd,reservas_internacionales.xlsx
+2004-01-31,2004,1,Enero,BRUTAS 1/,279.8,millones_usd,reservas_internacionales.xlsx
+2004-02-29,2004,2,Febrero,BRUTAS 1/,368.3,millones_usd,reservas_internacionales.xlsx
+2004-03-31,2004,3,Marzo,BRUTAS 1/,451.1,millones_usd,reservas_internacionales.xlsx
+2004-04-30,2004,4,Abril,BRUTAS 1/,420.6,millones_usd,reservas_internacionales.xlsx
+2004-05-31,2004,5,Mayo,BRUTAS 1/,424.1,millones_usd,reservas_internacionales.xlsx
+2004-06-30,2004,6,Junio,BRUTAS 1/,479.5,millones_usd,reservas_internacionales.xlsx
+2004-07-31,2004,7,Julio,BRUTAS 1/,508.4,millones_usd,reservas_internacionales.xlsx
+2004-08-31,2004,8,Agosto,BRUTAS 1/,577.2,millones_usd,reservas_internacionales.xlsx
+2004-09-30,2004,9,Septiembre,BRUTAS 1/,587.0,millones_usd,reservas_internacionales.xlsx
+2004-10-31,2004,10,Octubre,BRUTAS 1/,660.6,millones_usd,reservas_internacionales.xlsx
+2004-11-30,2004,11,Noviembre,BRUTAS 1/,791.0,millones_usd,reservas_internacionales.xlsx
+2004-12-31,2004,12,Diciembre,BRUTAS 1/,824.8,millones_usd,reservas_internacionales.xlsx
+2004-01-31,2004,1,Enero,NETAS 2/,114.2,millones_usd,reservas_internacionales.xlsx
+2004-02-29,2004,2,Febrero,NETAS 2/,143.2,millones_usd,reservas_internacionales.xlsx
+2004-03-31,2004,3,Marzo,NETAS 2/,224.9,millones_usd,reservas_internacionales.xlsx
+2004-04-30,2004,4,Abril,NETAS 2/,191.2,millones_usd,reservas_internacionales.xlsx
+2004-05-31,2004,5,Mayo,NETAS 2/,198.8,millones_usd,reservas_internacionales.xlsx
+2004-06-30,2004,6,Junio,NETAS 2/,252.3,millones_usd,reservas_internacionales.xlsx
+2004-07-31,2004,7,Julio,NETAS 2/,276.9,millones_usd,reservas_internacionales.xlsx
+2004-08-31,2004,8,Agosto,NETAS 2/,352.2,millones_usd,reservas_internacionales.xlsx
+2004-09-30,2004,9,Septiembre,NETAS 2/,372.9,millones_usd,reservas_internacionales.xlsx
+2004-10-31,2004,10,Octubre,NETAS 2/,437.7,millones_usd,reservas_internacionales.xlsx
+2004-11-30,2004,11,Noviembre,NETAS 2/,567.9,millones_usd,reservas_internacionales.xlsx
+2004-12-31,2004,12,Diciembre,NETAS 2/,602.2,millones_usd,reservas_internacionales.xlsx
+2005-01-31,2005,1,Enero,ACTIVOS BRUTOS,1201.4,millones_usd,reservas_internacionales.xlsx
+2005-02-28,2005,2,Febrero,ACTIVOS BRUTOS,1242.9,millones_usd,reservas_internacionales.xlsx
+2005-03-31,2005,3,Marzo,ACTIVOS BRUTOS,1416.4,millones_usd,reservas_internacionales.xlsx
+2005-04-30,2005,4,Abril,ACTIVOS BRUTOS,1536.1,millones_usd,reservas_internacionales.xlsx
+2005-05-31,2005,5,Mayo,ACTIVOS BRUTOS,1566.6,millones_usd,reservas_internacionales.xlsx
+2005-06-30,2005,6,Junio,ACTIVOS BRUTOS,1674.4,millones_usd,reservas_internacionales.xlsx
+2005-07-31,2005,7,Julio,ACTIVOS BRUTOS,1759.7,millones_usd,reservas_internacionales.xlsx
+2005-08-31,2005,8,Agosto,ACTIVOS BRUTOS,1746.4,millones_usd,reservas_internacionales.xlsx
+2005-09-30,2005,9,Septiembre,ACTIVOS BRUTOS,1712.3,millones_usd,reservas_internacionales.xlsx
+2005-10-31,2005,10,Octubre,ACTIVOS BRUTOS,1929.6,millones_usd,reservas_internacionales.xlsx
+2005-11-30,2005,11,Noviembre,ACTIVOS BRUTOS,1930.3,millones_usd,reservas_internacionales.xlsx
+2005-12-31,2005,12,Diciembre,ACTIVOS BRUTOS,2120.3,millones_usd,reservas_internacionales.xlsx
+2005-01-31,2005,1,Enero,BRUTAS 1/,981.4,millones_usd,reservas_internacionales.xlsx
+2005-02-28,2005,2,Febrero,BRUTAS 1/,1100.3,millones_usd,reservas_internacionales.xlsx
+2005-03-31,2005,3,Marzo,BRUTAS 1/,1272.3,millones_usd,reservas_internacionales.xlsx
+2005-04-30,2005,4,Abril,BRUTAS 1/,1390.0,millones_usd,reservas_internacionales.xlsx
+2005-05-31,2005,5,Mayo,BRUTAS 1/,1418.7,millones_usd,reservas_internacionales.xlsx
+2005-06-30,2005,6,Junio,BRUTAS 1/,1524.8,millones_usd,reservas_internacionales.xlsx
+2005-07-31,2005,7,Julio,BRUTAS 1/,1608.5,millones_usd,reservas_internacionales.xlsx
+2005-08-31,2005,8,Agosto,BRUTAS 1/,1593.4,millones_usd,reservas_internacionales.xlsx
+2005-09-30,2005,9,Septiembre,BRUTAS 1/,1557.4,millones_usd,reservas_internacionales.xlsx
+2005-10-31,2005,10,Octubre,BRUTAS 1/,1773.5,millones_usd,reservas_internacionales.xlsx
+2005-11-30,2005,11,Noviembre,BRUTAS 1/,1772.3,millones_usd,reservas_internacionales.xlsx
+2005-12-31,2005,12,Diciembre,BRUTAS 1/,1929.3,millones_usd,reservas_internacionales.xlsx
+2005-01-31,2005,1,Enero,NETAS 2/,758.6,millones_usd,reservas_internacionales.xlsx
+2005-02-28,2005,2,Febrero,NETAS 2/,802.5,millones_usd,reservas_internacionales.xlsx
+2005-03-31,2005,3,Marzo,NETAS 2/,975.7,millones_usd,reservas_internacionales.xlsx
+2005-04-30,2005,4,Abril,NETAS 2/,1092.7,millones_usd,reservas_internacionales.xlsx
+2005-05-31,2005,5,Mayo,NETAS 2/,1127.0,millones_usd,reservas_internacionales.xlsx
+2005-06-30,2005,6,Junio,NETAS 2/,1239.6,millones_usd,reservas_internacionales.xlsx
+2005-07-31,2005,7,Julio,NETAS 2/,1325.2,millones_usd,reservas_internacionales.xlsx
+2005-08-31,2005,8,Agosto,NETAS 2/,1306.8,millones_usd,reservas_internacionales.xlsx
+2005-09-30,2005,9,Septiembre,NETAS 2/,1272.7,millones_usd,reservas_internacionales.xlsx
+2005-10-31,2005,10,Octubre,NETAS 2/,1356.0,millones_usd,reservas_internacionales.xlsx
+2005-11-30,2005,11,Noviembre,NETAS 2/,1356.3,millones_usd,reservas_internacionales.xlsx
+2005-12-31,2005,12,Diciembre,NETAS 2/,1519.7,millones_usd,reservas_internacionales.xlsx
+2006-01-31,2006,1,Enero,ACTIVOS BRUTOS,2094.8,millones_usd,reservas_internacionales.xlsx
+2006-02-28,2006,2,Febrero,ACTIVOS BRUTOS,2115.4,millones_usd,reservas_internacionales.xlsx
+2006-03-31,2006,3,Marzo,ACTIVOS BRUTOS,2124.0,millones_usd,reservas_internacionales.xlsx
+2006-04-30,2006,4,Abril,ACTIVOS BRUTOS,2184.3,millones_usd,reservas_internacionales.xlsx
+2006-05-31,2006,5,Mayo,ACTIVOS BRUTOS,2367.5,millones_usd,reservas_internacionales.xlsx
+2006-06-30,2006,6,Junio,ACTIVOS BRUTOS,2303.4,millones_usd,reservas_internacionales.xlsx
+2006-07-31,2006,7,Julio,ACTIVOS BRUTOS,2332.3,millones_usd,reservas_internacionales.xlsx
+2006-08-31,2006,8,Agosto,ACTIVOS BRUTOS,2363.9,millones_usd,reservas_internacionales.xlsx
+2006-09-30,2006,9,Septiembre,ACTIVOS BRUTOS,2275.3,millones_usd,reservas_internacionales.xlsx
+2006-10-31,2006,10,Octubre,ACTIVOS BRUTOS,2420.6,millones_usd,reservas_internacionales.xlsx
+2006-11-30,2006,11,Noviembre,ACTIVOS BRUTOS,2467.2,millones_usd,reservas_internacionales.xlsx
+2006-12-31,2006,12,Diciembre,ACTIVOS BRUTOS,2463.1,millones_usd,reservas_internacionales.xlsx
+2006-01-31,2006,1,Enero,BRUTAS 1/,1899.9,millones_usd,reservas_internacionales.xlsx
+2006-02-28,2006,2,Febrero,BRUTAS 1/,1920.1,millones_usd,reservas_internacionales.xlsx
+2006-03-31,2006,3,Marzo,BRUTAS 1/,1927.3,millones_usd,reservas_internacionales.xlsx
+2006-04-30,2006,4,Abril,BRUTAS 1/,1986.9,millones_usd,reservas_internacionales.xlsx
+2006-05-31,2006,5,Mayo,BRUTAS 1/,2165.6,millones_usd,reservas_internacionales.xlsx
+2006-06-30,2006,6,Junio,BRUTAS 1/,2099.2,millones_usd,reservas_internacionales.xlsx
+2006-07-31,2006,7,Julio,BRUTAS 1/,2126.8,millones_usd,reservas_internacionales.xlsx
+2006-08-31,2006,8,Agosto,BRUTAS 1/,2163.2,millones_usd,reservas_internacionales.xlsx
+2006-09-30,2006,9,Septiembre,BRUTAS 1/,2076.2,millones_usd,reservas_internacionales.xlsx
+2006-10-31,2006,10,Octubre,BRUTAS 1/,2217.1,millones_usd,reservas_internacionales.xlsx
+2006-11-30,2006,11,Noviembre,BRUTAS 1/,2258.7,millones_usd,reservas_internacionales.xlsx
+2006-12-31,2006,12,Diciembre,BRUTAS 1/,2250.9,millones_usd,reservas_internacionales.xlsx
+2006-01-31,2006,1,Enero,NETAS 2/,1476.5,millones_usd,reservas_internacionales.xlsx
+2006-02-28,2006,2,Febrero,NETAS 2/,1501.8,millones_usd,reservas_internacionales.xlsx
+2006-03-31,2006,3,Marzo,NETAS 2/,1524.2,millones_usd,reservas_internacionales.xlsx
+2006-04-30,2006,4,Abril,NETAS 2/,1571.7,millones_usd,reservas_internacionales.xlsx
+2006-05-31,2006,5,Mayo,NETAS 2/,1617.4,millones_usd,reservas_internacionales.xlsx
+2006-06-30,2006,6,Junio,NETAS 2/,1579.8,millones_usd,reservas_internacionales.xlsx
+2006-07-31,2006,7,Julio,NETAS 2/,1603.2,millones_usd,reservas_internacionales.xlsx
+2006-08-31,2006,8,Agosto,NETAS 2/,1645.0,millones_usd,reservas_internacionales.xlsx
+2006-09-30,2006,9,Septiembre,NETAS 2/,1582.9,millones_usd,reservas_internacionales.xlsx
+2006-10-31,2006,10,Octubre,NETAS 2/,1717.2,millones_usd,reservas_internacionales.xlsx
+2006-11-30,2006,11,Noviembre,NETAS 2/,1760.9,millones_usd,reservas_internacionales.xlsx
+2006-12-31,2006,12,Diciembre,NETAS 2/,1787.8,millones_usd,reservas_internacionales.xlsx
+2007-01-31,2007,1,Enero,ACTIVOS BRUTOS,2551.9,millones_usd,reservas_internacionales.xlsx
+2007-02-28,2007,2,Febrero,ACTIVOS BRUTOS,2641.3,millones_usd,reservas_internacionales.xlsx
+2007-03-31,2007,3,Marzo,ACTIVOS BRUTOS,2753.7,millones_usd,reservas_internacionales.xlsx
+2007-04-30,2007,4,Abril,ACTIVOS BRUTOS,2896.4,millones_usd,reservas_internacionales.xlsx
+2007-05-31,2007,5,Mayo,ACTIVOS BRUTOS,2922.4,millones_usd,reservas_internacionales.xlsx
+2007-06-30,2007,6,Junio,ACTIVOS BRUTOS,2934.1,millones_usd,reservas_internacionales.xlsx
+2007-07-31,2007,7,Julio,ACTIVOS BRUTOS,3062.3,millones_usd,reservas_internacionales.xlsx
+2007-08-31,2007,8,Agosto,ACTIVOS BRUTOS,3014.2,millones_usd,reservas_internacionales.xlsx
+2007-09-30,2007,9,Septiembre,ACTIVOS BRUTOS,3142.0,millones_usd,reservas_internacionales.xlsx
+2007-10-31,2007,10,Octubre,ACTIVOS BRUTOS,3140.3,millones_usd,reservas_internacionales.xlsx
+2007-11-30,2007,11,Noviembre,ACTIVOS BRUTOS,3075.7,millones_usd,reservas_internacionales.xlsx
+2007-12-31,2007,12,Diciembre,ACTIVOS BRUTOS,3172.7,millones_usd,reservas_internacionales.xlsx
+2007-01-31,2007,1,Enero,BRUTAS 1/,2342.8,millones_usd,reservas_internacionales.xlsx
+2007-02-28,2007,2,Febrero,BRUTAS 1/,2439.9,millones_usd,reservas_internacionales.xlsx
+2007-03-31,2007,3,Marzo,BRUTAS 1/,2546.9,millones_usd,reservas_internacionales.xlsx
+2007-04-30,2007,4,Abril,BRUTAS 1/,2677.3,millones_usd,reservas_internacionales.xlsx
+2007-05-31,2007,5,Mayo,BRUTAS 1/,2699.1,millones_usd,reservas_internacionales.xlsx
+2007-06-30,2007,6,Junio,BRUTAS 1/,2705.2,millones_usd,reservas_internacionales.xlsx
+2007-07-31,2007,7,Julio,BRUTAS 1/,2836.3,millones_usd,reservas_internacionales.xlsx
+2007-08-31,2007,8,Agosto,BRUTAS 1/,2795.9,millones_usd,reservas_internacionales.xlsx
+2007-09-30,2007,9,Septiembre,BRUTAS 1/,2922.3,millones_usd,reservas_internacionales.xlsx
+2007-10-31,2007,10,Octubre,BRUTAS 1/,2917.2,millones_usd,reservas_internacionales.xlsx
+2007-11-30,2007,11,Noviembre,BRUTAS 1/,2851.8,millones_usd,reservas_internacionales.xlsx
+2007-12-31,2007,12,Diciembre,BRUTAS 1/,2946.2,millones_usd,reservas_internacionales.xlsx
+2007-01-31,2007,1,Enero,NETAS 2/,1882.4,millones_usd,reservas_internacionales.xlsx
+2007-02-28,2007,2,Febrero,NETAS 2/,1927.4,millones_usd,reservas_internacionales.xlsx
+2007-03-31,2007,3,Marzo,NETAS 2/,2046.5,millones_usd,reservas_internacionales.xlsx
+2007-04-30,2007,4,Abril,NETAS 2/,2173.0,millones_usd,reservas_internacionales.xlsx
+2007-05-31,2007,5,Mayo,NETAS 2/,2217.8,millones_usd,reservas_internacionales.xlsx
+2007-06-30,2007,6,Junio,NETAS 2/,2240.9,millones_usd,reservas_internacionales.xlsx
+2007-07-31,2007,7,Julio,NETAS 2/,2366.2,millones_usd,reservas_internacionales.xlsx
+2007-08-31,2007,8,Agosto,NETAS 2/,2360.6,millones_usd,reservas_internacionales.xlsx
+2007-09-30,2007,9,Septiembre,NETAS 2/,2357.8,millones_usd,reservas_internacionales.xlsx
+2007-10-31,2007,10,Octubre,NETAS 2/,2349.4,millones_usd,reservas_internacionales.xlsx
+2007-11-30,2007,11,Noviembre,NETAS 2/,2296.7,millones_usd,reservas_internacionales.xlsx
+2007-12-31,2007,12,Diciembre,NETAS 2/,2394.9,millones_usd,reservas_internacionales.xlsx
+2008-01-31,2008,1,Enero,ACTIVOS BRUTOS,3215.1,millones_usd,reservas_internacionales.xlsx
+2008-02-29,2008,2,Febrero,ACTIVOS BRUTOS,3463.7,millones_usd,reservas_internacionales.xlsx
+2008-03-31,2008,3,Marzo,ACTIVOS BRUTOS,3518.7,millones_usd,reservas_internacionales.xlsx
+2008-04-30,2008,4,Abril,ACTIVOS BRUTOS,3428.3,millones_usd,reservas_internacionales.xlsx
+2008-05-31,2008,5,Mayo,ACTIVOS BRUTOS,3411.9,millones_usd,reservas_internacionales.xlsx
+2008-06-30,2008,6,Junio,ACTIVOS BRUTOS,3206.1,millones_usd,reservas_internacionales.xlsx
+2008-07-31,2008,7,Julio,ACTIVOS BRUTOS,3320.7,millones_usd,reservas_internacionales.xlsx
+2008-08-31,2008,8,Agosto,ACTIVOS BRUTOS,3291.2,millones_usd,reservas_internacionales.xlsx
+2008-09-30,2008,9,Septiembre,ACTIVOS BRUTOS,3274.9,millones_usd,reservas_internacionales.xlsx
+2008-10-31,2008,10,Octubre,ACTIVOS BRUTOS,3119.9,millones_usd,reservas_internacionales.xlsx
+2008-11-30,2008,11,Noviembre,ACTIVOS BRUTOS,3074.3,millones_usd,reservas_internacionales.xlsx
+2008-12-31,2008,12,Diciembre,ACTIVOS BRUTOS,3278.7,millones_usd,reservas_internacionales.xlsx
+2008-01-31,2008,1,Enero,BRUTAS 1/,2987.6,millones_usd,reservas_internacionales.xlsx
+2008-02-29,2008,2,Febrero,BRUTAS 1/,2870.0,millones_usd,reservas_internacionales.xlsx
+2008-03-31,2008,3,Marzo,BRUTAS 1/,2916.8,millones_usd,reservas_internacionales.xlsx
+2008-04-30,2008,4,Abril,BRUTAS 1/,2830.3,millones_usd,reservas_internacionales.xlsx
+2008-05-31,2008,5,Mayo,BRUTAS 1/,2813.8,millones_usd,reservas_internacionales.xlsx
+2008-06-30,2008,6,Junio,BRUTAS 1/,2604.5,millones_usd,reservas_internacionales.xlsx
+2008-07-31,2008,7,Julio,BRUTAS 1/,2687.2,millones_usd,reservas_internacionales.xlsx
+2008-08-31,2008,8,Agosto,BRUTAS 1/,2668.3,millones_usd,reservas_internacionales.xlsx
+2008-09-30,2008,9,Septiembre,BRUTAS 1/,2654.0,millones_usd,reservas_internacionales.xlsx
+2008-10-31,2008,10,Octubre,BRUTAS 1/,2513.4,millones_usd,reservas_internacionales.xlsx
+2008-11-30,2008,11,Noviembre,BRUTAS 1/,2465.9,millones_usd,reservas_internacionales.xlsx
+2008-12-31,2008,12,Diciembre,BRUTAS 1/,2662.1,millones_usd,reservas_internacionales.xlsx
+2008-01-31,2008,1,Enero,NETAS 2/,2328.4,millones_usd,reservas_internacionales.xlsx
+2008-02-29,2008,2,Febrero,NETAS 2/,2216.9,millones_usd,reservas_internacionales.xlsx
+2008-03-31,2008,3,Marzo,NETAS 2/,2245.2,millones_usd,reservas_internacionales.xlsx
+2008-04-30,2008,4,Abril,NETAS 2/,2183.9,millones_usd,reservas_internacionales.xlsx
+2008-05-31,2008,5,Mayo,NETAS 2/,2193.2,millones_usd,reservas_internacionales.xlsx
+2008-06-30,2008,6,Junio,NETAS 2/,1975.0,millones_usd,reservas_internacionales.xlsx
+2008-07-31,2008,7,Julio,NETAS 2/,2078.5,millones_usd,reservas_internacionales.xlsx
+2008-08-31,2008,8,Agosto,NETAS 2/,2111.2,millones_usd,reservas_internacionales.xlsx
+2008-09-30,2008,9,Septiembre,NETAS 2/,2099.2,millones_usd,reservas_internacionales.xlsx
+2008-10-31,2008,10,Octubre,NETAS 2/,2007.7,millones_usd,reservas_internacionales.xlsx
+2008-11-30,2008,11,Noviembre,NETAS 2/,1986.5,millones_usd,reservas_internacionales.xlsx
+2008-12-31,2008,12,Diciembre,NETAS 2/,2165.4,millones_usd,reservas_internacionales.xlsx
+2009-01-31,2009,1,Enero,ACTIVOS BRUTOS,3156.5,millones_usd,reservas_internacionales.xlsx
+2009-02-28,2009,2,Febrero,ACTIVOS BRUTOS,3128.8,millones_usd,reservas_internacionales.xlsx
+2009-03-31,2009,3,Marzo,ACTIVOS BRUTOS,3150.8,millones_usd,reservas_internacionales.xlsx
+2009-04-30,2009,4,Abril,ACTIVOS BRUTOS,3089.3,millones_usd,reservas_internacionales.xlsx
+2009-05-31,2009,5,Mayo,ACTIVOS BRUTOS,3143.0,millones_usd,reservas_internacionales.xlsx
+2009-06-30,2009,6,Junio,ACTIVOS BRUTOS,3121.3,millones_usd,reservas_internacionales.xlsx
+2009-07-31,2009,7,Julio,ACTIVOS BRUTOS,3134.4,millones_usd,reservas_internacionales.xlsx
+2009-08-31,2009,8,Agosto,ACTIVOS BRUTOS,3358.0,millones_usd,reservas_internacionales.xlsx
+2009-09-30,2009,9,Septiembre,ACTIVOS BRUTOS,3303.3,millones_usd,reservas_internacionales.xlsx
+2009-10-31,2009,10,Octubre,ACTIVOS BRUTOS,3171.8,millones_usd,reservas_internacionales.xlsx
+2009-11-30,2009,11,Noviembre,ACTIVOS BRUTOS,3326.9,millones_usd,reservas_internacionales.xlsx
+2009-12-31,2009,12,Diciembre,ACTIVOS BRUTOS,3927.7,millones_usd,reservas_internacionales.xlsx
+2009-01-31,2009,1,Enero,BRUTAS 1/,2549.9,millones_usd,reservas_internacionales.xlsx
+2009-02-28,2009,2,Febrero,BRUTAS 1/,2525.7,millones_usd,reservas_internacionales.xlsx
+2009-03-31,2009,3,Marzo,BRUTAS 1/,2542.1,millones_usd,reservas_internacionales.xlsx
+2009-04-30,2009,4,Abril,BRUTAS 1/,2479.3,millones_usd,reservas_internacionales.xlsx
+2009-05-31,2009,5,Mayo,BRUTAS 1/,2521.3,millones_usd,reservas_internacionales.xlsx
+2009-06-30,2009,6,Junio,BRUTAS 1/,2498.0,millones_usd,reservas_internacionales.xlsx
+2009-07-31,2009,7,Julio,BRUTAS 1/,2511.7,millones_usd,reservas_internacionales.xlsx
+2009-08-31,2009,8,Agosto,BRUTAS 1/,2732.0,millones_usd,reservas_internacionales.xlsx
+2009-09-30,2009,9,Septiembre,BRUTAS 1/,2673.2,millones_usd,reservas_internacionales.xlsx
+2009-10-31,2009,10,Octubre,BRUTAS 1/,2539.6,millones_usd,reservas_internacionales.xlsx
+2009-11-30,2009,11,Noviembre,BRUTAS 1/,2689.1,millones_usd,reservas_internacionales.xlsx
+2009-12-31,2009,12,Diciembre,BRUTAS 1/,3307.1,millones_usd,reservas_internacionales.xlsx
+2009-01-31,2009,1,Enero,NETAS 2/,2085.4,millones_usd,reservas_internacionales.xlsx
+2009-02-28,2009,2,Febrero,NETAS 2/,2095.6,millones_usd,reservas_internacionales.xlsx
+2009-03-31,2009,3,Marzo,NETAS 2/,2103.8,millones_usd,reservas_internacionales.xlsx
+2009-04-30,2009,4,Abril,NETAS 2/,2038.9,millones_usd,reservas_internacionales.xlsx
+2009-05-31,2009,5,Mayo,NETAS 2/,2073.0,millones_usd,reservas_internacionales.xlsx
+2009-06-30,2009,6,Junio,NETAS 2/,2047.1,millones_usd,reservas_internacionales.xlsx
+2009-07-31,2009,7,Julio,NETAS 2/,2059.3,millones_usd,reservas_internacionales.xlsx
+2009-08-31,2009,8,Agosto,NETAS 2/,2272.7,millones_usd,reservas_internacionales.xlsx
+2009-09-30,2009,9,Septiembre,NETAS 2/,2210.9,millones_usd,reservas_internacionales.xlsx
+2009-10-31,2009,10,Octubre,NETAS 2/,2074.6,millones_usd,reservas_internacionales.xlsx
+2009-11-30,2009,11,Noviembre,NETAS 2/,2222.9,millones_usd,reservas_internacionales.xlsx
+2009-12-31,2009,12,Diciembre,NETAS 2/,2851.9,millones_usd,reservas_internacionales.xlsx
+2010-01-31,2010,1,Enero,ACTIVOS BRUTOS,3686.401,millones_usd,reservas_internacionales.xlsx
+2010-02-28,2010,2,Febrero,ACTIVOS BRUTOS,3489.766,millones_usd,reservas_internacionales.xlsx
+2010-03-31,2010,3,Marzo,ACTIVOS BRUTOS,3346.119,millones_usd,reservas_internacionales.xlsx
+2010-04-30,2010,4,Abril,ACTIVOS BRUTOS,3407.559,millones_usd,reservas_internacionales.xlsx
+2010-05-31,2010,5,Mayo,ACTIVOS BRUTOS,3720.926,millones_usd,reservas_internacionales.xlsx
+2010-06-30,2010,6,Junio,ACTIVOS BRUTOS,3578.144,millones_usd,reservas_internacionales.xlsx
+2010-07-31,2010,7,Julio,ACTIVOS BRUTOS,3541.085,millones_usd,reservas_internacionales.xlsx
+2010-08-31,2010,8,Agosto,ACTIVOS BRUTOS,3446.929,millones_usd,reservas_internacionales.xlsx
+2010-09-30,2010,9,Septiembre,ACTIVOS BRUTOS,3337.595,millones_usd,reservas_internacionales.xlsx
+2010-10-31,2010,10,Octubre,ACTIVOS BRUTOS,3472.647,millones_usd,reservas_internacionales.xlsx
+2010-11-30,2010,11,Noviembre,ACTIVOS BRUTOS,3658.183,millones_usd,reservas_internacionales.xlsx
+2010-12-31,2010,12,Diciembre,ACTIVOS BRUTOS,4376.083,millones_usd,reservas_internacionales.xlsx
+2010-01-31,2010,1,Enero,BRUTAS 1/,3068.516,millones_usd,reservas_internacionales.xlsx
+2010-02-28,2010,2,Febrero,BRUTAS 1/,2875.454,millones_usd,reservas_internacionales.xlsx
+2010-03-31,2010,3,Marzo,BRUTAS 1/,2737.816,millones_usd,reservas_internacionales.xlsx
+2010-04-30,2010,4,Abril,BRUTAS 1/,2799.274,millones_usd,reservas_internacionales.xlsx
+2010-05-31,2010,5,Mayo,BRUTAS 1/,3120.509,millones_usd,reservas_internacionales.xlsx
+2010-06-30,2010,6,Junio,BRUTAS 1/,2978.953,millones_usd,reservas_internacionales.xlsx
+2010-07-31,2010,7,Julio,BRUTAS 1/,2932.445,millones_usd,reservas_internacionales.xlsx
+2010-08-31,2010,8,Agosto,BRUTAS 1/,2841.83,millones_usd,reservas_internacionales.xlsx
+2010-09-30,2010,9,Septiembre,BRUTAS 1/,2722.294,millones_usd,reservas_internacionales.xlsx
+2010-10-31,2010,10,Octubre,BRUTAS 1/,2852.947,millones_usd,reservas_internacionales.xlsx
+2010-11-30,2010,11,Noviembre,BRUTAS 1/,3048.251,millones_usd,reservas_internacionales.xlsx
+2010-12-31,2010,12,Diciembre,BRUTAS 1/,3765.356,millones_usd,reservas_internacionales.xlsx
+2010-01-31,2010,1,Enero,NETAS 2/,2615.773,millones_usd,reservas_internacionales.xlsx
+2010-02-28,2010,2,Febrero,NETAS 2/,2430.114,millones_usd,reservas_internacionales.xlsx
+2010-03-31,2010,3,Marzo,NETAS 2/,2295.509,millones_usd,reservas_internacionales.xlsx
+2010-04-30,2010,4,Abril,NETAS 2/,2294.335,millones_usd,reservas_internacionales.xlsx
+2010-05-31,2010,5,Mayo,NETAS 2/,2655.506,millones_usd,reservas_internacionales.xlsx
+2010-06-30,2010,6,Junio,NETAS 2/,2511.316,millones_usd,reservas_internacionales.xlsx
+2010-07-31,2010,7,Julio,NETAS 2/,2470.04,millones_usd,reservas_internacionales.xlsx
+2010-08-31,2010,8,Agosto,NETAS 2/,2406.99,millones_usd,reservas_internacionales.xlsx
+2010-09-30,2010,9,Septiembre,NETAS 2/,2274.279,millones_usd,reservas_internacionales.xlsx
+2010-10-31,2010,10,Octubre,NETAS 2/,2418.177,millones_usd,reservas_internacionales.xlsx
+2010-11-30,2010,11,Noviembre,NETAS 2/,2656.077,millones_usd,reservas_internacionales.xlsx
+2010-12-31,2010,12,Diciembre,NETAS 2/,3342.695,millones_usd,reservas_internacionales.xlsx
+2011-01-31,2011,1,Enero,ACTIVOS BRUTOS,3751.272,millones_usd,reservas_internacionales.xlsx
+2011-02-28,2011,2,Febrero,ACTIVOS BRUTOS,3660.239,millones_usd,reservas_internacionales.xlsx
+2011-03-31,2011,3,Marzo,ACTIVOS BRUTOS,3609.585,millones_usd,reservas_internacionales.xlsx
+2011-04-30,2011,4,Abril,ACTIVOS BRUTOS,3586.188,millones_usd,reservas_internacionales.xlsx
+2011-05-31,2011,5,Mayo,ACTIVOS BRUTOS,3568.146,millones_usd,reservas_internacionales.xlsx
+2011-06-30,2011,6,Junio,ACTIVOS BRUTOS,3562.043,millones_usd,reservas_internacionales.xlsx
+2011-07-31,2011,7,Julio,ACTIVOS BRUTOS,4396.971,millones_usd,reservas_internacionales.xlsx
+2011-08-31,2011,8,Agosto,ACTIVOS BRUTOS,4190.826,millones_usd,reservas_internacionales.xlsx
+2011-09-30,2011,9,Septiembre,ACTIVOS BRUTOS,4029.772,millones_usd,reservas_internacionales.xlsx
+2011-10-31,2011,10,Octubre,ACTIVOS BRUTOS,3787.004,millones_usd,reservas_internacionales.xlsx
+2011-11-30,2011,11,Noviembre,ACTIVOS BRUTOS,4128.537,millones_usd,reservas_internacionales.xlsx
+2011-12-31,2011,12,Diciembre,ACTIVOS BRUTOS,4703.199,millones_usd,reservas_internacionales.xlsx
+2011-01-31,2011,1,Enero,BRUTAS 1/,3134.889,millones_usd,reservas_internacionales.xlsx
+2011-02-28,2011,2,Febrero,BRUTAS 1/,3040.534,millones_usd,reservas_internacionales.xlsx
+2011-03-31,2011,3,Marzo,BRUTAS 1/,2989.457,millones_usd,reservas_internacionales.xlsx
+2011-04-30,2011,4,Abril,BRUTAS 1/,2957.191,millones_usd,reservas_internacionales.xlsx
+2011-05-31,2011,5,Mayo,BRUTAS 1/,2953.047,millones_usd,reservas_internacionales.xlsx
+2011-06-30,2011,6,Junio,BRUTAS 1/,2945.922,millones_usd,reservas_internacionales.xlsx
+2011-07-31,2011,7,Julio,BRUTAS 1/,3780.366,millones_usd,reservas_internacionales.xlsx
+2011-08-31,2011,8,Agosto,BRUTAS 1/,3570.437,millones_usd,reservas_internacionales.xlsx
+2011-09-30,2011,9,Septiembre,BRUTAS 1/,3418.978,millones_usd,reservas_internacionales.xlsx
+2011-10-31,2011,10,Octubre,BRUTAS 1/,3169.779,millones_usd,reservas_internacionales.xlsx
+2011-11-30,2011,11,Noviembre,BRUTAS 1/,3517.951,millones_usd,reservas_internacionales.xlsx
+2011-12-31,2011,12,Diciembre,BRUTAS 1/,4098.445,millones_usd,reservas_internacionales.xlsx
+2011-01-31,2011,1,Enero,NETAS 2/,2705.253,millones_usd,reservas_internacionales.xlsx
+2011-02-28,2011,2,Febrero,NETAS 2/,2635.019,millones_usd,reservas_internacionales.xlsx
+2011-03-31,2011,3,Marzo,NETAS 2/,2594.853,millones_usd,reservas_internacionales.xlsx
+2011-04-30,2011,4,Abril,NETAS 2/,2568.38,millones_usd,reservas_internacionales.xlsx
+2011-05-31,2011,5,Mayo,NETAS 2/,2599.664,millones_usd,reservas_internacionales.xlsx
+2011-06-30,2011,6,Junio,NETAS 2/,2606.548,millones_usd,reservas_internacionales.xlsx
+2011-07-31,2011,7,Julio,NETAS 2/,3239.233,millones_usd,reservas_internacionales.xlsx
+2011-08-31,2011,8,Agosto,NETAS 2/,3032.976,millones_usd,reservas_internacionales.xlsx
+2011-09-30,2011,9,Septiembre,NETAS 2/,2912.32,millones_usd,reservas_internacionales.xlsx
+2011-10-31,2011,10,Octubre,NETAS 2/,2668.841,millones_usd,reservas_internacionales.xlsx
+2011-11-30,2011,11,Noviembre,NETAS 2/,3038.993,millones_usd,reservas_internacionales.xlsx
+2011-12-31,2011,12,Diciembre,NETAS 2/,3637.949,millones_usd,reservas_internacionales.xlsx
+2012-01-31,2012,1,Enero,ACTIVOS BRUTOS,4107.17,millones_usd,reservas_internacionales.xlsx
+2012-02-29,2012,2,Febrero,ACTIVOS BRUTOS,4035.502,millones_usd,reservas_internacionales.xlsx
+2012-03-31,2012,3,Marzo,ACTIVOS BRUTOS,4070.0551,millones_usd,reservas_internacionales.xlsx
+2012-04-30,2012,4,Abril,ACTIVOS BRUTOS,4151.8218,millones_usd,reservas_internacionales.xlsx
+2012-05-31,2012,5,Mayo,ACTIVOS BRUTOS,4016.7754,millones_usd,reservas_internacionales.xlsx
+2012-06-30,2012,6,Junio,ACTIVOS BRUTOS,4214.5442,millones_usd,reservas_internacionales.xlsx
+2012-07-31,2012,7,Julio,ACTIVOS BRUTOS,4106.071,millones_usd,reservas_internacionales.xlsx
+2012-08-31,2012,8,Agosto,ACTIVOS BRUTOS,4235.1736,millones_usd,reservas_internacionales.xlsx
+2012-09-30,2012,9,Septiembre,ACTIVOS BRUTOS,3983.8757,millones_usd,reservas_internacionales.xlsx
+2012-10-31,2012,10,Octubre,ACTIVOS BRUTOS,3962.0951,millones_usd,reservas_internacionales.xlsx
+2012-11-30,2012,11,Noviembre,ACTIVOS BRUTOS,4081.979,millones_usd,reservas_internacionales.xlsx
+2012-12-31,2012,12,Diciembre,ACTIVOS BRUTOS,4172.4164,millones_usd,reservas_internacionales.xlsx
+2012-01-31,2012,1,Enero,BRUTAS 1/,3497.453,millones_usd,reservas_internacionales.xlsx
+2012-02-29,2012,2,Febrero,BRUTAS 1/,3423.915,millones_usd,reservas_internacionales.xlsx
+2012-03-31,2012,3,Marzo,BRUTAS 1/,3459.1279,millones_usd,reservas_internacionales.xlsx
+2012-04-30,2012,4,Abril,BRUTAS 1/,3539.7792,millones_usd,reservas_internacionales.xlsx
+2012-05-31,2012,5,Mayo,BRUTAS 1/,3412.4119,millones_usd,reservas_internacionales.xlsx
+2012-06-30,2012,6,Junio,BRUTAS 1/,3607.6741,millones_usd,reservas_internacionales.xlsx
+2012-07-31,2012,7,Julio,BRUTAS 1/,3500.0927,millones_usd,reservas_internacionales.xlsx
+2012-08-31,2012,8,Agosto,BRUTAS 1/,3625.3367,millones_usd,reservas_internacionales.xlsx
+2012-09-30,2012,9,Septiembre,BRUTAS 1/,3368.65,millones_usd,reservas_internacionales.xlsx
+2012-10-31,2012,10,Octubre,BRUTAS 1/,3346.72,millones_usd,reservas_internacionales.xlsx
+2012-11-30,2012,11,Noviembre,BRUTAS 1/,3466.5397,millones_usd,reservas_internacionales.xlsx
+2012-12-31,2012,12,Diciembre,BRUTAS 1/,3558.5238,millones_usd,reservas_internacionales.xlsx
+2012-01-31,2012,1,Enero,NETAS 2/,3046.824,millones_usd,reservas_internacionales.xlsx
+2012-02-29,2012,2,Febrero,NETAS 2/,2980.108,millones_usd,reservas_internacionales.xlsx
+2012-03-31,2012,3,Marzo,NETAS 2/,3030.9822,millones_usd,reservas_internacionales.xlsx
+2012-04-30,2012,4,Abril,NETAS 2/,3125.4952,millones_usd,reservas_internacionales.xlsx
+2012-05-31,2012,5,Mayo,NETAS 2/,3012.3101,millones_usd,reservas_internacionales.xlsx
+2012-06-30,2012,6,Junio,NETAS 2/,3219.1565,millones_usd,reservas_internacionales.xlsx
+2012-07-31,2012,7,Julio,NETAS 2/,3127.6723,millones_usd,reservas_internacionales.xlsx
+2012-08-31,2012,8,Agosto,NETAS 2/,3245.1545,millones_usd,reservas_internacionales.xlsx
+2012-09-30,2012,9,Septiembre,NETAS 2/,3002.3964,millones_usd,reservas_internacionales.xlsx
+2012-10-31,2012,10,Octubre,NETAS 2/,2994.8055,millones_usd,reservas_internacionales.xlsx
+2012-11-30,2012,11,Noviembre,NETAS 2/,3119.2729,millones_usd,reservas_internacionales.xlsx
+2012-12-31,2012,12,Diciembre,NETAS 2/,3209.8098,millones_usd,reservas_internacionales.xlsx
+2013-01-31,2013,1,Enero,ACTIVOS BRUTOS,3969.0348,millones_usd,reservas_internacionales.xlsx
+2013-02-28,2013,2,Febrero,ACTIVOS BRUTOS,3975.7791,millones_usd,reservas_internacionales.xlsx
+2013-03-31,2013,3,Marzo,ACTIVOS BRUTOS,4434.6507,millones_usd,reservas_internacionales.xlsx
+2013-04-30,2013,4,Abril,ACTIVOS BRUTOS,5041.3769,millones_usd,reservas_internacionales.xlsx
+2013-05-31,2013,5,Mayo,ACTIVOS BRUTOS,5002.4779,millones_usd,reservas_internacionales.xlsx
+2013-06-30,2013,6,Junio,ACTIVOS BRUTOS,4779.9148,millones_usd,reservas_internacionales.xlsx
+2013-07-31,2013,7,Julio,ACTIVOS BRUTOS,4388.3646,millones_usd,reservas_internacionales.xlsx
+2013-08-31,2013,8,Agosto,ACTIVOS BRUTOS,4334.4133,millones_usd,reservas_internacionales.xlsx
+2013-09-30,2013,9,Septiembre,ACTIVOS BRUTOS,4289.969,millones_usd,reservas_internacionales.xlsx
+2013-10-31,2013,10,Octubre,ACTIVOS BRUTOS,4587.2584,millones_usd,reservas_internacionales.xlsx
+2013-11-30,2013,11,Noviembre,ACTIVOS BRUTOS,4476.8908,millones_usd,reservas_internacionales.xlsx
+2013-12-31,2013,12,Diciembre,ACTIVOS BRUTOS,5326.0904,millones_usd,reservas_internacionales.xlsx
+2013-01-31,2013,1,Enero,BRUTAS 1/,3353.2768,millones_usd,reservas_internacionales.xlsx
+2013-02-28,2013,2,Febrero,BRUTAS 1/,3364.5075,millones_usd,reservas_internacionales.xlsx
+2013-03-31,2013,3,Marzo,BRUTAS 1/,3826.4397,millones_usd,reservas_internacionales.xlsx
+2013-04-30,2013,4,Abril,BRUTAS 1/,4429.3611,millones_usd,reservas_internacionales.xlsx
+2013-05-31,2013,5,Mayo,BRUTAS 1/,4391.898,millones_usd,reservas_internacionales.xlsx
+2013-06-30,2013,6,Junio,BRUTAS 1/,4167.8012,millones_usd,reservas_internacionales.xlsx
+2013-07-31,2013,7,Julio,BRUTAS 1/,3772.7323,millones_usd,reservas_internacionales.xlsx
+2013-08-31,2013,8,Agosto,BRUTAS 1/,3716.7128,millones_usd,reservas_internacionales.xlsx
+2013-09-30,2013,9,Septiembre,BRUTAS 1/,3667.377,millones_usd,reservas_internacionales.xlsx
+2013-10-31,2013,10,Octubre,BRUTAS 1/,3962.9249,millones_usd,reservas_internacionales.xlsx
+2013-11-30,2013,11,Noviembre,BRUTAS 1/,3852.7063,millones_usd,reservas_internacionales.xlsx
+2013-12-31,2013,12,Diciembre,BRUTAS 1/,4700.6346,millones_usd,reservas_internacionales.xlsx
+2013-01-31,2013,1,Enero,NETAS 2/,3017.8043,millones_usd,reservas_internacionales.xlsx
+2013-02-28,2013,2,Febrero,NETAS 2/,3035.1696,millones_usd,reservas_internacionales.xlsx
+2013-03-31,2013,3,Marzo,NETAS 2/,3500.4731,millones_usd,reservas_internacionales.xlsx
+2013-04-30,2013,4,Abril,NETAS 2/,4099.6361,millones_usd,reservas_internacionales.xlsx
+2013-05-31,2013,5,Mayo,NETAS 2/,4067.3935,millones_usd,reservas_internacionales.xlsx
+2013-06-30,2013,6,Junio,NETAS 2/,3841.4442,millones_usd,reservas_internacionales.xlsx
+2013-07-31,2013,7,Julio,NETAS 2/,3453.8036,millones_usd,reservas_internacionales.xlsx
+2013-08-31,2013,8,Agosto,NETAS 2/,3392.6395,millones_usd,reservas_internacionales.xlsx
+2013-09-30,2013,9,Septiembre,NETAS 2/,3343.7962,millones_usd,reservas_internacionales.xlsx
+2013-10-31,2013,10,Octubre,NETAS 2/,3648.2317,millones_usd,reservas_internacionales.xlsx
+2013-11-30,2013,11,Noviembre,NETAS 2/,3542.005,millones_usd,reservas_internacionales.xlsx
+2013-12-31,2013,12,Diciembre,NETAS 2/,4386.5042,millones_usd,reservas_internacionales.xlsx
+2014-01-31,2014,1,Enero,ACTIVOS BRUTOS,4690.7325,millones_usd,reservas_internacionales.xlsx
+2014-02-28,2014,2,Febrero,ACTIVOS BRUTOS,4381.881,millones_usd,reservas_internacionales.xlsx
+2014-03-31,2014,3,Marzo,ACTIVOS BRUTOS,4516.6037,millones_usd,reservas_internacionales.xlsx
+2014-04-30,2014,4,Abril,ACTIVOS BRUTOS,6083.328,millones_usd,reservas_internacionales.xlsx
+2014-05-31,2014,5,Mayo,ACTIVOS BRUTOS,5514.1213,millones_usd,reservas_internacionales.xlsx
+2014-06-30,2014,6,Junio,ACTIVOS BRUTOS,5581.7461,millones_usd,reservas_internacionales.xlsx
+2014-07-31,2014,7,Julio,ACTIVOS BRUTOS,5438.7596,millones_usd,reservas_internacionales.xlsx
+2014-08-31,2014,8,Agosto,ACTIVOS BRUTOS,5154.6742,millones_usd,reservas_internacionales.xlsx
+2014-09-30,2014,9,Septiembre,ACTIVOS BRUTOS,4903.0654,millones_usd,reservas_internacionales.xlsx
+2014-10-31,2014,10,Octubre,ACTIVOS BRUTOS,5059.2126,millones_usd,reservas_internacionales.xlsx
+2014-11-30,2014,11,Noviembre,ACTIVOS BRUTOS,5045.4843,millones_usd,reservas_internacionales.xlsx
+2014-12-31,2014,12,Diciembre,ACTIVOS BRUTOS,5476.4546,millones_usd,reservas_internacionales.xlsx
+2014-01-31,2014,1,Enero,BRUTAS 1/,4066.4491,millones_usd,reservas_internacionales.xlsx
+2014-02-28,2014,2,Febrero,BRUTAS 1/,3754.053,millones_usd,reservas_internacionales.xlsx
+2014-03-31,2014,3,Marzo,BRUTAS 1/,3887.7974,millones_usd,reservas_internacionales.xlsx
+2014-04-30,2014,4,Abril,BRUTAS 1/,5452.7744,millones_usd,reservas_internacionales.xlsx
+2014-05-31,2014,5,Mayo,BRUTAS 1/,4884.4868,millones_usd,reservas_internacionales.xlsx
+2014-06-30,2014,6,Junio,BRUTAS 1/,4949.7731,millones_usd,reservas_internacionales.xlsx
+2014-07-31,2014,7,Julio,BRUTAS 1/,4809.026,millones_usd,reservas_internacionales.xlsx
+2014-08-31,2014,8,Agosto,BRUTAS 1/,4526.5621,millones_usd,reservas_internacionales.xlsx
+2014-09-30,2014,9,Septiembre,BRUTAS 1/,4281.644,millones_usd,reservas_internacionales.xlsx
+2014-10-31,2014,10,Octubre,BRUTAS 1/,4437.6694,millones_usd,reservas_internacionales.xlsx
+2014-11-30,2014,11,Noviembre,BRUTAS 1/,4425.9579,millones_usd,reservas_internacionales.xlsx
+2014-12-31,2014,12,Diciembre,BRUTAS 1/,4861.7875,millones_usd,reservas_internacionales.xlsx
+2014-01-31,2014,1,Enero,NETAS 2/,3753.8265,millones_usd,reservas_internacionales.xlsx
+2014-02-28,2014,2,Febrero,NETAS 2/,3449.5471,millones_usd,reservas_internacionales.xlsx
+2014-03-31,2014,3,Marzo,NETAS 2/,3584.874,millones_usd,reservas_internacionales.xlsx
+2014-04-30,2014,4,Abril,NETAS 2/,5161.9815,millones_usd,reservas_internacionales.xlsx
+2014-05-31,2014,5,Mayo,NETAS 2/,4598.0581,millones_usd,reservas_internacionales.xlsx
+2014-06-30,2014,6,Junio,NETAS 2/,4666.5868,millones_usd,reservas_internacionales.xlsx
+2014-07-31,2014,7,Julio,NETAS 2/,4538.0681,millones_usd,reservas_internacionales.xlsx
+2014-08-31,2014,8,Agosto,NETAS 2/,4249.4966,millones_usd,reservas_internacionales.xlsx
+2014-09-30,2014,9,Septiembre,NETAS 2/,4023.3483,millones_usd,reservas_internacionales.xlsx
+2014-10-31,2014,10,Octubre,NETAS 2/,4214.4045,millones_usd,reservas_internacionales.xlsx
+2014-11-30,2014,11,Noviembre,NETAS 2/,4208.1045,millones_usd,reservas_internacionales.xlsx
+2014-12-31,2014,12,Diciembre,NETAS 2/,4650.4486,millones_usd,reservas_internacionales.xlsx
+2015-01-31,2015,1,Enero,ACTIVOS BRUTOS,5149.6786,millones_usd,reservas_internacionales.xlsx
+2015-02-28,2015,2,Febrero,ACTIVOS BRUTOS,5358.1017,millones_usd,reservas_internacionales.xlsx
+2015-03-31,2015,3,Marzo,ACTIVOS BRUTOS,5565.4792,millones_usd,reservas_internacionales.xlsx
+2015-04-30,2015,4,Abril,ACTIVOS BRUTOS,5369.0783,millones_usd,reservas_internacionales.xlsx
+2015-05-31,2015,5,Mayo,ACTIVOS BRUTOS,5665.1844,millones_usd,reservas_internacionales.xlsx
+2015-06-30,2015,6,Junio,ACTIVOS BRUTOS,5665.1679,millones_usd,reservas_internacionales.xlsx
+2015-07-31,2015,7,Julio,ACTIVOS BRUTOS,5451.9705,millones_usd,reservas_internacionales.xlsx
+2015-08-31,2015,8,Agosto,ACTIVOS BRUTOS,5603.9109,millones_usd,reservas_internacionales.xlsx
+2015-09-30,2015,9,Septiembre,ACTIVOS BRUTOS,5436.8348,millones_usd,reservas_internacionales.xlsx
+2015-10-31,2015,10,Octubre,ACTIVOS BRUTOS,5314.1303,millones_usd,reservas_internacionales.xlsx
+2015-11-30,2015,11,Noviembre,ACTIVOS BRUTOS,5560.9282,millones_usd,reservas_internacionales.xlsx
+2015-12-31,2015,12,Diciembre,ACTIVOS BRUTOS,5881.5406,millones_usd,reservas_internacionales.xlsx
+2015-01-31,2015,1,Enero,BRUTAS 1/,4542.4647,millones_usd,reservas_internacionales.xlsx
+2015-02-28,2015,2,Febrero,BRUTAS 1/,4748.8555,millones_usd,reservas_internacionales.xlsx
+2015-03-31,2015,3,Marzo,BRUTAS 1/,4962.6575,millones_usd,reservas_internacionales.xlsx
+2015-04-30,2015,4,Abril,BRUTAS 1/,4759.012,millones_usd,reservas_internacionales.xlsx
+2015-05-31,2015,5,Mayo,BRUTAS 1/,5057.6438,millones_usd,reservas_internacionales.xlsx
+2015-06-30,2015,6,Junio,BRUTAS 1/,5053.0814,millones_usd,reservas_internacionales.xlsx
+2015-07-31,2015,7,Julio,BRUTAS 1/,4841.3522,millones_usd,reservas_internacionales.xlsx
+2015-08-31,2015,8,Agosto,BRUTAS 1/,4989.7929,millones_usd,reservas_internacionales.xlsx
+2015-09-30,2015,9,Septiembre,BRUTAS 1/,4821.9244,millones_usd,reservas_internacionales.xlsx
+2015-10-31,2015,10,Octubre,BRUTAS 1/,4699.3701,millones_usd,reservas_internacionales.xlsx
+2015-11-30,2015,11,Noviembre,BRUTAS 1/,4950.1873,millones_usd,reservas_internacionales.xlsx
+2015-12-31,2015,12,Diciembre,BRUTAS 1/,5266.0461,millones_usd,reservas_internacionales.xlsx
+2015-01-31,2015,1,Enero,NETAS 2/,4369.7523,millones_usd,reservas_internacionales.xlsx
+2015-02-28,2015,2,Febrero,NETAS 2/,4575.726,millones_usd,reservas_internacionales.xlsx
+2015-03-31,2015,3,Marzo,NETAS 2/,4797.7848,millones_usd,reservas_internacionales.xlsx
+2015-04-30,2015,4,Abril,NETAS 2/,4623.8359,millones_usd,reservas_internacionales.xlsx
+2015-05-31,2015,5,Mayo,NETAS 2/,4925.9654,millones_usd,reservas_internacionales.xlsx
+2015-06-30,2015,6,Junio,NETAS 2/,4923.9753,millones_usd,reservas_internacionales.xlsx
+2015-07-31,2015,7,Julio,NETAS 2/,4736.4104,millones_usd,reservas_internacionales.xlsx
+2015-08-31,2015,8,Agosto,NETAS 2/,4884.0039,millones_usd,reservas_internacionales.xlsx
+2015-09-30,2015,9,Septiembre,NETAS 2/,4720.2337,millones_usd,reservas_internacionales.xlsx
+2015-10-31,2015,10,Octubre,NETAS 2/,4621.3133,millones_usd,reservas_internacionales.xlsx
+2015-11-30,2015,11,Noviembre,NETAS 2/,4875.8326,millones_usd,reservas_internacionales.xlsx
+2015-12-31,2015,12,Diciembre,NETAS 2/,5195.0541,millones_usd,reservas_internacionales.xlsx
+2016-01-31,2016,1,Enero,ACTIVOS BRUTOS,6300.1074,millones_usd,reservas_internacionales.xlsx
+2016-02-29,2016,2,Febrero,ACTIVOS BRUTOS,5995.8489,millones_usd,reservas_internacionales.xlsx
+2016-03-31,2016,3,Marzo,ACTIVOS BRUTOS,6078.1638,millones_usd,reservas_internacionales.xlsx
+2016-04-30,2016,4,Abril,ACTIVOS BRUTOS,5941.0759,millones_usd,reservas_internacionales.xlsx
+2016-05-31,2016,5,Mayo,ACTIVOS BRUTOS,5929.663,millones_usd,reservas_internacionales.xlsx
+2016-06-30,2016,6,Junio,ACTIVOS BRUTOS,6219.8607,millones_usd,reservas_internacionales.xlsx
+2016-07-31,2016,7,Julio,ACTIVOS BRUTOS,6228.2024,millones_usd,reservas_internacionales.xlsx
+2016-08-31,2016,8,Agosto,ACTIVOS BRUTOS,6029.2864,millones_usd,reservas_internacionales.xlsx
+2016-09-30,2016,9,Septiembre,ACTIVOS BRUTOS,5836.9597,millones_usd,reservas_internacionales.xlsx
+2016-10-31,2016,10,Octubre,ACTIVOS BRUTOS,6341.8887,millones_usd,reservas_internacionales.xlsx
+2016-11-30,2016,11,Noviembre,ACTIVOS BRUTOS,6591.7898,millones_usd,reservas_internacionales.xlsx
+2016-12-31,2016,12,Diciembre,ACTIVOS BRUTOS,6924.2422,millones_usd,reservas_internacionales.xlsx
+2016-01-31,2016,1,Enero,BRUTAS 1/,5685.7066,millones_usd,reservas_internacionales.xlsx
+2016-02-29,2016,2,Febrero,BRUTAS 1/,5112.9894,millones_usd,reservas_internacionales.xlsx
+2016-03-31,2016,3,Marzo,BRUTAS 1/,5183.4242,millones_usd,reservas_internacionales.xlsx
+2016-04-30,2016,4,Abril,BRUTAS 1/,5041.483,millones_usd,reservas_internacionales.xlsx
+2016-05-31,2016,5,Mayo,BRUTAS 1/,5034.8837,millones_usd,reservas_internacionales.xlsx
+2016-06-30,2016,6,Junio,BRUTAS 1/,5325.2553,millones_usd,reservas_internacionales.xlsx
+2016-07-31,2016,7,Julio,BRUTAS 1/,5334.6138,millones_usd,reservas_internacionales.xlsx
+2016-08-31,2016,8,Agosto,BRUTAS 1/,5134.389,millones_usd,reservas_internacionales.xlsx
+2016-09-30,2016,9,Septiembre,BRUTAS 1/,4940.4717,millones_usd,reservas_internacionales.xlsx
+2016-10-31,2016,10,Octubre,BRUTAS 1/,5452.7094,millones_usd,reservas_internacionales.xlsx
+2016-11-30,2016,11,Noviembre,BRUTAS 1/,5709.386,millones_usd,reservas_internacionales.xlsx
+2016-12-31,2016,12,Diciembre,BRUTAS 1/,6047.3546,millones_usd,reservas_internacionales.xlsx
+2016-01-31,2016,1,Enero,NETAS 2/,5637.9395,millones_usd,reservas_internacionales.xlsx
+2016-02-29,2016,2,Febrero,NETAS 2/,5065.0063,millones_usd,reservas_internacionales.xlsx
+2016-03-31,2016,3,Marzo,NETAS 2/,5134.0699,millones_usd,reservas_internacionales.xlsx
+2016-04-30,2016,4,Abril,NETAS 2/,5015.4147,millones_usd,reservas_internacionales.xlsx
+2016-05-31,2016,5,Mayo,NETAS 2/,5011.0678,millones_usd,reservas_internacionales.xlsx
+2016-06-30,2016,6,Junio,NETAS 2/,5301.0213,millones_usd,reservas_internacionales.xlsx
+2016-07-31,2016,7,Julio,NETAS 2/,5333.6006,millones_usd,reservas_internacionales.xlsx
+2016-08-31,2016,8,Agosto,NETAS 2/,5131.3256,millones_usd,reservas_internacionales.xlsx
+2016-09-30,2016,9,Septiembre,NETAS 2/,4938.558,millones_usd,reservas_internacionales.xlsx
+2016-10-31,2016,10,Octubre,NETAS 2/,5450.2544,millones_usd,reservas_internacionales.xlsx
+2016-11-30,2016,11,Noviembre,NETAS 2/,5709.3339,millones_usd,reservas_internacionales.xlsx
+2016-12-31,2016,12,Diciembre,NETAS 2/,6046.7,millones_usd,reservas_internacionales.xlsx
+2017-01-31,2017,1,Enero,ACTIVOS BRUTOS,7593.011,millones_usd,reservas_internacionales.xlsx
+2017-02-28,2017,2,Febrero,ACTIVOS BRUTOS,7184.6128,millones_usd,reservas_internacionales.xlsx
+2017-03-31,2017,3,Marzo,ACTIVOS BRUTOS,7345.0296,millones_usd,reservas_internacionales.xlsx
+2017-04-30,2017,4,Abril,ACTIVOS BRUTOS,7212.6363,millones_usd,reservas_internacionales.xlsx
+2017-05-31,2017,5,Mayo,ACTIVOS BRUTOS,6987.2497,millones_usd,reservas_internacionales.xlsx
+2017-06-30,2017,6,Junio,ACTIVOS BRUTOS,7417.8811,millones_usd,reservas_internacionales.xlsx
+2017-07-31,2017,7,Julio,ACTIVOS BRUTOS,7162.9594,millones_usd,reservas_internacionales.xlsx
+2017-08-31,2017,8,Agosto,ACTIVOS BRUTOS,6955.79,millones_usd,reservas_internacionales.xlsx
+2017-09-30,2017,9,Septiembre,ACTIVOS BRUTOS,6848.6318,millones_usd,reservas_internacionales.xlsx
+2017-10-31,2017,10,Octubre,ACTIVOS BRUTOS,6494.8451,millones_usd,reservas_internacionales.xlsx
+2017-11-30,2017,11,Noviembre,ACTIVOS BRUTOS,7014.9033,millones_usd,reservas_internacionales.xlsx
+2017-12-31,2017,12,Diciembre,ACTIVOS BRUTOS,7452.1127,millones_usd,reservas_internacionales.xlsx
+2017-01-31,2017,1,Enero,BRUTAS 1/,6708.729,millones_usd,reservas_internacionales.xlsx
+2017-02-28,2017,2,Febrero,BRUTAS 1/,6300.7365,millones_usd,reservas_internacionales.xlsx
+2017-03-31,2017,3,Marzo,BRUTAS 1/,6458.6614,millones_usd,reservas_internacionales.xlsx
+2017-04-30,2017,4,Abril,BRUTAS 1/,6319.4293,millones_usd,reservas_internacionales.xlsx
+2017-05-31,2017,5,Mayo,BRUTAS 1/,6087.368,millones_usd,reservas_internacionales.xlsx
+2017-06-30,2017,6,Junio,BRUTAS 1/,6513.6651,millones_usd,reservas_internacionales.xlsx
+2017-07-31,2017,7,Julio,BRUTAS 1/,6250.3936,millones_usd,reservas_internacionales.xlsx
+2017-08-31,2017,8,Agosto,BRUTAS 1/,6283.3754,millones_usd,reservas_internacionales.xlsx
+2017-09-30,2017,9,Septiembre,BRUTAS 1/,6176.2789,millones_usd,reservas_internacionales.xlsx
+2017-10-31,2017,10,Octubre,BRUTAS 1/,5826.3566,millones_usd,reservas_internacionales.xlsx
+2017-11-30,2017,11,Noviembre,BRUTAS 1/,6344.6898,millones_usd,reservas_internacionales.xlsx
+2017-12-31,2017,12,Diciembre,BRUTAS 1/,6780.7716,millones_usd,reservas_internacionales.xlsx
+2017-01-31,2017,1,Enero,NETAS 2/,6707.0496,millones_usd,reservas_internacionales.xlsx
+2017-02-28,2017,2,Febrero,NETAS 2/,6299.0953,millones_usd,reservas_internacionales.xlsx
+2017-03-31,2017,3,Marzo,NETAS 2/,6456.3899,millones_usd,reservas_internacionales.xlsx
+2017-04-30,2017,4,Abril,NETAS 2/,6316.5241,millones_usd,reservas_internacionales.xlsx
+2017-05-31,2017,5,Mayo,NETAS 2/,6087.2314,millones_usd,reservas_internacionales.xlsx
+2017-06-30,2017,6,Junio,NETAS 2/,6512.7857,millones_usd,reservas_internacionales.xlsx
+2017-07-31,2017,7,Julio,NETAS 2/,6248.7458,millones_usd,reservas_internacionales.xlsx
+2017-08-31,2017,8,Agosto,NETAS 2/,6279.1282,millones_usd,reservas_internacionales.xlsx
+2017-09-30,2017,9,Septiembre,NETAS 2/,6169.1448,millones_usd,reservas_internacionales.xlsx
+2017-10-31,2017,10,Octubre,NETAS 2/,5821.829,millones_usd,reservas_internacionales.xlsx
+2017-11-30,2017,11,Noviembre,NETAS 2/,6344.5116,millones_usd,reservas_internacionales.xlsx
+2017-12-31,2017,12,Diciembre,NETAS 2/,6780.4031,millones_usd,reservas_internacionales.xlsx
+2018-01-31,2018,1,Enero,ACTIVOS BRUTOS,7491.4047,millones_usd,reservas_internacionales.xlsx
+2018-02-28,2018,2,Febrero,ACTIVOS BRUTOS,8730.5978,millones_usd,reservas_internacionales.xlsx
+2018-03-31,2018,3,Marzo,ACTIVOS BRUTOS,8262.3881,millones_usd,reservas_internacionales.xlsx
+2018-04-30,2018,4,Abril,ACTIVOS BRUTOS,7879.9362,millones_usd,reservas_internacionales.xlsx
+2018-05-31,2018,5,Mayo,ACTIVOS BRUTOS,7578.8618,millones_usd,reservas_internacionales.xlsx
+2018-06-30,2018,6,Junio,ACTIVOS BRUTOS,7262.5704,millones_usd,reservas_internacionales.xlsx
+2018-07-31,2018,7,Julio,ACTIVOS BRUTOS,8055.2174,millones_usd,reservas_internacionales.xlsx
+2018-08-31,2018,8,Agosto,ACTIVOS BRUTOS,8096.8306,millones_usd,reservas_internacionales.xlsx
+2018-09-30,2018,9,Septiembre,ACTIVOS BRUTOS,7988.6872,millones_usd,reservas_internacionales.xlsx
+2018-10-31,2018,10,Octubre,ACTIVOS BRUTOS,7639.258,millones_usd,reservas_internacionales.xlsx
+2018-11-30,2018,11,Noviembre,ACTIVOS BRUTOS,7342.1299,millones_usd,reservas_internacionales.xlsx
+2018-12-31,2018,12,Diciembre,ACTIVOS BRUTOS,8285.3525,millones_usd,reservas_internacionales.xlsx
+2018-01-31,2018,1,Enero,BRUTAS 1/,6806.4589,millones_usd,reservas_internacionales.xlsx
+2018-02-28,2018,2,Febrero,BRUTAS 1/,8050.3442,millones_usd,reservas_internacionales.xlsx
+2018-03-31,2018,3,Marzo,BRUTAS 1/,7577.216,millones_usd,reservas_internacionales.xlsx
+2018-04-30,2018,4,Abril,BRUTAS 1/,7202.8074,millones_usd,reservas_internacionales.xlsx
+2018-05-31,2018,5,Mayo,BRUTAS 1/,6911.4268,millones_usd,reservas_internacionales.xlsx
+2018-06-30,2018,6,Junio,BRUTAS 1/,6598.4296,millones_usd,reservas_internacionales.xlsx
+2018-07-31,2018,7,Julio,BRUTAS 1/,7391.746,millones_usd,reservas_internacionales.xlsx
+2018-08-31,2018,8,Agosto,BRUTAS 1/,7434.83,millones_usd,reservas_internacionales.xlsx
+2018-09-30,2018,9,Septiembre,BRUTAS 1/,7329.0965,millones_usd,reservas_internacionales.xlsx
+2018-10-31,2018,10,Octubre,BRUTAS 1/,6985.1955,millones_usd,reservas_internacionales.xlsx
+2018-11-30,2018,11,Noviembre,BRUTAS 1/,6687.5795,millones_usd,reservas_internacionales.xlsx
+2018-12-31,2018,12,Diciembre,BRUTAS 1/,7627.6352,millones_usd,reservas_internacionales.xlsx
+2018-01-31,2018,1,Enero,NETAS 2/,6803.9782,millones_usd,reservas_internacionales.xlsx
+2018-02-28,2018,2,Febrero,NETAS 2/,8050.1476,millones_usd,reservas_internacionales.xlsx
+2018-03-31,2018,3,Marzo,NETAS 2/,7576.7979,millones_usd,reservas_internacionales.xlsx
+2018-04-30,2018,4,Abril,NETAS 2/,7202.1804,millones_usd,reservas_internacionales.xlsx
+2018-05-31,2018,5,Mayo,NETAS 2/,6911.1901,millones_usd,reservas_internacionales.xlsx
+2018-06-30,2018,6,Junio,NETAS 2/,6597.9586,millones_usd,reservas_internacionales.xlsx
+2018-07-31,2018,7,Julio,NETAS 2/,7391.0418,millones_usd,reservas_internacionales.xlsx
+2018-08-31,2018,8,Agosto,NETAS 2/,7430.6821,millones_usd,reservas_internacionales.xlsx
+2018-09-30,2018,9,Septiembre,NETAS 2/,7328.6228,millones_usd,reservas_internacionales.xlsx
+2018-10-31,2018,10,Octubre,NETAS 2/,6984.4795,millones_usd,reservas_internacionales.xlsx
+2018-11-30,2018,11,Noviembre,NETAS 2/,6687.3247,millones_usd,reservas_internacionales.xlsx
+2018-12-31,2018,12,Diciembre,NETAS 2/,7627.1079,millones_usd,reservas_internacionales.xlsx
+2019-01-31,2019,1,Enero,ACTIVOS BRUTOS,7710.9033,millones_usd,reservas_internacionales.xlsx
+2019-02-28,2019,2,Febrero,ACTIVOS BRUTOS,7795.2125,millones_usd,reservas_internacionales.xlsx
+2019-03-31,2019,3,Marzo,ACTIVOS BRUTOS,8010.7036,millones_usd,reservas_internacionales.xlsx
+2019-04-30,2019,4,Abril,ACTIVOS BRUTOS,7931.8599,millones_usd,reservas_internacionales.xlsx
+2019-05-31,2019,5,Mayo,ACTIVOS BRUTOS,7633.0623,millones_usd,reservas_internacionales.xlsx
+2019-06-30,2019,6,Junio,ACTIVOS BRUTOS,9369.5756,millones_usd,reservas_internacionales.xlsx
+2019-07-31,2019,7,Julio,ACTIVOS BRUTOS,8867.0661,millones_usd,reservas_internacionales.xlsx
+2019-08-31,2019,8,Agosto,ACTIVOS BRUTOS,8548.3375,millones_usd,reservas_internacionales.xlsx
+2019-09-30,2019,9,Septiembre,ACTIVOS BRUTOS,8236.6291,millones_usd,reservas_internacionales.xlsx
+2019-10-31,2019,10,Octubre,ACTIVOS BRUTOS,8145.1451,millones_usd,reservas_internacionales.xlsx
+2019-11-30,2019,11,Noviembre,ACTIVOS BRUTOS,7795.9607,millones_usd,reservas_internacionales.xlsx
+2019-12-31,2019,12,Diciembre,ACTIVOS BRUTOS,9420.5499,millones_usd,reservas_internacionales.xlsx
+2019-01-31,2019,1,Enero,BRUTAS 1/,7049.1665,millones_usd,reservas_internacionales.xlsx
+2019-02-28,2019,2,Febrero,BRUTAS 1/,7134.1318,millones_usd,reservas_internacionales.xlsx
+2019-03-31,2019,3,Marzo,BRUTAS 1/,7354.0893,millones_usd,reservas_internacionales.xlsx
+2019-04-30,2019,4,Abril,BRUTAS 1/,7276.2166,millones_usd,reservas_internacionales.xlsx
+2019-05-31,2019,5,Mayo,BRUTAS 1/,6980.7998,millones_usd,reservas_internacionales.xlsx
+2019-06-30,2019,6,Junio,BRUTAS 1/,8712.1199,millones_usd,reservas_internacionales.xlsx
+2019-07-31,2019,7,Julio,BRUTAS 1/,8215.7448,millones_usd,reservas_internacionales.xlsx
+2019-08-31,2019,8,Agosto,BRUTAS 1/,7899.9611,millones_usd,reservas_internacionales.xlsx
+2019-09-30,2019,9,Septiembre,BRUTAS 1/,7590.7938,millones_usd,reservas_internacionales.xlsx
+2019-10-31,2019,10,Octubre,BRUTAS 1/,7492.2291,millones_usd,reservas_internacionales.xlsx
+2019-11-30,2019,11,Noviembre,BRUTAS 1/,7145.8071,millones_usd,reservas_internacionales.xlsx
+2019-12-31,2019,12,Diciembre,BRUTAS 1/,8781.7846,millones_usd,reservas_internacionales.xlsx
+2019-01-31,2019,1,Enero,NETAS 2/,7046.505,millones_usd,reservas_internacionales.xlsx
+2019-02-28,2019,2,Febrero,NETAS 2/,7133.8695,millones_usd,reservas_internacionales.xlsx
+2019-03-31,2019,3,Marzo,NETAS 2/,7353.5459,millones_usd,reservas_internacionales.xlsx
+2019-04-30,2019,4,Abril,NETAS 2/,7275.4017,millones_usd,reservas_internacionales.xlsx
+2019-05-31,2019,5,Mayo,NETAS 2/,6980.5136,millones_usd,reservas_internacionales.xlsx
+2019-06-30,2019,6,Junio,NETAS 2/,8711.5652,millones_usd,reservas_internacionales.xlsx
+2019-07-31,2019,7,Julio,NETAS 2/,8214.9558,millones_usd,reservas_internacionales.xlsx
+2019-08-31,2019,8,Agosto,NETAS 2/,7899.7222,millones_usd,reservas_internacionales.xlsx
+2019-09-30,2019,9,Septiembre,NETAS 2/,7587.8028,millones_usd,reservas_internacionales.xlsx
+2019-10-31,2019,10,Octubre,NETAS 2/,7491.5772,millones_usd,reservas_internacionales.xlsx
+2019-11-30,2019,11,Noviembre,NETAS 2/,7145.6166,millones_usd,reservas_internacionales.xlsx
+2019-12-31,2019,12,Diciembre,NETAS 2/,8781.4012,millones_usd,reservas_internacionales.xlsx
+2020-01-31,2020,1,Enero,ACTIVOS BRUTOS,11045.2153,millones_usd,reservas_internacionales.xlsx
+2020-02-29,2020,2,Febrero,ACTIVOS BRUTOS,10498.3787,millones_usd,reservas_internacionales.xlsx
+2020-03-31,2020,3,Marzo,ACTIVOS BRUTOS,9955.7407,millones_usd,reservas_internacionales.xlsx
+2020-04-30,2020,4,Abril,ACTIVOS BRUTOS,9274.2509,millones_usd,reservas_internacionales.xlsx
+2020-05-31,2020,5,Mayo,ACTIVOS BRUTOS,8665.3555,millones_usd,reservas_internacionales.xlsx
+2020-06-30,2020,6,Junio,ACTIVOS BRUTOS,7808.09,millones_usd,reservas_internacionales.xlsx
+2020-07-31,2020,7,Julio,ACTIVOS BRUTOS,7341.7164,millones_usd,reservas_internacionales.xlsx
+2020-08-31,2020,8,Agosto,ACTIVOS BRUTOS,7672.5236,millones_usd,reservas_internacionales.xlsx
+2020-09-30,2020,9,Septiembre,ACTIVOS BRUTOS,11201.1354,millones_usd,reservas_internacionales.xlsx
+2020-10-31,2020,10,Octubre,ACTIVOS BRUTOS,10524.5377,millones_usd,reservas_internacionales.xlsx
+2020-11-30,2020,11,Noviembre,ACTIVOS BRUTOS,10562.7363,millones_usd,reservas_internacionales.xlsx
+2020-12-31,2020,12,Diciembre,ACTIVOS BRUTOS,11414.1559,millones_usd,reservas_internacionales.xlsx
+2020-01-31,2020,1,Enero,BRUTAS 1/,10408.8961,millones_usd,reservas_internacionales.xlsx
+2020-02-29,2020,2,Febrero,BRUTAS 1/,9863.7272,millones_usd,reservas_internacionales.xlsx
+2020-03-31,2020,3,Marzo,BRUTAS 1/,9324.6308,millones_usd,reservas_internacionales.xlsx
+2020-04-30,2020,4,Abril,BRUTAS 1/,8642.489,millones_usd,reservas_internacionales.xlsx
+2020-05-31,2020,5,Mayo,BRUTAS 1/,8038.0293,millones_usd,reservas_internacionales.xlsx
+2020-06-30,2020,6,Junio,BRUTAS 1/,7172.2686,millones_usd,reservas_internacionales.xlsx
+2020-07-31,2020,7,Julio,BRUTAS 1/,6690.4658,millones_usd,reservas_internacionales.xlsx
+2020-08-31,2020,8,Agosto,BRUTAS 1/,7018.5768,millones_usd,reservas_internacionales.xlsx
+2020-09-30,2020,9,Septiembre,BRUTAS 1/,10551.994,millones_usd,reservas_internacionales.xlsx
+2020-10-31,2020,10,Octubre,BRUTAS 1/,9873.7924,millones_usd,reservas_internacionales.xlsx
+2020-11-30,2020,11,Noviembre,BRUTAS 1/,9903.8481,millones_usd,reservas_internacionales.xlsx
+2020-12-31,2020,12,Diciembre,BRUTAS 1/,10751.6725,millones_usd,reservas_internacionales.xlsx
+2020-01-31,2020,1,Enero,NETAS 2/,10408.3367,millones_usd,reservas_internacionales.xlsx
+2020-02-29,2020,2,Febrero,NETAS 2/,9863.5577,millones_usd,reservas_internacionales.xlsx
+2020-03-31,2020,3,Marzo,NETAS 2/,9324.4033,millones_usd,reservas_internacionales.xlsx
+2020-04-30,2020,4,Abril,NETAS 2/,8613.7033,millones_usd,reservas_internacionales.xlsx
+2020-05-31,2020,5,Mayo,NETAS 2/,8008.894,millones_usd,reservas_internacionales.xlsx
+2020-06-30,2020,6,Junio,NETAS 2/,7142.4895,millones_usd,reservas_internacionales.xlsx
+2020-07-31,2020,7,Julio,NETAS 2/,6689.1783,millones_usd,reservas_internacionales.xlsx
+2020-08-31,2020,8,Agosto,NETAS 2/,7018.5556,millones_usd,reservas_internacionales.xlsx
+2020-09-30,2020,9,Septiembre,NETAS 2/,10551.9513,millones_usd,reservas_internacionales.xlsx
+2020-10-31,2020,10,Octubre,NETAS 2/,9873.7272,millones_usd,reservas_internacionales.xlsx
+2020-11-30,2020,11,Noviembre,NETAS 2/,9903.8184,millones_usd,reservas_internacionales.xlsx
+2020-12-31,2020,12,Diciembre,NETAS 2/,10751.6169,millones_usd,reservas_internacionales.xlsx
+2021-01-31,2021,1,Enero,ACTIVOS BRUTOS,13186.0444,millones_usd,reservas_internacionales.xlsx
+2021-02-28,2021,2,Febrero,ACTIVOS BRUTOS,12625.7242,millones_usd,reservas_internacionales.xlsx
+2021-03-31,2021,3,Marzo,ACTIVOS BRUTOS,12826.3252,millones_usd,reservas_internacionales.xlsx
+2021-04-30,2021,4,Abril,ACTIVOS BRUTOS,12906.0641,millones_usd,reservas_internacionales.xlsx
+2021-05-31,2021,5,Mayo,ACTIVOS BRUTOS,13083.0763,millones_usd,reservas_internacionales.xlsx
+2021-06-30,2021,6,Junio,ACTIVOS BRUTOS,13268.4118,millones_usd,reservas_internacionales.xlsx
+2021-07-31,2021,7,Julio,ACTIVOS BRUTOS,12801.2853,millones_usd,reservas_internacionales.xlsx
+2021-08-31,2021,8,Agosto,ACTIVOS BRUTOS,13716.4539,millones_usd,reservas_internacionales.xlsx
+2021-09-30,2021,9,Septiembre,ACTIVOS BRUTOS,13581.6084,millones_usd,reservas_internacionales.xlsx
+2021-10-31,2021,10,Octubre,ACTIVOS BRUTOS,13156.6145,millones_usd,reservas_internacionales.xlsx
+2021-11-30,2021,11,Noviembre,ACTIVOS BRUTOS,12843.7254,millones_usd,reservas_internacionales.xlsx
+2021-12-31,2021,12,Diciembre,ACTIVOS BRUTOS,13679.6383,millones_usd,reservas_internacionales.xlsx
+2021-01-31,2021,1,Enero,BRUTAS 1/,12523.0617,millones_usd,reservas_internacionales.xlsx
+2021-02-28,2021,2,Febrero,BRUTAS 1/,11963.1814,millones_usd,reservas_internacionales.xlsx
+2021-03-31,2021,3,Marzo,BRUTAS 1/,12174.2123,millones_usd,reservas_internacionales.xlsx
+2021-04-30,2021,4,Abril,BRUTAS 1/,12245.9672,millones_usd,reservas_internacionales.xlsx
+2021-05-31,2021,5,Mayo,BRUTAS 1/,12417.5547,millones_usd,reservas_internacionales.xlsx
+2021-06-30,2021,6,Junio,BRUTAS 1/,12611.5891,millones_usd,reservas_internacionales.xlsx
+2021-07-31,2021,7,Julio,BRUTAS 1/,12143.8212,millones_usd,reservas_internacionales.xlsx
+2021-08-31,2021,8,Agosto,BRUTAS 1/,13060.3136,millones_usd,reservas_internacionales.xlsx
+2021-09-30,2021,9,Septiembre,BRUTAS 1/,12932.3632,millones_usd,reservas_internacionales.xlsx
+2021-10-31,2021,10,Octubre,BRUTAS 1/,12504.9324,millones_usd,reservas_internacionales.xlsx
+2021-11-30,2021,11,Noviembre,BRUTAS 1/,12199.623,millones_usd,reservas_internacionales.xlsx
+2021-12-31,2021,12,Diciembre,BRUTAS 1/,13034.0033,millones_usd,reservas_internacionales.xlsx
+2021-01-31,2021,1,Enero,NETAS 2/,12522.9919,millones_usd,reservas_internacionales.xlsx
+2021-02-28,2021,2,Febrero,NETAS 2/,11963.1625,millones_usd,reservas_internacionales.xlsx
+2021-03-31,2021,3,Marzo,NETAS 2/,12174.181,millones_usd,reservas_internacionales.xlsx
+2021-04-30,2021,4,Abril,NETAS 2/,12245.922,millones_usd,reservas_internacionales.xlsx
+2021-05-31,2021,5,Mayo,NETAS 2/,12417.5404,millones_usd,reservas_internacionales.xlsx
+2021-06-30,2021,6,Junio,NETAS 2/,12611.5637,millones_usd,reservas_internacionales.xlsx
+2021-07-31,2021,7,Julio,NETAS 2/,12143.7831,millones_usd,reservas_internacionales.xlsx
+2021-08-31,2021,8,Agosto,NETAS 2/,13060.2919,millones_usd,reservas_internacionales.xlsx
+2021-09-30,2021,9,Septiembre,NETAS 2/,12932.3041,millones_usd,reservas_internacionales.xlsx
+2021-10-31,2021,10,Octubre,NETAS 2/,12504.833,millones_usd,reservas_internacionales.xlsx
+2021-11-30,2021,11,Noviembre,NETAS 2/,12199.5832,millones_usd,reservas_internacionales.xlsx
+2021-12-31,2021,12,Diciembre,NETAS 2/,13033.9174,millones_usd,reservas_internacionales.xlsx
+2022-01-31,2022,1,Enero,ACTIVOS BRUTOS,13017.377,millones_usd,reservas_internacionales.xlsx
+2022-02-28,2022,2,Febrero,ACTIVOS BRUTOS,15494.0808,millones_usd,reservas_internacionales.xlsx
+2022-03-31,2022,3,Marzo,ACTIVOS BRUTOS,15238.4339,millones_usd,reservas_internacionales.xlsx
+2022-04-30,2022,4,Abril,ACTIVOS BRUTOS,15036.5611,millones_usd,reservas_internacionales.xlsx
+2022-05-31,2022,5,Mayo,ACTIVOS BRUTOS,14876.5663,millones_usd,reservas_internacionales.xlsx
+2022-06-30,2022,6,Junio,ACTIVOS BRUTOS,15075.7095,millones_usd,reservas_internacionales.xlsx
+2022-07-31,2022,7,Julio,ACTIVOS BRUTOS,14791.5431,millones_usd,reservas_internacionales.xlsx
+2022-08-31,2022,8,Agosto,ACTIVOS BRUTOS,14628.4852,millones_usd,reservas_internacionales.xlsx
+2022-09-30,2022,9,Septiembre,ACTIVOS BRUTOS,14407.756,millones_usd,reservas_internacionales.xlsx
+2022-10-31,2022,10,Octubre,ACTIVOS BRUTOS,14148.7161,millones_usd,reservas_internacionales.xlsx
+2022-11-30,2022,11,Noviembre,ACTIVOS BRUTOS,13696.9733,millones_usd,reservas_internacionales.xlsx
+2022-12-31,2022,12,Diciembre,ACTIVOS BRUTOS,15058.3594,millones_usd,reservas_internacionales.xlsx
+2022-01-31,2022,1,Enero,BRUTAS 1/,12374.1402,millones_usd,reservas_internacionales.xlsx
+2022-02-28,2022,2,Febrero,BRUTAS 1/,14849.8842,millones_usd,reservas_internacionales.xlsx
+2022-03-31,2022,3,Marzo,BRUTAS 1/,14596.2634,millones_usd,reservas_internacionales.xlsx
+2022-04-30,2022,4,Abril,BRUTAS 1/,14410.9348,millones_usd,reservas_internacionales.xlsx
+2022-05-31,2022,5,Mayo,BRUTAS 1/,14249.3547,millones_usd,reservas_internacionales.xlsx
+2022-06-30,2022,6,Junio,BRUTAS 1/,14456.3587,millones_usd,reservas_internacionales.xlsx
+2022-07-31,2022,7,Julio,BRUTAS 1/,14172.8293,millones_usd,reservas_internacionales.xlsx
+2022-08-31,2022,8,Agosto,BRUTAS 1/,14020.5657,millones_usd,reservas_internacionales.xlsx
+2022-09-30,2022,9,Septiembre,BRUTAS 1/,13808.5399,millones_usd,reservas_internacionales.xlsx
+2022-10-31,2022,10,Octubre,BRUTAS 1/,13549.2727,millones_usd,reservas_internacionales.xlsx
+2022-11-30,2022,11,Noviembre,BRUTAS 1/,13086.3505,millones_usd,reservas_internacionales.xlsx
+2022-12-31,2022,12,Diciembre,BRUTAS 1/,14440.6137,millones_usd,reservas_internacionales.xlsx
+2022-01-31,2022,1,Enero,NETAS 2/,12373.9836,millones_usd,reservas_internacionales.xlsx
+2022-02-28,2022,2,Febrero,NETAS 2/,14849.7595,millones_usd,reservas_internacionales.xlsx
+2022-03-31,2022,3,Marzo,NETAS 2/,14595.9585,millones_usd,reservas_internacionales.xlsx
+2022-04-30,2022,4,Abril,NETAS 2/,14410.3482,millones_usd,reservas_internacionales.xlsx
+2022-05-31,2022,5,Mayo,NETAS 2/,14248.9353,millones_usd,reservas_internacionales.xlsx
+2022-06-30,2022,6,Junio,NETAS 2/,14455.3813,millones_usd,reservas_internacionales.xlsx
+2022-07-31,2022,7,Julio,NETAS 2/,14170.969,millones_usd,reservas_internacionales.xlsx
+2022-08-31,2022,8,Agosto,NETAS 2/,14019.468,millones_usd,reservas_internacionales.xlsx
+2022-09-30,2022,9,Septiembre,NETAS 2/,13806.1924,millones_usd,reservas_internacionales.xlsx
+2022-10-31,2022,10,Octubre,NETAS 2/,13545.29,millones_usd,reservas_internacionales.xlsx
+2022-11-30,2022,11,Noviembre,NETAS 2/,13084.4407,millones_usd,reservas_internacionales.xlsx
+2022-12-31,2022,12,Diciembre,NETAS 2/,14436.5335,millones_usd,reservas_internacionales.xlsx
+2023-01-31,2023,1,Enero,ACTIVOS BRUTOS,15232.0187,millones_usd,reservas_internacionales.xlsx
+2023-02-28,2023,2,Febrero,ACTIVOS BRUTOS,16219.2129,millones_usd,reservas_internacionales.xlsx
+2023-03-31,2023,3,Marzo,ACTIVOS BRUTOS,16659.9132,millones_usd,reservas_internacionales.xlsx
+2023-04-30,2023,4,Abril,ACTIVOS BRUTOS,16807.8823,millones_usd,reservas_internacionales.xlsx
+2023-05-31,2023,5,Mayo,ACTIVOS BRUTOS,16825.1451,millones_usd,reservas_internacionales.xlsx
+2023-06-30,2023,6,Junio,ACTIVOS BRUTOS,16832.896,millones_usd,reservas_internacionales.xlsx
+2023-07-31,2023,7,Julio,ACTIVOS BRUTOS,16059.2313,millones_usd,reservas_internacionales.xlsx
+2023-08-31,2023,8,Agosto,ACTIVOS BRUTOS,16450.3982,millones_usd,reservas_internacionales.xlsx
+2023-09-30,2023,9,Septiembre,ACTIVOS BRUTOS,16468.2266,millones_usd,reservas_internacionales.xlsx
+2023-10-31,2023,10,Octubre,ACTIVOS BRUTOS,15950.7035,millones_usd,reservas_internacionales.xlsx
+2023-11-30,2023,11,Noviembre,ACTIVOS BRUTOS,15670.8992,millones_usd,reservas_internacionales.xlsx
+2023-12-31,2023,12,Diciembre,ACTIVOS BRUTOS,16086.962,millones_usd,reservas_internacionales.xlsx
+2023-01-31,2023,1,Enero,BRUTAS 1/,14605.3024,millones_usd,reservas_internacionales.xlsx
+2023-02-28,2023,2,Febrero,BRUTAS 1/,15592.0051,millones_usd,reservas_internacionales.xlsx
+2023-03-31,2023,3,Marzo,BRUTAS 1/,16021.7511,millones_usd,reservas_internacionales.xlsx
+2023-04-30,2023,4,Abril,BRUTAS 1/,16163.4963,millones_usd,reservas_internacionales.xlsx
+2023-05-31,2023,5,Mayo,BRUTAS 1/,16189.4518,millones_usd,reservas_internacionales.xlsx
+2023-06-30,2023,6,Junio,BRUTAS 1/,16202.885,millones_usd,reservas_internacionales.xlsx
+2023-07-31,2023,7,Julio,BRUTAS 1/,15434.39,millones_usd,reservas_internacionales.xlsx
+2023-08-31,2023,8,Agosto,BRUTAS 1/,15833.5202,millones_usd,reservas_internacionales.xlsx
+2023-09-30,2023,9,Septiembre,BRUTAS 1/,15857.3714,millones_usd,reservas_internacionales.xlsx
+2023-10-31,2023,10,Octubre,BRUTAS 1/,15339.9847,millones_usd,reservas_internacionales.xlsx
+2023-11-30,2023,11,Noviembre,BRUTAS 1/,15050.679,millones_usd,reservas_internacionales.xlsx
+2023-12-31,2023,12,Diciembre,BRUTAS 1/,15464.305,millones_usd,reservas_internacionales.xlsx
+2023-01-31,2023,1,Enero,NETAS 2/,14597.1337,millones_usd,reservas_internacionales.xlsx
+2023-02-28,2023,2,Febrero,NETAS 2/,15586.9661,millones_usd,reservas_internacionales.xlsx
+2023-03-31,2023,3,Marzo,NETAS 2/,16016.5607,millones_usd,reservas_internacionales.xlsx
+2023-04-30,2023,4,Abril,NETAS 2/,16154.8413,millones_usd,reservas_internacionales.xlsx
+2023-05-31,2023,5,Mayo,NETAS 2/,16184.7045,millones_usd,reservas_internacionales.xlsx
+2023-06-30,2023,6,Junio,NETAS 2/,16196.8859,millones_usd,reservas_internacionales.xlsx
+2023-07-31,2023,7,Julio,NETAS 2/,15423.915,millones_usd,reservas_internacionales.xlsx
+2023-08-31,2023,8,Agosto,NETAS 2/,15827.3683,millones_usd,reservas_internacionales.xlsx
+2023-09-30,2023,9,Septiembre,NETAS 2/,15851.051,millones_usd,reservas_internacionales.xlsx
+2023-10-31,2023,10,Octubre,NETAS 2/,15329.1794,millones_usd,reservas_internacionales.xlsx
+2023-11-30,2023,11,Noviembre,NETAS 2/,15044.498,millones_usd,reservas_internacionales.xlsx
+2023-12-31,2023,12,Diciembre,NETAS 2/,15457.6742,millones_usd,reservas_internacionales.xlsx
+2024-01-31,2024,1,Enero,ACTIVOS BRUTOS,14987.4597,millones_usd,reservas_internacionales.xlsx
+2024-02-29,2024,2,Febrero,ACTIVOS BRUTOS,14784.839,millones_usd,reservas_internacionales.xlsx
+2024-03-31,2024,3,Marzo,ACTIVOS BRUTOS,14429.2275,millones_usd,reservas_internacionales.xlsx
+2024-04-30,2024,4,Abril,ACTIVOS BRUTOS,14424.1973,millones_usd,reservas_internacionales.xlsx
+2024-05-31,2024,5,Mayo,ACTIVOS BRUTOS,14552.5644,millones_usd,reservas_internacionales.xlsx
+2024-06-30,2024,6,Junio,ACTIVOS BRUTOS,14004.225,millones_usd,reservas_internacionales.xlsx
+2024-07-31,2024,7,Julio,ACTIVOS BRUTOS,15914.4052,millones_usd,reservas_internacionales.xlsx
+2024-08-31,2024,8,Agosto,ACTIVOS BRUTOS,15493.0346,millones_usd,reservas_internacionales.xlsx
+2024-09-30,2024,9,Septiembre,ACTIVOS BRUTOS,15105.0088,millones_usd,reservas_internacionales.xlsx
+2024-10-31,2024,10,Octubre,ACTIVOS BRUTOS,14171.3096,millones_usd,reservas_internacionales.xlsx
+2024-11-30,2024,11,Noviembre,ACTIVOS BRUTOS,13703.1088,millones_usd,reservas_internacionales.xlsx
+2024-12-31,2024,12,Diciembre,ACTIVOS BRUTOS,13993.8613,millones_usd,reservas_internacionales.xlsx
+2024-01-31,2024,1,Enero,BRUTAS 1/,14371.2836,millones_usd,reservas_internacionales.xlsx
+2024-02-29,2024,2,Febrero,BRUTAS 1/,14169.6353,millones_usd,reservas_internacionales.xlsx
+2024-03-31,2024,3,Marzo,BRUTAS 1/,13814.0267,millones_usd,reservas_internacionales.xlsx
+2024-04-30,2024,4,Abril,BRUTAS 1/,13798.4666,millones_usd,reservas_internacionales.xlsx
+2024-05-31,2024,5,Mayo,BRUTAS 1/,13937.5375,millones_usd,reservas_internacionales.xlsx
+2024-06-30,2024,6,Junio,BRUTAS 1/,13391.1024,millones_usd,reservas_internacionales.xlsx
+2024-07-31,2024,7,Julio,BRUTAS 1/,15297.8466,millones_usd,reservas_internacionales.xlsx
+2024-08-31,2024,8,Agosto,BRUTAS 1/,14870.2014,millones_usd,reservas_internacionales.xlsx
+2024-09-30,2024,9,Septiembre,BRUTAS 1/,14474.8168,millones_usd,reservas_internacionales.xlsx
+2024-10-31,2024,10,Octubre,BRUTAS 1/,13551.8939,millones_usd,reservas_internacionales.xlsx
+2024-11-30,2024,11,Noviembre,BRUTAS 1/,13090.4058,millones_usd,reservas_internacionales.xlsx
+2024-12-31,2024,12,Diciembre,BRUTAS 1/,13387.6249,millones_usd,reservas_internacionales.xlsx
+2024-01-31,2024,1,Enero,NETAS 2/,14360.2619,millones_usd,reservas_internacionales.xlsx
+2024-02-29,2024,2,Febrero,NETAS 2/,14163.6293,millones_usd,reservas_internacionales.xlsx
+2024-03-31,2024,3,Marzo,NETAS 2/,13807.6631,millones_usd,reservas_internacionales.xlsx
+2024-04-30,2024,4,Abril,NETAS 2/,13787.7805,millones_usd,reservas_internacionales.xlsx
+2024-05-31,2024,5,Mayo,NETAS 2/,13931.3131,millones_usd,reservas_internacionales.xlsx
+2024-06-30,2024,6,Junio,NETAS 2/,13384.882,millones_usd,reservas_internacionales.xlsx
+2024-07-31,2024,7,Julio,NETAS 2/,15287.1684,millones_usd,reservas_internacionales.xlsx
+2024-08-31,2024,8,Agosto,NETAS 2/,14864.1845,millones_usd,reservas_internacionales.xlsx
+2024-09-30,2024,9,Septiembre,NETAS 2/,14468.8074,millones_usd,reservas_internacionales.xlsx
+2024-10-31,2024,10,Octubre,NETAS 2/,13542.0585,millones_usd,reservas_internacionales.xlsx
+2024-11-30,2024,11,Noviembre,NETAS 2/,13085.0808,millones_usd,reservas_internacionales.xlsx
+2024-12-31,2024,12,Diciembre,NETAS 2/,13382.4709,millones_usd,reservas_internacionales.xlsx
+2025-01-31,2025,1,Enero,ACTIVOS BRUTOS,13218.5092,millones_usd,reservas_internacionales.xlsx
+2025-02-28,2025,2,Febrero,ACTIVOS BRUTOS,15513.5519,millones_usd,reservas_internacionales.xlsx
+2025-03-31,2025,3,Marzo,ACTIVOS BRUTOS,15370.2395,millones_usd,reservas_internacionales.xlsx
+2025-04-30,2025,4,Abril,ACTIVOS BRUTOS,15744.943,millones_usd,reservas_internacionales.xlsx
+2025-05-31,2025,5,Mayo,ACTIVOS BRUTOS,15305.7566,millones_usd,reservas_internacionales.xlsx
+2025-06-30,2025,6,Junio,ACTIVOS BRUTOS,15455.0944,millones_usd,reservas_internacionales.xlsx
+2025-07-31,2025,7,Julio,ACTIVOS BRUTOS,14852.8659,millones_usd,reservas_internacionales.xlsx
+2025-08-31,2025,8,Agosto,ACTIVOS BRUTOS,14521.9496,millones_usd,reservas_internacionales.xlsx
+2025-09-30,2025,9,Septiembre,ACTIVOS BRUTOS,13935.2466,millones_usd,reservas_internacionales.xlsx
+2025-10-31,2025,10,Octubre,ACTIVOS BRUTOS,15266.3544,millones_usd,reservas_internacionales.xlsx
+2025-11-30,2025,11,Noviembre,ACTIVOS BRUTOS,14904.8284,millones_usd,reservas_internacionales.xlsx
+2025-12-31,2025,12,Diciembre,ACTIVOS BRUTOS,15332.1958,millones_usd,reservas_internacionales.xlsx
+2025-01-31,2025,1,Enero,BRUTAS 1/,12613.3694,millones_usd,reservas_internacionales.xlsx
+2025-02-28,2025,2,Febrero,BRUTAS 1/,14904.5552,millones_usd,reservas_internacionales.xlsx
+2025-03-31,2025,3,Marzo,BRUTAS 1/,14751.1294,millones_usd,reservas_internacionales.xlsx
+2025-04-30,2025,4,Abril,BRUTAS 1/,15058.2163,millones_usd,reservas_internacionales.xlsx
+2025-05-31,2025,5,Mayo,BRUTAS 1/,14643.5969,millones_usd,reservas_internacionales.xlsx
+2025-06-30,2025,6,Junio,BRUTAS 1/,14793.2782,millones_usd,reservas_internacionales.xlsx
+2025-07-31,2025,7,Julio,BRUTAS 1/,14208.7223,millones_usd,reservas_internacionales.xlsx
+2025-08-31,2025,8,Agosto,BRUTAS 1/,13887.5876,millones_usd,reservas_internacionales.xlsx
+2025-09-30,2025,9,Septiembre,BRUTAS 1/,13294.8195,millones_usd,reservas_internacionales.xlsx
+2025-10-31,2025,10,Octubre,BRUTAS 1/,14640.228,millones_usd,reservas_internacionales.xlsx
+2025-11-30,2025,11,Noviembre,BRUTAS 1/,14274.0213,millones_usd,reservas_internacionales.xlsx
+2025-12-31,2025,12,Diciembre,BRUTAS 1/,14691.1921,millones_usd,reservas_internacionales.xlsx
+2025-01-31,2025,1,Enero,NETAS 2/,12604.6711,millones_usd,reservas_internacionales.xlsx
+2025-02-28,2025,2,Febrero,NETAS 2/,14899.8525,millones_usd,reservas_internacionales.xlsx
+2025-03-31,2025,3,Marzo,NETAS 2/,14746.3505,millones_usd,reservas_internacionales.xlsx
+2025-04-30,2025,4,Abril,NETAS 2/,15049.928,millones_usd,reservas_internacionales.xlsx
+2025-05-31,2025,5,Mayo,NETAS 2/,14638.6784,millones_usd,reservas_internacionales.xlsx
+2025-06-30,2025,6,Junio,NETAS 2/,14788.4374,millones_usd,reservas_internacionales.xlsx
+2025-07-31,2025,7,Julio,NETAS 2/,14198.9931,millones_usd,reservas_internacionales.xlsx
+2025-08-31,2025,8,Agosto,NETAS 2/,13882.6747,millones_usd,reservas_internacionales.xlsx
+2025-09-30,2025,9,Septiembre,NETAS 2/,13290.1395,millones_usd,reservas_internacionales.xlsx
+2025-10-31,2025,10,Octubre,NETAS 2/,14632.2913,millones_usd,reservas_internacionales.xlsx
+2025-11-30,2025,11,Noviembre,NETAS 2/,14269.4177,millones_usd,reservas_internacionales.xlsx
+2025-12-31,2025,12,Diciembre,NETAS 2/,14686.7169,millones_usd,reservas_internacionales.xlsx
+2026-01-31,2026,1,Enero,ACTIVOS BRUTOS,14606.3317,millones_usd,reservas_internacionales.xlsx
+2026-02-28,2026,2,Febrero,ACTIVOS BRUTOS,16854.3131,millones_usd,reservas_internacionales.xlsx
+2026-03-31,2026,3,Marzo,ACTIVOS BRUTOS,16782.4012,millones_usd,reservas_internacionales.xlsx
+2026-04-30,2026,4,Abril,ACTIVOS BRUTOS,16546.224,millones_usd,reservas_internacionales.xlsx
+2026-01-31,2026,1,Enero,BRUTAS 1/,13959.5707,millones_usd,reservas_internacionales.xlsx
+2026-02-28,2026,2,Febrero,BRUTAS 1/,16180.746,millones_usd,reservas_internacionales.xlsx
+2026-03-31,2026,3,Marzo,BRUTAS 1/,16143.1336,millones_usd,reservas_internacionales.xlsx
+2026-04-30,2026,4,Abril,BRUTAS 1/,15888.9064,millones_usd,reservas_internacionales.xlsx
+2026-01-31,2026,1,Enero,NETAS 2/,13951.8916,millones_usd,reservas_internacionales.xlsx
+2026-02-28,2026,2,Febrero,NETAS 2/,16176.4806,millones_usd,reservas_internacionales.xlsx
+2026-03-31,2026,3,Marzo,NETAS 2/,16138.929,millones_usd,reservas_internacionales.xlsx
+2026-04-30,2026,4,Abril,NETAS 2/,15881.5016,millones_usd,reservas_internacionales.xlsx

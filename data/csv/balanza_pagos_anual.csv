@@ -1,0 +1,913 @@
+﻿anio,concepto,valor,unidad,fuente_archivo
+2010,1. Cuenta Corriente,-4023.500000000001,millones_usd,bpagos_6.xls
+2011,1. Cuenta Corriente,-4334.5999999999985,millones_usd,bpagos_6.xls
+2012,1. Cuenta Corriente,-3880.899999999998,millones_usd,bpagos_6.xls
+2013,1. Cuenta Corriente,-2567.9000000000024,millones_usd,bpagos_6.xls
+2014,1. Cuenta Corriente,-2170.199999999998,millones_usd,bpagos_6.xls
+2015,1. Cuenta Corriente,-1280.3000000000002,millones_usd,bpagos_6.xls
+2016,1. Cuenta Corriente,-814.7000000000006,millones_usd,bpagos_6.xls
+2017,1. Cuenta Corriente,-133.09999999999582,millones_usd,bpagos_6.xls
+2018,1. Cuenta Corriente,-1321.4999999999982,millones_usd,bpagos_6.xls
+2019,1. Cuenta Corriente,-1187.9000000000042,millones_usd,bpagos_6.xls
+2020,1. Cuenta Corriente,-1337.3000000000018,millones_usd,bpagos_6.xls
+2021,1. Cuenta Corriente,-2685.2999999999993,millones_usd,bpagos_6.xls
+2022,1. Cuenta Corriente,-6548.899999999998,millones_usd,bpagos_6.xls
+2023,1. Cuenta Corriente,-4418.400000000005,millones_usd,bpagos_6.xls
+2024,1. Cuenta Corriente,-3705.499999999998,millones_usd,bpagos_6.xls
+2025,1. Cuenta Corriente,-1487.9000000000033,millones_usd,bpagos_6.xls
+2010,1.1 Balanza de Bienes y Servicios,-5526.9000000000015,millones_usd,bpagos_6.xls
+2011,1.1 Balanza de Bienes y Servicios,-5934.299999999998,millones_usd,bpagos_6.xls
+2012,1.1 Balanza de Bienes y Servicios,-5395.799999999998,millones_usd,bpagos_6.xls
+2013,1.1 Balanza de Bienes y Servicios,-3743.2000000000016,millones_usd,bpagos_6.xls
+2014,1.1 Balanza de Bienes y Servicios,-3290.299999999998,millones_usd,bpagos_6.xls
+2015,1.1 Balanza de Bienes y Servicios,-3096.9000000000005,millones_usd,bpagos_6.xls
+2016,1.1 Balanza de Bienes y Servicios,-2619.3999999999996,millones_usd,bpagos_6.xls
+2017,1.1 Balanza de Bienes y Servicios,-2049.899999999996,millones_usd,bpagos_6.xls
+2018,1.1 Balanza de Bienes y Servicios,-4062.699999999998,millones_usd,bpagos_6.xls
+2019,1.1 Balanza de Bienes y Servicios,-4016.8000000000047,millones_usd,bpagos_6.xls
+2020,1.1 Balanza de Bienes y Servicios,-5412.500000000001,millones_usd,bpagos_6.xls
+2021,1.1 Balanza de Bienes y Servicios,-8089.1,millones_usd,bpagos_6.xls
+2022,1.1 Balanza de Bienes y Servicios,-11668.899999999998,millones_usd,bpagos_6.xls
+2023,1.1 Balanza de Bienes y Servicios,-8659.700000000004,millones_usd,bpagos_6.xls
+2024,1.1 Balanza de Bienes y Servicios,-7519.599999999997,millones_usd,bpagos_6.xls
+2025,1.1 Balanza de Bienes y Servicios,-5047.600000000002,millones_usd,bpagos_6.xls
+2010,1.1.1 Balanza de Bienes,-8393.900000000001,millones_usd,bpagos_6.xls
+2011,1.1.1 Balanza de Bienes,-8939.699999999999,millones_usd,bpagos_6.xls
+2012,1.1.1 Balanza de Bienes,-8716.3,millones_usd,bpagos_6.xls
+2013,1.1.1 Balanza de Bienes,-7376.800000000001,millones_usd,bpagos_6.xls
+2014,1.1.1 Balanza de Bienes,-7374.199999999999,millones_usd,bpagos_6.xls
+2015,1.1.1 Balanza de Bienes,-7464.700000000001,millones_usd,bpagos_6.xls
+2016,1.1.1 Balanza de Bienes,-7559.0,millones_usd,bpagos_6.xls
+2017,1.1.1 Balanza de Bienes,-7599.699999999997,millones_usd,bpagos_6.xls
+2018,1.1.1 Balanza de Bienes,-9559.199999999999,millones_usd,bpagos_6.xls
+2019,1.1.1 Balanza de Bienes,-9075.100000000002,millones_usd,bpagos_6.xls
+2020,1.1.1 Balanza de Bienes,-6803.1,millones_usd,bpagos_6.xls
+2021,1.1.1 Balanza de Bienes,-11795.599999999999,millones_usd,bpagos_6.xls
+2022,1.1.1 Balanza de Bienes,-17162.399999999998,millones_usd,bpagos_6.xls
+2023,1.1.1 Balanza de Bienes,-15863.300000000003,millones_usd,bpagos_6.xls
+2024,1.1.1 Balanza de Bienes,-15874.199999999999,millones_usd,bpagos_6.xls
+2025,1.1.1 Balanza de Bienes,-13835.300000000001,millones_usd,bpagos_6.xls
+2010,Exportaciones,6815.999999999999,millones_usd,bpagos_6.xls
+2011,Exportaciones,8361.9,millones_usd,bpagos_6.xls
+2012,Exportaciones,8935.5,millones_usd,bpagos_6.xls
+2013,Exportaciones,9424.4,millones_usd,bpagos_6.xls
+2014,Exportaciones,9898.9,millones_usd,bpagos_6.xls
+2015,Exportaciones,9441.8,millones_usd,bpagos_6.xls
+2016,Exportaciones,9839.599999999999,millones_usd,bpagos_6.xls
+2017,Exportaciones,10134.600000000002,millones_usd,bpagos_6.xls
+2018,Exportaciones,10638.1,millones_usd,bpagos_6.xls
+2019,Exportaciones,11192.7,millones_usd,bpagos_6.xls
+2020,Exportaciones,10301.9,millones_usd,bpagos_6.xls
+2021,Exportaciones,12486.4,millones_usd,bpagos_6.xls
+2022,Exportaciones,13750.2,millones_usd,bpagos_6.xls
+2023,Exportaciones,12949.8,millones_usd,bpagos_6.xls
+2024,Exportaciones,13928.800000000001,millones_usd,bpagos_6.xls
+2025,Exportaciones,15957.6,millones_usd,bpagos_6.xls
+2010,Nacionales,2621.5999999999995,millones_usd,bpagos_6.xls
+2011,Nacionales,3594.8,millones_usd,bpagos_6.xls
+2012,Nacionales,4016.6000000000004,millones_usd,bpagos_6.xls
+2013,Nacionales,4447.999999999999,millones_usd,bpagos_6.xls
+2014,Nacionales,4637.2,millones_usd,bpagos_6.xls
+2015,Nacionales,4018.199999999999,millones_usd,bpagos_6.xls
+2016,Nacionales,4335.700000000001,millones_usd,bpagos_6.xls
+2017,Nacionales,4425.000000000002,millones_usd,bpagos_6.xls
+2018,Nacionales,4602.900000000001,millones_usd,bpagos_6.xls
+2019,Nacionales,4943.200000000001,millones_usd,bpagos_6.xls
+2020,Nacionales,4407.400000000001,millones_usd,bpagos_6.xls
+2021,Nacionales,5306.8,millones_usd,bpagos_6.xls
+2022,Nacionales,5922.9000000000015,millones_usd,bpagos_6.xls
+2023,Nacionales,4990.399999999999,millones_usd,bpagos_6.xls
+2024,Nacionales,5428.5,millones_usd,bpagos_6.xls
+2025,Nacionales,7405.4,millones_usd,bpagos_6.xls
+2010,Zonas Francas,4194.4,millones_usd,bpagos_6.xls
+2011,Zonas Francas,4767.099999999999,millones_usd,bpagos_6.xls
+2012,Zonas Francas,4918.9,millones_usd,bpagos_6.xls
+2013,Zonas Francas,4976.400000000001,millones_usd,bpagos_6.xls
+2014,Zonas Francas,5261.7,millones_usd,bpagos_6.xls
+2015,Zonas Francas,5423.6,millones_usd,bpagos_6.xls
+2016,Zonas Francas,5503.9,millones_usd,bpagos_6.xls
+2017,Zonas Francas,5709.6,millones_usd,bpagos_6.xls
+2018,Zonas Francas,6035.2,millones_usd,bpagos_6.xls
+2019,Zonas Francas,6249.5,millones_usd,bpagos_6.xls
+2020,Zonas Francas,5894.499999999999,millones_usd,bpagos_6.xls
+2021,Zonas Francas,7179.6,millones_usd,bpagos_6.xls
+2022,Zonas Francas,7827.299999999999,millones_usd,bpagos_6.xls
+2023,Zonas Francas,7959.400000000001,millones_usd,bpagos_6.xls
+2024,Zonas Francas,8500.300000000001,millones_usd,bpagos_6.xls
+2025,Zonas Francas,8552.2,millones_usd,bpagos_6.xls
+2010,Importaciones,15209.900000000001,millones_usd,bpagos_6.xls
+2011,Importaciones,17301.6,millones_usd,bpagos_6.xls
+2012,Importaciones,17651.8,millones_usd,bpagos_6.xls
+2013,Importaciones,16801.2,millones_usd,bpagos_6.xls
+2014,Importaciones,17273.1,millones_usd,bpagos_6.xls
+2015,Importaciones,16906.5,millones_usd,bpagos_6.xls
+2016,Importaciones,17398.600000000002,millones_usd,bpagos_6.xls
+2017,Importaciones,17734.3,millones_usd,bpagos_6.xls
+2018,Importaciones,20197.3,millones_usd,bpagos_6.xls
+2019,Importaciones,20267.800000000003,millones_usd,bpagos_6.xls
+2020,Importaciones,17105.0,millones_usd,bpagos_6.xls
+2021,Importaciones,24282.0,millones_usd,bpagos_6.xls
+2022,Importaciones,30912.6,millones_usd,bpagos_6.xls
+2023,Importaciones,28813.100000000002,millones_usd,bpagos_6.xls
+2024,Importaciones,29803.0,millones_usd,bpagos_6.xls
+2025,Importaciones,29792.9,millones_usd,bpagos_6.xls
+2010,Nacionales,12600.900000000001,millones_usd,bpagos_6.xls
+2011,Nacionales,14362.899999999998,millones_usd,bpagos_6.xls
+2012,Nacionales,14753.099999999999,millones_usd,bpagos_6.xls
+2013,Nacionales,13690.4,millones_usd,bpagos_6.xls
+2014,Nacionales,13849.3,millones_usd,bpagos_6.xls
+2015,Nacionales,13408.5,millones_usd,bpagos_6.xls
+2016,Nacionales,13864.500000000002,millones_usd,bpagos_6.xls
+2017,Nacionales,13987.599999999999,millones_usd,bpagos_6.xls
+2018,Nacionales,16359.7,millones_usd,bpagos_6.xls
+2019,Nacionales,16316.200000000003,millones_usd,bpagos_6.xls
+2020,Nacionales,13484.8,millones_usd,bpagos_6.xls
+2021,Nacionales,19669.5,millones_usd,bpagos_6.xls
+2022,Nacionales,25636.899999999998,millones_usd,bpagos_6.xls
+2023,Nacionales,23939.5,millones_usd,bpagos_6.xls
+2024,Nacionales,24950.2,millones_usd,bpagos_6.xls
+2025,Nacionales,25039.4,millones_usd,bpagos_6.xls
+2010,Zonas Francas,2609.0,millones_usd,bpagos_6.xls
+2011,Zonas Francas,2938.7000000000007,millones_usd,bpagos_6.xls
+2012,Zonas Francas,2898.7000000000003,millones_usd,bpagos_6.xls
+2013,Zonas Francas,3110.8000000000006,millones_usd,bpagos_6.xls
+2014,Zonas Francas,3423.8,millones_usd,bpagos_6.xls
+2015,Zonas Francas,3497.9999999999995,millones_usd,bpagos_6.xls
+2016,Zonas Francas,3534.1,millones_usd,bpagos_6.xls
+2017,Zonas Francas,3746.7000000000003,millones_usd,bpagos_6.xls
+2018,Zonas Francas,3837.5999999999995,millones_usd,bpagos_6.xls
+2019,Zonas Francas,3951.600000000001,millones_usd,bpagos_6.xls
+2020,Zonas Francas,3620.2000000000003,millones_usd,bpagos_6.xls
+2021,Zonas Francas,4612.5,millones_usd,bpagos_6.xls
+2022,Zonas Francas,5275.700000000001,millones_usd,bpagos_6.xls
+2023,Zonas Francas,4873.6,millones_usd,bpagos_6.xls
+2024,Zonas Francas,4852.8,millones_usd,bpagos_6.xls
+2025,Zonas Francas,4753.499999999999,millones_usd,bpagos_6.xls
+2010,1.1.2 Balanza de Servicios,2867.0,millones_usd,bpagos_6.xls
+2011,1.1.2 Balanza de Servicios,3005.4000000000005,millones_usd,bpagos_6.xls
+2012,1.1.2 Balanza de Servicios,3320.500000000001,millones_usd,bpagos_6.xls
+2013,1.1.2 Balanza de Servicios,3633.5999999999995,millones_usd,bpagos_6.xls
+2014,1.1.2 Balanza de Servicios,4083.900000000001,millones_usd,bpagos_6.xls
+2015,1.1.2 Balanza de Servicios,4367.8,millones_usd,bpagos_6.xls
+2016,1.1.2 Balanza de Servicios,4939.6,millones_usd,bpagos_6.xls
+2017,1.1.2 Balanza de Servicios,5549.800000000001,millones_usd,bpagos_6.xls
+2018,1.1.2 Balanza de Servicios,5496.500000000001,millones_usd,bpagos_6.xls
+2019,1.1.2 Balanza de Servicios,5058.299999999997,millones_usd,bpagos_6.xls
+2020,1.1.2 Balanza de Servicios,1390.5999999999995,millones_usd,bpagos_6.xls
+2021,1.1.2 Balanza de Servicios,3706.5,millones_usd,bpagos_6.xls
+2022,1.1.2 Balanza de Servicios,5493.5,millones_usd,bpagos_6.xls
+2023,1.1.2 Balanza de Servicios,7203.5999999999985,millones_usd,bpagos_6.xls
+2024,1.1.2 Balanza de Servicios,8354.600000000002,millones_usd,bpagos_6.xls
+2025,1.1.2 Balanza de Servicios,8787.699999999999,millones_usd,bpagos_6.xls
+2010,Crédito,5454.5,millones_usd,bpagos_6.xls
+2011,Crédito,5730.700000000001,millones_usd,bpagos_6.xls
+2012,Crédito,6030.300000000001,millones_usd,bpagos_6.xls
+2013,Crédito,6411.9,millones_usd,bpagos_6.xls
+2014,Crédito,7053.700000000001,millones_usd,bpagos_6.xls
+2015,Crédito,7541.8,millones_usd,bpagos_6.xls
+2016,Crédito,8309.2,millones_usd,bpagos_6.xls
+2017,Crédito,8856.800000000001,millones_usd,bpagos_6.xls
+2018,Crédito,9413.6,millones_usd,bpagos_6.xls
+2019,Crédito,9316.499999999998,millones_usd,bpagos_6.xls
+2020,Crédito,4587.5,millones_usd,bpagos_6.xls
+2021,Crédito,8114.3,millones_usd,bpagos_6.xls
+2022,Crédito,11418.6,millones_usd,bpagos_6.xls
+2023,Crédito,12840.099999999999,millones_usd,bpagos_6.xls
+2024,Crédito,14691.100000000002,millones_usd,bpagos_6.xls
+2025,Crédito,14434.8,millones_usd,bpagos_6.xls
+2010,Viajes,4161.7,millones_usd,bpagos_6.xls
+2011,Viajes,4385.7,millones_usd,bpagos_6.xls
+2012,Viajes,4680.1,millones_usd,bpagos_6.xls
+2013,Viajes,5054.700000000001,millones_usd,bpagos_6.xls
+2014,Viajes,5629.799999999999,millones_usd,bpagos_6.xls
+2015,Viajes,6115.900000000001,millones_usd,bpagos_6.xls
+2016,Viajes,6719.599999999999,millones_usd,bpagos_6.xls
+2017,Viajes,7184.1,millones_usd,bpagos_6.xls
+2018,Viajes,7547.7,millones_usd,bpagos_6.xls
+2019,Viajes,7471.5,millones_usd,bpagos_6.xls
+2020,Viajes,2674.8,millones_usd,bpagos_6.xls
+2021,Viajes,5697.1,millones_usd,bpagos_6.xls
+2022,Viajes,8395.300000000001,millones_usd,bpagos_6.xls
+2023,Viajes,9751.0,millones_usd,bpagos_6.xls
+2024,Viajes,10972.4,millones_usd,bpagos_6.xls
+2025,Viajes,11321.400000000001,millones_usd,bpagos_6.xls
+2010,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,54.9,millones_usd,bpagos_6.xls
+2011,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,49.00000000000001,millones_usd,bpagos_6.xls
+2012,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,55.6,millones_usd,bpagos_6.xls
+2013,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,64.0,millones_usd,bpagos_6.xls
+2014,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,68.60000000000001,millones_usd,bpagos_6.xls
+2015,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,79.0,millones_usd,bpagos_6.xls
+2016,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,74.7,millones_usd,bpagos_6.xls
+2017,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,58.0,millones_usd,bpagos_6.xls
+2018,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,54.5,millones_usd,bpagos_6.xls
+2019,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,55.400000000000006,millones_usd,bpagos_6.xls
+2020,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,31.7,millones_usd,bpagos_6.xls
+2021,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,43.0,millones_usd,bpagos_6.xls
+2022,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,50.6,millones_usd,bpagos_6.xls
+2023,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,57.0,millones_usd,bpagos_6.xls
+2024,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,55.7,millones_usd,bpagos_6.xls
+2025,Servicios de Manufactura sobre insumos Físicos Pertenecientes a terceros,69.0,millones_usd,bpagos_6.xls
+2010,Otros,1237.9,millones_usd,bpagos_6.xls
+2011,Otros,1296.000000000001,millones_usd,bpagos_6.xls
+2012,Otros,1294.6,millones_usd,bpagos_6.xls
+2013,Otros,1293.199999999999,millones_usd,bpagos_6.xls
+2014,Otros,1355.3000000000015,millones_usd,bpagos_6.xls
+2015,Otros,1346.8999999999996,millones_usd,bpagos_6.xls
+2016,Otros,1514.9000000000008,millones_usd,bpagos_6.xls
+2017,Otros,1614.7000000000007,millones_usd,bpagos_6.xls
+2018,Otros,1811.4000000000005,millones_usd,bpagos_6.xls
+2019,Otros,1789.599999999998,millones_usd,bpagos_6.xls
+2020,Otros,1880.9999999999995,millones_usd,bpagos_6.xls
+2021,Otros,2374.2,millones_usd,bpagos_6.xls
+2022,Otros,2972.6999999999994,millones_usd,bpagos_6.xls
+2023,Otros,3032.0999999999985,millones_usd,bpagos_6.xls
+2024,Otros,3663.000000000001,millones_usd,bpagos_6.xls
+2025,Otros,3044.399999999998,millones_usd,bpagos_6.xls
+2010,Débito,2587.5,millones_usd,bpagos_6.xls
+2011,Débito,2725.3,millones_usd,bpagos_6.xls
+2012,Débito,2709.8,millones_usd,bpagos_6.xls
+2013,Débito,2778.3,millones_usd,bpagos_6.xls
+2014,Débito,2969.7999999999997,millones_usd,bpagos_6.xls
+2015,Débito,3174.0,millones_usd,bpagos_6.xls
+2016,Débito,3369.6,millones_usd,bpagos_6.xls
+2017,Débito,3307.0,millones_usd,bpagos_6.xls
+2018,Débito,3917.0999999999995,millones_usd,bpagos_6.xls
+2019,Débito,4258.200000000001,millones_usd,bpagos_6.xls
+2020,Débito,3196.8999999999996,millones_usd,bpagos_6.xls
+2021,Débito,4407.799999999999,millones_usd,bpagos_6.xls
+2022,Débito,5925.1,millones_usd,bpagos_6.xls
+2023,Débito,5636.5,millones_usd,bpagos_6.xls
+2024,Débito,6336.5,millones_usd,bpagos_6.xls
+2025,Débito,5647.1,millones_usd,bpagos_6.xls
+2010,Fletes,1035.5,millones_usd,bpagos_6.xls
+2011,Fletes,1009.0,millones_usd,bpagos_6.xls
+2012,Fletes,1064.8,millones_usd,bpagos_6.xls
+2013,Fletes,1038.3,millones_usd,bpagos_6.xls
+2014,Fletes,1079.2000000000003,millones_usd,bpagos_6.xls
+2015,Fletes,1155.9,millones_usd,bpagos_6.xls
+2016,Fletes,1190.7000000000003,millones_usd,bpagos_6.xls
+2017,Fletes,1103.1000000000001,millones_usd,bpagos_6.xls
+2018,Fletes,1132.1,millones_usd,bpagos_6.xls
+2019,Fletes,1209.0,millones_usd,bpagos_6.xls
+2020,Fletes,1140.5,millones_usd,bpagos_6.xls
+2021,Fletes,1745.4999999999998,millones_usd,bpagos_6.xls
+2022,Fletes,2326.9999999999995,millones_usd,bpagos_6.xls
+2023,Fletes,1890.6,millones_usd,bpagos_6.xls
+2024,Fletes,2077.2000000000003,millones_usd,bpagos_6.xls
+2025,Fletes,2110.8999999999996,millones_usd,bpagos_6.xls
+2010,Otros,1552.0,millones_usd,bpagos_6.xls
+2011,Otros,1716.3000000000002,millones_usd,bpagos_6.xls
+2012,Otros,1645.0000000000002,millones_usd,bpagos_6.xls
+2013,Otros,1740.0000000000002,millones_usd,bpagos_6.xls
+2014,Otros,1890.5999999999995,millones_usd,bpagos_6.xls
+2015,Otros,2018.1,millones_usd,bpagos_6.xls
+2016,Otros,2178.9,millones_usd,bpagos_6.xls
+2017,Otros,2203.8999999999996,millones_usd,bpagos_6.xls
+2018,Otros,2784.9999999999995,millones_usd,bpagos_6.xls
+2019,Otros,3049.2000000000007,millones_usd,bpagos_6.xls
+2020,Otros,2056.3999999999996,millones_usd,bpagos_6.xls
+2021,Otros,2662.3,millones_usd,bpagos_6.xls
+2022,Otros,3598.100000000001,millones_usd,bpagos_6.xls
+2023,Otros,3745.9,millones_usd,bpagos_6.xls
+2024,Otros,4259.299999999999,millones_usd,bpagos_6.xls
+2025,Otros,3536.2000000000007,millones_usd,bpagos_6.xls
+2010,1.2 Ingreso Primario,-1927.1999999999998,millones_usd,bpagos_6.xls
+2011,1.2 Ingreso Primario,-2254.5,millones_usd,bpagos_6.xls
+2012,1.2 Ingreso Primario,-2399.6,millones_usd,bpagos_6.xls
+2013,1.2 Ingreso Primario,-2972.2999999999997,millones_usd,bpagos_6.xls
+2014,1.2 Ingreso Primario,-3247.4,millones_usd,bpagos_6.xls
+2015,1.2 Ingreso Primario,-2936.3999999999996,millones_usd,bpagos_6.xls
+2016,1.2 Ingreso Primario,-3253.1000000000004,millones_usd,bpagos_6.xls
+2017,1.2 Ingreso Primario,-3793.8,millones_usd,bpagos_6.xls
+2018,1.2 Ingreso Primario,-3691.7,millones_usd,bpagos_6.xls
+2019,1.2 Ingreso Primario,-4068.9000000000005,millones_usd,bpagos_6.xls
+2020,1.2 Ingreso Primario,-3825.0,millones_usd,bpagos_6.xls
+2021,1.2 Ingreso Primario,-4710.5,millones_usd,bpagos_6.xls
+2022,1.2 Ingreso Primario,-4311.0,millones_usd,bpagos_6.xls
+2023,1.2 Ingreso Primario,-5437.600000000001,millones_usd,bpagos_6.xls
+2024,1.2 Ingreso Primario,-6426.0,millones_usd,bpagos_6.xls
+2025,1.2 Ingreso Primario,-7741.4000000000015,millones_usd,bpagos_6.xls
+2010,Remuneración de Empleados,62.0,millones_usd,bpagos_6.xls
+2011,Remuneración de Empleados,97.19999999999999,millones_usd,bpagos_6.xls
+2012,Remuneración de Empleados,66.1,millones_usd,bpagos_6.xls
+2013,Remuneración de Empleados,75.6,millones_usd,bpagos_6.xls
+2014,Remuneración de Empleados,84.5,millones_usd,bpagos_6.xls
+2015,Remuneración de Empleados,75.29999999999998,millones_usd,bpagos_6.xls
+2016,Remuneración de Empleados,79.19999999999999,millones_usd,bpagos_6.xls
+2017,Remuneración de Empleados,76.4,millones_usd,bpagos_6.xls
+2018,Remuneración de Empleados,128.6,millones_usd,bpagos_6.xls
+2019,Remuneración de Empleados,76.19999999999999,millones_usd,bpagos_6.xls
+2020,Remuneración de Empleados,-121.0,millones_usd,bpagos_6.xls
+2021,Remuneración de Empleados,107.49999999999997,millones_usd,bpagos_6.xls
+2022,Remuneración de Empleados,175.8,millones_usd,bpagos_6.xls
+2023,Remuneración de Empleados,251.4,millones_usd,bpagos_6.xls
+2024,Remuneración de Empleados,276.6,millones_usd,bpagos_6.xls
+2025,Remuneración de Empleados,318.8999999999999,millones_usd,bpagos_6.xls
+2010,Crédito,204.1,millones_usd,bpagos_6.xls
+2011,Crédito,242.5,millones_usd,bpagos_6.xls
+2012,Crédito,216.7,millones_usd,bpagos_6.xls
+2013,Crédito,223.2,millones_usd,bpagos_6.xls
+2014,Crédito,239.2,millones_usd,bpagos_6.xls
+2015,Crédito,235.6,millones_usd,bpagos_6.xls
+2016,Crédito,247.6,millones_usd,bpagos_6.xls
+2017,Crédito,266.0,millones_usd,bpagos_6.xls
+2018,Crédito,323.5,millones_usd,bpagos_6.xls
+2019,Crédito,333.5,millones_usd,bpagos_6.xls
+2020,Crédito,112.4,millones_usd,bpagos_6.xls
+2021,Crédito,340.29999999999995,millones_usd,bpagos_6.xls
+2022,Crédito,421.6,millones_usd,bpagos_6.xls
+2023,Crédito,462.0,millones_usd,bpagos_6.xls
+2024,Crédito,491.0,millones_usd,bpagos_6.xls
+2025,Crédito,545.0999999999999,millones_usd,bpagos_6.xls
+2010,Débito,142.1,millones_usd,bpagos_6.xls
+2011,Débito,145.3,millones_usd,bpagos_6.xls
+2012,Débito,150.6,millones_usd,bpagos_6.xls
+2013,Débito,147.6,millones_usd,bpagos_6.xls
+2014,Débito,154.7,millones_usd,bpagos_6.xls
+2015,Débito,160.3,millones_usd,bpagos_6.xls
+2016,Débito,168.4,millones_usd,bpagos_6.xls
+2017,Débito,189.6,millones_usd,bpagos_6.xls
+2018,Débito,194.9,millones_usd,bpagos_6.xls
+2019,Débito,257.3,millones_usd,bpagos_6.xls
+2020,Débito,233.4,millones_usd,bpagos_6.xls
+2021,Débito,232.79999999999998,millones_usd,bpagos_6.xls
+2022,Débito,245.8,millones_usd,bpagos_6.xls
+2023,Débito,210.6,millones_usd,bpagos_6.xls
+2024,Débito,214.39999999999998,millones_usd,bpagos_6.xls
+2025,Débito,226.2,millones_usd,bpagos_6.xls
+2010,Renta de la Inversión,-1989.1999999999998,millones_usd,bpagos_6.xls
+2011,Renta de la Inversión,-2351.7,millones_usd,bpagos_6.xls
+2012,Renta de la Inversión,-2465.7,millones_usd,bpagos_6.xls
+2013,Renta de la Inversión,-3047.8999999999996,millones_usd,bpagos_6.xls
+2014,Renta de la Inversión,-3331.9,millones_usd,bpagos_6.xls
+2015,Renta de la Inversión,-3011.7,millones_usd,bpagos_6.xls
+2016,Renta de la Inversión,-3332.3,millones_usd,bpagos_6.xls
+2017,Renta de la Inversión,-3870.2000000000003,millones_usd,bpagos_6.xls
+2018,Renta de la Inversión,-3820.2999999999997,millones_usd,bpagos_6.xls
+2019,Renta de la Inversión,-4145.1,millones_usd,bpagos_6.xls
+2020,Renta de la Inversión,-3704.0,millones_usd,bpagos_6.xls
+2021,Renta de la Inversión,-4817.999999999999,millones_usd,bpagos_6.xls
+2022,Renta de la Inversión,-4486.8,millones_usd,bpagos_6.xls
+2023,Renta de la Inversión,-5689.000000000001,millones_usd,bpagos_6.xls
+2024,Renta de la Inversión,-6702.6,millones_usd,bpagos_6.xls
+2025,Renta de la Inversión,-8060.300000000001,millones_usd,bpagos_6.xls
+2010,Inversión Extranjera Directa,-1659.3999999999999,millones_usd,bpagos_6.xls
+2011,Inversión Extranjera Directa,-1909.0,millones_usd,bpagos_6.xls
+2012,Inversión Extranjera Directa,-1925.2999999999997,millones_usd,bpagos_6.xls
+2013,Inversión Extranjera Directa,-2511.2,millones_usd,bpagos_6.xls
+2014,Inversión Extranjera Directa,-2745.2999999999997,millones_usd,bpagos_6.xls
+2015,Inversión Extranjera Directa,-2336.3,millones_usd,bpagos_6.xls
+2016,Inversión Extranjera Directa,-2439.5,millones_usd,bpagos_6.xls
+2017,Inversión Extranjera Directa,-2724.5,millones_usd,bpagos_6.xls
+2018,Inversión Extranjera Directa,-2761.0,millones_usd,bpagos_6.xls
+2019,Inversión Extranjera Directa,-2860.7,millones_usd,bpagos_6.xls
+2020,Inversión Extranjera Directa,-2442.0,millones_usd,bpagos_6.xls
+2021,Inversión Extranjera Directa,-3019.5,millones_usd,bpagos_6.xls
+2022,Inversión Extranjera Directa,-3014.4,millones_usd,bpagos_6.xls
+2023,Inversión Extranjera Directa,-3983.8,millones_usd,bpagos_6.xls
+2024,Inversión Extranjera Directa,-4198.1,millones_usd,bpagos_6.xls
+2025,Inversión Extranjera Directa,-5410.3,millones_usd,bpagos_6.xls
+2010,Crédito,0.0,millones_usd,bpagos_6.xls
+2011,Crédito,0.0,millones_usd,bpagos_6.xls
+2012,Crédito,0.0,millones_usd,bpagos_6.xls
+2013,Crédito,0.0,millones_usd,bpagos_6.xls
+2014,Crédito,0.0,millones_usd,bpagos_6.xls
+2015,Crédito,0.0,millones_usd,bpagos_6.xls
+2016,Crédito,0.0,millones_usd,bpagos_6.xls
+2017,Crédito,0.0,millones_usd,bpagos_6.xls
+2018,Crédito,0.0,millones_usd,bpagos_6.xls
+2019,Crédito,0.0,millones_usd,bpagos_6.xls
+2020,Crédito,0.0,millones_usd,bpagos_6.xls
+2021,Crédito,0.0,millones_usd,bpagos_6.xls
+2022,Crédito,7.9,millones_usd,bpagos_6.xls
+2023,Crédito,27.200000000000003,millones_usd,bpagos_6.xls
+2024,Crédito,40.9,millones_usd,bpagos_6.xls
+2025,Crédito,30.900000000000002,millones_usd,bpagos_6.xls
+2010,Débito,1659.3999999999999,millones_usd,bpagos_6.xls
+2011,Débito,1909.0,millones_usd,bpagos_6.xls
+2012,Débito,1925.2999999999997,millones_usd,bpagos_6.xls
+2013,Débito,2511.2,millones_usd,bpagos_6.xls
+2014,Débito,2745.2999999999997,millones_usd,bpagos_6.xls
+2015,Débito,2336.3,millones_usd,bpagos_6.xls
+2016,Débito,2439.5,millones_usd,bpagos_6.xls
+2017,Débito,2724.5,millones_usd,bpagos_6.xls
+2018,Débito,2761.0,millones_usd,bpagos_6.xls
+2019,Débito,2860.7,millones_usd,bpagos_6.xls
+2020,Débito,2442.0,millones_usd,bpagos_6.xls
+2021,Débito,3019.5,millones_usd,bpagos_6.xls
+2022,Débito,3022.3,millones_usd,bpagos_6.xls
+2023,Débito,4011.0,millones_usd,bpagos_6.xls
+2024,Débito,4239.0,millones_usd,bpagos_6.xls
+2025,Débito,5441.2,millones_usd,bpagos_6.xls
+2010,Inversión de Cartera,-300.4,millones_usd,bpagos_6.xls
+2011,Inversión de Cartera,-384.09999999999997,millones_usd,bpagos_6.xls
+2012,Inversión de Cartera,-477.5,millones_usd,bpagos_6.xls
+2013,Inversión de Cartera,-458.00000000000006,millones_usd,bpagos_6.xls
+2014,Inversión de Cartera,-495.3,millones_usd,bpagos_6.xls
+2015,Inversión de Cartera,-637.2,millones_usd,bpagos_6.xls
+2016,Inversión de Cartera,-781.6,millones_usd,bpagos_6.xls
+2017,Inversión de Cartera,-975.9,millones_usd,bpagos_6.xls
+2018,Inversión de Cartera,-1053.7999999999997,millones_usd,bpagos_6.xls
+2019,Inversión de Cartera,-1288.7,millones_usd,bpagos_6.xls
+2020,Inversión de Cartera,-1406.6,millones_usd,bpagos_6.xls
+2021,Inversión de Cartera,-1831.6999999999998,millones_usd,bpagos_6.xls
+2022,Inversión de Cartera,-1716.8000000000002,millones_usd,bpagos_6.xls
+2023,Inversión de Cartera,-2006.8,millones_usd,bpagos_6.xls
+2024,Inversión de Cartera,-2277.5,millones_usd,bpagos_6.xls
+2025,Inversión de Cartera,-2801.9000000000005,millones_usd,bpagos_6.xls
+2010,Crédito,9.6,millones_usd,bpagos_6.xls
+2011,Crédito,10.299999999999999,millones_usd,bpagos_6.xls
+2012,Crédito,11.100000000000001,millones_usd,bpagos_6.xls
+2013,Crédito,12.0,millones_usd,bpagos_6.xls
+2014,Crédito,12.900000000000002,millones_usd,bpagos_6.xls
+2015,Crédito,13.9,millones_usd,bpagos_6.xls
+2016,Crédito,15.000000000000002,millones_usd,bpagos_6.xls
+2017,Crédito,7.9,millones_usd,bpagos_6.xls
+2018,Crédito,0.0,millones_usd,bpagos_6.xls
+2019,Crédito,0.0,millones_usd,bpagos_6.xls
+2020,Crédito,0.0,millones_usd,bpagos_6.xls
+2021,Crédito,0.0,millones_usd,bpagos_6.xls
+2022,Crédito,0.0,millones_usd,bpagos_6.xls
+2023,Crédito,0.0,millones_usd,bpagos_6.xls
+2024,Crédito,0.0,millones_usd,bpagos_6.xls
+2025,Crédito,0.0,millones_usd,bpagos_6.xls
+2010,Débito,310.0,millones_usd,bpagos_6.xls
+2011,Débito,394.4,millones_usd,bpagos_6.xls
+2012,Débito,488.6,millones_usd,bpagos_6.xls
+2013,Débito,470.00000000000006,millones_usd,bpagos_6.xls
+2014,Débito,508.2,millones_usd,bpagos_6.xls
+2015,Débito,651.1,millones_usd,bpagos_6.xls
+2016,Débito,796.5999999999999,millones_usd,bpagos_6.xls
+2017,Débito,983.8,millones_usd,bpagos_6.xls
+2018,Débito,1053.7999999999997,millones_usd,bpagos_6.xls
+2019,Débito,1288.7,millones_usd,bpagos_6.xls
+2020,Débito,1406.6,millones_usd,bpagos_6.xls
+2021,Débito,1831.6999999999998,millones_usd,bpagos_6.xls
+2022,Débito,1716.8000000000002,millones_usd,bpagos_6.xls
+2023,Débito,2006.8,millones_usd,bpagos_6.xls
+2024,Débito,2277.5,millones_usd,bpagos_6.xls
+2025,Débito,2801.9000000000005,millones_usd,bpagos_6.xls
+2010,Otra Inversión,-29.399999999999977,millones_usd,bpagos_6.xls
+2011,Otra Inversión,-58.599999999999966,millones_usd,bpagos_6.xls
+2012,Otra Inversión,-62.900000000000034,millones_usd,bpagos_6.xls
+2013,Otra Inversión,-78.69999999999993,millones_usd,bpagos_6.xls
+2014,Otra Inversión,-91.30000000000001,millones_usd,bpagos_6.xls
+2015,Otra Inversión,-38.19999999999999,millones_usd,bpagos_6.xls
+2016,Otra Inversión,-111.20000000000002,millones_usd,bpagos_6.xls
+2017,Otra Inversión,-169.8,millones_usd,bpagos_6.xls
+2018,Otra Inversión,-126.60000000000002,millones_usd,bpagos_6.xls
+2019,Otra Inversión,-161.10000000000002,millones_usd,bpagos_6.xls
+2020,Otra Inversión,16.50000000000002,millones_usd,bpagos_6.xls
+2021,Otra Inversión,-7.900000000000006,millones_usd,bpagos_6.xls
+2022,Otra Inversión,35.80000000000001,millones_usd,bpagos_6.xls
+2023,Otra Inversión,-377.8,millones_usd,bpagos_6.xls
+2024,Otra Inversión,-868.1,millones_usd,bpagos_6.xls
+2025,Otra Inversión,-467.6,millones_usd,bpagos_6.xls
+2010,Crédito,272.4,millones_usd,bpagos_6.xls
+2011,Crédito,323.6,millones_usd,bpagos_6.xls
+2012,Crédito,282.9,millones_usd,bpagos_6.xls
+2013,Crédito,319.40000000000003,millones_usd,bpagos_6.xls
+2014,Crédito,300.2,millones_usd,bpagos_6.xls
+2015,Crédito,296.0,millones_usd,bpagos_6.xls
+2016,Crédito,216.1,millones_usd,bpagos_6.xls
+2017,Crédito,185.5,millones_usd,bpagos_6.xls
+2018,Crédito,174.7,millones_usd,bpagos_6.xls
+2019,Crédito,167.0,millones_usd,bpagos_6.xls
+2020,Crédito,264.09999999999997,millones_usd,bpagos_6.xls
+2021,Crédito,198.20000000000002,millones_usd,bpagos_6.xls
+2022,Crédito,290.0,millones_usd,bpagos_6.xls
+2023,Crédito,257.2,millones_usd,bpagos_6.xls
+2024,Crédito,255.10000000000002,millones_usd,bpagos_6.xls
+2025,Crédito,265.6,millones_usd,bpagos_6.xls
+2010,Débito,301.79999999999995,millones_usd,bpagos_6.xls
+2011,Débito,382.2,millones_usd,bpagos_6.xls
+2012,Débito,345.8,millones_usd,bpagos_6.xls
+2013,Débito,398.09999999999997,millones_usd,bpagos_6.xls
+2014,Débito,391.5,millones_usd,bpagos_6.xls
+2015,Débito,334.2,millones_usd,bpagos_6.xls
+2016,Débito,327.29999999999995,millones_usd,bpagos_6.xls
+2017,Débito,355.3,millones_usd,bpagos_6.xls
+2018,Débito,301.3,millones_usd,bpagos_6.xls
+2019,Débito,328.1,millones_usd,bpagos_6.xls
+2020,Débito,247.59999999999997,millones_usd,bpagos_6.xls
+2021,Débito,206.1,millones_usd,bpagos_6.xls
+2022,Débito,254.2,millones_usd,bpagos_6.xls
+2023,Débito,635.0,millones_usd,bpagos_6.xls
+2024,Débito,1123.2,millones_usd,bpagos_6.xls
+2025,Débito,733.2,millones_usd,bpagos_6.xls
+2010,Activos de Reservas,0.0,millones_usd,bpagos_6.xls
+2011,Activos de Reservas,0.0,millones_usd,bpagos_6.xls
+2012,Activos de Reservas,0.0,millones_usd,bpagos_6.xls
+2013,Activos de Reservas,0.0,millones_usd,bpagos_6.xls
+2014,Activos de Reservas,0.0,millones_usd,bpagos_6.xls
+2015,Activos de Reservas,0.0,millones_usd,bpagos_6.xls
+2016,Activos de Reservas,0.0,millones_usd,bpagos_6.xls
+2017,Activos de Reservas,0.0,millones_usd,bpagos_6.xls
+2018,Activos de Reservas,121.1,millones_usd,bpagos_6.xls
+2019,Activos de Reservas,165.4,millones_usd,bpagos_6.xls
+2020,Activos de Reservas,128.1,millones_usd,bpagos_6.xls
+2021,Activos de Reservas,41.099999999999994,millones_usd,bpagos_6.xls
+2022,Activos de Reservas,208.6,millones_usd,bpagos_6.xls
+2023,Activos de Reservas,679.4,millones_usd,bpagos_6.xls
+2024,Activos de Reservas,641.0999999999999,millones_usd,bpagos_6.xls
+2025,Activos de Reservas,619.5,millones_usd,bpagos_6.xls
+2010,Crédito,0.0,millones_usd,bpagos_6.xls
+2011,Crédito,0.0,millones_usd,bpagos_6.xls
+2012,Crédito,0.0,millones_usd,bpagos_6.xls
+2013,Crédito,0.0,millones_usd,bpagos_6.xls
+2014,Crédito,0.0,millones_usd,bpagos_6.xls
+2015,Crédito,0.0,millones_usd,bpagos_6.xls
+2016,Crédito,0.0,millones_usd,bpagos_6.xls
+2017,Crédito,0.0,millones_usd,bpagos_6.xls
+2018,Crédito,121.1,millones_usd,bpagos_6.xls
+2019,Crédito,165.4,millones_usd,bpagos_6.xls
+2020,Crédito,128.1,millones_usd,bpagos_6.xls
+2021,Crédito,41.099999999999994,millones_usd,bpagos_6.xls
+2022,Crédito,208.6,millones_usd,bpagos_6.xls
+2023,Crédito,679.4,millones_usd,bpagos_6.xls
+2024,Crédito,641.0999999999999,millones_usd,bpagos_6.xls
+2025,Crédito,619.5,millones_usd,bpagos_6.xls
+2010,Débito,0.0,millones_usd,bpagos_6.xls
+2011,Débito,0.0,millones_usd,bpagos_6.xls
+2012,Débito,0.0,millones_usd,bpagos_6.xls
+2013,Débito,0.0,millones_usd,bpagos_6.xls
+2014,Débito,0.0,millones_usd,bpagos_6.xls
+2015,Débito,0.0,millones_usd,bpagos_6.xls
+2016,Débito,0.0,millones_usd,bpagos_6.xls
+2017,Débito,0.0,millones_usd,bpagos_6.xls
+2018,Débito,0.0,millones_usd,bpagos_6.xls
+2019,Débito,0.0,millones_usd,bpagos_6.xls
+2020,Débito,0.0,millones_usd,bpagos_6.xls
+2021,Débito,0.0,millones_usd,bpagos_6.xls
+2022,Débito,0.0,millones_usd,bpagos_6.xls
+2023,Débito,0.0,millones_usd,bpagos_6.xls
+2024,Débito,0.0,millones_usd,bpagos_6.xls
+2025,Débito,0.0,millones_usd,bpagos_6.xls
+2010,1.3 Ingreso Secundario,3430.6000000000004,millones_usd,bpagos_6.xls
+2011,1.3 Ingreso Secundario,3854.2000000000003,millones_usd,bpagos_6.xls
+2012,1.3 Ingreso Secundario,3914.5,millones_usd,bpagos_6.xls
+2013,1.3 Ingreso Secundario,4147.599999999999,millones_usd,bpagos_6.xls
+2014,1.3 Ingreso Secundario,4367.5,millones_usd,bpagos_6.xls
+2015,1.3 Ingreso Secundario,4753.0,millones_usd,bpagos_6.xls
+2016,1.3 Ingreso Secundario,5057.799999999999,millones_usd,bpagos_6.xls
+2017,1.3 Ingreso Secundario,5710.6,millones_usd,bpagos_6.xls
+2018,1.3 Ingreso Secundario,6432.9,millones_usd,bpagos_6.xls
+2019,1.3 Ingreso Secundario,6897.800000000001,millones_usd,bpagos_6.xls
+2020,1.3 Ingreso Secundario,7900.200000000001,millones_usd,bpagos_6.xls
+2021,1.3 Ingreso Secundario,10114.3,millones_usd,bpagos_6.xls
+2022,1.3 Ingreso Secundario,9431.0,millones_usd,bpagos_6.xls
+2023,1.3 Ingreso Secundario,9678.900000000001,millones_usd,bpagos_6.xls
+2024,1.3 Ingreso Secundario,10240.099999999999,millones_usd,bpagos_6.xls
+2025,1.3 Ingreso Secundario,11301.1,millones_usd,bpagos_6.xls
+2010,Crédito,4257.3,millones_usd,bpagos_6.xls
+2011,Crédito,4665.1,millones_usd,bpagos_6.xls
+2012,Crédito,4732.5,millones_usd,bpagos_6.xls
+2013,Crédito,4950.4,millones_usd,bpagos_6.xls
+2014,Crédito,5214.0,millones_usd,bpagos_6.xls
+2015,Crédito,5621.4,millones_usd,bpagos_6.xls
+2016,Crédito,5968.999999999999,millones_usd,bpagos_6.xls
+2017,Crédito,6695.3,millones_usd,bpagos_6.xls
+2018,Crédito,7343.9,millones_usd,bpagos_6.xls
+2019,Crédito,7908.700000000001,millones_usd,bpagos_6.xls
+2020,Crédito,8940.4,millones_usd,bpagos_6.xls
+2021,Crédito,11316.9,millones_usd,bpagos_6.xls
+2022,Crédito,10898.0,millones_usd,bpagos_6.xls
+2023,Crédito,11271.7,millones_usd,bpagos_6.xls
+2024,Crédito,12002.599999999999,millones_usd,bpagos_6.xls
+2025,Crédito,13173.5,millones_usd,bpagos_6.xls
+2010,Remesas Familiares,3682.9,millones_usd,bpagos_6.xls
+2011,Remesas Familiares,4008.3,millones_usd,bpagos_6.xls
+2012,Remesas Familiares,4045.4,millones_usd,bpagos_6.xls
+2013,Remesas Familiares,4262.3,millones_usd,bpagos_6.xls
+2014,Remesas Familiares,4571.2,millones_usd,bpagos_6.xls
+2015,Remesas Familiares,4960.599999999999,millones_usd,bpagos_6.xls
+2016,Remesas Familiares,5260.799999999999,millones_usd,bpagos_6.xls
+2017,Remesas Familiares,5911.8,millones_usd,bpagos_6.xls
+2018,Remesas Familiares,6494.2,millones_usd,bpagos_6.xls
+2019,Remesas Familiares,7087.1,millones_usd,bpagos_6.xls
+2020,Remesas Familiares,8219.199999999999,millones_usd,bpagos_6.xls
+2021,Remesas Familiares,10402.5,millones_usd,bpagos_6.xls
+2022,Remesas Familiares,9856.5,millones_usd,bpagos_6.xls
+2023,Remesas Familiares,10157.199999999999,millones_usd,bpagos_6.xls
+2024,Remesas Familiares,10858.999999999998,millones_usd,bpagos_6.xls
+2025,Remesas Familiares,11866.3,millones_usd,bpagos_6.xls
+2010,Otras Transferencias,574.4000000000001,millones_usd,bpagos_6.xls
+2011,Otras Transferencias,656.8000000000002,millones_usd,bpagos_6.xls
+2012,Otras Transferencias,687.0999999999999,millones_usd,bpagos_6.xls
+2013,Otras Transferencias,688.0999999999995,millones_usd,bpagos_6.xls
+2014,Otras Transferencias,642.8000000000002,millones_usd,bpagos_6.xls
+2015,Otras Transferencias,660.8000000000002,millones_usd,bpagos_6.xls
+2016,Otras Transferencias,708.2,millones_usd,bpagos_6.xls
+2017,Otras Transferencias,783.5,millones_usd,bpagos_6.xls
+2018,Otras Transferencias,849.7000000000002,millones_usd,bpagos_6.xls
+2019,Otras Transferencias,821.6000000000004,millones_usd,bpagos_6.xls
+2020,Otras Transferencias,721.2,millones_usd,bpagos_6.xls
+2021,Otras Transferencias,914.4000000000004,millones_usd,bpagos_6.xls
+2022,Otras Transferencias,1041.4999999999989,millones_usd,bpagos_6.xls
+2023,Otras Transferencias,1114.5000000000023,millones_usd,bpagos_6.xls
+2024,Otras Transferencias,1143.6,millones_usd,bpagos_6.xls
+2025,Otras Transferencias,1307.2000000000007,millones_usd,bpagos_6.xls
+2010,Débito,826.7,millones_usd,bpagos_6.xls
+2011,Débito,810.9,millones_usd,bpagos_6.xls
+2012,Débito,818.0,millones_usd,bpagos_6.xls
+2013,Débito,802.8,millones_usd,bpagos_6.xls
+2014,Débito,846.5,millones_usd,bpagos_6.xls
+2015,Débito,868.4,millones_usd,bpagos_6.xls
+2016,Débito,911.2,millones_usd,bpagos_6.xls
+2017,Débito,984.7,millones_usd,bpagos_6.xls
+2018,Débito,911.0,millones_usd,bpagos_6.xls
+2019,Débito,1010.9,millones_usd,bpagos_6.xls
+2020,Débito,1040.1999999999998,millones_usd,bpagos_6.xls
+2021,Débito,1202.6,millones_usd,bpagos_6.xls
+2022,Débito,1467.0000000000002,millones_usd,bpagos_6.xls
+2023,Débito,1592.8,millones_usd,bpagos_6.xls
+2024,Débito,1762.5,millones_usd,bpagos_6.xls
+2025,Débito,1872.3999999999999,millones_usd,bpagos_6.xls
+2010,Remesas Familiares,391.9,millones_usd,bpagos_6.xls
+2011,Remesas Familiares,412.90000000000003,millones_usd,bpagos_6.xls
+2012,Remesas Familiares,400.30000000000007,millones_usd,bpagos_6.xls
+2013,Remesas Familiares,383.50000000000006,millones_usd,bpagos_6.xls
+2014,Remesas Familiares,420.09999999999997,millones_usd,bpagos_6.xls
+2015,Remesas Familiares,424.70000000000005,millones_usd,bpagos_6.xls
+2016,Remesas Familiares,448.7,millones_usd,bpagos_6.xls
+2017,Remesas Familiares,461.80000000000007,millones_usd,bpagos_6.xls
+2018,Remesas Familiares,427.8,millones_usd,bpagos_6.xls
+2019,Remesas Familiares,483.79999999999995,millones_usd,bpagos_6.xls
+2020,Remesas Familiares,603.9,millones_usd,bpagos_6.xls
+2021,Remesas Familiares,639.0,millones_usd,bpagos_6.xls
+2022,Remesas Familiares,708.7,millones_usd,bpagos_6.xls
+2023,Remesas Familiares,850.3,millones_usd,bpagos_6.xls
+2024,Remesas Familiares,958.0999999999999,millones_usd,bpagos_6.xls
+2025,Remesas Familiares,947.5999999999999,millones_usd,bpagos_6.xls
+2010,Otras Transferencias,434.80000000000007,millones_usd,bpagos_6.xls
+2011,Otras Transferencias,397.99999999999994,millones_usd,bpagos_6.xls
+2012,Otras Transferencias,417.69999999999993,millones_usd,bpagos_6.xls
+2013,Otras Transferencias,419.2999999999999,millones_usd,bpagos_6.xls
+2014,Otras Transferencias,426.40000000000003,millones_usd,bpagos_6.xls
+2015,Otras Transferencias,443.69999999999993,millones_usd,bpagos_6.xls
+2016,Otras Transferencias,462.50000000000006,millones_usd,bpagos_6.xls
+2017,Otras Transferencias,522.9,millones_usd,bpagos_6.xls
+2018,Otras Transferencias,483.2,millones_usd,bpagos_6.xls
+2019,Otras Transferencias,527.1,millones_usd,bpagos_6.xls
+2020,Otras Transferencias,436.30000000000007,millones_usd,bpagos_6.xls
+2021,Otras Transferencias,563.5999999999999,millones_usd,bpagos_6.xls
+2022,Otras Transferencias,758.3000000000002,millones_usd,bpagos_6.xls
+2023,Otras Transferencias,742.5,millones_usd,bpagos_6.xls
+2024,Otras Transferencias,804.4000000000001,millones_usd,bpagos_6.xls
+2025,Otras Transferencias,924.8,millones_usd,bpagos_6.xls
+2010,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2011,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2012,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2013,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2014,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2015,2. Cuenta de Capital 1/,2087.1,millones_usd,bpagos_6.xls
+2016,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2017,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2018,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2019,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2020,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2021,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2022,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2023,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2024,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2025,2. Cuenta de Capital 1/,0.0,millones_usd,bpagos_6.xls
+2010,3. Préstamo / Endeudamiento Neto (3=1+2),-4023.500000000001,millones_usd,bpagos_6.xls
+2011,3. Préstamo / Endeudamiento Neto (3=1+2),-4334.5999999999985,millones_usd,bpagos_6.xls
+2012,3. Préstamo / Endeudamiento Neto (3=1+2),-3880.899999999998,millones_usd,bpagos_6.xls
+2013,3. Préstamo / Endeudamiento Neto (3=1+2),-2567.9000000000024,millones_usd,bpagos_6.xls
+2014,3. Préstamo / Endeudamiento Neto (3=1+2),-2170.199999999998,millones_usd,bpagos_6.xls
+2015,3. Préstamo / Endeudamiento Neto (3=1+2),806.7999999999997,millones_usd,bpagos_6.xls
+2016,3. Préstamo / Endeudamiento Neto (3=1+2),-814.7000000000006,millones_usd,bpagos_6.xls
+2017,3. Préstamo / Endeudamiento Neto (3=1+2),-133.09999999999582,millones_usd,bpagos_6.xls
+2018,3. Préstamo / Endeudamiento Neto (3=1+2),-1321.4999999999982,millones_usd,bpagos_6.xls
+2019,3. Préstamo / Endeudamiento Neto (3=1+2),-1187.9000000000042,millones_usd,bpagos_6.xls
+2020,3. Préstamo / Endeudamiento Neto (3=1+2),-1337.3000000000018,millones_usd,bpagos_6.xls
+2021,3. Préstamo / Endeudamiento Neto (3=1+2),-2685.2999999999993,millones_usd,bpagos_6.xls
+2022,3. Préstamo / Endeudamiento Neto (3=1+2),-6548.899999999998,millones_usd,bpagos_6.xls
+2023,3. Préstamo / Endeudamiento Neto (3=1+2),-4418.400000000005,millones_usd,bpagos_6.xls
+2024,3. Préstamo / Endeudamiento Neto (3=1+2),-3705.499999999998,millones_usd,bpagos_6.xls
+2025,3. Préstamo / Endeudamiento Neto (3=1+2),-1487.9000000000033,millones_usd,bpagos_6.xls
+2010,4. Cuenta Financiera,-5059.299999999999,millones_usd,bpagos_6.xls
+2011,4. Cuenta Financiera,-4101.5,millones_usd,bpagos_6.xls
+2012,4. Cuenta Financiera,-3692.199999999999,millones_usd,bpagos_6.xls
+2013,4. Cuenta Financiera,-4273.5,millones_usd,bpagos_6.xls
+2014,4. Cuenta Financiera,-3761.7,millones_usd,bpagos_6.xls
+2015,4. Cuenta Financiera,-1512.9000000000026,millones_usd,bpagos_6.xls
+2016,4. Cuenta Financiera,-2454.9000000000005,millones_usd,bpagos_6.xls
+2017,4. Cuenta Financiera,-2120.7000000000016,millones_usd,bpagos_6.xls
+2018,4. Cuenta Financiera,-3083.000000000001,millones_usd,bpagos_6.xls
+2019,4. Cuenta Financiera,-3138.7000000000007,millones_usd,bpagos_6.xls
+2020,4. Cuenta Financiera,-3497.8000000000006,millones_usd,bpagos_6.xls
+2021,4. Cuenta Financiera,-5395.187109733293,millones_usd,bpagos_6.xls
+2022,4. Cuenta Financiera,-7635.5,millones_usd,bpagos_6.xls
+2023,4. Cuenta Financiera,-6471.700000000001,millones_usd,bpagos_6.xls
+2024,4. Cuenta Financiera,-3615.3,millones_usd,bpagos_6.xls
+2025,4. Cuenta Financiera,-3658.499999999999,millones_usd,bpagos_6.xls
+2010,Inversión Directa,-2023.6999999999998,millones_usd,bpagos_6.xls
+2011,Inversión Directa,-2276.7,millones_usd,bpagos_6.xls
+2012,Inversión Directa,-3142.3999999999996,millones_usd,bpagos_6.xls
+2013,Inversión Directa,-1990.5000000000002,millones_usd,bpagos_6.xls
+2014,Inversión Directa,-2208.4999999999995,millones_usd,bpagos_6.xls
+2015,Inversión Directa,-2204.9,millones_usd,bpagos_6.xls
+2016,Inversión Directa,-2406.7000000000003,millones_usd,bpagos_6.xls
+2017,Inversión Directa,-3570.7000000000007,millones_usd,bpagos_6.xls
+2018,Inversión Directa,-2535.3,millones_usd,bpagos_6.xls
+2019,Inversión Directa,-3021.0,millones_usd,bpagos_6.xls
+2020,Inversión Directa,-2559.6000000000004,millones_usd,bpagos_6.xls
+2021,Inversión Directa,-3196.7999999999993,millones_usd,bpagos_6.xls
+2022,Inversión Directa,-4098.8,millones_usd,bpagos_6.xls
+2023,Inversión Directa,-4390.2,millones_usd,bpagos_6.xls
+2024,Inversión Directa,-4523.2,millones_usd,bpagos_6.xls
+2025,Inversión Directa,-5032.799999999999,millones_usd,bpagos_6.xls
+2010,Inversión de Cartera,-759.4999999999999,millones_usd,bpagos_6.xls
+2011,Inversión de Cartera,-746.6,millones_usd,bpagos_6.xls
+2012,Inversión de Cartera,-343.70000000000005,millones_usd,bpagos_6.xls
+2013,Inversión de Cartera,-1786.6999999999996,millones_usd,bpagos_6.xls
+2014,Inversión de Cartera,-1482.4,millones_usd,bpagos_6.xls
+2015,Inversión de Cartera,-3457.7,millones_usd,bpagos_6.xls
+2016,Inversión de Cartera,-1729.3000000000002,millones_usd,bpagos_6.xls
+2017,Inversión de Cartera,-1756.7000000000003,millones_usd,bpagos_6.xls
+2018,Inversión de Cartera,-2696.1000000000004,millones_usd,bpagos_6.xls
+2019,Inversión de Cartera,-2177.6000000000004,millones_usd,bpagos_6.xls
+2020,Inversión de Cartera,-5620.099999999999,millones_usd,bpagos_6.xls
+2021,Inversión de Cartera,-2061.0000000000005,millones_usd,bpagos_6.xls
+2022,Inversión de Cartera,-3257.7000000000003,millones_usd,bpagos_6.xls
+2023,Inversión de Cartera,-2412.8,millones_usd,bpagos_6.xls
+2024,Inversión de Cartera,-2432.0,millones_usd,bpagos_6.xls
+2025,Inversión de Cartera,-3174.9,millones_usd,bpagos_6.xls
+2010,Deuda Pub. y Priv. Med. y LP (Neto),-1007.2000000000003,millones_usd,bpagos_6.xls
+2011,Deuda Pub. y Priv. Med. y LP (Neto),-1455.6999999999998,millones_usd,bpagos_6.xls
+2012,Deuda Pub. y Priv. Med. y LP (Neto),-1405.7999999999997,millones_usd,bpagos_6.xls
+2013,Deuda Pub. y Priv. Med. y LP (Neto),-665.3000000000002,millones_usd,bpagos_6.xls
+2014,Deuda Pub. y Priv. Med. y LP (Neto),-53.199999999999996,millones_usd,bpagos_6.xls
+2015,Deuda Pub. y Priv. Med. y LP (Neto),4101.599999999999,millones_usd,bpagos_6.xls
+2016,Deuda Pub. y Priv. Med. y LP (Neto),692.5000000000001,millones_usd,bpagos_6.xls
+2017,Deuda Pub. y Priv. Med. y LP (Neto),1192.8000000000002,millones_usd,bpagos_6.xls
+2018,Deuda Pub. y Priv. Med. y LP (Neto),153.0000000000001,millones_usd,bpagos_6.xls
+2019,Deuda Pub. y Priv. Med. y LP (Neto),650.1000000000001,millones_usd,bpagos_6.xls
+2020,Deuda Pub. y Priv. Med. y LP (Neto),-312.39999999999975,millones_usd,bpagos_6.xls
+2021,Deuda Pub. y Priv. Med. y LP (Neto),112.69999999999999,millones_usd,bpagos_6.xls
+2022,Deuda Pub. y Priv. Med. y LP (Neto),-483.6,millones_usd,bpagos_6.xls
+2023,Deuda Pub. y Priv. Med. y LP (Neto),-1232.0,millones_usd,bpagos_6.xls
+2024,Deuda Pub. y Priv. Med. y LP (Neto),-440.0000000000001,millones_usd,bpagos_6.xls
+2025,Deuda Pub. y Priv. Med. y LP (Neto),-367.9,millones_usd,bpagos_6.xls
+2010,Deuda Pub. y Priv. Corto Plazo (Neto),-390.7999999999999,millones_usd,bpagos_6.xls
+2011,Deuda Pub. y Priv. Corto Plazo (Neto),370.3999999999998,millones_usd,bpagos_6.xls
+2012,Deuda Pub. y Priv. Corto Plazo (Neto),-97.39999999999986,millones_usd,bpagos_6.xls
+2013,Deuda Pub. y Priv. Corto Plazo (Neto),-152.89999999999975,millones_usd,bpagos_6.xls
+2014,Deuda Pub. y Priv. Corto Plazo (Neto),-503.6999999999996,millones_usd,bpagos_6.xls
+2015,Deuda Pub. y Priv. Corto Plazo (Neto),-206.9000000000001,millones_usd,bpagos_6.xls
+2016,Deuda Pub. y Priv. Corto Plazo (Neto),-61.700000000000045,millones_usd,bpagos_6.xls
+2017,Deuda Pub. y Priv. Corto Plazo (Neto),185.80000000000007,millones_usd,bpagos_6.xls
+2018,Deuda Pub. y Priv. Corto Plazo (Neto),235.40000000000003,millones_usd,bpagos_6.xls
+2019,Deuda Pub. y Priv. Corto Plazo (Neto),-482.5999999999999,millones_usd,bpagos_6.xls
+2020,Deuda Pub. y Priv. Corto Plazo (Neto),590.3000000000001,millones_usd,bpagos_6.xls
+2021,Deuda Pub. y Priv. Corto Plazo (Neto),-186.4,millones_usd,bpagos_6.xls
+2022,Deuda Pub. y Priv. Corto Plazo (Neto),-969.5,millones_usd,bpagos_6.xls
+2023,Deuda Pub. y Priv. Corto Plazo (Neto),-613.2,millones_usd,bpagos_6.xls
+2024,Deuda Pub. y Priv. Corto Plazo (Neto),-304.5000000000001,millones_usd,bpagos_6.xls
+2025,Deuda Pub. y Priv. Corto Plazo (Neto),583.9,millones_usd,bpagos_6.xls
+2010,Moneda y Depósitos,-749.0000000000001,millones_usd,bpagos_6.xls
+2011,Moneda y Depósitos,18.299999999999898,millones_usd,bpagos_6.xls
+2012,Moneda y Depósitos,1357.7000000000003,millones_usd,bpagos_6.xls
+2013,Moneda y Depósitos,386.40000000000003,millones_usd,bpagos_6.xls
+2014,Moneda y Depósitos,361.29999999999995,millones_usd,bpagos_6.xls
+2015,Moneda y Depósitos,-114.3,millones_usd,bpagos_6.xls
+2016,Moneda y Depósitos,611.1999999999999,millones_usd,bpagos_6.xls
+2017,Moneda y Depósitos,1289.3999999999999,millones_usd,bpagos_6.xls
+2018,Moneda y Depósitos,1293.5,millones_usd,bpagos_6.xls
+2019,Moneda y Depósitos,1560.3999999999999,millones_usd,bpagos_6.xls
+2020,Moneda y Depósitos,4137.900000000001,millones_usd,bpagos_6.xls
+2021,Moneda y Depósitos,243.29999999999995,millones_usd,bpagos_6.xls
+2022,Moneda y Depósitos,949.5999999999999,millones_usd,bpagos_6.xls
+2023,Moneda y Depósitos,2004.0000000000002,millones_usd,bpagos_6.xls
+2024,Moneda y Depósitos,3433.1999999999994,millones_usd,bpagos_6.xls
+2025,Moneda y Depósitos,3973.4,millones_usd,bpagos_6.xls
+2010,Otros 2/,-129.0999999999991,millones_usd,bpagos_6.xls
+2011,Otros 2/,-11.20000000000016,millones_usd,bpagos_6.xls
+2012,Otros 2/,-60.600000000000136,millones_usd,bpagos_6.xls
+2013,Otros 2/,-64.50000000000051,millones_usd,bpagos_6.xls
+2014,Otros 2/,124.79999999999944,millones_usd,bpagos_6.xls
+2015,Otros 2/,369.29999999999774,millones_usd,bpagos_6.xls
+2016,Otros 2/,439.0999999999997,millones_usd,bpagos_6.xls
+2017,Otros 2/,538.6999999999998,millones_usd,bpagos_6.xls
+2018,Otros 2/,466.4999999999999,millones_usd,bpagos_6.xls
+2019,Otros 2/,332.0,millones_usd,bpagos_6.xls
+2020,Otros 2/,266.0999999999997,millones_usd,bpagos_6.xls
+2021,Otros 2/,-306.98710973329344,millones_usd,bpagos_6.xls
+2022,Otros 2/,224.49999999999966,millones_usd,bpagos_6.xls
+2023,Otros 2/,172.50000000000023,millones_usd,bpagos_6.xls
+2024,Otros 2/,651.2,millones_usd,bpagos_6.xls
+2025,Otros 2/,359.7999999999997,millones_usd,bpagos_6.xls
+2010,5. Saldo,72.09999999999985,millones_usd,bpagos_6.xls
+2011,5. Saldo,296.1999999999999,millones_usd,bpagos_6.xls
+2012,5. Saldo,-439.6000000000001,millones_usd,bpagos_6.xls
+2013,5. Saldo,1333.9,millones_usd,bpagos_6.xls
+2014,5. Saldo,650.0999999999995,millones_usd,bpagos_6.xls
+2015,5. Saldo,770.2000000000002,millones_usd,bpagos_6.xls
+2016,5. Saldo,891.9000000000002,millones_usd,bpagos_6.xls
+2017,5. Saldo,727.6999999999999,millones_usd,bpagos_6.xls
+2018,5. Saldo,833.1000000000004,millones_usd,bpagos_6.xls
+2019,5. Saldo,1125.3000000000006,millones_usd,bpagos_6.xls
+2020,5. Saldo,1295.0000000000002,millones_usd,bpagos_6.xls
+2021,5. Saldo,2303.2,millones_usd,bpagos_6.xls
+2022,5. Saldo,1443.5,millones_usd,bpagos_6.xls
+2023,5. Saldo,1210.800000000001,millones_usd,bpagos_6.xls
+2024,5. Saldo,-1763.1999999999998,millones_usd,bpagos_6.xls
+2025,5. Saldo,1432.3999999999996,millones_usd,bpagos_6.xls
+2010,6. Errores y Omisiones,-963.6999999999987,millones_usd,bpagos_6.xls
+2011,6. Errores y Omisiones,529.3,millones_usd,bpagos_6.xls
+2012,6. Errores y Omisiones,-250.89999999999793,millones_usd,bpagos_6.xls
+2013,6. Errores y Omisiones,-371.699999999999,millones_usd,bpagos_6.xls
+2014,6. Errores y Omisiones,-941.4000000000009,millones_usd,bpagos_6.xls
+2015,6. Errores y Omisiones,-1549.499999999999,millones_usd,bpagos_6.xls
+2016,6. Errores y Omisiones,-748.2999999999997,millones_usd,bpagos_6.xls
+2017,6. Errores y Omisiones,-1259.900000000006,millones_usd,bpagos_6.xls
+2018,6. Errores y Omisiones,-928.4000000000024,millones_usd,bpagos_6.xls
+2019,6. Errores y Omisiones,-825.4999999999959,millones_usd,bpagos_6.xls
+2020,6. Errores y Omisiones,-865.499999999999,millones_usd,bpagos_6.xls
+2021,6. Errores y Omisiones,-406.68710973329405,millones_usd,bpagos_6.xls
+2022,6. Errores y Omisiones,356.8999999999978,millones_usd,bpagos_6.xls
+2023,6. Errores y Omisiones,-842.4999999999945,millones_usd,bpagos_6.xls
+2024,6. Errores y Omisiones,-1673.0000000000018,millones_usd,bpagos_6.xls
+2025,6. Errores y Omisiones,-738.1999999999962,millones_usd,bpagos_6.xls
+2010,7. Financiamiento,72.09999999999985,millones_usd,bpagos_6.xls
+2011,7. Financiamiento,296.1999999999999,millones_usd,bpagos_6.xls
+2012,7. Financiamiento,-439.6000000000001,millones_usd,bpagos_6.xls
+2013,7. Financiamiento,1333.9,millones_usd,bpagos_6.xls
+2014,7. Financiamiento,650.0999999999995,millones_usd,bpagos_6.xls
+2015,7. Financiamiento,770.2000000000002,millones_usd,bpagos_6.xls
+2016,7. Financiamiento,891.9000000000002,millones_usd,bpagos_6.xls
+2017,7. Financiamiento,727.6999999999999,millones_usd,bpagos_6.xls
+2018,7. Financiamiento,833.1000000000001,millones_usd,bpagos_6.xls
+2019,7. Financiamiento,1125.3000000000006,millones_usd,bpagos_6.xls
+2020,7. Financiamiento,1295.0000000000002,millones_usd,bpagos_6.xls
+2021,7. Financiamiento,2303.2,millones_usd,bpagos_6.xls
+2022,7. Financiamiento,1443.5000000000002,millones_usd,bpagos_6.xls
+2023,7. Financiamiento,1210.8000000000006,millones_usd,bpagos_6.xls
+2024,7. Financiamiento,-1763.1999999999996,millones_usd,bpagos_6.xls
+2025,7. Financiamiento,1432.3999999999999,millones_usd,bpagos_6.xls
+2010,Activos de Reservas,466.39999999999986,millones_usd,bpagos_6.xls
+2011,Activos de Reservas,339.3999999999999,millones_usd,bpagos_6.xls
+2012,Activos de Reservas,-547.9000000000001,millones_usd,bpagos_6.xls
+2013,Activos de Reservas,1139.0,millones_usd,bpagos_6.xls
+2014,Activos de Reservas,195.39999999999952,millones_usd,bpagos_6.xls
+2015,Activos de Reservas,406.9000000000001,millones_usd,bpagos_6.xls
+2016,Activos de Reservas,779.7000000000002,millones_usd,bpagos_6.xls
+2017,Activos de Reservas,730.6999999999999,millones_usd,bpagos_6.xls
+2018,Activos de Reservas,847.0000000000002,millones_usd,bpagos_6.xls
+2019,Activos de Reservas,1149.5000000000007,millones_usd,bpagos_6.xls
+2020,Activos de Reservas,1962.9,millones_usd,bpagos_6.xls
+2021,Activos de Reservas,2303.5999999999995,millones_usd,bpagos_6.xls
+2022,Activos de Reservas,1443.9,millones_usd,bpagos_6.xls
+2023,Activos de Reservas,1052.5000000000007,millones_usd,bpagos_6.xls
+2024,Activos de Reservas,-2085.8999999999996,millones_usd,bpagos_6.xls
+2025,Activos de Reservas,1264.0,millones_usd,bpagos_6.xls
+2010,Uso del crédito y Préstamos del FMI 3/,390.8,millones_usd,bpagos_6.xls
+2011,Uso del crédito y Préstamos del FMI 3/,40.100000000000016,millones_usd,bpagos_6.xls
+2012,Uso del crédito y Préstamos del FMI 3/,-110.8,millones_usd,bpagos_6.xls
+2013,Uso del crédito y Préstamos del FMI 3/,-196.9,millones_usd,bpagos_6.xls
+2014,Uso del crédito y Préstamos del FMI 3/,-456.9,millones_usd,bpagos_6.xls
+2015,Uso del crédito y Préstamos del FMI 3/,-365.2,millones_usd,bpagos_6.xls
+2016,Uso del crédito y Préstamos del FMI 3/,-114.29999999999998,millones_usd,bpagos_6.xls
+2017,Uso del crédito y Préstamos del FMI 3/,0.0,millones_usd,bpagos_6.xls
+2018,Uso del crédito y Préstamos del FMI 3/,0.0,millones_usd,bpagos_6.xls
+2019,Uso del crédito y Préstamos del FMI 3/,0.0,millones_usd,bpagos_6.xls
+2020,Uso del crédito y Préstamos del FMI 3/,651.1,millones_usd,bpagos_6.xls
+2021,Uso del crédito y Préstamos del FMI 3/,0.0,millones_usd,bpagos_6.xls
+2022,Uso del crédito y Préstamos del FMI 3/,0.0,millones_usd,bpagos_6.xls
+2023,Uso del crédito y Préstamos del FMI 3/,-158.39999999999998,millones_usd,bpagos_6.xls
+2024,Uso del crédito y Préstamos del FMI 3/,-317.0,millones_usd,bpagos_6.xls
+2025,Uso del crédito y Préstamos del FMI 3/,-158.8,millones_usd,bpagos_6.xls
+2010,Transferecias (Condonación de deudas),3.8,millones_usd,bpagos_6.xls
+2011,Transferecias (Condonación de deudas),3.1,millones_usd,bpagos_6.xls
+2012,Transferecias (Condonación de deudas),2.5,millones_usd,bpagos_6.xls
+2013,Transferecias (Condonación de deudas),2.3,millones_usd,bpagos_6.xls
+2014,Transferecias (Condonación de deudas),2.2,millones_usd,bpagos_6.xls
+2015,Transferecias (Condonación de deudas),1.9,millones_usd,bpagos_6.xls
+2016,Transferecias (Condonación de deudas),2.0,millones_usd,bpagos_6.xls
+2017,Transferecias (Condonación de deudas),1.5,millones_usd,bpagos_6.xls
+2018,Transferecias (Condonación de deudas),2.2,millones_usd,bpagos_6.xls
+2019,Transferecias (Condonación de deudas),1.4000000000000001,millones_usd,bpagos_6.xls
+2020,Transferecias (Condonación de deudas),0.9999999999999999,millones_usd,bpagos_6.xls
+2021,Transferecias (Condonación de deudas),0.4,millones_usd,bpagos_6.xls
+2022,Transferecias (Condonación de deudas),0.30000000000000004,millones_usd,bpagos_6.xls
+2023,Transferecias (Condonación de deudas),0.1,millones_usd,bpagos_6.xls
+2024,Transferecias (Condonación de deudas),0.2,millones_usd,bpagos_6.xls
+2025,Transferecias (Condonación de deudas),0.0,millones_usd,bpagos_6.xls
+2010,Otra inversión-pasivos 4/,-401.8,millones_usd,bpagos_6.xls
+2011,Otra inversión-pasivos 4/,0.0,millones_usd,bpagos_6.xls
+2012,Otra inversión-pasivos 4/,0.0,millones_usd,bpagos_6.xls
+2013,Otra inversión-pasivos 4/,-0.3,millones_usd,bpagos_6.xls
+2014,Otra inversión-pasivos 4/,0.0,millones_usd,bpagos_6.xls
+2015,Otra inversión-pasivos 4/,0.0,millones_usd,bpagos_6.xls
+2016,Otra inversión-pasivos 4/,0.1,millones_usd,bpagos_6.xls
+2017,Otra inversión-pasivos 4/,1.5,millones_usd,bpagos_6.xls
+2018,Otra inversión-pasivos 4/,11.699999999999998,millones_usd,bpagos_6.xls
+2019,Otra inversión-pasivos 4/,22.8,millones_usd,bpagos_6.xls
+2020,Otra inversión-pasivos 4/,15.799999999999997,millones_usd,bpagos_6.xls
+2021,Otra inversión-pasivos 4/,-4.440892098500626e-16,millones_usd,bpagos_6.xls
+2022,Otra inversión-pasivos 4/,0.09999999999999787,millones_usd,bpagos_6.xls
+2023,Otra inversión-pasivos 4/,-1.7763568394002505e-15,millones_usd,bpagos_6.xls
+2024,Otra inversión-pasivos 4/,-5.9,millones_usd,bpagos_6.xls
+2025,Otra inversión-pasivos 4/,-9.600000000000001,millones_usd,bpagos_6.xls

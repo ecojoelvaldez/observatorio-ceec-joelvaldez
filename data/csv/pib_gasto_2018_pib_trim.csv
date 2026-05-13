@@ -1,0 +1,585 @@
+﻿fecha,anio,trimestre,periodo_archivo,componente,valor,hoja_origen,fuente_archivo,unidad
+2018-03-31,2018,1,E-M,Consumo Final,785251.4943495181,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Consumo Privado,693905.4436482084,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Consumo Público,91346.05070130972,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Formación Bruta de Capital,235858.13672631484,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Formación Bruta de Capital Fijo,235202.13442565146,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Variación de Existencias,656.0023006633855,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Exportaciones,250305.38845088717,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Importaciones,275791.40266266564,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Producto Interno Bruto,995623.6168640545,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,PONDERACION POR COMPONENTE (%),2018.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Consumo Final,78.87031615650584,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Consumo Privado,69.69555883314852,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Consumo Público,9.174757323357307,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Formación Bruta de Capital,23.689487948187114,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Formación Bruta de Capital Fijo,23.62359936443399,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Variación de Existencias,0.06588858375312708,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Exportaciones,25.14056358358408,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Importaciones,27.700367688277026,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-03-31,2018,1,E-M,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Consumo Final,810578.5477862181,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Consumo Privado,711223.8401815053,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Consumo Público,99354.70760471275,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Formación Bruta de Capital,279369.9359463223,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Formación Bruta de Capital Fijo,265487.27299510164,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Variación de Existencias,13882.662951220642,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Exportaciones,258212.3027141415,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Importaciones,299614.61201702897,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Producto Interno Bruto,1048546.174429653,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Consumo Final,77.30499309933822,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Consumo Privado,67.82952029445617,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Consumo Público,9.475472804882038,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Formación Bruta de Capital,26.643551114788337,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Formación Bruta de Capital Fijo,25.3195595453401,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Variación de Existencias,1.32399156944824,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Exportaciones,24.62574457959314,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Importaciones,28.5742887937197,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-06-30,2018,2,A-J,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Consumo Final,822005.126795877,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Consumo Privado,722691.0689038504,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Consumo Público,99314.05789202667,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Formación Bruta de Capital,269645.3456526915,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Formación Bruta de Capital Fijo,268341.82527874067,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Variación de Existencias,1303.5203739508288,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Exportaciones,254117.0413163044,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Importaciones,304025.0942199118,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Producto Interno Bruto,1041742.4195449611,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Consumo Final,78.90675385523164,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Consumo Privado,69.37329759687869,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Consumo Público,9.533456258352963,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Formación Bruta de Capital,25.884070821506345,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Formación Bruta de Capital Fijo,25.75894196532324,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Variación de Existencias,0.12512885618310654,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Exportaciones,24.393462006405013,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Importaciones,29.184286683143,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-09-30,2018,3,J-S,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Consumo Final,912728.1179115821,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Consumo Privado,775814.5324818786,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Consumo Público,136913.58542970347,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Formación Bruta de Capital,275661.3058547588,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Formación Bruta de Capital Fijo,275440.56160002394,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Variación de Existencias,220.7442547348328,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Exportaciones,247015.73487351215,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Importaciones,313228.7807152005,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Producto Interno Bruto,1122176.3779246523,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Consumo Final,81.33553119337418,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Consumo Privado,69.13481229364909,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Consumo Público,12.200718899725087,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Formación Bruta de Capital,24.564882248240288,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Formación Bruta de Capital Fijo,24.545211164524993,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Variación de Existencias,0.019671083715295825,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Exportaciones,22.012202335816575,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Importaciones,27.91261577743103,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2018-12-31,2018,4,O-D,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Consumo Final,854475.9190510317,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Consumo Privado,752180.5185507548,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Consumo Público,102295.40050027696,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Formación Bruta de Capital,255525.64000359114,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Formación Bruta de Capital Fijo,263959.57734761323,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Variación de Existencias,-8433.937344022095,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Exportaciones,272108.3971843318,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Importaciones,293599.87643559405,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Producto Interno Bruto,1088510.0798033606,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,PONDERACION POR COMPONENTE (%),2019.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Consumo Final,78.49958717932982,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Consumo Privado,69.10184228028795,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Consumo Público,9.397744899041873,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Formación Bruta de Capital,23.47480696272026,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Formación Bruta de Capital Fijo,24.249621776152733,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Variación de Existencias,-0.7748148134324752,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Exportaciones,24.998243216405324,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Importaciones,26.972637358455408,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-03-31,2019,1,E-M,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Consumo Final,884974.1524536198,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Consumo Privado,769526.3408772626,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Consumo Público,115447.81157635714,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Formación Bruta de Capital,297264.8773572357,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Formación Bruta de Capital Fijo,281526.2797512017,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Variación de Existencias,15738.597606034018,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Exportaciones,267478.0724662108,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Importaciones,329307.3228625842,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Producto Interno Bruto,1120409.779414482,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Consumo Final,78.98665012689384,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Consumo Privado,68.68257980391884,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Consumo Público,10.304070322974985,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Formación Bruta de Capital,26.531799598588314,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Formación Bruta de Capital Fijo,25.127081619934206,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Variación de Existencias,1.4047179786541042,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Exportaciones,23.873236148116533,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Importaciones,29.39168587359866,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-06-30,2019,2,A-J,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Consumo Final,895423.6731676585,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Consumo Privado,786796.9683839085,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Consumo Público,108626.70478375003,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Formación Bruta de Capital,305434.86437671236,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Formación Bruta de Capital Fijo,302130.9119730524,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Variación de Existencias,3303.9524036599323,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Exportaciones,255802.45584085988,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Importaciones,319641.023771956,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Producto Interno Bruto,1137019.9696132746,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Consumo Final,78.75179830590062,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Consumo Privado,69.19816620736357,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Consumo Público,9.55363209853705,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Formación Bruta de Capital,26.86275285741881,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Formación Bruta de Capital Fijo,26.57217287712315,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Variación de Existencias,0.29057998029565646,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Exportaciones,22.497622089070603,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Importaciones,28.11217325239001,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-09-30,2019,3,J-S,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Consumo Final,978844.7975092229,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Consumo Privado,827854.9125534974,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Consumo Público,150989.88495572552,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Formación Bruta de Capital,295698.7892213424,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Formación Bruta de Capital Fijo,294850.4725083362,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Variación de Existencias,848.3167130062357,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Exportaciones,271217.4488298897,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Importaciones,318962.7466328952,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Producto Interno Bruto,1226798.28892756,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Consumo Final,79.7885688579585,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Consumo Privado,67.48093146406244,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Consumo Público,12.30763739389607,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Formación Bruta de Capital,24.10329325449547,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Formación Bruta de Capital Fijo,24.034144420439972,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Variación de Existencias,0.06914883405550032,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Exportaciones,22.10774593327661,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Importaciones,25.9996080457306,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2019-12-31,2019,4,O-D,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Consumo Final,896482.076209041,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Consumo Privado,776437.1344055994,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Consumo Público,120044.94180344162,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Formación Bruta de Capital,246197.1030127113,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Formación Bruta de Capital Fijo,253037.6419930689,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Variación de Existencias,-6840.538980357582,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Exportaciones,269043.64687355113,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Importaciones,298930.9700215258,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Producto Interno Bruto,1112791.8560737777,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,PONDERACION POR COMPONENTE (%),2020.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Consumo Final,80.56152382100149,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Consumo Privado,69.77379733394832,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Consumo Público,10.78772648705318,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Formación Bruta de Capital,22.124272537485982,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Formación Bruta de Capital Fijo,22.738991178984023,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Variación de Existencias,-0.6147186414980428,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Exportaciones,24.177355846475,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Importaciones,26.86315220496247,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-03-31,2020,1,E-M,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Consumo Final,856078.3520040881,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Consumo Privado,733253.2276911668,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Consumo Público,122825.12431292135,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Formación Bruta de Capital,215945.16603926895,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Formación Bruta de Capital Fijo,231321.8196314806,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Variación de Existencias,-15376.65359221166,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Exportaciones,139178.43290579267,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Importaciones,235561.44257308854,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Producto Interno Bruto,975640.5083760611,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Consumo Final,87.74526525441401,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Consumo Privado,75.15608683690837,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Consumo Público,12.589178417505636,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Formación Bruta de Capital,22.133681841348142,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Formación Bruta de Capital Fijo,23.709739155512548,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Variación de Existencias,-1.5760573141644012,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Exportaciones,14.265339713851475,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Importaciones,24.144286809613615,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-06-30,2020,2,A-J,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Consumo Final,907382.3619348502,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Consumo Privado,783010.9394967239,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Consumo Público,124371.42243812623,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Formación Bruta de Capital,287078.6664580931,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Formación Bruta de Capital Fijo,299902.7264630855,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Variación de Existencias,-12824.06000499241,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Exportaciones,200575.73273970274,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Importaciones,283009.26992065046,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Producto Interno Bruto,1112027.4912119957,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Consumo Final,81.59711599808533,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Consumo Privado,70.41291206239177,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Consumo Público,11.184203935693548,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Formación Bruta de Capital,25.815788613751522,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Formación Bruta de Capital Fijo,26.969002909831154,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Variación de Existencias,-1.1532142960796323,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Exportaciones,18.03694012286475,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Importaciones,25.449844734701603,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-09-30,2020,3,J-S,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Consumo Final,992214.0424302621,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Consumo Privado,826398.5564459556,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Consumo Público,165815.48598430646,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Formación Bruta de Capital,355383.28939354786,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Formación Bruta de Capital Fijo,317249.172793091,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Variación de Existencias,38134.11660045688,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Exportaciones,225763.22182387457,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Importaciones,334006.43278304493,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Producto Interno Bruto,1239354.1208646398,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Consumo Final,80.05896181940642,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Consumo Privado,66.67977638783465,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Consumo Público,13.379185431571786,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Formación Bruta de Capital,28.674878584791685,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Formación Bruta de Capital Fijo,25.59794391709135,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Variación de Existencias,3.0769346677003404,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Exportaciones,18.21619971428102,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Importaciones,26.950040118479144,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2020-12-31,2020,4,O-D,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Consumo Final,972547.6305807637,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Consumo Privado,856004.8300774649,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Consumo Público,116542.80050329871,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Formación Bruta de Capital,390455.5723103757,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Formación Bruta de Capital Fijo,346035.90942985256,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Variación de Existencias,44419.66288052313,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Exportaciones,247923.53993501427,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Importaciones,345550.6991590559,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Producto Interno Bruto,1265376.0436670976,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,PONDERACION POR COMPONENTE (%),2021.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Consumo Final,76.85838810116016,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Consumo Privado,67.64825637102606,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Consumo Público,9.210131730134087,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Formación Bruta de Capital,30.856880392553016,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Formación Bruta de Capital Fijo,27.346488118032497,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Variación de Existencias,3.510392274520515,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Exportaciones,19.59287447994704,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Importaciones,27.3081429736602,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-03-31,2021,1,E-M,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Consumo Final,1044599.3688652222,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Consumo Privado,915838.8820153477,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Consumo Público,128760.48684987452,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Formación Bruta de Capital,400954.9735275815,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Formación Bruta de Capital Fijo,432651.4314611615,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Variación de Existencias,-31696.457933580037,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Exportaciones,283665.3486157478,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Importaciones,407351.8855436455,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Producto Interno Bruto,1321867.8054649062,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Consumo Final,79.02449583434952,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Consumo Privado,69.28369676824406,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Consumo Público,9.740799066105476,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Formación Bruta de Capital,30.332456231246514,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Formación Bruta de Capital Fijo,32.73031007128556,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Variación de Existencias,-2.3978538400390397,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Exportaciones,21.459433949674082,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Importaciones,30.816386015270126,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-06-30,2021,2,A-J,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Consumo Final,1067844.7924160357,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Consumo Privado,928074.8866577313,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Consumo Público,139769.90575830432,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Formación Bruta de Capital,385176.60640655376,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Formación Bruta de Capital Fijo,380669.549386463,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Variación de Existencias,4507.057020090753,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Exportaciones,308408.2354787605,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Importaciones,425448.99035837874,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Producto Interno Bruto,1335980.643942971,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Consumo Final,79.929660452597,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Consumo Privado,69.46768958557965,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Consumo Público,10.461970867017342,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Formación Bruta de Capital,28.83100201734628,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Formación Bruta de Capital Fijo,28.493642562287953,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Variación de Existencias,0.3373594550583284,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Exportaciones,23.08478321725786,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Importaciones,31.845445687201128,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-09-30,2021,3,J-S,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Consumo Final,1181996.8932091915,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Consumo Privado,998437.956109094,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Consumo Público,183558.9371000975,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Formación Bruta de Capital,466575.6312225406,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Formación Bruta de Capital Fijo,411870.1568297084,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Variación de Existencias,54705.47439283226,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Exportaciones,328443.622923317,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Importaciones,472776.52146485634,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Producto Interno Bruto,1504239.6258901926,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Consumo Final,78.57769951444396,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Consumo Privado,66.37492716748699,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Consumo Público,12.202772346956978,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Formación Bruta de Capital,31.01737404015177,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Formación Bruta de Capital Fijo,27.380621394411687,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Variación de Existencias,3.6367526457400796,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Exportaciones,21.83452804129845,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Importaciones,31.429601595894162,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2021-12-31,2021,4,O-D,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Consumo Final,1164316.276419869,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Consumo Privado,1023532.4541282929,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Consumo Público,140783.82229157604,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Formación Bruta de Capital,481818.0628315708,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Formación Bruta de Capital Fijo,446736.5540354109,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Variación de Existencias,35081.50879615988,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Exportaciones,345142.13849697326,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Importaciones,471839.21224448446,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Producto Interno Bruto,1519437.2655039285,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,PONDERACION POR COMPONENTE (%),2022.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Consumo Final,76.62812429664334,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Consumo Privado,67.36260044200203,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Consumo Público,9.265523854641305,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Formación Bruta de Capital,31.710296553229107,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Formación Bruta de Capital Fijo,29.401447771339782,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Variación de Existencias,2.308848781889322,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Exportaciones,22.715129234539685,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Importaciones,31.053550084412123,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-03-31,2022,1,E-M,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Consumo Final,1251100.5251991297,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Consumo Privado,1100688.0695682326,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Consumo Público,150412.4556308972,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Formación Bruta de Capital,497268.00440190616,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Formación Bruta de Capital Fijo,491259.9541172427,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Variación de Existencias,6008.050284663448,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Exportaciones,350827.9523809794,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Importaciones,535989.1874445142,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Producto Interno Bruto,1563207.294537501,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Consumo Final,80.03420464905695,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Consumo Privado,70.41216308384028,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Consumo Público,9.622041565216662,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Formación Bruta de Capital,31.81075255595136,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Formación Bruta de Capital Fijo,31.4264113169066,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Variación de Existencias,0.38434123904475653,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Exportaciones,22.44282979019601,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Importaciones,34.2877869952043,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-06-30,2022,2,A-J,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Consumo Final,1225903.4857572047,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Consumo Privado,1068076.8272162757,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Consumo Público,157826.65854092885,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Formación Bruta de Capital,479431.6235138606,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Formación Bruta de Capital Fijo,466543.64245623513,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Variación de Existencias,12887.981057625497,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Exportaciones,346599.75319352007,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Importaciones,521832.78398361726,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Producto Interno Bruto,1530102.078480968,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Consumo Final,80.11906545308656,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Consumo Privado,69.80428575566835,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Consumo Público,10.314779697418205,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Formación Bruta de Capital,31.333309735114117,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Formación Bruta de Capital Fijo,30.49101422824047,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Variación de Existencias,0.8422955068736483,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Exportaciones,22.652067340344523,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Importaciones,34.1044425285452,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-09-30,2022,3,J-S,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Consumo Final,1342944.9357060916,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Consumo Privado,1106304.1282353953,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Consumo Público,236640.80747069625,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Formación Bruta de Capital,460629.60563052475,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Formación Bruta de Capital Fijo,470583.84541122854,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Variación de Existencias,-9954.239780703792,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Exportaciones,335673.6746374553,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Importaciones,494699.6517867249,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Producto Interno Bruto,1644548.5641873465,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Consumo Final,81.66039999978399,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Consumo Privado,67.27099170720297,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Consumo Público,14.389408292581027,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Formación Bruta de Capital,28.00948635154139,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Formación Bruta de Capital Fijo,28.614773419219,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Variación de Existencias,-0.6052870676776079,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Exportaciones,20.41129595971089,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Importaciones,30.081182311036265,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2022-12-31,2022,4,O-D,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Consumo Final,1257398.5028405963,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Consumo Privado,1103340.8044193455,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Consumo Público,154057.69842125085,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Formación Bruta de Capital,498555.54128242994,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Formación Bruta de Capital Fijo,484261.7119379932,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Variación de Existencias,14293.82934443676,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Exportaciones,381260.30486095266,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Importaciones,474753.59187595104,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Producto Interno Bruto,1662460.7571080278,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,PONDERACION POR COMPONENTE (%),2023.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Consumo Final,75.6347779918687,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Consumo Privado,66.36793077381795,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Consumo Público,9.266847218050758,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Formación Bruta de Capital,29.98901111805513,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Formación Bruta de Capital Fijo,29.129211614017397,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Variación de Existencias,0.8597995040377328,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Exportaciones,22.933492007605814,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Importaciones,28.557281117529637,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-03-31,2023,1,E-M,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Consumo Final,1328635.0047277303,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Consumo Privado,1158050.8174339556,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Consumo Público,170584.18729377465,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Formación Bruta de Capital,458648.83808673517,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Formación Bruta de Capital Fijo,505760.8536624251,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Variación de Existencias,-47112.01557568996,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Exportaciones,345395.66462550085,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Importaciones,469280.08889936924,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Producto Interno Bruto,1663399.418540597,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Consumo Final,79.87468252774934,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Consumo Privado,69.61952760870778,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Consumo Público,10.255154919041555,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Formación Bruta de Capital,27.572982951330843,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Formación Bruta de Capital Fijo,30.4052561294124,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Variación de Existencias,-2.8322731780815604,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Exportaciones,20.76444543479147,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Importaciones,28.212110913871648,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-06-30,2023,2,A-J,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Consumo Final,1327644.449693206,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Consumo Privado,1152417.8834522811,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Consumo Público,175226.56624092496,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Formación Bruta de Capital,461210.27065981895,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Formación Bruta de Capital Fijo,486092.6407166528,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Variación de Existencias,-24882.37005683384,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Exportaciones,362816.0703056247,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Importaciones,494132.1581318359,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Producto Interno Bruto,1657538.6325268135,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Consumo Final,80.0973457655883,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Consumo Privado,69.52585362643961,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Consumo Público,10.5714921391487,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Formación Bruta de Capital,27.825008817847753,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Formación Bruta de Capital Fijo,29.326172625951713,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Variación de Existencias,-1.5011638081039613,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Exportaciones,21.88884549571761,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Importaciones,29.81120007915366,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-09-30,2023,3,J-S,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Consumo Final,1456172.0894428259,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Consumo Privado,1193086.4639791346,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Consumo Público,263085.6254636913,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Formación Bruta de Capital,463110.71515161573,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Formación Bruta de Capital Fijo,484486.5784217711,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Variación de Existencias,-21375.863270155387,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Exportaciones,352950.80679067434,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Importaciones,491099.1236772978,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Producto Interno Bruto,1781134.4877078182,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Consumo Final,81.7553137897412,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Consumo Privado,66.98463660172817,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Consumo Público,14.770677188013023,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Formación Bruta de Capital,26.00088417509692,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Formación Bruta de Capital Fijo,27.20101046638358,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Variación de Existencias,-1.2001262912866544,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Exportaciones,19.816067187879487,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Importaciones,27.572265152717595,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2023-12-31,2023,4,O-D,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Consumo Final,1369453.4215370314,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Consumo Privado,1194713.292556982,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Consumo Público,174740.12898004934,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Formación Bruta de Capital,468692.3297926522,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Formación Bruta de Capital Fijo,471727.00660874153,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Variación de Existencias,-3034.6768160893116,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Exportaciones,429141.72312559845,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Importaciones,478182.5442917114,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Producto Interno Bruto,1789104.9301635707,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,PONDERACION POR COMPONENTE (%),2024.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Consumo Final,76.54405275222331,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Consumo Privado,66.77715054129074,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Consumo Público,9.766902210932567,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Formación Bruta de Capital,26.197028575054095,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Formación Bruta de Capital Fijo,26.36664840924749,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Variación de Existencias,-0.16961983419339544,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Exportaciones,23.986392071836935,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Importaciones,26.72747339911433,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-03-31,2024,1,E-M,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Consumo Final,1474831.5297873372,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Consumo Privado,1272935.3921374795,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Consumo Público,201896.1376498576,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Formación Bruta de Capital,494038.5232827635,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Formación Bruta de Capital Fijo,496028.99505782727,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Variación de Existencias,-1990.4717750637792,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Exportaciones,416376.3416951854,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Importaciones,538875.9151377799,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Producto Interno Bruto,1846370.4796275063,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Consumo Final,79.87733480687338,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Consumo Privado,68.94257713621408,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Consumo Público,10.934757670659298,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Formación Bruta de Capital,26.75728022809554,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Formación Bruta de Capital Fijo,26.865084799118865,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Variación de Existencias,-0.10780457102332704,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Exportaciones,22.551072295045937,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Importaciones,29.18568733001487,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-06-30,2024,2,A-J,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Consumo Final,1454849.3362986501,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Consumo Privado,1256767.876383333,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Consumo Público,198081.4599153172,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Formación Bruta de Capital,506539.89622570056,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Formación Bruta de Capital Fijo,486921.15590107994,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Variación de Existencias,19618.740324620623,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Exportaciones,423255.5079931608,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Importaciones,559167.8400097567,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Producto Interno Bruto,1825476.9005077546,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Consumo Final,79.69694581695256,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Consumo Privado,68.84600270941606,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Consumo Público,10.850943107536501,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Formación Bruta de Capital,27.748359679862666,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Formación Bruta de Capital Fijo,26.673641050491696,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Variación de Existencias,1.074718629370971,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Exportaciones,23.186023765922904,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Importaciones,30.63132926273812,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-09-30,2024,3,J-S,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Consumo Final,1567626.1705280873,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Consumo Privado,1290483.097126316,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Consumo Público,277143.07340177137,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Formación Bruta de Capital,529364.5570262789,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Formación Bruta de Capital Fijo,479038.1678097634,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Variación de Existencias,50326.38921651547,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Exportaciones,416710.7041394123,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Importaciones,571765.2509764621,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Producto Interno Bruto,1941936.1807173162,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Consumo Final,80.72490672422789,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Consumo Privado,66.45342467689308,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Consumo Público,14.271482047334827,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Formación Bruta de Capital,27.25962687562375,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Formación Bruta de Capital Fijo,24.668069556890142,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Variación de Existencias,2.5915573187336056,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Exportaciones,21.458516931565015,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Importaciones,29.44305053141666,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2024-12-31,2024,4,O-D,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Consumo Final,1485982.2672393888,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Consumo Privado,1292967.9745455703,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Consumo Público,193014.29269381845,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Formación Bruta de Capital,484800.5101194989,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Formación Bruta de Capital Fijo,483044.95468973665,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Variación de Existencias,1755.5554297622293,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Exportaciones,473833.60515033954,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Importaciones,516746.7306701916,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Producto Interno Bruto,1927869.6518390358,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,PONDERACION POR COMPONENTE (%),2025.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Consumo Final,77.07898020085948,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Consumo Privado,67.06718855770049,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Consumo Público,10.011791643158967,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Formación Bruta de Capital,25.146954808746397,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Formación Bruta de Capital Fijo,25.055892872682023,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Variación de Existencias,0.09106193606437903,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Exportaciones,24.57809347734374,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Importaciones,26.804028486949615,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-03-31,2025,1,E-M,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Consumo Final,1570122.6335780416,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Consumo Privado,1357254.8063756907,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Consumo Público,212867.82720235092,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Formación Bruta de Capital,472757.6763354048,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Formación Bruta de Capital Fijo,495091.8172257167,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Variación de Existencias,-22334.140890311915,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Exportaciones,432454.69136486534,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Importaciones,522089.7602858879,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Producto Interno Bruto,1953245.240992424,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Consumo Final,80.38533004592287,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Consumo Privado,69.48716822092874,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Consumo Público,10.898161824994128,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Formación Bruta de Capital,24.203702966413037,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Formación Bruta de Capital Fijo,25.347140586103034,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Variación de Existencias,-1.143437619689997,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Exportaciones,22.140317164942356,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Importaciones,26.72935017727827,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-06-30,2025,2,A-J,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Consumo Final,1545705.512967167,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Consumo Privado,1330155.239566128,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Consumo Público,215550.27340103892,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Formación Bruta de Capital,491097.1940637032,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Formación Bruta de Capital Fijo,499156.4288651453,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Variación de Existencias,-8059.2348014421295,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Exportaciones,466512.26297233254,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Importaciones,568741.7374599888,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Producto Interno Bruto,1934573.2325432138,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Consumo Final,79.89904372527494,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Consumo Privado,68.75703732432447,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Consumo Público,11.14200640095045,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Formación Bruta de Capital,25.385298721315436,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Formación Bruta de Capital Fijo,25.80188852344184,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Variación de Existencias,-0.41658980212640284,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Exportaciones,24.114479365511006,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Importaciones,29.398821812101367,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-09-30,2025,3,J-S,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Consumo Final,1677634.9667031688,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Consumo Privado,1377772.2131199047,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Consumo Público,299862.75358326413,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Formación Bruta de Capital,502337.34458580706,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Formación Bruta de Capital Fijo,486807.3119201644,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Variación de Existencias,15530.032665642677,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Exportaciones,494174.3266790013,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Importaciones,592283.4747274194,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Producto Interno Bruto,2081863.1632405578,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Consumo Final,80.5833445888835,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Consumo Privado,66.179768077327,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Consumo Público,14.403576511556498,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Formación Bruta de Capital,24.1292200878316,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Formación Bruta de Capital Fijo,23.38325210396713,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Variación de Existencias,0.7459679838644704,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Exportaciones,23.73711852943237,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Importaciones,28.44968320614747,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd
+2025-12-31,2025,4,O-D,Producto Interno Bruto,100.0,PIB$_Trim,pib_gasto_2018.xlsx,millones_rd

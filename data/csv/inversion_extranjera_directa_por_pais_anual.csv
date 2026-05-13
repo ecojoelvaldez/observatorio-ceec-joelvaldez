@@ -1,0 +1,367 @@
+﻿anio,pais_origen,valor,unidad,fuente_archivo
+1993,España,68.6,millones_usd,inversion_ext_pais.xls
+1994,España,16.2,millones_usd,inversion_ext_pais.xls
+1995,España,60.8,millones_usd,inversion_ext_pais.xls
+1996,España,61.2,millones_usd,inversion_ext_pais.xls
+1997,España,52.4,millones_usd,inversion_ext_pais.xls
+1998,España,205.6,millones_usd,inversion_ext_pais.xls
+1999,España,457.1,millones_usd,inversion_ext_pais.xls
+2000,España,190.1,millones_usd,inversion_ext_pais.xls
+2001,España,193.38761187,millones_usd,inversion_ext_pais.xls
+2002,España,34.99269286,millones_usd,inversion_ext_pais.xls
+2003,España,-13.3,millones_usd,inversion_ext_pais.xls
+2004,España,126.6,millones_usd,inversion_ext_pais.xls
+2005,España,214.5,millones_usd,inversion_ext_pais.xls
+2006,España,307.6,millones_usd,inversion_ext_pais.xls
+2007,España,604.6,millones_usd,inversion_ext_pais.xls
+2008,España,180.9,millones_usd,inversion_ext_pais.xls
+2009,España,150.8,millones_usd,inversion_ext_pais.xls
+2010,España,299.3,millones_usd,inversion_ext_pais.xls
+2011,España,192.4,millones_usd,inversion_ext_pais.xls
+2012,España,120.6,millones_usd,inversion_ext_pais.xls
+2013,España,17.716137035840507,millones_usd,inversion_ext_pais.xls
+1993,Estados Unidos,23.4,millones_usd,inversion_ext_pais.xls
+1994,Estados Unidos,45.0,millones_usd,inversion_ext_pais.xls
+1995,Estados Unidos,64.3,millones_usd,inversion_ext_pais.xls
+1996,Estados Unidos,44.9,millones_usd,inversion_ext_pais.xls
+1997,Estados Unidos,157.8,millones_usd,inversion_ext_pais.xls
+1998,Estados Unidos,180.4,millones_usd,inversion_ext_pais.xls
+1999,Estados Unidos,181.2,millones_usd,inversion_ext_pais.xls
+2000,Estados Unidos,201.6,millones_usd,inversion_ext_pais.xls
+2001,Estados Unidos,433.46073601,millones_usd,inversion_ext_pais.xls
+2002,Estados Unidos,382.10828971000007,millones_usd,inversion_ext_pais.xls
+2003,Estados Unidos,461.6,millones_usd,inversion_ext_pais.xls
+2004,Estados Unidos,176.6,millones_usd,inversion_ext_pais.xls
+2005,Estados Unidos,457.1,millones_usd,inversion_ext_pais.xls
+2006,Estados Unidos,662.1,millones_usd,inversion_ext_pais.xls
+2007,Estados Unidos,535.5,millones_usd,inversion_ext_pais.xls
+2008,Estados Unidos,359.9,millones_usd,inversion_ext_pais.xls
+2009,Estados Unidos,455.3,millones_usd,inversion_ext_pais.xls
+2010,Estados Unidos,893.8,millones_usd,inversion_ext_pais.xls
+2011,Estados Unidos,459.1,millones_usd,inversion_ext_pais.xls
+2012,Estados Unidos,579.7,millones_usd,inversion_ext_pais.xls
+2013,Estados Unidos,289.26570306831655,millones_usd,inversion_ext_pais.xls
+1993,Canadá,71.2,millones_usd,inversion_ext_pais.xls
+1994,Canadá,107.0,millones_usd,inversion_ext_pais.xls
+1995,Canadá,239.7,millones_usd,inversion_ext_pais.xls
+1996,Canadá,-23.3,millones_usd,inversion_ext_pais.xls
+1997,Canadá,199.0,millones_usd,inversion_ext_pais.xls
+1998,Canadá,127.8,millones_usd,inversion_ext_pais.xls
+1999,Canadá,94.8,millones_usd,inversion_ext_pais.xls
+2000,Canadá,133.2,millones_usd,inversion_ext_pais.xls
+2001,Canadá,10.173837,millones_usd,inversion_ext_pais.xls
+2002,Canadá,18.37551,millones_usd,inversion_ext_pais.xls
+2003,Canadá,-22.7,millones_usd,inversion_ext_pais.xls
+2004,Canadá,274.2,millones_usd,inversion_ext_pais.xls
+2005,Canadá,110.7,millones_usd,inversion_ext_pais.xls
+2006,Canadá,142.4,millones_usd,inversion_ext_pais.xls
+2007,Canadá,113.2,millones_usd,inversion_ext_pais.xls
+2008,Canadá,383.3,millones_usd,inversion_ext_pais.xls
+2009,Canadá,773.3,millones_usd,inversion_ext_pais.xls
+2010,Canadá,663.2,millones_usd,inversion_ext_pais.xls
+2011,Canadá,1067.2,millones_usd,inversion_ext_pais.xls
+2012,Canadá,850.3,millones_usd,inversion_ext_pais.xls
+2013,Canadá,156.26830164648504,millones_usd,inversion_ext_pais.xls
+1993,Gran Caimán,1.1,millones_usd,inversion_ext_pais.xls
+1994,Gran Caimán,4.7,millones_usd,inversion_ext_pais.xls
+1995,Gran Caimán,4.2,millones_usd,inversion_ext_pais.xls
+1996,Gran Caimán,1.6,millones_usd,inversion_ext_pais.xls
+1997,Gran Caimán,45.6,millones_usd,inversion_ext_pais.xls
+1998,Gran Caimán,45.5,millones_usd,inversion_ext_pais.xls
+1999,Gran Caimán,179.2,millones_usd,inversion_ext_pais.xls
+2000,Gran Caimán,37.0,millones_usd,inversion_ext_pais.xls
+2001,Gran Caimán,0.1,millones_usd,inversion_ext_pais.xls
+2002,Gran Caimán,-13.679594,millones_usd,inversion_ext_pais.xls
+2003,Gran Caimán,-9.1,millones_usd,inversion_ext_pais.xls
+2004,Gran Caimán,-62.8,millones_usd,inversion_ext_pais.xls
+2005,Gran Caimán,-58.7,millones_usd,inversion_ext_pais.xls
+2006,Gran Caimán,-40.8,millones_usd,inversion_ext_pais.xls
+2007,Gran Caimán,4.4,millones_usd,inversion_ext_pais.xls
+2008,Gran Caimán,1.0,millones_usd,inversion_ext_pais.xls
+2009,Gran Caimán,-44.4,millones_usd,inversion_ext_pais.xls
+2010,Gran Caimán,35.3,millones_usd,inversion_ext_pais.xls
+2011,Gran Caimán,65.5,millones_usd,inversion_ext_pais.xls
+2012,Gran Caimán,83.9,millones_usd,inversion_ext_pais.xls
+2013,Gran Caimán,9.343655110600002,millones_usd,inversion_ext_pais.xls
+1993,Reino Unido,5.4,millones_usd,inversion_ext_pais.xls
+1994,Reino Unido,7.3,millones_usd,inversion_ext_pais.xls
+1995,Reino Unido,5.9,millones_usd,inversion_ext_pais.xls
+1996,Reino Unido,5.2,millones_usd,inversion_ext_pais.xls
+1997,Reino Unido,41.4,millones_usd,inversion_ext_pais.xls
+1998,Reino Unido,22.9,millones_usd,inversion_ext_pais.xls
+1999,Reino Unido,75.7,millones_usd,inversion_ext_pais.xls
+2000,Reino Unido,17.4,millones_usd,inversion_ext_pais.xls
+2001,Reino Unido,1.9583196,millones_usd,inversion_ext_pais.xls
+2002,Reino Unido,-0.16238884,millones_usd,inversion_ext_pais.xls
+2003,Reino Unido,-25.2,millones_usd,inversion_ext_pais.xls
+2004,Reino Unido,21.4,millones_usd,inversion_ext_pais.xls
+2005,Reino Unido,94.8,millones_usd,inversion_ext_pais.xls
+2006,Reino Unido,55.4,millones_usd,inversion_ext_pais.xls
+2007,Reino Unido,60.1,millones_usd,inversion_ext_pais.xls
+2008,Reino Unido,590.8,millones_usd,inversion_ext_pais.xls
+2009,Reino Unido,-2.9,millones_usd,inversion_ext_pais.xls
+2010,Reino Unido,-6.1,millones_usd,inversion_ext_pais.xls
+2011,Reino Unido,-5.0,millones_usd,inversion_ext_pais.xls
+2012,Reino Unido,25.1,millones_usd,inversion_ext_pais.xls
+2013,Reino Unido,24.20413,millones_usd,inversion_ext_pais.xls
+1993,Suiza,14.5,millones_usd,inversion_ext_pais.xls
+1994,Suiza,20.4,millones_usd,inversion_ext_pais.xls
+1995,Suiza,14.8,millones_usd,inversion_ext_pais.xls
+1996,Suiza,12.9,millones_usd,inversion_ext_pais.xls
+1997,Suiza,14.7,millones_usd,inversion_ext_pais.xls
+1998,Suiza,7.7,millones_usd,inversion_ext_pais.xls
+1999,Suiza,16.5,millones_usd,inversion_ext_pais.xls
+2000,Suiza,14.0,millones_usd,inversion_ext_pais.xls
+2001,Suiza,2.015913,millones_usd,inversion_ext_pais.xls
+2002,Suiza,4.0,millones_usd,inversion_ext_pais.xls
+2003,Suiza,5.8,millones_usd,inversion_ext_pais.xls
+2004,Suiza,18.2,millones_usd,inversion_ext_pais.xls
+2005,Suiza,48.1,millones_usd,inversion_ext_pais.xls
+2006,Suiza,-359.1,millones_usd,inversion_ext_pais.xls
+2007,Suiza,-14.1,millones_usd,inversion_ext_pais.xls
+2008,Suiza,30.9,millones_usd,inversion_ext_pais.xls
+2009,Suiza,3.1,millones_usd,inversion_ext_pais.xls
+2010,Suiza,-0.7,millones_usd,inversion_ext_pais.xls
+2011,Suiza,5.8,millones_usd,inversion_ext_pais.xls
+2012,Suiza,0.5,millones_usd,inversion_ext_pais.xls
+2013,Suiza,1.4331482900745838,millones_usd,inversion_ext_pais.xls
+1993,Holanda,0.0,millones_usd,inversion_ext_pais.xls
+1994,Holanda,0.0,millones_usd,inversion_ext_pais.xls
+1999,Holanda,61.5,millones_usd,inversion_ext_pais.xls
+2000,Holanda,36.0,millones_usd,inversion_ext_pais.xls
+2001,Holanda,245.19353278999998,millones_usd,inversion_ext_pais.xls
+2002,Holanda,119.40982155,millones_usd,inversion_ext_pais.xls
+2003,Holanda,25.1,millones_usd,inversion_ext_pais.xls
+2004,Holanda,4.5,millones_usd,inversion_ext_pais.xls
+2005,Holanda,41.3,millones_usd,inversion_ext_pais.xls
+2006,Holanda,41.1,millones_usd,inversion_ext_pais.xls
+2007,Holanda,53.6,millones_usd,inversion_ext_pais.xls
+2008,Holanda,-72.9,millones_usd,inversion_ext_pais.xls
+2009,Holanda,96.0,millones_usd,inversion_ext_pais.xls
+2010,Holanda,62.1,millones_usd,inversion_ext_pais.xls
+2011,Holanda,62.9,millones_usd,inversion_ext_pais.xls
+2012,Holanda,8.6,millones_usd,inversion_ext_pais.xls
+2013,Holanda,82.6910536438526,millones_usd,inversion_ext_pais.xls
+1993,Italia,4.5,millones_usd,inversion_ext_pais.xls
+1997,Italia,0.3,millones_usd,inversion_ext_pais.xls
+1998,Italia,33.1,millones_usd,inversion_ext_pais.xls
+1999,Italia,13.9,millones_usd,inversion_ext_pais.xls
+2000,Italia,15.5,millones_usd,inversion_ext_pais.xls
+2001,Italia,0.73500263,millones_usd,inversion_ext_pais.xls
+2002,Italia,4.96265862,millones_usd,inversion_ext_pais.xls
+2003,Italia,5.1,millones_usd,inversion_ext_pais.xls
+2004,Italia,39.1,millones_usd,inversion_ext_pais.xls
+2005,Italia,0.1,millones_usd,inversion_ext_pais.xls
+2006,Italia,2.8,millones_usd,inversion_ext_pais.xls
+2007,Italia,32.0,millones_usd,inversion_ext_pais.xls
+2008,Italia,10.7,millones_usd,inversion_ext_pais.xls
+2009,Italia,15.8,millones_usd,inversion_ext_pais.xls
+2010,Italia,7.6,millones_usd,inversion_ext_pais.xls
+2011,Italia,0.9999999999999999,millones_usd,inversion_ext_pais.xls
+2012,Italia,1.4,millones_usd,inversion_ext_pais.xls
+2013,Italia,-0.7612857474385221,millones_usd,inversion_ext_pais.xls
+1993,Francia,0.0,millones_usd,inversion_ext_pais.xls
+1994,Francia,0.0,millones_usd,inversion_ext_pais.xls
+1999,Francia,34.4,millones_usd,inversion_ext_pais.xls
+2000,Francia,97.5,millones_usd,inversion_ext_pais.xls
+2001,Francia,60.6,millones_usd,inversion_ext_pais.xls
+2002,Francia,109.6,millones_usd,inversion_ext_pais.xls
+2003,Francia,33.0,millones_usd,inversion_ext_pais.xls
+2004,Francia,85.3,millones_usd,inversion_ext_pais.xls
+2005,Francia,80.9,millones_usd,inversion_ext_pais.xls
+2006,Francia,35.8,millones_usd,inversion_ext_pais.xls
+2007,Francia,110.2,millones_usd,inversion_ext_pais.xls
+2008,Francia,87.8,millones_usd,inversion_ext_pais.xls
+2009,Francia,69.6,millones_usd,inversion_ext_pais.xls
+2010,Francia,26.3,millones_usd,inversion_ext_pais.xls
+2011,Francia,23.4,millones_usd,inversion_ext_pais.xls
+2012,Francia,-1.4,millones_usd,inversion_ext_pais.xls
+2013,Francia,48.10492,millones_usd,inversion_ext_pais.xls
+1993,México,0.0,millones_usd,inversion_ext_pais.xls
+1994,México,0.0,millones_usd,inversion_ext_pais.xls
+2001,México,37.8,millones_usd,inversion_ext_pais.xls
+2002,México,6.2,millones_usd,inversion_ext_pais.xls
+2003,México,18.8,millones_usd,inversion_ext_pais.xls
+2004,México,52.7,millones_usd,inversion_ext_pais.xls
+2005,México,-1.3,millones_usd,inversion_ext_pais.xls
+2006,México,83.5,millones_usd,inversion_ext_pais.xls
+2007,México,-123.8,millones_usd,inversion_ext_pais.xls
+2008,México,1055.2,millones_usd,inversion_ext_pais.xls
+2009,México,273.2,millones_usd,inversion_ext_pais.xls
+2010,México,369.2,millones_usd,inversion_ext_pais.xls
+2011,México,72.9,millones_usd,inversion_ext_pais.xls
+2012,México,-361.7,millones_usd,inversion_ext_pais.xls
+2013,México,5.5023189277876945,millones_usd,inversion_ext_pais.xls
+1993,Dinamarca *,0.0,millones_usd,inversion_ext_pais.xls
+1994,Dinamarca *,0.0,millones_usd,inversion_ext_pais.xls
+2006,Dinamarca *,11.5,millones_usd,inversion_ext_pais.xls
+2007,Dinamarca *,2.4,millones_usd,inversion_ext_pais.xls
+2008,Dinamarca *,8.1,millones_usd,inversion_ext_pais.xls
+2009,Dinamarca *,8.3,millones_usd,inversion_ext_pais.xls
+2010,Dinamarca *,8.6,millones_usd,inversion_ext_pais.xls
+2011,Dinamarca *,10.6,millones_usd,inversion_ext_pais.xls
+2012,Dinamarca *,3.6,millones_usd,inversion_ext_pais.xls
+2013,Dinamarca *,0.5156849299999997,millones_usd,inversion_ext_pais.xls
+1993,Alemania *,0.0,millones_usd,inversion_ext_pais.xls
+1994,Alemania *,0.0,millones_usd,inversion_ext_pais.xls
+2000,Alemania *,29.3,millones_usd,inversion_ext_pais.xls
+2001,Alemania *,3.4,millones_usd,inversion_ext_pais.xls
+2002,Alemania *,36.3,millones_usd,inversion_ext_pais.xls
+2003,Alemania *,2.3,millones_usd,inversion_ext_pais.xls
+2004,Alemania *,4.1,millones_usd,inversion_ext_pais.xls
+2005,Alemania *,5.1,millones_usd,inversion_ext_pais.xls
+2006,Alemania *,10.1,millones_usd,inversion_ext_pais.xls
+2007,Alemania *,4.0,millones_usd,inversion_ext_pais.xls
+2008,Alemania *,6.6,millones_usd,inversion_ext_pais.xls
+2009,Alemania *,3.5,millones_usd,inversion_ext_pais.xls
+2010,Alemania *,4.7,millones_usd,inversion_ext_pais.xls
+2011,Alemania *,1.799999999999999,millones_usd,inversion_ext_pais.xls
+2012,Alemania *,2.6,millones_usd,inversion_ext_pais.xls
+2013,Alemania *,1.3201010149456176,millones_usd,inversion_ext_pais.xls
+1993,Panamá *,0.0,millones_usd,inversion_ext_pais.xls
+1994,Panamá *,0.0,millones_usd,inversion_ext_pais.xls
+2000,Panamá *,16.8,millones_usd,inversion_ext_pais.xls
+2001,Panamá *,7.1,millones_usd,inversion_ext_pais.xls
+2002,Panamá *,8.7,millones_usd,inversion_ext_pais.xls
+2003,Panamá *,31.4,millones_usd,inversion_ext_pais.xls
+2004,Panamá *,17.5,millones_usd,inversion_ext_pais.xls
+2005,Panamá *,15.5,millones_usd,inversion_ext_pais.xls
+2006,Panamá *,9.9,millones_usd,inversion_ext_pais.xls
+2007,Panamá *,39.9,millones_usd,inversion_ext_pais.xls
+2008,Panamá *,33.5,millones_usd,inversion_ext_pais.xls
+2009,Panamá *,162.4,millones_usd,inversion_ext_pais.xls
+2010,Panamá *,38.0,millones_usd,inversion_ext_pais.xls
+2011,Panamá *,65.0,millones_usd,inversion_ext_pais.xls
+2012,Panamá *,16.9,millones_usd,inversion_ext_pais.xls
+2013,Panamá *,0.8328960237264941,millones_usd,inversion_ext_pais.xls
+1993,Islas Vírgenes BR*,0.0,millones_usd,inversion_ext_pais.xls
+1994,Islas Vírgenes BR*,0.0,millones_usd,inversion_ext_pais.xls
+2000,Islas Vírgenes BR*,7.2,millones_usd,inversion_ext_pais.xls
+2001,Islas Vírgenes BR*,20.2,millones_usd,inversion_ext_pais.xls
+2002,Islas Vírgenes BR*,23.5,millones_usd,inversion_ext_pais.xls
+2003,Islas Vírgenes BR*,19.5,millones_usd,inversion_ext_pais.xls
+2004,Islas Vírgenes BR*,48.7,millones_usd,inversion_ext_pais.xls
+2005,Islas Vírgenes BR*,-4.4,millones_usd,inversion_ext_pais.xls
+2006,Islas Vírgenes BR*,42.7,millones_usd,inversion_ext_pais.xls
+2007,Islas Vírgenes BR*,21.4,millones_usd,inversion_ext_pais.xls
+2008,Islas Vírgenes BR*,59.3,millones_usd,inversion_ext_pais.xls
+2009,Islas Vírgenes BR*,23.1,millones_usd,inversion_ext_pais.xls
+2010,Islas Vírgenes BR*,30.2,millones_usd,inversion_ext_pais.xls
+2011,Islas Vírgenes BR*,50.1,millones_usd,inversion_ext_pais.xls
+2012,Islas Vírgenes BR*,31.1,millones_usd,inversion_ext_pais.xls
+2013,Islas Vírgenes BR*,47.234394790834,millones_usd,inversion_ext_pais.xls
+1993,Venezuela *,0.0,millones_usd,inversion_ext_pais.xls
+1994,Venezuela *,0.0,millones_usd,inversion_ext_pais.xls
+2001,Venezuela *,7.5,millones_usd,inversion_ext_pais.xls
+2002,Venezuela *,0.1,millones_usd,inversion_ext_pais.xls
+2003,Venezuela *,-5.5,millones_usd,inversion_ext_pais.xls
+2004,Venezuela *,4.4,millones_usd,inversion_ext_pais.xls
+2005,Venezuela *,6.2,millones_usd,inversion_ext_pais.xls
+2006,Venezuela *,16.5,millones_usd,inversion_ext_pais.xls
+2007,Venezuela *,52.5,millones_usd,inversion_ext_pais.xls
+2008,Venezuela *,10.9,millones_usd,inversion_ext_pais.xls
+2009,Venezuela *,31.1,millones_usd,inversion_ext_pais.xls
+2010,Venezuela *,140.4,millones_usd,inversion_ext_pais.xls
+2011,Venezuela *,1.7,millones_usd,inversion_ext_pais.xls
+2012,Venezuela *,55.5,millones_usd,inversion_ext_pais.xls
+2013,Venezuela *,53.43997183003801,millones_usd,inversion_ext_pais.xls
+1993,Colombia *,0.0,millones_usd,inversion_ext_pais.xls
+1994,Colombia *,0.0,millones_usd,inversion_ext_pais.xls
+1999,Colombia *,0.8,millones_usd,inversion_ext_pais.xls
+2001,Colombia *,1.0,millones_usd,inversion_ext_pais.xls
+2002,Colombia *,22.6,millones_usd,inversion_ext_pais.xls
+2003,Colombia *,17.7,millones_usd,inversion_ext_pais.xls
+2004,Colombia *,34.8,millones_usd,inversion_ext_pais.xls
+2005,Colombia *,10.7,millones_usd,inversion_ext_pais.xls
+2006,Colombia *,3.3,millones_usd,inversion_ext_pais.xls
+2007,Colombia *,3.6,millones_usd,inversion_ext_pais.xls
+2008,Colombia *,-0.3,millones_usd,inversion_ext_pais.xls
+2009,Colombia *,3.7,millones_usd,inversion_ext_pais.xls
+2010,Colombia *,4.9,millones_usd,inversion_ext_pais.xls
+2011,Colombia *,46.3,millones_usd,inversion_ext_pais.xls
+2012,Colombia *,0.3,millones_usd,inversion_ext_pais.xls
+2013,Colombia *,36.56299475837263,millones_usd,inversion_ext_pais.xls
+1993,Brasil*,0.0,millones_usd,inversion_ext_pais.xls
+1994,Brasil*,0.0,millones_usd,inversion_ext_pais.xls
+2001,Brasil*,0.02,millones_usd,inversion_ext_pais.xls
+2002,Brasil*,0.031,millones_usd,inversion_ext_pais.xls
+2003,Brasil*,1.6,millones_usd,inversion_ext_pais.xls
+2004,Brasil*,39.6,millones_usd,inversion_ext_pais.xls
+2005,Brasil*,12.4,millones_usd,inversion_ext_pais.xls
+2006,Brasil*,0.0,millones_usd,inversion_ext_pais.xls
+2007,Brasil*,59.9,millones_usd,inversion_ext_pais.xls
+2008,Brasil*,53.5,millones_usd,inversion_ext_pais.xls
+2009,Brasil*,85.2,millones_usd,inversion_ext_pais.xls
+2010,Brasil*,15.5,millones_usd,inversion_ext_pais.xls
+2011,Brasil*,2.1,millones_usd,inversion_ext_pais.xls
+2012,Brasil*,1029.0,millones_usd,inversion_ext_pais.xls
+2013,Brasil*,30.615240198636055,millones_usd,inversion_ext_pais.xls
+2001,El Salvador*,0.0,millones_usd,inversion_ext_pais.xls
+2002,El Salvador*,0.0,millones_usd,inversion_ext_pais.xls
+2003,El Salvador*,0.0,millones_usd,inversion_ext_pais.xls
+2004,El Salvador*,0.0,millones_usd,inversion_ext_pais.xls
+2005,El Salvador*,2.3,millones_usd,inversion_ext_pais.xls
+2006,El Salvador*,0.0,millones_usd,inversion_ext_pais.xls
+2007,El Salvador*,1.7,millones_usd,inversion_ext_pais.xls
+2008,El Salvador*,0.0,millones_usd,inversion_ext_pais.xls
+2009,El Salvador*,0.0,millones_usd,inversion_ext_pais.xls
+2010,El Salvador*,0.0,millones_usd,inversion_ext_pais.xls
+2011,El Salvador*,0.0,millones_usd,inversion_ext_pais.xls
+2012,El Salvador*,146.3,millones_usd,inversion_ext_pais.xls
+2013,El Salvador*,80.0,millones_usd,inversion_ext_pais.xls
+2000,Australia*,0.0,millones_usd,inversion_ext_pais.xls
+2001,Australia*,0.0,millones_usd,inversion_ext_pais.xls
+2002,Australia*,0.0,millones_usd,inversion_ext_pais.xls
+2003,Australia*,0.0,millones_usd,inversion_ext_pais.xls
+2004,Australia*,0.0,millones_usd,inversion_ext_pais.xls
+2005,Australia*,0.0,millones_usd,inversion_ext_pais.xls
+2006,Australia*,0.0,millones_usd,inversion_ext_pais.xls
+2007,Australia*,0.5,millones_usd,inversion_ext_pais.xls
+2008,Australia*,5.6,millones_usd,inversion_ext_pais.xls
+2009,Australia*,30.8,millones_usd,inversion_ext_pais.xls
+2010,Australia*,28.5,millones_usd,inversion_ext_pais.xls
+2011,Australia*,30.7,millones_usd,inversion_ext_pais.xls
+2012,Australia*,-22.2,millones_usd,inversion_ext_pais.xls
+2013,Australia*,-3.580748,millones_usd,inversion_ext_pais.xls
+1993,Resto,0.6,millones_usd,inversion_ext_pais.xls
+1994,Resto,6.2,millones_usd,inversion_ext_pais.xls
+1995,Resto,24.6,millones_usd,inversion_ext_pais.xls
+1996,Resto,-6.0,millones_usd,inversion_ext_pais.xls
+1997,Resto,-90.6,millones_usd,inversion_ext_pais.xls
+1998,Resto,76.8,millones_usd,inversion_ext_pais.xls
+1999,Resto,222.7,millones_usd,inversion_ext_pais.xls
+2000,Resto,157.29999999999995,millones_usd,inversion_ext_pais.xls
+2001,Resto,54.493916,millones_usd,inversion_ext_pais.xls
+2002,Resto,159.8,millones_usd,inversion_ext_pais.xls
+2003,Resto,66.9,millones_usd,inversion_ext_pais.xls
+2004,Resto,24.1,millones_usd,inversion_ext_pais.xls
+2005,Resto,87.4,millones_usd,inversion_ext_pais.xls
+2006,Resto,59.800000000000004,millones_usd,inversion_ext_pais.xls
+2007,Resto,105.8,millones_usd,inversion_ext_pais.xls
+2008,Resto,65.2,millones_usd,inversion_ext_pais.xls
+2009,Resto,27.499999999999996,millones_usd,inversion_ext_pais.xls
+2010,Resto,-724.5,millones_usd,inversion_ext_pais.xls
+2011,Resto,121.49999999999999,millones_usd,inversion_ext_pais.xls
+2012,Resto,572.3,millones_usd,inversion_ext_pais.xls
+2013,Resto,1109.791382,millones_usd,inversion_ext_pais.xls
+1993,Total Flujos IED,189.29999999999998,millones_usd,inversion_ext_pais.xls
+1994,Total Flujos IED,206.79999999999998,millones_usd,inversion_ext_pais.xls
+1995,Total Flujos IED,414.29999999999995,millones_usd,inversion_ext_pais.xls
+1996,Total Flujos IED,96.5,millones_usd,inversion_ext_pais.xls
+1997,Total Flujos IED,420.6,millones_usd,inversion_ext_pais.xls
+1998,Total Flujos IED,699.8,millones_usd,inversion_ext_pais.xls
+1999,Total Flujos IED,1337.8000000000002,millones_usd,inversion_ext_pais.xls
+2000,Total Flujos IED,952.8999999999999,millones_usd,inversion_ext_pais.xls
+2001,Total Flujos IED,1079.1388689,millones_usd,inversion_ext_pais.xls
+2002,Total Flujos IED,916.8379899000001,millones_usd,inversion_ext_pais.xls
+2003,Total Flujos IED,613.0000000000001,millones_usd,inversion_ext_pais.xls
+2004,Total Flujos IED,909.0000000000001,millones_usd,inversion_ext_pais.xls
+2005,Total Flujos IED,1122.7000000000003,millones_usd,inversion_ext_pais.xls
+2006,Total Flujos IED,1084.6000000000001,millones_usd,inversion_ext_pais.xls
+2007,Total Flujos IED,1667.4000000000003,millones_usd,inversion_ext_pais.xls
+2008,Total Flujos IED,2869.9999999999995,millones_usd,inversion_ext_pais.xls
+2009,Total Flujos IED,2165.3999999999996,millones_usd,inversion_ext_pais.xls
+2010,Total Flujos IED,1896.2999999999993,millones_usd,inversion_ext_pais.xls
+2011,Total Flujos IED,2275.0,millones_usd,inversion_ext_pais.xls
+2012,Total Flujos IED,3142.3999999999996,millones_usd,inversion_ext_pais.xls
+2013,Total Flujos IED,1990.4999995220714,millones_usd,inversion_ext_pais.xls

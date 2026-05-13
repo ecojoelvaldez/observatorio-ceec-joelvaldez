@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Serie · Observatorio CEEC</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=IBM+Plex+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- TOPBAR -->
+<div class="topbar">
+  <div class="topbar-inner">
+    <span class="topbar-status">DATOS ACTUALIZADOS · MAYO 2026</span>
+    <span>OBS-CEEC · BUILD 0.1 · MVP</span>
+  </div>
+</div>
+
+<!-- NAV -->
+<nav>
+  <div class="nav-inner">
+    <a href="index.html" class="brand" style="text-decoration:none;color:inherit;">
+      <div class="brand-mark">Ω</div>
+      <div class="brand-text">
+        <span class="brand-title">Observatorio CEEC</span>
+        <span class="brand-sub">Comité de Estudiantes de Economía · PUCMM</span>
+      </div>
+    </a>
+    <ul class="nav-links">
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="index.html#repositorio" class="active">Repositorio</a></li>
+      <li><a href="investigacion.html">Investigación</a></li>
+      <li><a href="hoja-ruta.html">Hoja de Ruta</a></li>
+      <li><a href="sobre.html">Sobre</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main class="serie-page" id="serie-page">
+  <div class="breadcrumb">
+    <a href="index.html">Inicio</a> / <a href="index.html#repositorio">Repositorio</a> / <span id="bc-current">Serie</span>
+  </div>
+  <div id="serie-content">
+    <div class="pending-block">Cargando serie...</div>
+  </div>
+</main>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <h3>Observatorio CEEC</h3>
+      <p>Infraestructura de datos económicos curados por estudiantes de Economía de PUCMM.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Fuentes</h4>
+      <ul>
+        <li><a href="https://www.bancentral.gov.do" target="_blank" rel="noopener">Banco Central de la RD</a></li>
+        <li><a href="https://www.sb.gob.do" target="_blank" rel="noopener">Superintendencia de Bancos</a></li>
+        <li><a href="https://fred.stlouisfed.org" target="_blank" rel="noopener">Federal Reserve · FRED</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Comité</h4>
+      <ul>
+        <li><a href="sobre.html">Sobre el CEEC</a></li>
+        <li><a href="investigacion.html">Investigación</a></li>
+        <li><a href="hoja-ruta.html">Hoja de Ruta</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 · Comité de Estudiantes de Economía · PUCMM</span>
+    <span>Open Source · MIT License</span>
+  </div>
+</footer>
+
+<script src="serie.js"></script>
+</body>
+</html>

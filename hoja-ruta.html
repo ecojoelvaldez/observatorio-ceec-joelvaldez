@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hoja de Ruta · Observatorio CEEC</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=IBM+Plex+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-inner">
+    <span class="topbar-status">DATOS ACTUALIZADOS · MAYO 2026</span>
+    <span>OBS-CEEC · BUILD 0.1 · MVP</span>
+  </div>
+</div>
+
+<nav>
+  <div class="nav-inner">
+    <a href="index.html" class="brand" style="text-decoration:none;color:inherit;">
+      <div class="brand-mark">Ω</div>
+      <div class="brand-text">
+        <span class="brand-title">Observatorio CEEC</span>
+        <span class="brand-sub">Comité de Estudiantes de Economía · PUCMM</span>
+      </div>
+    </a>
+    <ul class="nav-links">
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="index.html#repositorio">Repositorio</a></li>
+      <li><a href="investigacion.html">Investigación</a></li>
+      <li><a href="hoja-ruta.html" class="active">Hoja de Ruta</a></li>
+      <li><a href="sobre.html">Sobre</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main class="page">
+  <div class="page-eyebrow">§ 03 · Plan de desarrollo</div>
+  <h1>Una hoja de ruta pública y verificable.</h1>
+  <p class="page-lede">El Observatorio CEEC nace como un MVP. Esta página documenta exactamente lo que existe hoy, lo que viene en las próximas semanas y meses, y los criterios para considerar cumplido cada hito. Sin proyecciones vagas, sin promesas sin entregable.</p>
+
+  <h2>Estado actual · Build 0.1</h2>
+
+  <div class="roadmap-phase done">
+    <div class="phase-label">✓ COMPLETADO · MAYO 2026</div>
+    <div class="phase-title">MVP funcional · Lanzamiento público</div>
+    <ul>
+      <li>Infraestructura web desplegada con dominio público</li>
+      <li>Serie IMAE completa (2007–2025) con tres versiones: original, desestacionalizada, tendencia-ciclo</li>
+      <li>Catálogo inicial con 10 series identificadas y documentadas</li>
+      <li>Sistema de descarga CSV/JSON por serie</li>
+      <li>Búsqueda y filtros por categoría funcionales</li>
+      <li>Vista de detalle con gráfico interactivo, selector de subseries y rangos temporales</li>
+    </ul>
+  </div>
+
+  <h2>Próximos 30 días · Build 0.2</h2>
+
+  <div class="roadmap-phase">
+    <div class="phase-label">JUNIO 2026</div>
+    <div class="phase-title">Cobertura BCRD completa</div>
+    <ul>
+      <li>Tipo de cambio USD/DOP diario · serie histórica desde 2010</li>
+      <li>Tipo de cambio EUR/DOP diario · serie histórica desde 2010</li>
+      <li>Tasa de Política Monetaria mensual · decisiones del Consejo Monetario</li>
+      <li>Conexión activa con API FRED para series internacionales (Fed Funds, US 10Y, WTI, DXY)</li>
+      <li>Pipeline automatizado de actualización mensual</li>
+    </ul>
+  </div>
+
+  <h2>Próximos 60 días · Build 0.3</h2>
+
+  <div class="roadmap-phase">
+    <div class="phase-label">JULIO 2026</div>
+    <div class="phase-title">Sistema financiero dominicano</div>
+    <ul>
+      <li>Indicadores financieros de bancos múltiples (SIB) · ROA, ROE, morosidad, solvencia, eficiencia</li>
+      <li>Indicadores de asociaciones de ahorros y préstamos (AAyP)</li>
+      <li>Comparativos por entidad y promedio del sistema</li>
+      <li>Sección de Investigación con mapeo verificado de profesores PUCMM y sus áreas</li>
+    </ul>
+  </div>
+
+  <h2>Próximos 90 días · Build 0.4</h2>
+
+  <div class="roadmap-phase">
+    <div class="phase-label">AGOSTO 2026</div>
+    <div class="phase-title">Working papers y briefings</div>
+    <ul>
+      <li>Apertura de la serie de Working Papers Estudiantiles del CEEC</li>
+      <li>Publicación de tres briefings analíticos mensuales sobre coyuntura económica RD</li>
+      <li>Calendario EconoMeets · charlas, talleres y eventos con instituciones (BCRD, MEPyD, SIB, think tanks)</li>
+      <li>Newsletter de coyuntura económica para estudiantes y egresados</li>
+    </ul>
+  </div>
+
+  <h2>Visión 12 meses</h2>
+
+  <div class="roadmap-phase">
+    <div class="phase-label">MAYO 2027</div>
+    <div class="phase-title">El Observatorio como referencia académica nacional</div>
+    <ul>
+      <li>Cobertura de 30+ series económicas dominicanas con actualización automática</li>
+      <li>Catálogo de 15+ working papers estudiantiles publicados</li>
+      <li>Convenios formales de colaboración con BCRD, MEPyD y SIB para acceso a datos</li>
+      <li>Red de colaboración con comités de economía de INTEC, UASD y O&M</li>
+      <li>Reconocimiento como infraestructura analítica de referencia para investigación económica estudiantil en RD</li>
+    </ul>
+  </div>
+
+  <h2>Principios del proyecto</h2>
+  <p><strong>Datos abiertos, código abierto.</strong> Todo el código del Observatorio CEEC está disponible públicamente bajo licencia MIT. Los datasets procesados son de descarga libre. No hay paywalls, no hay registros obligatorios.</p>
+  <p><strong>Curación con criterio.</strong> No agregamos series por agregar. Cada dataset disponible aquí está documentado metodológicamente, tiene fuente verificable, y aporta valor analítico al estudio de la economía dominicana.</p>
+  <p><strong>Continuidad institucional.</strong> El Observatorio pertenece al CEEC, no a una directiva específica. Su infraestructura, documentación y datos son patrimonio del comité y sobreviven a cualquier cambio de gestión.</p>
+  <p><strong>Compliance estricto con licencias de datos.</strong> No redistribuimos datos de fuentes con licencias restrictivas (Bloomberg, Refinitiv, etc.). Trabajamos exclusivamente con datos públicos o con permisos explícitos de redistribución.</p>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <h3>Observatorio CEEC</h3>
+      <p>Infraestructura de datos económicos curados por estudiantes de Economía de PUCMM.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Fuentes</h4>
+      <ul>
+        <li><a href="https://www.bancentral.gov.do" target="_blank" rel="noopener">Banco Central de la RD</a></li>
+        <li><a href="https://www.sb.gob.do" target="_blank" rel="noopener">Superintendencia de Bancos</a></li>
+        <li><a href="https://fred.stlouisfed.org" target="_blank" rel="noopener">Federal Reserve · FRED</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Comité</h4>
+      <ul>
+        <li><a href="sobre.html">Sobre el CEEC</a></li>
+        <li><a href="investigacion.html">Investigación</a></li>
+        <li><a href="hoja-ruta.html">Hoja de Ruta</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 · Comité de Estudiantes de Economía · PUCMM</span>
+    <span>Open Source · MIT License</span>
+  </div>
+</footer>
+
+</body>
+</html>

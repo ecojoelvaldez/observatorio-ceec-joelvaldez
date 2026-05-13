@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Observatorio CEEC — Comité de Estudiantes de Economía PUCMM</title>
+<meta name="description" content="Repositorio público de datos económicos curados por estudiantes de Economía de PUCMM. BCRD, SIB, FRED — limpios y listos para análisis.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=IBM+Plex+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- TOPBAR -->
+<div class="topbar">
+  <div class="topbar-inner">
+    <span class="topbar-status">DATOS ACTUALIZADOS · MAYO 2026</span>
+    <span>OBS-CEEC · BUILD 0.3 · MVP</span>
+  </div>
+</div>
+
+<!-- NAV -->
+<nav>
+  <div class="nav-inner">
+    <a href="index.html" class="brand" style="text-decoration:none;color:inherit;">
+      <div class="brand-mark">Ω</div>
+      <div class="brand-text">
+        <span class="brand-title">Observatorio CEEC</span>
+        <span class="brand-sub">Comité de Estudiantes de Economía · PUCMM</span>
+      </div>
+    </a>
+    <ul class="nav-links">
+      <li><a href="index.html" class="active">Inicio</a></li>
+      <li><a href="#repositorio">Repositorio</a></li>
+      <li><a href="investigacion.html">Investigación</a></li>
+      <li><a href="hoja-ruta.html">Hoja de Ruta</a></li>
+      <li><a href="sobre.html">Sobre</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div>
+    <div class="hero-eyebrow">Infraestructura analítica estudiantil</div>
+    <h1>Datos para pensar la economía <em>dominicana</em> en serio.</h1>
+    <p class="hero-lede">El Observatorio CEEC es el primer repositorio público de datos económicos curados por estudiantes de PUCMM. Series del Banco Central, la Superintendencia de Bancos y referencias internacionales — limpias, documentadas, listas para análisis.</p>
+  </div>
+  <div class="hero-stats">
+    <div class="stat">
+      <span class="stat-num" id="stat-series">—<em>SERIES</em></span>
+      <span class="stat-label">Indicadores macroeconómicos</span>
+    </div>
+    <div class="stat">
+      <span class="stat-num" id="stat-obs">—<em>OBS</em></span>
+      <span class="stat-label">Observaciones disponibles</span>
+    </div>
+    <div class="stat">
+      <span class="stat-num" id="stat-fuentes">—<em>FUENTES</em></span>
+      <span class="stat-label">BCRD · SIB · FRED</span>
+    </div>
+  </div>
+</section>
+
+<!-- REPO DIVIDER -->
+<div class="section-divider" id="repositorio">
+  <div class="section-divider-left">
+    <span class="section-num">§ 01</span>
+    <h2>Repositorio de Datos</h2>
+  </div>
+  <span class="section-divider-right">Series públicas · Descarga libre · CSV / JSON</span>
+</div>
+
+<!-- REPO -->
+<section class="repo">
+  <div class="repo-controls">
+    <div class="repo-search"><input type="text" id="search-input" placeholder="Buscar serie, fuente o categoría..."></div>
+    <button class="filter-pill active" data-filter="all">Todos</button>
+    <button class="filter-pill" data-filter="Sector Real">Sector Real</button>
+    <button class="filter-pill" data-filter="Monetario">Monetario</button>
+    <button class="filter-pill" data-filter="Financiero">Financiero</button>
+    <button class="filter-pill" data-filter="Internacional">Internacional</button>
+  </div>
+
+  <div class="repo-grid" id="repo-grid">
+    <!-- Las cards se generan dinámicamente vía JS -->
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <h3>Observatorio CEEC</h3>
+      <p>Infraestructura de datos económicos curados por estudiantes de Economía de PUCMM. Una propuesta del Comité de Estudiantes de Economía para elevar el rigor analítico de la carrera.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Fuentes</h4>
+      <ul>
+        <li><a href="https://www.bancentral.gov.do" target="_blank" rel="noopener">Banco Central de la RD</a></li>
+        <li><a href="https://www.sb.gob.do" target="_blank" rel="noopener">Superintendencia de Bancos</a></li>
+        <li><a href="https://fred.stlouisfed.org" target="_blank" rel="noopener">Federal Reserve · FRED</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Comité</h4>
+      <ul>
+        <li><a href="sobre.html">Sobre el CEEC</a></li>
+        <li><a href="investigacion.html">Investigación</a></li>
+        <li><a href="hoja-ruta.html">Hoja de Ruta</a></li>
+        <li><a href="mailto:ceec.pucmm@gmail.com">Contacto</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 · Comité de Estudiantes de Economía · PUCMM</span>
+    <span>Open Source · MIT License</span>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
